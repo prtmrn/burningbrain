@@ -1,0 +1,380 @@
+{
+  "decision": "D-34",
+  "prompts": [
+    {
+      "id": "ent-oscar-film",
+      "theme": "entertainment",
+      "text": "Nomme un film ayant remporté l'Oscar du meilleur film"
+    },
+    {
+      "id": "ent-acteur-uk",
+      "theme": "entertainment",
+      "text": "Nomme un acteur ou une actrice britannique"
+    },
+    {
+      "id": "ent-film-horreur",
+      "theme": "entertainment",
+      "text": "Nomme un film d'horreur"
+    },
+    {
+      "id": "ent-comedie-fr",
+      "theme": "entertainment",
+      "text": "Nomme une comédie française"
+    },
+    {
+      "id": "ent-pop-uk",
+      "theme": "entertainment",
+      "text": "Nomme un groupe ou un artiste pop britannique"
+    },
+    {
+      "id": "ent-metal",
+      "theme": "entertainment",
+      "text": "Nomme un groupe de heavy metal"
+    },
+    {
+      "id": "ent-comedie-musicale",
+      "theme": "entertainment",
+      "text": "Nomme une comédie musicale"
+    },
+    {
+      "id": "ent-humoriste-fr",
+      "theme": "entertainment",
+      "text": "Nomme un humoriste français"
+    },
+    {
+      "id": "ent-serie-fr",
+      "theme": "entertainment",
+      "text": "Nomme une série télévisée française"
+    },
+    {
+      "id": "ent-anime-film",
+      "theme": "entertainment",
+      "text": "Nomme un film d'animation japonais"
+    },
+    {
+      "id": "ent-jeu-role",
+      "theme": "entertainment",
+      "text": "Nomme un jeu vidéo de rôle"
+    },
+    {
+      "id": "ent-chef-orchestre",
+      "theme": "entertainment",
+      "text": "Nomme un chef d'orchestre"
+    },
+    {
+      "id": "ent-jazz",
+      "theme": "entertainment",
+      "text": "Nomme un chanteur, une chanteuse ou un musicien de jazz"
+    },
+    {
+      "id": "ent-film-sf",
+      "theme": "entertainment",
+      "text": "Nomme un film de science-fiction"
+    },
+    {
+      "id": "ent-western",
+      "theme": "entertainment",
+      "text": "Nomme un western"
+    },
+    {
+      "id": "his-wwii-evenement",
+      "theme": "history",
+      "text": "Nomme un événement de la Seconde Guerre mondiale"
+    },
+    {
+      "id": "his-antiquite-peuple",
+      "theme": "history",
+      "text": "Nomme une civilisation ou un peuple de l'Antiquité"
+    },
+    {
+      "id": "his-pharaon",
+      "theme": "history",
+      "text": "Nomme un pharaon égyptien"
+    },
+    {
+      "id": "his-napoleon-general",
+      "theme": "history",
+      "text": "Nomme un général ou un maréchal de Napoléon Ier"
+    },
+    {
+      "id": "his-espagne-portugal",
+      "theme": "history",
+      "text": "Nomme un roi ou une reine d'Espagne ou du Portugal"
+    },
+    {
+      "id": "his-guerre-xxe",
+      "theme": "history",
+      "text": "Nomme une guerre ou un conflit du XXe siècle"
+    },
+    {
+      "id": "his-traite",
+      "theme": "history",
+      "text": "Nomme un traité célèbre de l'histoire"
+    },
+    {
+      "id": "his-explorateur-xviii-xix",
+      "theme": "history",
+      "text": "Nomme un explorateur du XVIIIe ou du XIXe siècle"
+    },
+    {
+      "id": "his-dictateur",
+      "theme": "history",
+      "text": "Nomme un dictateur du XXe siècle"
+    },
+    {
+      "id": "his-pm-britannique",
+      "theme": "history",
+      "text": "Nomme un Premier ministre britannique"
+    },
+    {
+      "id": "his-dynastie",
+      "theme": "history",
+      "text": "Nomme une dynastie royale ou impériale européenne"
+    },
+    {
+      "id": "his-revolution",
+      "theme": "history",
+      "text": "Nomme une révolution ou un soulèvement célèbre"
+    },
+    {
+      "id": "his-revolution-industrielle",
+      "theme": "history",
+      "text": "Nomme une invention ou une découverte de la révolution industrielle"
+    },
+    {
+      "id": "his-general-ww1",
+      "theme": "history",
+      "text": "Nomme un général ou un maréchal de la Première Guerre mondiale"
+    },
+    {
+      "id": "his-aviateur",
+      "theme": "history",
+      "text": "Nomme un aviateur ou un pionnier de l'aviation"
+    },
+    {
+      "id": "art-poete-xixe",
+      "theme": "arts-literature",
+      "text": "Nomme un poète du XIXe siècle"
+    },
+    {
+      "id": "art-ecrivain-uk",
+      "theme": "arts-literature",
+      "text": "Nomme un écrivain britannique"
+    },
+    {
+      "id": "art-ecrivain-us",
+      "theme": "arts-literature",
+      "text": "Nomme un écrivain américain"
+    },
+    {
+      "id": "art-auteur-sf",
+      "theme": "arts-literature",
+      "text": "Nomme un auteur de science-fiction"
+    },
+    {
+      "id": "art-renaissance-peintre",
+      "theme": "arts-literature",
+      "text": "Nomme un peintre de la Renaissance"
+    },
+    {
+      "id": "art-sculpteur",
+      "theme": "arts-literature",
+      "text": "Nomme un sculpteur célèbre"
+    },
+    {
+      "id": "art-photographe",
+      "theme": "arts-literature",
+      "text": "Nomme un photographe célèbre"
+    },
+    {
+      "id": "art-architecte",
+      "theme": "arts-literature",
+      "text": "Nomme un architecte célèbre"
+    },
+    {
+      "id": "art-mouvement",
+      "theme": "arts-literature",
+      "text": "Nomme un mouvement artistique"
+    },
+    {
+      "id": "art-dramaturge",
+      "theme": "arts-literature",
+      "text": "Nomme un dramaturge"
+    },
+    {
+      "id": "art-livre-enfants",
+      "theme": "arts-literature",
+      "text": "Nomme un livre ou une série de livres pour enfants"
+    },
+    {
+      "id": "art-prix-litteraire",
+      "theme": "arts-literature",
+      "text": "Nomme un prix littéraire"
+    },
+    {
+      "id": "art-poete-anglophone",
+      "theme": "arts-literature",
+      "text": "Nomme un poète de langue anglaise"
+    },
+    {
+      "id": "art-musee",
+      "theme": "arts-literature",
+      "text": "Nomme un musée célèbre dans le monde"
+    },
+    {
+      "id": "art-peintre-flamand",
+      "theme": "arts-literature",
+      "text": "Nomme un peintre néerlandais ou flamand"
+    },
+    {
+      "id": "sci-nobel-physique",
+      "theme": "science-nature",
+      "text": "Nomme un lauréat du prix Nobel de physique"
+    },
+    {
+      "id": "sci-nobel-medecine",
+      "theme": "science-nature",
+      "text": "Nomme un lauréat du prix Nobel de médecine ou de physiologie"
+    },
+    {
+      "id": "sci-corps-organe",
+      "theme": "science-nature",
+      "text": "Nomme un organe ou une glande du corps humain"
+    },
+    {
+      "id": "sci-maladie-rare",
+      "theme": "science-nature",
+      "text": "Nomme une maladie génétique ou une maladie rare"
+    },
+    {
+      "id": "sci-animal-amerique-sud",
+      "theme": "science-nature",
+      "text": "Nomme un animal d'Amérique du Sud"
+    },
+    {
+      "id": "sci-animal-asie",
+      "theme": "science-nature",
+      "text": "Nomme un animal d'Asie"
+    },
+    {
+      "id": "sci-animal-oceanie",
+      "theme": "science-nature",
+      "text": "Nomme un animal d'Australie ou d'Océanie"
+    },
+    {
+      "id": "sci-arbre-fruitier",
+      "theme": "science-nature",
+      "text": "Nomme un arbre fruitier ou un arbuste à fruits"
+    },
+    {
+      "id": "sci-plante-medicinale",
+      "theme": "science-nature",
+      "text": "Nomme une plante médicinale"
+    },
+    {
+      "id": "sci-mineral",
+      "theme": "science-nature",
+      "text": "Nomme un minéral ou une roche"
+    },
+    {
+      "id": "sci-meteo",
+      "theme": "science-nature",
+      "text": "Nomme un phénomène météorologique ou climatique"
+    },
+    {
+      "id": "sci-physicien",
+      "theme": "science-nature",
+      "text": "Nomme un physicien célèbre"
+    },
+    {
+      "id": "sci-chimiste",
+      "theme": "science-nature",
+      "text": "Nomme un chimiste célèbre"
+    },
+    {
+      "id": "sci-inventeur",
+      "theme": "science-nature",
+      "text": "Nomme un inventeur célèbre"
+    },
+    {
+      "id": "sci-asteroide-comete",
+      "theme": "science-nature",
+      "text": "Nomme un astéroïde, une planète naine ou une comète connue"
+    },
+    {
+      "id": "spo-nba-joueur",
+      "theme": "sports-leisure",
+      "text": "Nomme un joueur de basket de la NBA"
+    },
+    {
+      "id": "spo-foot-sudam",
+      "theme": "sports-leisure",
+      "text": "Nomme un footballeur brésilien ou argentin"
+    },
+    {
+      "id": "spo-rugby",
+      "theme": "sports-leisure",
+      "text": "Nomme un joueur de rugby célèbre"
+    },
+    {
+      "id": "spo-athlete-olympique",
+      "theme": "sports-leisure",
+      "text": "Nomme un athlète champion olympique"
+    },
+    {
+      "id": "spo-nageur",
+      "theme": "sports-leisure",
+      "text": "Nomme un nageur ou une nageuse célèbre"
+    },
+    {
+      "id": "spo-skieur",
+      "theme": "sports-leisure",
+      "text": "Nomme un skieur ou une skieuse alpin célèbre"
+    },
+    {
+      "id": "spo-golfeur",
+      "theme": "sports-leisure",
+      "text": "Nomme un golfeur ou une golfeuse célèbre"
+    },
+    {
+      "id": "spo-club-foot-benelux-portugal",
+      "theme": "sports-leisure",
+      "text": "Nomme un club de football portugais, néerlandais ou belge"
+    },
+    {
+      "id": "spo-jeu-traditionnel",
+      "theme": "sports-leisure",
+      "text": "Nomme un jeu de cartes ou un jeu de plateau traditionnel"
+    },
+    {
+      "id": "spo-loisir-creatif",
+      "theme": "sports-leisure",
+      "text": "Nomme un passe-temps ou un loisir créatif"
+    },
+    {
+      "id": "spo-sport-glisse",
+      "theme": "sports-leisure",
+      "text": "Nomme un sport de glisse"
+    },
+    {
+      "id": "spo-competition-internationale",
+      "theme": "sports-leisure",
+      "text": "Nomme une compétition sportive internationale"
+    },
+    {
+      "id": "spo-stade",
+      "theme": "sports-leisure",
+      "text": "Nomme un stade célèbre"
+    },
+    {
+      "id": "spo-entraineur-foot",
+      "theme": "sports-leisure",
+      "text": "Nomme un entraîneur de football célèbre"
+    },
+    {
+      "id": "spo-gymnaste",
+      "theme": "sports-leisure",
+      "text": "Nomme un gymnaste célèbre"
+    }
+  ]
+}

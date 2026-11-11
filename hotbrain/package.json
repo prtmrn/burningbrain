@@ -1,0 +1,25 @@
+{
+  "name": "hotbrain-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "description": "HotBrain — monorepo (npm workspaces ; pnpm absent de la machine de build, voir spec v2 §A.2)",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspace @hotbrain/engine",
+    "dev": "npm run dev --workspace @hotbrain/web",
+    "test": "npm run test --workspace @hotbrain/engine && npm run test --workspace @hotbrain/web",
+    "typecheck": "npm run typecheck --workspace @hotbrain/engine && npm run typecheck --workspace @hotbrain/web",
+    "lint:agnostic": "node packages/engine/scripts/lint-agnostic.mjs",
+    "validate:content": "vitest run content/validate.test.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vitest": "^3.2.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

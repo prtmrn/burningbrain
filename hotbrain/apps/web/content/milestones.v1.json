@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "unit": "°C",
+  "max": 700,
+  "milestones": [
+    { "temperature": 0, "label": "l'eau gèle" },
+    { "temperature": 29.8, "label": "le gallium fond dans la main" },
+    { "temperature": 37, "label": "corps humain" },
+    { "temperature": 56.7, "label": "record de chaleur sur Terre" },
+    { "temperature": 100, "label": "l'eau bout" },
+    { "temperature": 180, "label": "l'huile de friture grésille" },
+    { "temperature": 233, "label": "le papier brûle" },
+    { "temperature": 450, "label": "four à pizza napolitaine" },
+    { "temperature": 700, "label": "la lave" }
+  ]
+}

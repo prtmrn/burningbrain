@@ -1,0 +1,21 @@
+{
+  "name": "@hotbrain/engine",
+  "version": "0.1.0",
+  "description": "Moteur de domaine thème-agnostique (types, reducers hot/brain, validation, calendrier, sélection, scoring, percentile, streak, recalcul, state-core). Zéro dépendance runtime.",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./dist": "./dist/index.js"
+  },
+  "types": "./src/index.ts",
+  "files": [
+    "src",
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run",
+    "lint:agnostic": "node scripts/lint-agnostic.mjs"
+  }
+}

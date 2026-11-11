@@ -1,0 +1,6149 @@
+{
+  "theme": "general",
+  "contentVersion": 1,
+  "prompts": [
+    {
+      "id": "gen-piece-maison",
+      "theme": "general",
+      "text": "Nomme une pièce d'un logement"
+    },
+    {
+      "id": "gen-meuble",
+      "theme": "general",
+      "text": "Nomme un meuble"
+    },
+    {
+      "id": "gen-ustensile-cuisine",
+      "theme": "general",
+      "text": "Nomme un ustensile de cuisine"
+    },
+    {
+      "id": "gen-electromenager",
+      "theme": "general",
+      "text": "Nomme un appareil électroménager"
+    },
+    {
+      "id": "gen-salle-de-bain",
+      "theme": "general",
+      "text": "Nomme un objet de la salle de bain"
+    },
+    {
+      "id": "gen-pique-nique",
+      "theme": "general",
+      "text": "Nomme quelque chose qu'on apporte à un pique-nique"
+    },
+    {
+      "id": "gen-chambre-enfant",
+      "theme": "general",
+      "text": "Nomme quelque chose qu'on trouve dans une chambre d'enfant"
+    },
+    {
+      "id": "gen-portefeuille",
+      "theme": "general",
+      "text": "Nomme quelque chose qu'on garde dans son portefeuille"
+    },
+    {
+      "id": "gen-jardin",
+      "theme": "general",
+      "text": "Nomme quelque chose qu'on trouve dans un jardin"
+    },
+    {
+      "id": "gen-trousse",
+      "theme": "general",
+      "text": "Nomme quelque chose qu'on trouve dans une trousse"
+    },
+    {
+      "id": "gen-fruit",
+      "theme": "general",
+      "text": "Nomme un fruit"
+    },
+    {
+      "id": "gen-legume",
+      "theme": "general",
+      "text": "Nomme un légume"
+    },
+    {
+      "id": "gen-boisson",
+      "theme": "general",
+      "text": "Nomme une boisson"
+    },
+    {
+      "id": "gen-dessert",
+      "theme": "general",
+      "text": "Nomme un dessert"
+    },
+    {
+      "id": "gen-fromage",
+      "theme": "general",
+      "text": "Nomme un fromage"
+    },
+    {
+      "id": "gen-viennoiserie",
+      "theme": "general",
+      "text": "Nomme une viennoiserie"
+    },
+    {
+      "id": "gen-epice",
+      "theme": "general",
+      "text": "Nomme une épice"
+    },
+    {
+      "id": "gen-sandwich",
+      "theme": "general",
+      "text": "Nomme un sandwich"
+    },
+    {
+      "id": "gen-bonbon",
+      "theme": "general",
+      "text": "Nomme un bonbon"
+    },
+    {
+      "id": "gen-fastfood",
+      "theme": "general",
+      "text": "Nomme une chaîne de restauration rapide présente en France"
+    },
+    {
+      "id": "gen-marque-voiture",
+      "theme": "general",
+      "text": "Nomme une marque de voiture"
+    },
+    {
+      "id": "gen-reseau-social",
+      "theme": "general",
+      "text": "Nomme un réseau social"
+    },
+    {
+      "id": "gen-supermarche",
+      "theme": "general",
+      "text": "Nomme une enseigne de supermarché présente en France"
+    },
+    {
+      "id": "gen-marque-smartphone",
+      "theme": "general",
+      "text": "Nomme une marque de smartphone"
+    },
+    {
+      "id": "gen-fete",
+      "theme": "general",
+      "text": "Nomme une fête célébrée en France"
+    },
+    {
+      "id": "gen-prenom-garcon",
+      "theme": "general",
+      "text": "Nomme un prénom de garçon"
+    },
+    {
+      "id": "gen-prenom-fille",
+      "theme": "general",
+      "text": "Nomme un prénom de fille"
+    },
+    {
+      "id": "gen-metier",
+      "theme": "general",
+      "text": "Nomme un métier"
+    },
+    {
+      "id": "gen-matiere-scolaire",
+      "theme": "general",
+      "text": "Nomme une matière scolaire"
+    },
+    {
+      "id": "gen-cadeau-anniversaire",
+      "theme": "general",
+      "text": "Nomme un cadeau d'anniversaire classique"
+    },
+    {
+      "id": "gen-cadeau-invite",
+      "theme": "general",
+      "text": "Nomme quelque chose qu'on apporte quand on est invité à dîner"
+    },
+    {
+      "id": "gen-moyen-paiement",
+      "theme": "general",
+      "text": "Nomme un moyen de paiement"
+    },
+    {
+      "id": "gen-vetement",
+      "theme": "general",
+      "text": "Nomme un vêtement"
+    },
+    {
+      "id": "gen-chaussure",
+      "theme": "general",
+      "text": "Nomme un type de chaussure"
+    },
+    {
+      "id": "gen-coupe-cheveux",
+      "theme": "general",
+      "text": "Nomme une coupe de cheveux"
+    },
+    {
+      "id": "gen-transport",
+      "theme": "general",
+      "text": "Nomme un moyen de transport"
+    },
+    {
+      "id": "gen-panneau",
+      "theme": "general",
+      "text": "Nomme un panneau de signalisation routière"
+    },
+    {
+      "id": "gen-engin-chantier",
+      "theme": "general",
+      "text": "Nomme un engin de chantier"
+    },
+    {
+      "id": "gen-camping",
+      "theme": "general",
+      "text": "Nomme un objet qu'on emporte en camping"
+    },
+    {
+      "id": "gen-couleur",
+      "theme": "general",
+      "text": "Nomme une couleur"
+    },
+    {
+      "id": "gen-animal-compagnie",
+      "theme": "general",
+      "text": "Nomme un animal de compagnie"
+    },
+    {
+      "id": "gen-emoji",
+      "theme": "general",
+      "text": "Nomme un émoji souvent envoyé"
+    }
+  ],
+  "sheets": {
+    "gen-piece-maison": {
+      "promptId": "gen-piece-maison",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "salon",
+          "tier": "t1",
+          "aliases": [
+            "séjour",
+            "living"
+          ]
+        },
+        {
+          "answer": "cuisine",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "chambre",
+          "tier": "t1",
+          "aliases": [
+            "chambre à coucher"
+          ]
+        },
+        {
+          "answer": "salle de bain",
+          "tier": "t1",
+          "aliases": [
+            "salle de bains"
+          ]
+        },
+        {
+          "answer": "toilettes",
+          "tier": "t1",
+          "aliases": [
+            "wc",
+            "les waters"
+          ]
+        },
+        {
+          "answer": "entrée",
+          "tier": "t3",
+          "aliases": [
+            "hall"
+          ]
+        },
+        {
+          "answer": "couloir",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bureau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "salle à manger",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "dressing",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "buanderie",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "La pièce « maline » préférée de tout le monde."
+        },
+        {
+          "answer": "cave",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "grenier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cellier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "véranda",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "débarras",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lingerie",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "vestibule",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "arrière-cuisine",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "boudoir",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "La pièce où l'on va bouder. C'est littéralement l'étymologie."
+        }
+      ]
+    },
+    "gen-meuble": {
+      "promptId": "gen-meuble",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "lit",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "table",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "chaise",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "armoire",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "canapé",
+          "tier": "t1",
+          "aliases": [
+            "sofa",
+            "divan"
+          ]
+        },
+        {
+          "answer": "commode",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "étagère",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pouf",
+          "tier": "t2",
+          "aliases": [
+            "poof"
+          ],
+          "quip": "Tout le monde finit par sortir le pouf."
+        },
+        {
+          "answer": "bureau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bibliothèque",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fauteuil",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tabouret",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "buffet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "meuble TV",
+          "tier": "t3",
+          "aliases": [
+            "meuble télé"
+          ]
+        },
+        {
+          "answer": "vaisselier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chevet",
+          "tier": "t4",
+          "aliases": [
+            "table de chevet"
+          ]
+        },
+        {
+          "answer": "banquette",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "méridienne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "secrétaire",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "chiffonnier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "semainier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "console",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "guéridon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "duchesse brisée",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Une méridienne en deux morceaux. Si, ça existe."
+        }
+      ]
+    },
+    "gen-ustensile-cuisine": {
+      "promptId": "gen-ustensile-cuisine",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "couteau",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "fourchette",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "cuillère",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "spatule",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "louche",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "poêle",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "casserole",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "presse-ail",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "L'objet « malin » par excellence."
+        },
+        {
+          "answer": "fouet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "râpe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "passoire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "planche à découper",
+          "tier": "t3",
+          "aliases": [
+            "planche"
+          ]
+        },
+        {
+          "answer": "éplucheur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "rouleau à pâtisserie",
+          "tier": "t3",
+          "aliases": [
+            "rouleau"
+          ]
+        },
+        {
+          "answer": "tire-bouchon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "écumoire",
+          "tier": "t4",
+          "aliases": [
+            "écumoir"
+          ]
+        },
+        {
+          "answer": "balance de cuisine",
+          "tier": "t4",
+          "aliases": [
+            "balance"
+          ]
+        },
+        {
+          "answer": "entonnoir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "moulin à légumes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pilon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chinois",
+          "tier": "t5",
+          "aliases": [
+            "chinois étamine"
+          ]
+        },
+        {
+          "answer": "économe",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "mandoline",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "mezzaluna",
+          "tier": "t5",
+          "aliases": [
+            "hachoir berceuse",
+            "demi-lune"
+          ]
+        },
+        {
+          "answer": "araignée",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Une écumoire en fil de fer. La cuisine est un safari."
+        }
+      ]
+    },
+    "gen-electromenager": {
+      "promptId": "gen-electromenager",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "réfrigérateur",
+          "tier": "t1",
+          "aliases": [
+            "frigo"
+          ]
+        },
+        {
+          "answer": "machine à laver",
+          "tier": "t1",
+          "aliases": [
+            "lave-linge"
+          ]
+        },
+        {
+          "answer": "four",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "micro-ondes",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "lave-vaisselle",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "aspirateur",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "grille-pain",
+          "tier": "t1",
+          "aliases": [
+            "toaster"
+          ]
+        },
+        {
+          "answer": "cafetière",
+          "tier": "t1",
+          "aliases": [
+            "machine à café"
+          ]
+        },
+        {
+          "answer": "bouilloire",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "friteuse à air chaud",
+          "tier": "t2",
+          "aliases": [
+            "airfryer",
+            "air fryer"
+          ],
+          "quip": "L'achat « malin » de ces dernières années."
+        },
+        {
+          "answer": "mixeur",
+          "tier": "t3",
+          "aliases": [
+            "blender"
+          ]
+        },
+        {
+          "answer": "sèche-linge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "congélateur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fer à repasser",
+          "tier": "t3",
+          "aliases": [
+            "fer"
+          ]
+        },
+        {
+          "answer": "sèche-cheveux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "robot pâtissier",
+          "tier": "t4",
+          "aliases": [
+            "robot de cuisine"
+          ]
+        },
+        {
+          "answer": "yaourtière",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gaufrier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "appareil à raclette",
+          "tier": "t4",
+          "aliases": [
+            "raclette"
+          ]
+        },
+        {
+          "answer": "machine à pain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "déshydrateur",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "machine sous vide",
+          "tier": "t5",
+          "aliases": [
+            "soudeuse sous vide"
+          ]
+        },
+        {
+          "answer": "extracteur de jus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "fontaine à chocolat",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "épluche-pommes",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "La machine à éplucher à manivelle de grand-mère."
+        }
+      ]
+    },
+    "gen-salle-de-bain": {
+      "promptId": "gen-salle-de-bain",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "serviette",
+          "tier": "t1",
+          "aliases": [
+            "serviette de bain"
+          ]
+        },
+        {
+          "answer": "savon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "miroir",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "brosse à dents",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "dentifrice",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "shampoing",
+          "tier": "t1",
+          "aliases": [
+            "shampooing"
+          ]
+        },
+        {
+          "answer": "brosse",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "peigne",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "gant de toilette",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le deuxième objet qu'on cite. Toujours."
+        },
+        {
+          "answer": "douche",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "baignoire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lavabo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "rasoir",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "gel douche",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "éponge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "rideau de douche",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "coton-tige",
+          "tier": "t4",
+          "aliases": [
+            "cotons-tiges"
+          ]
+        },
+        {
+          "answer": "pince à épiler",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "coupe-ongles",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pèse-personne",
+          "tier": "t4",
+          "aliases": [
+            "balance"
+          ]
+        },
+        {
+          "answer": "mouche-bébé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "brosse à ongles",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pierre ponce",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "canard",
+          "tier": "t6",
+          "aliases": [
+            "canard wc"
+          ],
+          "quip": "La brosse des toilettes, pour les intimes."
+        }
+      ]
+    },
+    "gen-pique-nique": {
+      "promptId": "gen-pique-nique",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "sandwich",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "chips",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "baguette",
+          "tier": "t1",
+          "aliases": [
+            "pain"
+          ]
+        },
+        {
+          "answer": "fromage",
+          "tier": "t1",
+          "aliases": [
+            "du fromage"
+          ]
+        },
+        {
+          "answer": "charcuterie",
+          "tier": "t1",
+          "aliases": [
+            "jambon"
+          ]
+        },
+        {
+          "answer": "boissons",
+          "tier": "t1",
+          "aliases": [
+            "eau",
+            "bouteille d'eau"
+          ]
+        },
+        {
+          "answer": "couverture",
+          "tier": "t1",
+          "aliases": [
+            "nappe"
+          ]
+        },
+        {
+          "answer": "nappe à carreaux",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le choix déco de tout le monde. On vous voit."
+        },
+        {
+          "answer": "assiettes",
+          "tier": "t3",
+          "aliases": [
+            "assiettes en carton"
+          ]
+        },
+        {
+          "answer": "gobelets",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "serviettes en papier",
+          "tier": "t3",
+          "aliases": [
+            "serviettes"
+          ]
+        },
+        {
+          "answer": "couteau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "glacière",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "taboulé",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "œufs durs",
+          "tier": "t3",
+          "aliases": [
+            "oeufs durs"
+          ]
+        },
+        {
+          "answer": "quiche",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "thermos",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cornichons",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "salade de fruits",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "panier en osier",
+          "tier": "t5",
+          "aliases": [
+            "panier de pique-nique"
+          ]
+        },
+        {
+          "answer": "parasol",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "couteau suisse",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cloche alimentaire",
+          "tier": "t6",
+          "aliases": [
+            "cloche à fromage"
+          ],
+          "quip": "Le petit parapluie qui sauve le fromage des mouches."
+        }
+      ]
+    },
+    "gen-chambre-enfant": {
+      "promptId": "gen-chambre-enfant",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "lit",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "peluche",
+          "tier": "t1",
+          "aliases": [
+            "nounours",
+            "doudou"
+          ]
+        },
+        {
+          "answer": "jouets",
+          "tier": "t1",
+          "aliases": [
+            "jouet"
+          ]
+        },
+        {
+          "answer": "poster",
+          "tier": "t1",
+          "aliases": [
+            "posters"
+          ]
+        },
+        {
+          "answer": "livres",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "tipi",
+          "tier": "t2",
+          "aliases": [
+            "teepee"
+          ],
+          "quip": "Le tipi en tissu. On l'a vu partout."
+        },
+        {
+          "answer": "bureau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "veilleuse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "caisse à jouets",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tapis de jeu",
+          "tier": "t3",
+          "aliases": [
+            "tapis"
+          ]
+        },
+        {
+          "answer": "poupée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "petites voitures",
+          "tier": "t3",
+          "aliases": [
+            "voitures"
+          ]
+        },
+        {
+          "answer": "Lego",
+          "tier": "t3",
+          "aliases": [
+            "légos"
+          ]
+        },
+        {
+          "answer": "lit superposé",
+          "tier": "t4",
+          "aliases": [
+            "lits superposés"
+          ]
+        },
+        {
+          "answer": "tableau",
+          "tier": "t4",
+          "aliases": [
+            "tableau noir"
+          ]
+        },
+        {
+          "answer": "cabane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mobile",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cheval à bascule",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "malle à déguisements",
+          "tier": "t6",
+          "aliases": [
+            "malle à costumes"
+          ],
+          "quip": "Le coffre où l'on devient pirate, princesse ou ninja."
+        }
+      ]
+    },
+    "gen-portefeuille": {
+      "promptId": "gen-portefeuille",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "carte bancaire",
+          "tier": "t1",
+          "aliases": [
+            "cb",
+            "carte bleue"
+          ]
+        },
+        {
+          "answer": "espèces",
+          "tier": "t1",
+          "aliases": [
+            "liquide",
+            "billets"
+          ]
+        },
+        {
+          "answer": "carte d'identité",
+          "tier": "t1",
+          "aliases": [
+            "cni"
+          ]
+        },
+        {
+          "answer": "permis de conduire",
+          "tier": "t1",
+          "aliases": [
+            "permis"
+          ]
+        },
+        {
+          "answer": "monnaie",
+          "tier": "t1",
+          "aliases": [
+            "pièces"
+          ]
+        },
+        {
+          "answer": "carte vitale",
+          "tier": "t1",
+          "aliases": [
+            "vitale"
+          ]
+        },
+        {
+          "answer": "ticket de caisse",
+          "tier": "t2",
+          "aliases": [
+            "reçus"
+          ],
+          "quip": "On les garde tous. On ne sait pas pourquoi."
+        },
+        {
+          "answer": "carte de fidélité",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tickets restaurant",
+          "tier": "t3",
+          "aliases": [
+            "titres restaurant"
+          ]
+        },
+        {
+          "answer": "carte de transport",
+          "tier": "t3",
+          "aliases": [
+            "pass navigo",
+            "navigo"
+          ]
+        },
+        {
+          "answer": "photos",
+          "tier": "t3",
+          "aliases": [
+            "photo d'identité"
+          ]
+        },
+        {
+          "answer": "chéquier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "carte de mutuelle",
+          "tier": "t4",
+          "aliases": [
+            "mutuelle"
+          ]
+        },
+        {
+          "answer": "timbres",
+          "tier": "t4",
+          "aliases": [
+            "timbre"
+          ]
+        },
+        {
+          "answer": "carte de donneur d'organes",
+          "tier": "t4",
+          "aliases": [
+            "carte de donneur"
+          ]
+        },
+        {
+          "answer": "carte de groupe sanguin",
+          "tier": "t5",
+          "aliases": [
+            "groupe sanguin"
+          ]
+        },
+        {
+          "answer": "porte-bonheur",
+          "tier": "t5",
+          "aliases": [
+            "grigri"
+          ]
+        },
+        {
+          "answer": "vieux ticket de concert",
+          "tier": "t5",
+          "aliases": [
+            "ticket de concert"
+          ]
+        },
+        {
+          "answer": "médaille de saint Christophe",
+          "tier": "t6",
+          "aliases": [
+            "saint christophe"
+          ],
+          "quip": "Le patron des voyageurs, format portefeuille."
+        }
+      ]
+    },
+    "gen-jardin": {
+      "promptId": "gen-jardin",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "tondeuse",
+          "tier": "t1",
+          "aliases": [
+            "tondeuse à gazon"
+          ]
+        },
+        {
+          "answer": "barbecue",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "transat",
+          "tier": "t1",
+          "aliases": [
+            "chaise longue"
+          ]
+        },
+        {
+          "answer": "arrosoir",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "balançoire",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "robot tondeuse",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le mouton électrique des paresseux."
+        },
+        {
+          "answer": "sécateur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "brouette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "salon de jardin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bac à sable",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "piscine gonflable",
+          "tier": "t3",
+          "aliases": [
+            "pataugeoire"
+          ]
+        },
+        {
+          "answer": "composteur",
+          "tier": "t4",
+          "aliases": [
+            "compost"
+          ]
+        },
+        {
+          "answer": "potager",
+          "tier": "t4",
+          "aliases": [
+            "carré potager"
+          ]
+        },
+        {
+          "answer": "abri de jardin",
+          "tier": "t4",
+          "aliases": [
+            "abri"
+          ]
+        },
+        {
+          "answer": "bâche",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "puits",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "motoculteur",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "souffleur de feuilles",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "nain de jardin",
+          "tier": "t6",
+          "aliases": [
+            "nain"
+          ],
+          "quip": "Il voyage parfois sans vous prévenir. Vrai folklore."
+        }
+      ]
+    },
+    "gen-trousse": {
+      "promptId": "gen-trousse",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "stylo",
+          "tier": "t1",
+          "aliases": [
+            "stylos"
+          ]
+        },
+        {
+          "answer": "crayon",
+          "tier": "t1",
+          "aliases": [
+            "crayon à papier"
+          ]
+        },
+        {
+          "answer": "gomme",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "règle",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "taille-crayon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "feutre",
+          "tier": "t1",
+          "aliases": [
+            "feutres"
+          ]
+        },
+        {
+          "answer": "blanco",
+          "tier": "t2",
+          "aliases": [
+            "correcteur blanc",
+            "correcteur"
+          ],
+          "quip": "Tout le monde finit par citer le blanco."
+        },
+        {
+          "answer": "surligneur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "crayons de couleur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "colle",
+          "tier": "t3",
+          "aliases": [
+            "bâton de colle"
+          ]
+        },
+        {
+          "answer": "ciseaux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "compas",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "équerre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "stylo 4 couleurs",
+          "tier": "t3",
+          "aliases": [
+            "4 couleurs"
+          ]
+        },
+        {
+          "answer": "rapporteur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "stylo plume",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "feutre effaçable",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cartouches d'encre",
+          "tier": "t4",
+          "aliases": [
+            "recharges",
+            "cartouches"
+          ]
+        },
+        {
+          "answer": "gomme mie de pain",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "porte-mine",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "estompe",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Pour estomper au fusain. Le mot du dessinateur."
+        }
+      ]
+    },
+    "gen-fruit": {
+      "promptId": "gen-fruit",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "pomme",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "banane",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "orange",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "fraise",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "poire",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "raisin",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "cerise",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pêche",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "kiwi",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "citron",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "fruit de la passion",
+          "tier": "t2",
+          "aliases": [
+            "fruit passion"
+          ],
+          "quip": "L'exotisme le plus tenté."
+        },
+        {
+          "answer": "abricot",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "melon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pastèque",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mangue",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ananas",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "prune",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "framboise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "myrtille",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "nectarine",
+          "tier": "t3",
+          "aliases": [
+            "brugnon"
+          ]
+        },
+        {
+          "answer": "clémentine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "grenade",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "figue",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kaki",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "litchi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "papaye",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "noix de coco",
+          "tier": "t4",
+          "aliases": [
+            "coco"
+          ]
+        },
+        {
+          "answer": "mûre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "groseille",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "carambole",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ramboutan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "corossol",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pitaya",
+          "tier": "t5",
+          "aliases": [
+            "fruit du dragon"
+          ]
+        },
+        {
+          "answer": "durian",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Il sent si fort qu'il est interdit dans les hôtels d'Asie."
+        }
+      ]
+    },
+    "gen-legume": {
+      "promptId": "gen-legume",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "carotte",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "tomate",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pomme de terre",
+          "tier": "t1",
+          "aliases": [
+            "patate"
+          ]
+        },
+        {
+          "answer": "salade",
+          "tier": "t1",
+          "aliases": [
+            "laitue"
+          ]
+        },
+        {
+          "answer": "oignon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "courgette",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "concombre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "haricot vert",
+          "tier": "t1",
+          "aliases": [
+            "haricots verts"
+          ]
+        },
+        {
+          "answer": "panais",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le légume oublié que personne n'oublie de citer."
+        },
+        {
+          "answer": "poivron",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chou",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "brocoli",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "épinard",
+          "tier": "t3",
+          "aliases": [
+            "épinards"
+          ]
+        },
+        {
+          "answer": "aubergine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "petit pois",
+          "tier": "t3",
+          "aliases": [
+            "petits pois"
+          ]
+        },
+        {
+          "answer": "radis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "poireau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "navet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fenouil",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "endive",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "betterave",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "céleri",
+          "tier": "t4",
+          "aliases": [
+            "céleri-rave"
+          ]
+        },
+        {
+          "answer": "topinambour",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "rutabaga",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "salsifis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cardon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "crosne",
+          "tier": "t5",
+          "aliases": [
+            "crosne du Japon"
+          ]
+        },
+        {
+          "answer": "oca du Pérou",
+          "tier": "t5",
+          "aliases": [
+            "oca"
+          ]
+        },
+        {
+          "answer": "chou romanesco",
+          "tier": "t6",
+          "aliases": [
+            "romanesco"
+          ],
+          "quip": "Le chou fractal. La nature fait des maths."
+        }
+      ]
+    },
+    "gen-boisson": {
+      "promptId": "gen-boisson",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "eau",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "café",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "thé",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "jus d'orange",
+          "tier": "t1",
+          "aliases": [
+            "jus"
+          ]
+        },
+        {
+          "answer": "lait",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "chocolat chaud",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "kombucha",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "La réponse fermentée de tout le monde."
+        },
+        {
+          "answer": "limonade",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sirop",
+          "tier": "t3",
+          "aliases": [
+            "sirop de grenadine"
+          ]
+        },
+        {
+          "answer": "vin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bière",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cidre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "champagne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "smoothie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mojito",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "maté",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "hydromel",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tchaï",
+          "tier": "t4",
+          "aliases": [
+            "chaï"
+          ]
+        },
+        {
+          "answer": "pastis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kéfir",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "poiré",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pulque",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "koumiss",
+          "tier": "t6",
+          "aliases": [
+            "kumis"
+          ],
+          "quip": "Lait de jument fermenté. Boisson des steppes."
+        }
+      ]
+    },
+    "gen-dessert": {
+      "promptId": "gen-dessert",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "glace",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "gâteau au chocolat",
+          "tier": "t1",
+          "aliases": [
+            "gâteau"
+          ]
+        },
+        {
+          "answer": "mousse au chocolat",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "tiramisu",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "crème brûlée",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "tarte",
+          "tier": "t1",
+          "aliases": [
+            "tarte aux pommes"
+          ]
+        },
+        {
+          "answer": "brownie",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "panna cotta",
+          "tier": "t2",
+          "aliases": [
+            "panacotta"
+          ],
+          "quip": "La crème cuite qui passe pour exotique."
+        },
+        {
+          "answer": "crêpe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "gaufre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "profiteroles",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "île flottante",
+          "tier": "t3",
+          "aliases": [
+            "oeufs à la neige",
+            "œufs à la neige"
+          ]
+        },
+        {
+          "answer": "riz au lait",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "flan",
+          "tier": "t3",
+          "aliases": [
+            "flan pâtissier"
+          ]
+        },
+        {
+          "answer": "tarte tatin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cheesecake",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "millefeuille",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "paris-brest",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "opéra",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "baba au rhum",
+          "tier": "t4",
+          "aliases": [
+            "baba"
+          ]
+        },
+        {
+          "answer": "pavlova",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "soufflé",
+          "tier": "t4",
+          "aliases": [
+            "soufflé au chocolat"
+          ]
+        },
+        {
+          "answer": "croquembouche",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "vacherin",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "far breton",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "teurgoule",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Le riz au lait normand qui cuit cinq heures au four."
+        }
+      ]
+    },
+    "gen-fromage": {
+      "promptId": "gen-fromage",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "emmental",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "camembert",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "brie",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "comté",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "chèvre",
+          "tier": "t1",
+          "aliases": [
+            "fromage de chèvre"
+          ]
+        },
+        {
+          "answer": "gruyère",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "mozzarella",
+          "tier": "t1",
+          "aliases": [
+            "mozza"
+          ]
+        },
+        {
+          "answer": "parmesan",
+          "tier": "t1",
+          "aliases": [
+            "parmigiano"
+          ]
+        },
+        {
+          "answer": "mont d'or",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le fromage de l'hiver, cité par tous les connaisseurs."
+        },
+        {
+          "answer": "roquefort",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cantal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "reblochon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "raclette",
+          "tier": "t3",
+          "aliases": [
+            "fromage à raclette"
+          ]
+        },
+        {
+          "answer": "gouda",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "feta",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "munster",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "saint-nectaire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "morbier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bleu",
+          "tier": "t4",
+          "aliases": [
+            "bleu d'Auvergne"
+          ]
+        },
+        {
+          "answer": "fourme d'Ambert",
+          "tier": "t4",
+          "aliases": [
+            "fourme"
+          ]
+        },
+        {
+          "answer": "mimolette",
+          "tier": "t4",
+          "aliases": [],
+          "quip": "Grâce à de minuscules acariens, les cirons. Bon appétit."
+        },
+        {
+          "answer": "tomme",
+          "tier": "t4",
+          "aliases": [
+            "tomme de Savoie"
+          ]
+        },
+        {
+          "answer": "maroilles",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "époisses",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "langres",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "chaource",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "banon",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Le petit chèvre emballé dans sa feuille de châtaignier."
+        }
+      ]
+    },
+    "gen-viennoiserie": {
+      "promptId": "gen-viennoiserie",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "croissant",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pain au chocolat",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pain aux raisins",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "brioche",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "chausson aux pommes",
+          "tier": "t1",
+          "aliases": [
+            "chausson"
+          ]
+        },
+        {
+          "answer": "chocolatine",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "On sait. On accepte quand même. Bisous du Sud-Ouest."
+        },
+        {
+          "answer": "pain suisse",
+          "tier": "t3",
+          "aliases": [
+            "suisse"
+          ]
+        },
+        {
+          "answer": "croissant aux amandes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "palmier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chouquettes",
+          "tier": "t3",
+          "aliases": [
+            "chouquette"
+          ]
+        },
+        {
+          "answer": "escargot",
+          "tier": "t3",
+          "aliases": [
+            "escargot aux raisins"
+          ]
+        },
+        {
+          "answer": "kouign-amann",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "financier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "oranais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bugnes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pithiviers",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pogne",
+          "tier": "t6",
+          "aliases": [
+            "pogne de Romans"
+          ],
+          "quip": "La brioche des Drômois, en couronne, à la fleur d'oranger."
+        }
+      ]
+    },
+    "gen-epice": {
+      "promptId": "gen-epice",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "poivre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "sel",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "cannelle",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "paprika",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "curcuma",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "cumin",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "curry",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "gingembre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "safran",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le plus cher du monde. Et le plus cité."
+        },
+        {
+          "answer": "muscade",
+          "tier": "t3",
+          "aliases": [
+            "noix de muscade"
+          ]
+        },
+        {
+          "answer": "clou de girofle",
+          "tier": "t3",
+          "aliases": [
+            "girofle"
+          ]
+        },
+        {
+          "answer": "piment",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "vanille",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "thym",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "coriandre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cardamome",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "badiane",
+          "tier": "t4",
+          "aliases": [
+            "anis étoilé"
+          ]
+        },
+        {
+          "answer": "fenugrec",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "nigelle",
+          "tier": "t4",
+          "aliases": [
+            "graines de nigelle"
+          ]
+        },
+        {
+          "answer": "sumac",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "combava",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ras-el-hanout",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "assa foetida",
+          "tier": "t6",
+          "aliases": [
+            "asa foetida",
+            "asafoetida"
+          ],
+          "quip": "L'épice qui pue mais qui rend les lentilles digestes."
+        }
+      ]
+    },
+    "gen-sandwich": {
+      "promptId": "gen-sandwich",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "jambon-beurre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "jambon-fromage",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "kebab",
+          "tier": "t1",
+          "aliases": [
+            "döner",
+            "doner"
+          ]
+        },
+        {
+          "answer": "burger",
+          "tier": "t1",
+          "aliases": [
+            "hamburger"
+          ]
+        },
+        {
+          "answer": "croque-monsieur",
+          "tier": "t1",
+          "aliases": [
+            "croque"
+          ]
+        },
+        {
+          "answer": "club sandwich",
+          "tier": "t1",
+          "aliases": [
+            "club"
+          ]
+        },
+        {
+          "answer": "thon-crudités",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pan bagnat",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le choix de l'estivant qui se croit malin."
+        },
+        {
+          "answer": "hot-dog",
+          "tier": "t3",
+          "aliases": [
+            "hot dog"
+          ]
+        },
+        {
+          "answer": "wrap",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bagel",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pita",
+          "tier": "t3",
+          "aliases": [
+            "grecque"
+          ]
+        },
+        {
+          "answer": "croque-madame",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "banh mi",
+          "tier": "t4",
+          "aliases": [
+            "bánh mì"
+          ]
+        },
+        {
+          "answer": "pastrami",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mitraillette",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pulled pork",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "lobster roll",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "smørrebrød",
+          "tier": "t6",
+          "aliases": [
+            "smorrebrod"
+          ],
+          "quip": "La tartine danoise qui ne se prononce pas comme elle s'écrit."
+        }
+      ]
+    },
+    "gen-bonbon": {
+      "promptId": "gen-bonbon",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "sucette",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "carambar",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "nounours",
+          "tier": "t1",
+          "aliases": [
+            "nounours à la guimauve"
+          ]
+        },
+        {
+          "answer": "fraise tagada",
+          "tier": "t1",
+          "aliases": [
+            "tagada",
+            "fraises tagada"
+          ]
+        },
+        {
+          "answer": "oursons",
+          "tier": "t1",
+          "aliases": [
+            "oursons à la guimauve"
+          ]
+        },
+        {
+          "answer": "schtroumpfs",
+          "tier": "t2",
+          "aliases": [
+            "schtroumpf"
+          ],
+          "quip": "Le sachet ouvert « pour les enfants »."
+        },
+        {
+          "answer": "réglisse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "dragibus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cola",
+          "tier": "t3",
+          "aliases": [
+            "bouteilles cola",
+            "bonbons cola"
+          ]
+        },
+        {
+          "answer": "crocodiles",
+          "tier": "t3",
+          "aliases": [
+            "crocos"
+          ]
+        },
+        {
+          "answer": "malabar",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chewing-gum",
+          "tier": "t3",
+          "aliases": [
+            "chewing gum"
+          ]
+        },
+        {
+          "answer": "caramel au beurre salé",
+          "tier": "t4",
+          "aliases": [
+            "caramel",
+            "caramels beurre salé"
+          ]
+        },
+        {
+          "answer": "têtes brûlées",
+          "tier": "t4",
+          "aliases": [
+            "tête brûlée"
+          ]
+        },
+        {
+          "answer": "pastilles Vichy",
+          "tier": "t4",
+          "aliases": [
+            "vichy"
+          ]
+        },
+        {
+          "answer": "cachous",
+          "tier": "t5",
+          "aliases": [
+            "cachou",
+            "cachou lajaunie"
+          ]
+        },
+        {
+          "answer": "berlingots",
+          "tier": "t5",
+          "aliases": [
+            "berlingot"
+          ]
+        },
+        {
+          "answer": "anis de Flavigny",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "bêtise de Cambrai",
+          "tier": "t6",
+          "aliases": [
+            "bêtise"
+          ],
+          "quip": "La bêtise est une menthe. De Cambrai. Promis juré."
+        }
+      ]
+    },
+    "gen-fastfood": {
+      "promptId": "gen-fastfood",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "McDonald's",
+          "tier": "t1",
+          "aliases": [
+            "mcdo",
+            "macdo"
+          ]
+        },
+        {
+          "answer": "KFC",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Burger King",
+          "tier": "t1",
+          "aliases": [
+            "bk"
+          ]
+        },
+        {
+          "answer": "Subway",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Quick",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Domino's",
+          "tier": "t1",
+          "aliases": [
+            "dominos",
+            "domino's pizza"
+          ]
+        },
+        {
+          "answer": "Pizza Hut",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Big Fernand",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le burger « connaisseur » de tout le monde."
+        },
+        {
+          "answer": "O'Tacos",
+          "tier": "t3",
+          "aliases": [
+            "otacos",
+            "o tacos"
+          ]
+        },
+        {
+          "answer": "Five Guys",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sushi Shop",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Popeyes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pitaya",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bioburger",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pokawa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "La Mie Câline",
+          "tier": "t4",
+          "aliases": [
+            "mie caline"
+          ]
+        },
+        {
+          "answer": "Léon de Bruxelles",
+          "tier": "t4",
+          "aliases": [
+            "léon"
+          ]
+        },
+        {
+          "answer": "Chicken Spot",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ninkasi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Poulet Poulette",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Le poulet qui fait double emploi."
+        }
+      ]
+    },
+    "gen-marque-voiture": {
+      "promptId": "gen-marque-voiture",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "Renault",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Peugeot",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Citroën",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Volkswagen",
+          "tier": "t1",
+          "aliases": [
+            "vw"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "BMW",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Mercedes",
+          "tier": "t1",
+          "aliases": [
+            "mercedes-benz"
+          ]
+        },
+        {
+          "answer": "Audi",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Ford",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Opel",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Alpine",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "L'A110 dans l'œil, à chaque fois."
+        },
+        {
+          "answer": "Fiat",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Seat",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Skoda",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dacia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nissan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Honda",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hyundai",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Volvo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mini",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Porsche",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ferrari",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lamborghini",
+          "tier": "t3",
+          "aliases": [
+            "lambo"
+          ]
+        },
+        {
+          "answer": "Jaguar",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alfa Romeo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lancia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mazda",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Subaru",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lexus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bentley",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Aston Martin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Maserati",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Abarth",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cupra",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Polestar",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Daihatsu",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Isuzu",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "DeLorean",
+          "tier": "t5",
+          "aliases": [],
+          "quip": "Retour vers le futur de votre réponse."
+        },
+        {
+          "answer": "Ligier",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "La fierté de Vichy. Sans permis, mais avec style."
+        }
+      ]
+    },
+    "gen-reseau-social": {
+      "promptId": "gen-reseau-social",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "Facebook",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Instagram",
+          "tier": "t1",
+          "aliases": [
+            "insta"
+          ]
+        },
+        {
+          "answer": "TikTok",
+          "tier": "t1",
+          "aliases": [
+            "tik tok"
+          ]
+        },
+        {
+          "answer": "X",
+          "tier": "t1",
+          "aliases": [
+            "twitter",
+            "ex-twitter"
+          ]
+        },
+        {
+          "answer": "Snapchat",
+          "tier": "t1",
+          "aliases": [
+            "snap"
+          ]
+        },
+        {
+          "answer": "YouTube",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "WhatsApp",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "BeReal",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "L'authenticité, deux minutes par jour."
+        },
+        {
+          "answer": "LinkedIn",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pinterest",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Reddit",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Twitch",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Discord",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Telegram",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Threads",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Messenger",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tumblr",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mastodon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bluesky",
+          "tier": "t4",
+          "aliases": [
+            "blue sky"
+          ]
+        },
+        {
+          "answer": "Signal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Skyblog",
+          "tier": "t5",
+          "aliases": [
+            "skyblogs"
+          ]
+        },
+        {
+          "answer": "MySpace",
+          "tier": "t5",
+          "aliases": [
+            "my space"
+          ]
+        },
+        {
+          "answer": "Copains d'avant",
+          "tier": "t6",
+          "aliases": [
+            "copainsdavant"
+          ],
+          "quip": "Avant Facebook, on retrouvait ses camarades de classe là."
+        }
+      ]
+    },
+    "gen-supermarche": {
+      "promptId": "gen-supermarche",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "Carrefour",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Leclerc",
+          "tier": "t1",
+          "aliases": [
+            "e leclerc"
+          ]
+        },
+        {
+          "answer": "Auchan",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Intermarché",
+          "tier": "t1",
+          "aliases": [
+            "inter"
+          ]
+        },
+        {
+          "answer": "Lidl",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Casino",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Monoprix",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Franprix",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Grand Frais",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "L'étalage maraîcher qui fait dire « ah oui, tiens »."
+        },
+        {
+          "answer": "Aldi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "U",
+          "tier": "t3",
+          "aliases": [
+            "super u",
+            "hyper u",
+            "système u"
+          ]
+        },
+        {
+          "answer": "Cora",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Netto",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Picard",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Biocoop",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Naturalia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Spar",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Vival",
+          "tier": "t4",
+          "aliases": [
+            "vival by casino"
+          ]
+        },
+        {
+          "answer": "G20",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Action",
+          "tier": "t4",
+          "aliases": [],
+          "quip": "Pas tout à fait un supermarché… mais on sait ce que vous vouliez dire."
+        },
+        {
+          "answer": "La Vie Claire",
+          "tier": "t5",
+          "aliases": [
+            "vie claire"
+          ]
+        },
+        {
+          "answer": "Coccimarket",
+          "tier": "t5",
+          "aliases": [
+            "coccinelle"
+          ]
+        },
+        {
+          "answer": "Proxi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Félix Potin",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "La première grande enseigne alimentaire de France, née en 1844."
+        }
+      ]
+    },
+    "gen-marque-smartphone": {
+      "promptId": "gen-marque-smartphone",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "Apple",
+          "tier": "t1",
+          "aliases": [
+            "iphone"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Xiaomi",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Huawei",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Google Pixel",
+          "tier": "t1",
+          "aliases": [
+            "pixel"
+          ]
+        },
+        {
+          "answer": "Honor",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Nothing",
+          "tier": "t2",
+          "aliases": [
+            "nothing phone"
+          ],
+          "quip": "Le téléphone transparent que tout le monde sort."
+        },
+        {
+          "answer": "Oppo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "OnePlus",
+          "tier": "t3",
+          "aliases": [
+            "one plus"
+          ]
+        },
+        {
+          "answer": "Vivo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Motorola",
+          "tier": "t3",
+          "aliases": [
+            "moto"
+          ]
+        },
+        {
+          "answer": "Nokia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sony",
+          "tier": "t3",
+          "aliases": [
+            "sony xperia",
+            "xperia"
+          ]
+        },
+        {
+          "answer": "Realme",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Asus",
+          "tier": "t4",
+          "aliases": [
+            "rog"
+          ]
+        },
+        {
+          "answer": "Wiko",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fairphone",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Crosscall",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "YotaPhone",
+          "tier": "t6",
+          "aliases": [
+            "yota phone"
+          ],
+          "quip": "Double écran, dont un en encre électronique. Trop beau pour durer."
+        }
+      ]
+    },
+    "gen-fete": {
+      "promptId": "gen-fete",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "Noël",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Pâques",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Halloween",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "fête des mères",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "fête des pères",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Nouvel An",
+          "tier": "t1",
+          "aliases": [
+            "jour de l'an",
+            "réveillon"
+          ]
+        },
+        {
+          "answer": "Saint-Valentin",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Chandeleur",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "On pense tous à elle le 2 février. Enfin, surtout aux crêpes."
+        },
+        {
+          "answer": "14 juillet",
+          "tier": "t3",
+          "aliases": [
+            "quatorze juillet",
+            "fête nationale"
+          ]
+        },
+        {
+          "answer": "1er mai",
+          "tier": "t3",
+          "aliases": [
+            "premier mai",
+            "fête du travail"
+          ]
+        },
+        {
+          "answer": "11 novembre",
+          "tier": "t3",
+          "aliases": [
+            "armistice"
+          ]
+        },
+        {
+          "answer": "Ascension",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Toussaint",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fête de la musique",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Épiphanie",
+          "tier": "t3",
+          "aliases": [
+            "galette"
+          ]
+        },
+        {
+          "answer": "Mardi gras",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pentecôte",
+          "tier": "t4",
+          "aliases": [
+            "lundi de pentecôte"
+          ]
+        },
+        {
+          "answer": "Assomption",
+          "tier": "t4",
+          "aliases": [
+            "15 août"
+          ]
+        },
+        {
+          "answer": "victoire 1945",
+          "tier": "t4",
+          "aliases": [
+            "8 mai",
+            "8 mai 1945"
+          ]
+        },
+        {
+          "answer": "fête des grands-mères",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sainte-Catherine",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Patrick",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "fête des voisins",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Glinglin",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Le jour où l'on paie ses dettes. Autant dire jamais."
+        }
+      ]
+    },
+    "gen-prenom-garcon": {
+      "promptId": "gen-prenom-garcon",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "Thomas",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Nicolas",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Julien",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Antoine",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Pierre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Paul",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Hugo",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Louis",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Lucas",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Léo",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Nathan",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Jean-Baptiste",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "L'élégance la plus tentée."
+        },
+        {
+          "answer": "Maxime",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Raphaël",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Théo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Arthur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mathis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Gabriel",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Adam",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sacha",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Noah",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Édouard",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gaspard",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Augustin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Côme",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Basile",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Enguerrand",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hippolyte",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Eustache",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Firmin",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Godefroy",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Prénom de croisé. Littéralement."
+        }
+      ]
+    },
+    "gen-prenom-fille": {
+      "promptId": "gen-prenom-fille",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "Emma",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Léa",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Chloé",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Manon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Marie",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Camille",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Sarah",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Julie",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Alice",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Jade",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Apolline",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le chic le plus tenté. On vous connaît."
+        },
+        {
+          "answer": "Louise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jeanne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Léna",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Inès",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zoé",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Anna",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Juliette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Rose",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Eva",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Capucine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Victoire",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Agathe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Romane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Joséphine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Olympe",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Philippine",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sixtine",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pétronille",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cléopâtre",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Oui, c'est un prénom porté en France. Demandez à la handballeuse."
+        }
+      ]
+    },
+    "gen-metier": {
+      "promptId": "gen-metier",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "médecin",
+          "tier": "t1",
+          "aliases": [
+            "docteur"
+          ]
+        },
+        {
+          "answer": "professeur",
+          "tier": "t1",
+          "aliases": [
+            "prof",
+            "enseignant"
+          ]
+        },
+        {
+          "answer": "infirmier",
+          "tier": "t1",
+          "aliases": [
+            "infirmière"
+          ]
+        },
+        {
+          "answer": "policier",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pompier",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "boulanger",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "avocat",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "vendeur",
+          "tier": "t1",
+          "aliases": [
+            "vendeuse"
+          ]
+        },
+        {
+          "answer": "ébéniste",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le bois, mais chic. Tout le monde y pense."
+        },
+        {
+          "answer": "coiffeur",
+          "tier": "t3",
+          "aliases": [
+            "coiffeuse"
+          ]
+        },
+        {
+          "answer": "pharmacien",
+          "tier": "t3",
+          "aliases": [
+            "pharmacienne"
+          ]
+        },
+        {
+          "answer": "dentiste",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "architecte",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "comptable",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "électricien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "plombier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "serveur",
+          "tier": "t3",
+          "aliases": [
+            "serveuse"
+          ]
+        },
+        {
+          "answer": "cuisinier",
+          "tier": "t3",
+          "aliases": [
+            "cuisinière"
+          ]
+        },
+        {
+          "answer": "facteur",
+          "tier": "t3",
+          "aliases": [
+            "factrice"
+          ]
+        },
+        {
+          "answer": "serrurier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cordonnier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "opticien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kinésithérapeute",
+          "tier": "t4",
+          "aliases": [
+            "kiné",
+            "kine"
+          ]
+        },
+        {
+          "answer": "sage-femme",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "huissier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "notaire",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tonnelier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "relieur",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "souffleur de verre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "maréchal-ferrant",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "accordeur de pianos",
+          "tier": "t5",
+          "aliases": [
+            "accordeur"
+          ]
+        },
+        {
+          "answer": "rétameur",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Il étamait les casseroles. Le mot existe encore."
+        }
+      ]
+    },
+    "gen-matiere-scolaire": {
+      "promptId": "gen-matiere-scolaire",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "mathématiques",
+          "tier": "t1",
+          "aliases": [
+            "maths"
+          ]
+        },
+        {
+          "answer": "français",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "histoire",
+          "tier": "t1",
+          "aliases": [
+            "histoire-géo"
+          ]
+        },
+        {
+          "answer": "anglais",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "sport",
+          "tier": "t1",
+          "aliases": [
+            "eps"
+          ]
+        },
+        {
+          "answer": "SVT",
+          "tier": "t1",
+          "aliases": [
+            "sciences de la vie et de la terre"
+          ]
+        },
+        {
+          "answer": "physique-chimie",
+          "tier": "t1",
+          "aliases": [
+            "physique"
+          ]
+        },
+        {
+          "answer": "philosophie",
+          "tier": "t2",
+          "aliases": [
+            "philo"
+          ],
+          "quip": "Le choix de la terminale qui a révisé sa dissertation."
+        },
+        {
+          "answer": "espagnol",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "géographie",
+          "tier": "t3",
+          "aliases": [
+            "géo"
+          ]
+        },
+        {
+          "answer": "chimie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "SES",
+          "tier": "t3",
+          "aliases": [
+            "sciences éco",
+            "économie"
+          ]
+        },
+        {
+          "answer": "technologie",
+          "tier": "t3",
+          "aliases": [
+            "techno"
+          ]
+        },
+        {
+          "answer": "arts plastiques",
+          "tier": "t3",
+          "aliases": [
+            "dessin"
+          ]
+        },
+        {
+          "answer": "musique",
+          "tier": "t3",
+          "aliases": [
+            "éducation musicale"
+          ]
+        },
+        {
+          "answer": "allemand",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "latin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "NSI",
+          "tier": "t4",
+          "aliases": [
+            "numérique et sciences informatiques"
+          ]
+        },
+        {
+          "answer": "EMC",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "italien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "grec ancien",
+          "tier": "t5",
+          "aliases": [
+            "grec"
+          ]
+        },
+        {
+          "answer": "mandarin",
+          "tier": "t5",
+          "aliases": [
+            "chinois"
+          ]
+        },
+        {
+          "answer": "morale",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Matière officielle jusqu'en 1968. Elle manque à certains."
+        }
+      ]
+    },
+    "gen-cadeau-anniversaire": {
+      "promptId": "gen-cadeau-anniversaire",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "livre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "parfum",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "vêtements",
+          "tier": "t1",
+          "aliases": [
+            "un pull"
+          ]
+        },
+        {
+          "answer": "chèque",
+          "tier": "t1",
+          "aliases": [
+            "argent"
+          ]
+        },
+        {
+          "answer": "bon d'achat",
+          "tier": "t1",
+          "aliases": [
+            "carte cadeau"
+          ]
+        },
+        {
+          "answer": "jouet",
+          "tier": "t1",
+          "aliases": [
+            "jouets"
+          ]
+        },
+        {
+          "answer": "mug personnalisé",
+          "tier": "t2",
+          "aliases": [
+            "mug photo",
+            "mug"
+          ],
+          "quip": "Avec la photo du chien, évidemment."
+        },
+        {
+          "answer": "montre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "écharpe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "coffret cadeau",
+          "tier": "t3",
+          "aliases": [
+            "coffret"
+          ]
+        },
+        {
+          "answer": "chaussettes",
+          "tier": "t3",
+          "aliases": [],
+          "quip": "Le classique qui fait semblant de décevoir."
+        },
+        {
+          "answer": "sac",
+          "tier": "t3",
+          "aliases": [
+            "sac à main"
+          ]
+        },
+        {
+          "answer": "casque audio",
+          "tier": "t3",
+          "aliases": [
+            "casque"
+          ]
+        },
+        {
+          "answer": "cadre photo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "saut en parachute",
+          "tier": "t4",
+          "aliases": [
+            "parachute"
+          ]
+        },
+        {
+          "answer": "abonnement",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "baskets",
+          "tier": "t4",
+          "aliases": [
+            "sneakers"
+          ]
+        },
+        {
+          "answer": "cadeau fait main",
+          "tier": "t4",
+          "aliases": [
+            "fait main"
+          ]
+        },
+        {
+          "answer": "portrait peint",
+          "tier": "t5",
+          "aliases": [
+            "portrait du chat"
+          ]
+        },
+        {
+          "answer": "caricature",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "étoile",
+          "tier": "t6",
+          "aliases": [
+            "baptême d'étoile",
+            "faire baptiser une étoile"
+          ],
+          "quip": "Le certificat n'a aucune valeur astronomique. On la veut quand même."
+        }
+      ]
+    },
+    "gen-cadeau-invite": {
+      "promptId": "gen-cadeau-invite",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "vin",
+          "tier": "t1",
+          "aliases": [
+            "bouteille de vin"
+          ]
+        },
+        {
+          "answer": "chocolats",
+          "tier": "t1",
+          "aliases": [
+            "chocolat"
+          ]
+        },
+        {
+          "answer": "fleurs",
+          "tier": "t1",
+          "aliases": [
+            "bouquet"
+          ]
+        },
+        {
+          "answer": "dessert",
+          "tier": "t1",
+          "aliases": [
+            "gâteau"
+          ]
+        },
+        {
+          "answer": "champagne",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "apéro",
+          "tier": "t1",
+          "aliases": [
+            "de quoi apéro"
+          ]
+        },
+        {
+          "answer": "glaçons",
+          "tier": "t2",
+          "aliases": [
+            "glace"
+          ],
+          "quip": "L'offre la plus tentée en fin de SMS. On sait."
+        },
+        {
+          "answer": "fromage",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "digestif",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bières",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bougie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "plante",
+          "tier": "t3",
+          "aliases": [
+            "plante verte"
+          ]
+        },
+        {
+          "answer": "foie gras",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "confiture maison",
+          "tier": "t4",
+          "aliases": [
+            "confiture"
+          ]
+        },
+        {
+          "answer": "thé",
+          "tier": "t4",
+          "aliases": [
+            "bon thé"
+          ]
+        },
+        {
+          "answer": "pineau",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "miel",
+          "tier": "t5",
+          "aliases": [
+            "pot de miel"
+          ]
+        },
+        {
+          "answer": "œufs frais",
+          "tier": "t6",
+          "aliases": [
+            "oeufs frais",
+            "œufs de la voisine"
+          ],
+          "quip": "Le cadeau des gens qui ont des poules. Sincèrement le meilleur."
+        }
+      ]
+    },
+    "gen-moyen-paiement": {
+      "promptId": "gen-moyen-paiement",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "carte bancaire",
+          "tier": "t1",
+          "aliases": [
+            "cb",
+            "carte bleue",
+            "carte"
+          ]
+        },
+        {
+          "answer": "espèces",
+          "tier": "t1",
+          "aliases": [
+            "liquide",
+            "cash"
+          ]
+        },
+        {
+          "answer": "chèque",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "virement",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "téléphone",
+          "tier": "t1",
+          "aliases": [
+            "paiement mobile"
+          ]
+        },
+        {
+          "answer": "PayPal",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Lydia",
+          "tier": "t2",
+          "aliases": [
+            "sumeria"
+          ],
+          "quip": "L'appli qui s'appelle Sumeria maintenant. On n'oublie pas."
+        },
+        {
+          "answer": "prélèvement",
+          "tier": "t3",
+          "aliases": [
+            "prélèvement automatique"
+          ]
+        },
+        {
+          "answer": "chèques vacances",
+          "tier": "t3",
+          "aliases": [
+            "chèque vacances"
+          ]
+        },
+        {
+          "answer": "paiement en plusieurs fois",
+          "tier": "t3",
+          "aliases": [
+            "3 fois sans frais"
+          ]
+        },
+        {
+          "answer": "bitcoin",
+          "tier": "t4",
+          "aliases": [
+            "bitcoins"
+          ]
+        },
+        {
+          "answer": "Cesu",
+          "tier": "t4",
+          "aliases": [
+            "chèque emploi service"
+          ]
+        },
+        {
+          "answer": "troc",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "monnaie locale",
+          "tier": "t5",
+          "aliases": [
+            "gonette",
+            "eusko",
+            "florain"
+          ]
+        },
+        {
+          "answer": "cauris",
+          "tier": "t6",
+          "aliases": [
+            "cauri"
+          ],
+          "quip": "Monnaie officielle pendant des siècles. Aujourd'hui, plus personne ne l'accepte."
+        }
+      ]
+    },
+    "gen-vetement": {
+      "promptId": "gen-vetement",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "pantalon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "jean",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "t-shirt",
+          "tier": "t1",
+          "aliases": [
+            "tee-shirt",
+            "tshirt"
+          ]
+        },
+        {
+          "answer": "pull",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "veste",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "robe",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "chemise",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "manteau",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "sarouel",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le choix « original » le plus prévisible."
+        },
+        {
+          "answer": "jupe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "short",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sweat",
+          "tier": "t3",
+          "aliases": [
+            "sweat-shirt",
+            "hoodie"
+          ]
+        },
+        {
+          "answer": "pyjama",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "legging",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "gilet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "costume",
+          "tier": "t3",
+          "aliases": [
+            "tailleur"
+          ]
+        },
+        {
+          "answer": "cardigan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "blazer",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "trench",
+          "tier": "t4",
+          "aliases": [
+            "trench-coat"
+          ]
+        },
+        {
+          "answer": "parka",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "salopette",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "poncho",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kimono",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "caban",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "loden",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cagoule",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "marcel",
+          "tier": "t5",
+          "aliases": [
+            "débardeur"
+          ]
+        },
+        {
+          "answer": "caraco",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Un sous-vêtement d'antan. Le mot est gratuit, profitez-en."
+        }
+      ]
+    },
+    "gen-chaussure": {
+      "promptId": "gen-chaussure",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "baskets",
+          "tier": "t1",
+          "aliases": [
+            "basket",
+            "tennis",
+            "sneakers"
+          ]
+        },
+        {
+          "answer": "sandales",
+          "tier": "t1",
+          "aliases": [
+            "sandale"
+          ]
+        },
+        {
+          "answer": "bottes",
+          "tier": "t1",
+          "aliases": [
+            "botte"
+          ]
+        },
+        {
+          "answer": "escarpins",
+          "tier": "t1",
+          "aliases": [
+            "talons"
+          ]
+        },
+        {
+          "answer": "ballerines",
+          "tier": "t1",
+          "aliases": [
+            "ballerine"
+          ]
+        },
+        {
+          "answer": "espadrilles",
+          "tier": "t2",
+          "aliases": [
+            "espadrille"
+          ],
+          "quip": "L'été, tout le monde devient malin."
+        },
+        {
+          "answer": "tongs",
+          "tier": "t3",
+          "aliases": [
+            "tong"
+          ]
+        },
+        {
+          "answer": "mocassins",
+          "tier": "t3",
+          "aliases": [
+            "mocassin"
+          ]
+        },
+        {
+          "answer": "derbies",
+          "tier": "t3",
+          "aliases": [
+            "derbie",
+            "derbys"
+          ]
+        },
+        {
+          "answer": "richelieus",
+          "tier": "t3",
+          "aliases": [
+            "richelieu"
+          ]
+        },
+        {
+          "answer": "mules",
+          "tier": "t3",
+          "aliases": [
+            "mule"
+          ]
+        },
+        {
+          "answer": "sabots",
+          "tier": "t3",
+          "aliases": [
+            "sabot"
+          ]
+        },
+        {
+          "answer": "pantoufles",
+          "tier": "t3",
+          "aliases": [
+            "pantoufle"
+          ]
+        },
+        {
+          "answer": "bottines",
+          "tier": "t4",
+          "aliases": [
+            "bottine"
+          ]
+        },
+        {
+          "answer": "charentaises",
+          "tier": "t4",
+          "aliases": [
+            "charentaise"
+          ]
+        },
+        {
+          "answer": "chaussons",
+          "tier": "t4",
+          "aliases": [
+            "chausson"
+          ]
+        },
+        {
+          "answer": "babies",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "galoches",
+          "tier": "t5",
+          "aliases": [
+            "galoche"
+          ]
+        },
+        {
+          "answer": "poulaines",
+          "tier": "t6",
+          "aliases": [
+            "poulaine"
+          ],
+          "quip": "La chaussure à bout recourbé du Moyen Âge. Très pointue la réponse."
+        }
+      ]
+    },
+    "gen-coupe-cheveux": {
+      "promptId": "gen-coupe-cheveux",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "carré",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "dégradé",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "frange",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "mulet",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Business devant, fête derrière."
+        },
+        {
+          "answer": "queue de cheval",
+          "tier": "t3",
+          "aliases": [
+            "queue-de-cheval"
+          ]
+        },
+        {
+          "answer": "chignon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "coupe au bol",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pixie",
+          "tier": "t4",
+          "aliases": [
+            "coupe pixie"
+          ]
+        },
+        {
+          "answer": "undercut",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fade",
+          "tier": "t4",
+          "aliases": [
+            "dégradé américain"
+          ]
+        },
+        {
+          "answer": "iroquoise",
+          "tier": "t4",
+          "aliases": [
+            "mohawk"
+          ]
+        },
+        {
+          "answer": "banane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "shag",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "anglaises",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "tonsure",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "skullet",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Un mulet sans le dessus. Ça existe. On a vérifié."
+        }
+      ]
+    },
+    "gen-transport": {
+      "promptId": "gen-transport",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "voiture",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "bus",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "train",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "avion",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "vélo",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "métro",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "tramway",
+          "tier": "t1",
+          "aliases": [
+            "tram"
+          ]
+        },
+        {
+          "answer": "bateau",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "téléphérique",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "La réponse aérienne préférée de tout le monde."
+        },
+        {
+          "answer": "scooter",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "moto",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "camion",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "taxi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "trottinette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ferry",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "funiculaire",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "hélicoptère",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "montgolfière",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "segway",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "dirigeable",
+          "tier": "t5",
+          "aliases": [
+            "zeppelin"
+          ]
+        },
+        {
+          "answer": "pousse-pousse",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "calèche",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "zamboni",
+          "tier": "t6",
+          "aliases": [
+            "surfaceuse"
+          ],
+          "quip": "La machine qui polit la glace entre les tiers-temps."
+        }
+      ]
+    },
+    "gen-panneau": {
+      "promptId": "gen-panneau",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "stop",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "sens interdit",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "cédez le passage",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "limitation de vitesse",
+          "tier": "t1",
+          "aliases": [
+            "panneau de limitation"
+          ]
+        },
+        {
+          "answer": "interdiction de stationner",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "passage piéton",
+          "tier": "t1",
+          "aliases": [
+            "passage piétons"
+          ]
+        },
+        {
+          "answer": "priorité à droite",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Celle qu'on cite pour briller au code."
+        },
+        {
+          "answer": "interdiction de tourner",
+          "tier": "t3",
+          "aliases": [
+            "interdiction de tourner à gauche"
+          ]
+        },
+        {
+          "answer": "impasse",
+          "tier": "t3",
+          "aliases": [
+            "voie sans issue"
+          ]
+        },
+        {
+          "answer": "travaux",
+          "tier": "t3",
+          "aliases": [
+            "panneau travaux"
+          ]
+        },
+        {
+          "answer": "ralentisseur",
+          "tier": "t3",
+          "aliases": [
+            "dos d'âne"
+          ]
+        },
+        {
+          "answer": "zone piétonne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chaussée rétrécie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gravillons",
+          "tier": "t4",
+          "aliases": [
+            "projection de gravillons"
+          ]
+        },
+        {
+          "answer": "animaux sauvages",
+          "tier": "t4",
+          "aliases": [
+            "passage d'animaux"
+          ]
+        },
+        {
+          "answer": "vent latéral",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "descente dangereuse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bouchons",
+          "tier": "t5",
+          "aliases": [
+            "risque d'embouteillages"
+          ]
+        },
+        {
+          "answer": "passage à niveau",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "nids-de-poule",
+          "tier": "t5",
+          "aliases": [
+            "nids de poule"
+          ]
+        },
+        {
+          "answer": "cédez-le-passage cycliste",
+          "tier": "t6",
+          "aliases": [
+            "m12",
+            "cédez le passage cycliste"
+          ],
+          "quip": "Le petit triangle qui change la vie des cyclistes depuis 2012."
+        }
+      ]
+    },
+    "gen-engin-chantier": {
+      "promptId": "gen-engin-chantier",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "pelleteuse",
+          "tier": "t1",
+          "aliases": [
+            "pelle mécanique",
+            "excavatrice"
+          ]
+        },
+        {
+          "answer": "grue",
+          "tier": "t1",
+          "aliases": [
+            "grue à tour"
+          ]
+        },
+        {
+          "answer": "bulldozer",
+          "tier": "t1",
+          "aliases": [
+            "bouteur"
+          ]
+        },
+        {
+          "answer": "camion-benne",
+          "tier": "t1",
+          "aliases": [
+            "benne"
+          ]
+        },
+        {
+          "answer": "tracteur",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "bétonnière",
+          "tier": "t1",
+          "aliases": [
+            "bétonneuse"
+          ]
+        },
+        {
+          "answer": "tractopelle",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Pelle devant, chargeur derrière. Réponse partout."
+        },
+        {
+          "answer": "rouleau compresseur",
+          "tier": "t3",
+          "aliases": [
+            "rouleau"
+          ]
+        },
+        {
+          "answer": "chargeuse",
+          "tier": "t3",
+          "aliases": [
+            "chargeur"
+          ]
+        },
+        {
+          "answer": "nacelle",
+          "tier": "t3",
+          "aliases": [
+            "nacelle élévatrice"
+          ]
+        },
+        {
+          "answer": "mini-pelle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tombereau",
+          "tier": "t3",
+          "aliases": [
+            "dumper"
+          ]
+        },
+        {
+          "answer": "niveleuse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "foreuse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "camion-grue",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "brise-roche",
+          "tier": "t4",
+          "aliases": [
+            "brh"
+          ]
+        },
+        {
+          "answer": "pilonneuse",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "scraper",
+          "tier": "t5",
+          "aliases": [
+            "décapeuse"
+          ]
+        },
+        {
+          "answer": "finisseur",
+          "tier": "t5",
+          "aliases": [
+            "finisseuse"
+          ]
+        },
+        {
+          "answer": "pied-de-mouton",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Un rouleau compresseur à pattes de mouton. Le chantier est un zoo."
+        }
+      ]
+    },
+    "gen-camping": {
+      "promptId": "gen-camping",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "tente",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "sac de couchage",
+          "tier": "t1",
+          "aliases": [
+            "duvet"
+          ]
+        },
+        {
+          "answer": "lampe torche",
+          "tier": "t1",
+          "aliases": [
+            "lampe"
+          ]
+        },
+        {
+          "answer": "matelas gonflable",
+          "tier": "t1",
+          "aliases": [
+            "matelas"
+          ]
+        },
+        {
+          "answer": "sac à dos",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "réchaud",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le feu de camp, version gaz. Tout le monde le cite."
+        },
+        {
+          "answer": "popote",
+          "tier": "t3",
+          "aliases": [
+            "gamelle"
+          ]
+        },
+        {
+          "answer": "moustiquaire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "hamac",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "briquet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "boussole",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pelle pliante",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "douche solaire",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "corde",
+          "tier": "t4",
+          "aliases": [
+            "corde à linge"
+          ]
+        },
+        {
+          "answer": "tapis de sol",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "filtre à eau",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "scie pliante",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pierre à feu",
+          "tier": "t5",
+          "aliases": [
+            "firesteel"
+          ]
+        },
+        {
+          "answer": "guêtres",
+          "tier": "t6",
+          "aliases": [
+            "guêtre"
+          ],
+          "quip": "Protège-mollets anti-boue. Les guêtres ont la classe."
+        }
+      ]
+    },
+    "gen-couleur": {
+      "promptId": "gen-couleur",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "rouge",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "bleu",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "vert",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "jaune",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "orange",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "violet",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "rose",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "noir",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "blanc",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "turquoise",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "La couleur « originale » la plus tentée."
+        },
+        {
+          "answer": "marron",
+          "tier": "t3",
+          "aliases": [
+            "brun"
+          ]
+        },
+        {
+          "answer": "gris",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "beige",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bordeaux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "doré",
+          "tier": "t3",
+          "aliases": [
+            "or"
+          ]
+        },
+        {
+          "answer": "argenté",
+          "tier": "t3",
+          "aliases": [
+            "argent"
+          ]
+        },
+        {
+          "answer": "kaki",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "saumon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "corail",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lavande",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lilas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chartreuse",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "vermillon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ocre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "auburn",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "puce",
+          "tier": "t5",
+          "aliases": [
+            "couleur puce"
+          ]
+        },
+        {
+          "answer": "isabelle",
+          "tier": "t6",
+          "aliases": [
+            "couleur isabelle"
+          ],
+          "quip": "Une couleur de robe de cheval. La légende qui l'explique est… peu ragoûtante."
+        }
+      ]
+    },
+    "gen-animal-compagnie": {
+      "promptId": "gen-animal-compagnie",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "chien",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "chat",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "poisson rouge",
+          "tier": "t1",
+          "aliases": [
+            "poisson"
+          ]
+        },
+        {
+          "answer": "hamster",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "lapin",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "perruche",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "tortue",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "axolotl",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Le petit monstre souriant de tout le monde."
+        },
+        {
+          "answer": "cochon d'Inde",
+          "tier": "t3",
+          "aliases": [
+            "cobaye"
+          ]
+        },
+        {
+          "answer": "rat",
+          "tier": "t3",
+          "aliases": [
+            "rat domestique"
+          ]
+        },
+        {
+          "answer": "canari",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "furet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chinchilla",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "octodon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gecko",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "serpent",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pogona",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "dégu",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "mygale",
+          "tier": "t5",
+          "aliases": [
+            "tarentule"
+          ]
+        },
+        {
+          "answer": "phasme",
+          "tier": "t6",
+          "aliases": [
+            "bâton de diable"
+          ],
+          "quip": "Un bâton qui mange des feuilles. Les CE2 adorent."
+        }
+      ]
+    },
+    "gen-emoji": {
+      "promptId": "gen-emoji",
+      "contentVersion": 1,
+      "entries": [
+        {
+          "answer": "rire aux larmes",
+          "tier": "t1",
+          "aliases": [
+            "mdr",
+            "😂",
+            "mort de rire"
+          ]
+        },
+        {
+          "answer": "cœur rouge",
+          "tier": "t1",
+          "aliases": [
+            "coeur",
+            "❤️"
+          ]
+        },
+        {
+          "answer": "pouce en l'air",
+          "tier": "t1",
+          "aliases": [
+            "pouce",
+            "👍"
+          ]
+        },
+        {
+          "answer": "sourire",
+          "tier": "t1",
+          "aliases": [
+            "😊"
+          ]
+        },
+        {
+          "answer": "clin d'œil",
+          "tier": "t1",
+          "aliases": [
+            "clin d oeil",
+            "😉"
+          ]
+        },
+        {
+          "answer": "pleurer",
+          "tier": "t1",
+          "aliases": [
+            "larmes",
+            "😭",
+            "pleure"
+          ]
+        },
+        {
+          "answer": "caca souriant",
+          "tier": "t2",
+          "aliases": [
+            "caca",
+            "💩"
+          ],
+          "quip": "Il sourit. C'est tout ce qu'on lui demande."
+        },
+        {
+          "answer": "singe",
+          "tier": "t3",
+          "aliases": [
+            "singe qui se cache les yeux",
+            "🙈"
+          ]
+        },
+        {
+          "answer": "feu",
+          "tier": "t3",
+          "aliases": [
+            "🔥"
+          ]
+        },
+        {
+          "answer": "mains jointes",
+          "tier": "t3",
+          "aliases": [
+            "prière",
+            "merci",
+            "🙏"
+          ]
+        },
+        {
+          "answer": "applaudissements",
+          "tier": "t3",
+          "aliases": [
+            "applaudir",
+            "👏"
+          ]
+        },
+        {
+          "answer": "yeux",
+          "tier": "t3",
+          "aliases": [
+            "👀"
+          ]
+        },
+        {
+          "answer": "fête",
+          "tier": "t3",
+          "aliases": [
+            "confettis",
+            "🎉"
+          ]
+        },
+        {
+          "answer": "bisou",
+          "tier": "t3",
+          "aliases": [
+            "😘"
+          ]
+        },
+        {
+          "answer": "crâne",
+          "tier": "t4",
+          "aliases": [
+            "💀"
+          ]
+        },
+        {
+          "answer": "yeux suppliants",
+          "tier": "t4",
+          "aliases": [
+            "🥺"
+          ]
+        },
+        {
+          "answer": "cent",
+          "tier": "t4",
+          "aliases": [
+            "100",
+            "💯"
+          ]
+        },
+        {
+          "answer": "drapeau français",
+          "tier": "t4",
+          "aliases": [
+            "drapeau",
+            "🇫🇷"
+          ]
+        },
+        {
+          "answer": "visage qui fond",
+          "tier": "t5",
+          "aliases": [
+            "🫠"
+          ]
+        },
+        {
+          "answer": "trombone",
+          "tier": "t5",
+          "aliases": [
+            "📎"
+          ]
+        },
+        {
+          "answer": "pizza",
+          "tier": "t5",
+          "aliases": [
+            "🍕"
+          ]
+        },
+        {
+          "answer": "moaï",
+          "tier": "t6",
+          "aliases": [
+            "🗿"
+          ],
+          "quip": "L'émoji le plus stoïque du répertoire."
+        }
+      ]
+    }
+  }
+}

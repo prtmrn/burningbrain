@@ -1,0 +1,8465 @@
+{
+  "theme": "history",
+  "contentVersion": 2,
+  "prompts": [
+    {
+      "id": "his-wwii-evenement",
+      "theme": "history",
+      "text": "Nomme un événement de la Seconde Guerre mondiale"
+    },
+    {
+      "id": "his-antiquite-peuple",
+      "theme": "history",
+      "text": "Nomme une civilisation ou un peuple de l'Antiquité"
+    },
+    {
+      "id": "his-pharaon",
+      "theme": "history",
+      "text": "Nomme un pharaon égyptien"
+    },
+    {
+      "id": "his-napoleon-general",
+      "theme": "history",
+      "text": "Nomme un général ou un maréchal de Napoléon Ier"
+    },
+    {
+      "id": "his-espagne-portugal",
+      "theme": "history",
+      "text": "Nomme un roi ou une reine d'Espagne ou du Portugal"
+    },
+    {
+      "id": "his-guerre-xxe",
+      "theme": "history",
+      "text": "Nomme une guerre ou un conflit du XXe siècle"
+    },
+    {
+      "id": "his-traite",
+      "theme": "history",
+      "text": "Nomme un traité célèbre de l'histoire"
+    },
+    {
+      "id": "his-explorateur-xviii-xix",
+      "theme": "history",
+      "text": "Nomme un explorateur du XVIIIe ou du XIXe siècle"
+    },
+    {
+      "id": "his-dictateur",
+      "theme": "history",
+      "text": "Nomme un dictateur du XXe siècle"
+    },
+    {
+      "id": "his-pm-britannique",
+      "theme": "history",
+      "text": "Nomme un Premier ministre britannique"
+    },
+    {
+      "id": "his-dynastie",
+      "theme": "history",
+      "text": "Nomme une dynastie royale ou impériale européenne"
+    },
+    {
+      "id": "his-revolution",
+      "theme": "history",
+      "text": "Nomme une révolution ou un soulèvement célèbre"
+    },
+    {
+      "id": "his-revolution-industrielle",
+      "theme": "history",
+      "text": "Nomme une invention ou une découverte de la révolution industrielle"
+    },
+    {
+      "id": "his-general-ww1",
+      "theme": "history",
+      "text": "Nomme un général ou un maréchal de la Première Guerre mondiale"
+    },
+    {
+      "id": "his-aviateur",
+      "theme": "history",
+      "text": "Nomme un aviateur ou un pionnier de l'aviation"
+    }
+  ],
+  "sheets": {
+    "his-wwii-evenement": {
+      "promptId": "his-wwii-evenement",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Débarquement de Normandie",
+          "tier": "t1",
+          "aliases": [
+            "Jour J",
+            "D-Day",
+            "Opération Overlord",
+            "Débarquement du 6 juin 1944"
+          ]
+        },
+        {
+          "answer": "Attaque de Pearl Harbor",
+          "tier": "t1",
+          "aliases": [
+            "Pearl Harbor"
+          ]
+        },
+        {
+          "answer": "Bataille de Stalingrad",
+          "tier": "t1",
+          "aliases": [
+            "Stalingrad"
+          ]
+        },
+        {
+          "answer": "Bataille d'Angleterre",
+          "tier": "t1",
+          "aliases": [
+            "Battle of Britain"
+          ]
+        },
+        {
+          "answer": "Bombardement atomique d'Hiroshima",
+          "tier": "t1",
+          "aliases": [
+            "Hiroshima"
+          ]
+        },
+        {
+          "answer": "Invasion de la Pologne",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Appel du 18 juin",
+          "tier": "t1",
+          "aliases": [
+            "Appel du 18 juin 1940"
+          ]
+        },
+        {
+          "answer": "Libération de Paris",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Opération Barbarossa",
+          "tier": "t1",
+          "aliases": [
+            "Barbarossa",
+            "Invasion de l'URSS"
+          ]
+        },
+        {
+          "answer": "Bataille de Dunkerque",
+          "tier": "t1",
+          "aliases": [
+            "Dunkerque",
+            "Opération Dynamo"
+          ]
+        },
+        {
+          "answer": "Bataille de Midway",
+          "tier": "t2",
+          "aliases": [
+            "Midway"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Bataille de Los Angeles",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Bombardement atomique de Nagasaki",
+          "tier": "t3",
+          "aliases": [
+            "Nagasaki"
+          ]
+        },
+        {
+          "answer": "Bataille des Ardennes",
+          "tier": "t3",
+          "aliases": [
+            "Bataille du Bulge",
+            "Offensive des Ardennes"
+          ]
+        },
+        {
+          "answer": "Bataille d'El-Alamein",
+          "tier": "t3",
+          "aliases": [
+            "El Alamein"
+          ]
+        },
+        {
+          "answer": "Bataille de Koursk",
+          "tier": "t3",
+          "aliases": [
+            "Koursk"
+          ]
+        },
+        {
+          "answer": "Débarquement de Provence",
+          "tier": "t3",
+          "aliases": [
+            "Opération Dragoon"
+          ]
+        },
+        {
+          "answer": "Bataille de Monte Cassino",
+          "tier": "t3",
+          "aliases": [
+            "Monte Cassino"
+          ]
+        },
+        {
+          "answer": "Rafle du Vel' d'Hiv",
+          "tier": "t3",
+          "aliases": [
+            "Rafle du Vélodrome d'Hiver"
+          ]
+        },
+        {
+          "answer": "Shoah",
+          "tier": "t3",
+          "aliases": [
+            "Holocauste"
+          ]
+        },
+        {
+          "answer": "Capitulation de l'Allemagne nazie",
+          "tier": "t3",
+          "aliases": [
+            "Capitulation allemande",
+            "Victoire du 8 mai 1945"
+          ]
+        },
+        {
+          "answer": "Bataille de Berlin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Siège de Leningrad",
+          "tier": "t3",
+          "aliases": [
+            "Siège de Léningrad"
+          ]
+        },
+        {
+          "answer": "Bataille de Guadalcanal",
+          "tier": "t3",
+          "aliases": [
+            "Guadalcanal"
+          ]
+        },
+        {
+          "answer": "Bataille d'Iwo Jima",
+          "tier": "t3",
+          "aliases": [
+            "Iwo Jima"
+          ]
+        },
+        {
+          "answer": "Bataille d'Okinawa",
+          "tier": "t3",
+          "aliases": [
+            "Okinawa"
+          ]
+        },
+        {
+          "answer": "Drôle de guerre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Exode de 1940",
+          "tier": "t3",
+          "aliases": [
+            "Exode"
+          ]
+        },
+        {
+          "answer": "Armistice du 22 juin 1940",
+          "tier": "t3",
+          "aliases": [
+            "Armistice de 1940"
+          ]
+        },
+        {
+          "answer": "Bataille de France",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Conférence de Yalta",
+          "tier": "t3",
+          "aliases": [
+            "Yalta"
+          ]
+        },
+        {
+          "answer": "Conférence de Potsdam",
+          "tier": "t3",
+          "aliases": [
+            "Potsdam"
+          ]
+        },
+        {
+          "answer": "Procès de Nuremberg",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de l'Atlantique",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Blitz",
+          "tier": "t3",
+          "aliases": [
+            "The Blitz"
+          ]
+        },
+        {
+          "answer": "Bataille de Moscou",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Conférence de Téhéran",
+          "tier": "t3",
+          "aliases": [
+            "Téhéran"
+          ]
+        },
+        {
+          "answer": "Opération Torch",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de Bir Hakeim",
+          "tier": "t4",
+          "aliases": [
+            "Bir Hakeim"
+          ]
+        },
+        {
+          "answer": "Raid de Dieppe",
+          "tier": "t4",
+          "aliases": [
+            "Opération Jubilee"
+          ]
+        },
+        {
+          "answer": "Bataille d'Arnhem",
+          "tier": "t4",
+          "aliases": [
+            "Opération Market Garden",
+            "Market Garden"
+          ]
+        },
+        {
+          "answer": "Bataille de la mer de Corail",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de Bastogne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bombardement de Dresde",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Insurrection de Varsovie",
+          "tier": "t4",
+          "aliases": [
+            "Soulèvement de Varsovie"
+          ]
+        },
+        {
+          "answer": "Soulèvement du ghetto de Varsovie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de Narvik",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Attaque de Mers el-Kébir",
+          "tier": "t4",
+          "aliases": [
+            "Mers el-Kébir"
+          ]
+        },
+        {
+          "answer": "Sabordage de la flotte française à Toulon",
+          "tier": "t4",
+          "aliases": [
+            "Sabordage de Toulon"
+          ]
+        },
+        {
+          "answer": "Bataille de Tobrouk",
+          "tier": "t4",
+          "aliases": [
+            "Siège de Tobrouk"
+          ]
+        },
+        {
+          "answer": "Bataille de Crète",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chute de Singapour",
+          "tier": "t4",
+          "aliases": [
+            "Bataille de Singapour"
+          ]
+        },
+        {
+          "answer": "Libération de Rome",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Libération de Strasbourg",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Libération d'Auschwitz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de Tarawa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de Leyte",
+          "tier": "t4",
+          "aliases": [
+            "Bataille du golfe de Leyte"
+          ]
+        },
+        {
+          "answer": "Attentat du 20 juillet 1944",
+          "tier": "t4",
+          "aliases": [
+            "Opération Walkyrie",
+            "Complot du 20 juillet"
+          ]
+        },
+        {
+          "answer": "Marche de la mort de Bataan",
+          "tier": "t4",
+          "aliases": [
+            "Marche de Bataan"
+          ]
+        },
+        {
+          "answer": "Bataille de Kharkov",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de Normandie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Libération de Bruxelles",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Débarquement en Sicile",
+          "tier": "t4",
+          "aliases": [
+            "Opération Husky"
+          ]
+        },
+        {
+          "answer": "Bataille de Smolensk",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Raid de Doolittle",
+          "tier": "t4",
+          "aliases": [
+            "Raid Doolittle"
+          ]
+        },
+        {
+          "answer": "Occupation de la zone libre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Raid sur Saint-Nazaire",
+          "tier": "t5",
+          "aliases": [
+            "Opération Chariot"
+          ]
+        },
+        {
+          "answer": "Opération Mincemeat",
+          "tier": "t5",
+          "aliases": [
+            "Opération Viande hachée"
+          ]
+        },
+        {
+          "answer": "Opération Anthropoid",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Raid des Dambusters",
+          "tier": "t5",
+          "aliases": [
+            "Opération Chastise"
+          ]
+        },
+        {
+          "answer": "Bombardement de Hambourg",
+          "tier": "t5",
+          "aliases": [
+            "Opération Gomorrhe"
+          ]
+        },
+        {
+          "answer": "Bataille de la forêt de Hürtgen",
+          "tier": "t5",
+          "aliases": [
+            "Bataille de Hürtgen"
+          ]
+        },
+        {
+          "answer": "Bataille de Seelow",
+          "tier": "t5",
+          "aliases": [
+            "Bataille des hauteurs de Seelow"
+          ]
+        },
+        {
+          "answer": "Invasion de la Norvège",
+          "tier": "t5",
+          "aliases": [
+            "Opération Weserübung"
+          ]
+        },
+        {
+          "answer": "Opération Frankton",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de Tarente",
+          "tier": "t5",
+          "aliases": [
+            "Raid sur Tarente"
+          ]
+        },
+        {
+          "answer": "Bataille du cap Matapan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Poche de Falaise",
+          "tier": "t5",
+          "aliases": [
+            "Bataille de la poche de Falaise"
+          ]
+        },
+        {
+          "answer": "Poche de Colmar",
+          "tier": "t5",
+          "aliases": [
+            "Bataille de la poche de Colmar"
+          ]
+        },
+        {
+          "answer": "Bataille de Cherbourg",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de Caen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Opération Cobra",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Opération Bagration",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Opération Uranus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Opération Lion de mer",
+          "tier": "t5",
+          "aliases": [
+            "Opération Seelöwe"
+          ]
+        },
+        {
+          "answer": "Bataille de Corregidor",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de Saipan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bataille de Peleliu",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bombardement de Tokyo",
+          "tier": "t5",
+          "aliases": [
+            "Bombardement incendiaire de Tokyo"
+          ]
+        }
+      ]
+    },
+    "his-antiquite-peuple": {
+      "promptId": "his-antiquite-peuple",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Égyptiens",
+          "tier": "t1",
+          "aliases": [
+            "Égypte antique",
+            "Civilisation égyptienne"
+          ]
+        },
+        {
+          "answer": "Grecs",
+          "tier": "t1",
+          "aliases": [
+            "Grèce antique",
+            "Civilisation grecque"
+          ]
+        },
+        {
+          "answer": "Romains",
+          "tier": "t1",
+          "aliases": [
+            "Rome antique",
+            "Civilisation romaine"
+          ]
+        },
+        {
+          "answer": "Gaulois",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Perses",
+          "tier": "t1",
+          "aliases": [
+            "Empire perse",
+            "Empire achéménide",
+            "Achéménides"
+          ]
+        },
+        {
+          "answer": "Phéniciens",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Carthaginois",
+          "tier": "t1",
+          "aliases": [
+            "Carthage"
+          ]
+        },
+        {
+          "answer": "Sumériens",
+          "tier": "t1",
+          "aliases": [
+            "Sumer"
+          ]
+        },
+        {
+          "answer": "Babyloniens",
+          "tier": "t1",
+          "aliases": [
+            "Babylone"
+          ]
+        },
+        {
+          "answer": "Assyriens",
+          "tier": "t1",
+          "aliases": [
+            "Assyrie"
+          ]
+        },
+        {
+          "answer": "Étrusques",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Garamantes",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Hittites",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Celtes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mèdes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hébreux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Macédoniens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Spartiates",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Athéniens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Minoens",
+          "tier": "t3",
+          "aliases": [
+            "Civilisation minoenne"
+          ]
+        },
+        {
+          "answer": "Mycéniens",
+          "tier": "t3",
+          "aliases": [
+            "Civilisation mycénienne"
+          ]
+        },
+        {
+          "answer": "Akkadiens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Huns",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Wisigoths",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ostrogoths",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Goths",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vandales",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Francs",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Germains",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parthes",
+          "tier": "t3",
+          "aliases": [
+            "Empire parthe"
+          ]
+        },
+        {
+          "answer": "Scythes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Numides",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ibères",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Daces",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Thraces",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lydiens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Phrygiens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Élamites",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nubiens",
+          "tier": "t3",
+          "aliases": [
+            "Koush",
+            "Royaume de Koush"
+          ]
+        },
+        {
+          "answer": "Harappéens",
+          "tier": "t3",
+          "aliases": [
+            "Civilisation de l'Indus",
+            "Civilisation harappéenne"
+          ]
+        },
+        {
+          "answer": "Han",
+          "tier": "t3",
+          "aliases": [
+            "Dynastie Han"
+          ]
+        },
+        {
+          "answer": "Maurya",
+          "tier": "t3",
+          "aliases": [
+            "Empire maurya"
+          ]
+        },
+        {
+          "answer": "Philistins",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cananéens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Saxons",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alamans",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Burgondes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cimbres",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Teutons",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Aksoumites",
+          "tier": "t4",
+          "aliases": [
+            "Royaume d'Aksoum"
+          ]
+        },
+        {
+          "answer": "Nabatéens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sabéens",
+          "tier": "t4",
+          "aliases": [
+            "Royaume de Saba"
+          ]
+        },
+        {
+          "answer": "Araméens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hourrites",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kassites",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mitanniens",
+          "tier": "t4",
+          "aliases": [
+            "Royaume du Mitanni"
+          ]
+        },
+        {
+          "answer": "Urartéens",
+          "tier": "t4",
+          "aliases": [
+            "Royaume d'Urartu"
+          ]
+        },
+        {
+          "answer": "Cimmériens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sarmates",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Illyriens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lusitaniens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Helvètes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Samnites",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sabins",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Latins",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ligures",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Messapes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ioniens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Doriens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Éoliens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Édomites",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Moabites",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ammonites",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Arvernes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Éduens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Allobroges",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Séquanes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bituriges",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Carnutes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Vénètes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Alains",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Suèves",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lombards",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bactriens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sogdiens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gupta",
+          "tier": "t4",
+          "aliases": [
+            "Empire gupta"
+          ]
+        },
+        {
+          "answer": "Qin",
+          "tier": "t4",
+          "aliases": [
+            "Dynastie Qin"
+          ]
+        },
+        {
+          "answer": "Xiongnu",
+          "tier": "t4",
+          "aliases": [
+            "Hiongnou"
+          ]
+        },
+        {
+          "answer": "Kouchans",
+          "tier": "t4",
+          "aliases": [
+            "Empire kouchan"
+          ]
+        },
+        {
+          "answer": "Palmyréniens",
+          "tier": "t4",
+          "aliases": [
+            "Royaume de Palmyre"
+          ]
+        },
+        {
+          "answer": "Calédoniens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Icènes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Trinovantes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sicules",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Osques",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Volsques",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ombriens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lucaniens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Rètes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cariens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lyciens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ciliciens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cappadociens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Galates",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bithyniens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Paphlagoniens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Massagètes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Yuezhi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Éburons",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Nerviens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Trévires",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Rèmes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Santons",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lingons",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Volques",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Boïens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Insubres",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cénomans",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gètes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bastarnes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Quades",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Marcomans",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Chérusques",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Chauques",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Vandiles",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gépides",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hérules",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "his-pharaon": {
+      "promptId": "his-pharaon",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Toutânkhamon",
+          "tier": "t1",
+          "aliases": [
+            "Toutankhamon",
+            "Tutankhamon"
+          ]
+        },
+        {
+          "answer": "Ramsès II",
+          "tier": "t1",
+          "aliases": [
+            "Ramsès le Grand",
+            "Ramsès 2"
+          ]
+        },
+        {
+          "answer": "Khéops",
+          "tier": "t1",
+          "aliases": [
+            "Khoufou",
+            "Khufu"
+          ]
+        },
+        {
+          "answer": "Akhenaton",
+          "tier": "t1",
+          "aliases": [
+            "Aménophis IV",
+            "Amenhotep IV",
+            "Akhénaton"
+          ]
+        },
+        {
+          "answer": "Hatchepsout",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Khéphren",
+          "tier": "t1",
+          "aliases": [
+            "Khafrê",
+            "Khâfrê"
+          ]
+        },
+        {
+          "answer": "Mykérinos",
+          "tier": "t1",
+          "aliases": [
+            "Menkaourê",
+            "Menkhaourê"
+          ]
+        },
+        {
+          "answer": "Djéser",
+          "tier": "t1",
+          "aliases": [
+            "Djoser",
+            "Zoser"
+          ]
+        },
+        {
+          "answer": "Thoutmôsis III",
+          "tier": "t1",
+          "aliases": [
+            "Thoutmosis III",
+            "Thoutmès III"
+          ]
+        },
+        {
+          "answer": "Ramsès III",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Cléopâtre VII",
+          "tier": "t2",
+          "aliases": [
+            "Cléopâtre"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Alexandre le Grand",
+          "tier": "t6",
+          "aliases": [
+            "Alexandre III de Macédoine",
+            "Alexandre"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Amenhotep III",
+          "tier": "t3",
+          "aliases": [
+            "Aménophis III"
+          ]
+        },
+        {
+          "answer": "Séthi Ier",
+          "tier": "t3",
+          "aliases": [
+            "Séti Ier",
+            "Séthi 1er"
+          ]
+        },
+        {
+          "answer": "Snéfrou",
+          "tier": "t3",
+          "aliases": [
+            "Snefrou",
+            "Sneferu"
+          ]
+        },
+        {
+          "answer": "Narmer",
+          "tier": "t3",
+          "aliases": [
+            "Ménès"
+          ]
+        },
+        {
+          "answer": "Horemheb",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mérenptah",
+          "tier": "t3",
+          "aliases": [
+            "Merenptah"
+          ]
+        },
+        {
+          "answer": "Nectanébo II",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ptolémée Ier",
+          "tier": "t3",
+          "aliases": [
+            "Ptolémée Ier Sôter",
+            "Ptolémée Sôter"
+          ]
+        },
+        {
+          "answer": "Sésostris III",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Amenemhat III",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Thoutmôsis I",
+          "tier": "t3",
+          "aliases": [
+            "Thoutmosis I",
+            "Thoutmès I"
+          ]
+        },
+        {
+          "answer": "Ramsès I",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ahmôsis Ier",
+          "tier": "t3",
+          "aliases": [
+            "Ahmès Ier",
+            "Amosis"
+          ]
+        },
+        {
+          "answer": "Piânkhy",
+          "tier": "t3",
+          "aliases": [
+            "Piyé",
+            "Piankhi"
+          ]
+        },
+        {
+          "answer": "Taharqa",
+          "tier": "t3",
+          "aliases": [
+            "Taharka"
+          ]
+        },
+        {
+          "answer": "Psammétique Ier",
+          "tier": "t3",
+          "aliases": [
+            "Psammétique I"
+          ]
+        },
+        {
+          "answer": "Chéchonq Ier",
+          "tier": "t3",
+          "aliases": [
+            "Sheshonq I",
+            "Sheshonq Ier",
+            "Chéchanq Ier"
+          ]
+        },
+        {
+          "answer": "Pépi II",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ptolémée II Philadelphe",
+          "tier": "t3",
+          "aliases": [
+            "Ptolémée II"
+          ]
+        },
+        {
+          "answer": "Aÿ",
+          "tier": "t3",
+          "aliases": [
+            "Ay",
+            "Aï"
+          ]
+        },
+        {
+          "answer": "Thoutmôsis IV",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Amenhotep I",
+          "tier": "t3",
+          "aliases": [
+            "Aménophis I"
+          ]
+        },
+        {
+          "answer": "Amenhotep II",
+          "tier": "t3",
+          "aliases": [
+            "Aménophis II"
+          ]
+        },
+        {
+          "answer": "Sésostris Ier",
+          "tier": "t4",
+          "aliases": [
+            "Sésostris I"
+          ]
+        },
+        {
+          "answer": "Sésostris II",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Amenemhat Ier",
+          "tier": "t4",
+          "aliases": [
+            "Amenemhat I"
+          ]
+        },
+        {
+          "answer": "Amenemhat II",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mentouhotep II",
+          "tier": "t4",
+          "aliases": [
+            "Montouhotep II"
+          ]
+        },
+        {
+          "answer": "Khasekhemoui",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Djédefrê",
+          "tier": "t4",
+          "aliases": [
+            "Djedefre",
+            "Radjedef"
+          ]
+        },
+        {
+          "answer": "Chepseskaf",
+          "tier": "t4",
+          "aliases": [
+            "Shepseskaf"
+          ]
+        },
+        {
+          "answer": "Ouserkaf",
+          "tier": "t4",
+          "aliases": [
+            "Userkaf"
+          ]
+        },
+        {
+          "answer": "Sahourê",
+          "tier": "t4",
+          "aliases": [
+            "Sahure"
+          ]
+        },
+        {
+          "answer": "Niouserrê",
+          "tier": "t4",
+          "aliases": [
+            "Niuserre"
+          ]
+        },
+        {
+          "answer": "Téti",
+          "tier": "t4",
+          "aliases": [
+            "Téti Ier"
+          ]
+        },
+        {
+          "answer": "Pépi Ier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Thoutmôsis II",
+          "tier": "t4",
+          "aliases": [
+            "Thoutmosis II"
+          ]
+        },
+        {
+          "answer": "Séthi II",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ramsès IV",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ramsès V",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ramsès VI",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ramsès IX",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ramsès XI",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Smenkhkarê",
+          "tier": "t4",
+          "aliases": [
+            "Smenkhkare"
+          ]
+        },
+        {
+          "answer": "Psousennès Ier",
+          "tier": "t4",
+          "aliases": [
+            "Psousennès"
+          ]
+        },
+        {
+          "answer": "Chabaka",
+          "tier": "t4",
+          "aliases": [
+            "Shabaka"
+          ]
+        },
+        {
+          "answer": "Nékao II",
+          "tier": "t4",
+          "aliases": [
+            "Nechao II",
+            "Néchao II"
+          ]
+        },
+        {
+          "answer": "Apriès",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Amasis II",
+          "tier": "t4",
+          "aliases": [
+            "Ahmôsis II",
+            "Amasis"
+          ]
+        },
+        {
+          "answer": "Nectanébo Ier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Psammétique III",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ptolémée III Évergète",
+          "tier": "t4",
+          "aliases": [
+            "Ptolémée III"
+          ]
+        },
+        {
+          "answer": "Ptolémée IV Philopator",
+          "tier": "t4",
+          "aliases": [
+            "Ptolémée IV"
+          ]
+        },
+        {
+          "answer": "Ptolémée V Épiphane",
+          "tier": "t4",
+          "aliases": [
+            "Ptolémée V"
+          ]
+        },
+        {
+          "answer": "Ptolémée VI Philométor",
+          "tier": "t4",
+          "aliases": [
+            "Ptolémée VI"
+          ]
+        },
+        {
+          "answer": "Ptolémée VIII Évergète II",
+          "tier": "t4",
+          "aliases": [
+            "Ptolémée VIII"
+          ]
+        },
+        {
+          "answer": "Ptolémée XII Aulète",
+          "tier": "t4",
+          "aliases": [
+            "Ptolémée XII"
+          ]
+        },
+        {
+          "answer": "Ptolémée XIII",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ptolémée XIV",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ptolémée XV Césarion",
+          "tier": "t4",
+          "aliases": [
+            "Césarion",
+            "Ptolémée XV"
+          ]
+        },
+        {
+          "answer": "Ptolémée IX",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ptolémée X",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ptolémée XI",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sobekneferou",
+          "tier": "t4",
+          "aliases": [
+            "Neferousobek"
+          ]
+        },
+        {
+          "answer": "Hor-Aha",
+          "tier": "t4",
+          "aliases": [
+            "Aha"
+          ]
+        },
+        {
+          "answer": "Djer",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Den",
+          "tier": "t4",
+          "aliases": [
+            "Dewen"
+          ]
+        },
+        {
+          "answer": "Djet",
+          "tier": "t4",
+          "aliases": [
+            "Wadj"
+          ]
+        },
+        {
+          "answer": "Semerkhet",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Qaâ",
+          "tier": "t4",
+          "aliases": [
+            "Qa'a",
+            "Qaa"
+          ]
+        },
+        {
+          "answer": "Sekhemkhet",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Khaba",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Houni",
+          "tier": "t5",
+          "aliases": [
+            "Huni"
+          ]
+        },
+        {
+          "answer": "Ounas",
+          "tier": "t5",
+          "aliases": [
+            "Unas"
+          ]
+        },
+        {
+          "answer": "Merenrê Ier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sobekhotep IV",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kamosé",
+          "tier": "t5",
+          "aliases": [
+            "Kamosis"
+          ]
+        },
+        {
+          "answer": "Seqenenre Taâ",
+          "tier": "t5",
+          "aliases": [
+            "Seqenenre"
+          ]
+        },
+        {
+          "answer": "Taâ II",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hotepsekhemoui",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sanakht",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Neferirkare Kakai",
+          "tier": "t5",
+          "aliases": [
+            "Néferirkarê"
+          ]
+        },
+        {
+          "answer": "Menkaouhor",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Djedkarê Isési",
+          "tier": "t5",
+          "aliases": [
+            "Djedkarê"
+          ]
+        },
+        {
+          "answer": "Chéchonq III",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Osorkon II",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Osorkon Ier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Takélot II",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Psusennès II",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Amenemopé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Siamon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tefnakht",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bocchoris",
+          "tier": "t5",
+          "aliases": [
+            "Bakenranef"
+          ]
+        },
+        {
+          "answer": "Chabataka",
+          "tier": "t5",
+          "aliases": [
+            "Shebitku"
+          ]
+        },
+        {
+          "answer": "Tanoutamon",
+          "tier": "t5",
+          "aliases": [
+            "Tanutamon"
+          ]
+        },
+        {
+          "answer": "Psammétique II",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Khababash",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "his-napoleon-general": {
+      "promptId": "his-napoleon-general",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Michel Ney",
+          "tier": "t1",
+          "aliases": [
+            "Ney",
+            "Maréchal Ney"
+          ]
+        },
+        {
+          "answer": "Joachim Murat",
+          "tier": "t1",
+          "aliases": [
+            "Murat"
+          ]
+        },
+        {
+          "answer": "Louis-Nicolas Davout",
+          "tier": "t1",
+          "aliases": [
+            "Davout",
+            "Louis Davout"
+          ]
+        },
+        {
+          "answer": "Nicolas Soult",
+          "tier": "t1",
+          "aliases": [
+            "Soult",
+            "Jean-de-Dieu Soult"
+          ]
+        },
+        {
+          "answer": "Jean Lannes",
+          "tier": "t1",
+          "aliases": [
+            "Lannes"
+          ]
+        },
+        {
+          "answer": "André Masséna",
+          "tier": "t1",
+          "aliases": [
+            "Masséna",
+            "Massena"
+          ]
+        },
+        {
+          "answer": "Louis-Alexandre Berthier",
+          "tier": "t1",
+          "aliases": [
+            "Berthier",
+            "Alexandre Berthier"
+          ]
+        },
+        {
+          "answer": "Jean-Baptiste Bernadotte",
+          "tier": "t1",
+          "aliases": [
+            "Bernadotte"
+          ]
+        },
+        {
+          "answer": "Jean-Baptiste Bessières",
+          "tier": "t1",
+          "aliases": [
+            "Bessières"
+          ]
+        },
+        {
+          "answer": "Pierre Augereau",
+          "tier": "t1",
+          "aliases": [
+            "Augereau",
+            "Charles Pierre François Augereau"
+          ]
+        },
+        {
+          "answer": "Emmanuel de Grouchy",
+          "tier": "t2",
+          "aliases": [
+            "Grouchy"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Józef Antoni Poniatowski",
+          "tier": "t6",
+          "aliases": [
+            "Poniatowski",
+            "Joseph Poniatowski"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Jean-Andoche Junot",
+          "tier": "t3",
+          "aliases": [
+            "Junot"
+          ]
+        },
+        {
+          "answer": "Jean Rapp",
+          "tier": "t3",
+          "aliases": [
+            "Rapp"
+          ]
+        },
+        {
+          "answer": "Géraud Duroc",
+          "tier": "t3",
+          "aliases": [
+            "Duroc"
+          ]
+        },
+        {
+          "answer": "Antoine Drouot",
+          "tier": "t3",
+          "aliases": [
+            "Drouot"
+          ]
+        },
+        {
+          "answer": "Pierre Cambronne",
+          "tier": "t3",
+          "aliases": [
+            "Cambronne"
+          ]
+        },
+        {
+          "answer": "Henri Gatien Bertrand",
+          "tier": "t3",
+          "aliases": [
+            "Bertrand",
+            "Général Bertrand"
+          ]
+        },
+        {
+          "answer": "Armand de Caulaincourt",
+          "tier": "t3",
+          "aliases": [
+            "Caulaincourt"
+          ]
+        },
+        {
+          "answer": "Antoine Charles Louis de Lasalle",
+          "tier": "t3",
+          "aliases": [
+            "Lasalle",
+            "Antoine Lasalle"
+          ]
+        },
+        {
+          "answer": "Anne Jean Marie René Savary",
+          "tier": "t3",
+          "aliases": [
+            "Savary"
+          ]
+        },
+        {
+          "answer": "Dominique Vandamme",
+          "tier": "t3",
+          "aliases": [
+            "Vandamme"
+          ]
+        },
+        {
+          "answer": "Étienne Maurice Gérard",
+          "tier": "t3",
+          "aliases": [
+            "Gérard",
+            "Maurice Gérard"
+          ]
+        },
+        {
+          "answer": "Rémy Joseph Isidore Exelmans",
+          "tier": "t3",
+          "aliases": [
+            "Exelmans",
+            "Excelmans"
+          ]
+        },
+        {
+          "answer": "Louis Friant",
+          "tier": "t3",
+          "aliases": [
+            "Friant"
+          ]
+        },
+        {
+          "answer": "Charles Étienne Gudin",
+          "tier": "t3",
+          "aliases": [
+            "Gudin"
+          ]
+        },
+        {
+          "answer": "Jean-Baptiste Marbot",
+          "tier": "t3",
+          "aliases": [
+            "Marbot",
+            "Marcellin de Marbot"
+          ]
+        },
+        {
+          "answer": "Charles Lefebvre-Desnouettes",
+          "tier": "t3",
+          "aliases": [
+            "Lefebvre-Desnouettes"
+          ]
+        },
+        {
+          "answer": "Étienne de Nansouty",
+          "tier": "t3",
+          "aliases": [
+            "Nansouty"
+          ]
+        },
+        {
+          "answer": "Honoré Reille",
+          "tier": "t3",
+          "aliases": [
+            "Reille"
+          ]
+        },
+        {
+          "answer": "Georges Mouton",
+          "tier": "t3",
+          "aliases": [
+            "Lobau",
+            "Comte de Lobau"
+          ]
+        },
+        {
+          "answer": "Jean-Baptiste Drouet d'Erlon",
+          "tier": "t3",
+          "aliases": [
+            "Drouet d'Erlon",
+            "Comte d'Erlon"
+          ]
+        },
+        {
+          "answer": "Eugène de Beauharnais",
+          "tier": "t3",
+          "aliases": [
+            "Eugène de Beauharnais, vice-roi d'Italie"
+          ]
+        },
+        {
+          "answer": "François Christophe Kellermann",
+          "tier": "t3",
+          "aliases": [
+            "Kellermann",
+            "Maréchal Kellermann"
+          ]
+        },
+        {
+          "answer": "Charles Oudinot",
+          "tier": "t3",
+          "aliases": [
+            "Oudinot",
+            "Nicolas Charles Oudinot"
+          ]
+        },
+        {
+          "answer": "Adolphe Mortier",
+          "tier": "t3",
+          "aliases": [
+            "Mortier",
+            "Édouard Mortier"
+          ]
+        },
+        {
+          "answer": "Jean-Mathieu-Philibert Sérurier",
+          "tier": "t3",
+          "aliases": [
+            "Sérurier"
+          ]
+        },
+        {
+          "answer": "Jean-Baptiste Jourdan",
+          "tier": "t3",
+          "aliases": [
+            "Jourdan"
+          ]
+        },
+        {
+          "answer": "Guillaume Brune",
+          "tier": "t3",
+          "aliases": [
+            "Brune"
+          ]
+        },
+        {
+          "answer": "Bon-Adrien Jeannot de Moncey",
+          "tier": "t3",
+          "aliases": [
+            "Moncey"
+          ]
+        },
+        {
+          "answer": "François Joseph Lefebvre",
+          "tier": "t3",
+          "aliases": [
+            "Lefebvre"
+          ]
+        },
+        {
+          "answer": "Catherine-Dominique de Pérignon",
+          "tier": "t3",
+          "aliases": [
+            "Pérignon"
+          ]
+        },
+        {
+          "answer": "Laurent de Gouvion-Saint-Cyr",
+          "tier": "t3",
+          "aliases": [
+            "Gouvion-Saint-Cyr",
+            "Laurent Gouvion Saint-Cyr"
+          ]
+        },
+        {
+          "answer": "Auguste de Marmont",
+          "tier": "t3",
+          "aliases": [
+            "Marmont"
+          ]
+        },
+        {
+          "answer": "Étienne Macdonald",
+          "tier": "t3",
+          "aliases": [
+            "Macdonald",
+            "Jacques Macdonald"
+          ]
+        },
+        {
+          "answer": "Louis-Gabriel Suchet",
+          "tier": "t3",
+          "aliases": [
+            "Suchet"
+          ]
+        },
+        {
+          "answer": "Claude Victor-Perrin",
+          "tier": "t3",
+          "aliases": [
+            "Victor",
+            "Claude Victor",
+            "Maréchal Victor"
+          ]
+        },
+        {
+          "answer": "Pierre Dupont de l'Étang",
+          "tier": "t4",
+          "aliases": [
+            "Dupont de l'Étang",
+            "Dupont"
+          ]
+        },
+        {
+          "answer": "Louis-Pierre Montbrun",
+          "tier": "t4",
+          "aliases": [
+            "Montbrun"
+          ]
+        },
+        {
+          "answer": "Jean-Joseph Ange d'Hautpoul",
+          "tier": "t4",
+          "aliases": [
+            "d'Hautpoul",
+            "Hautpoul"
+          ]
+        },
+        {
+          "answer": "Jean-Baptiste Éblé",
+          "tier": "t4",
+          "aliases": [
+            "Éblé"
+          ]
+        },
+        {
+          "answer": "Jean Ambroise Baston de Lariboisière",
+          "tier": "t4",
+          "aliases": [
+            "Lariboisière"
+          ]
+        },
+        {
+          "answer": "Jean-Baptiste Bruyère",
+          "tier": "t4",
+          "aliases": [
+            "Bruyère"
+          ]
+        },
+        {
+          "answer": "Philibert Guillaume Duhesme",
+          "tier": "t4",
+          "aliases": [
+            "Duhesme"
+          ]
+        },
+        {
+          "answer": "Maximilien Sébastien Foy",
+          "tier": "t4",
+          "aliases": [
+            "Foy",
+            "Général Foy"
+          ]
+        },
+        {
+          "answer": "Charles-Mathieu Isidore Decaen",
+          "tier": "t4",
+          "aliases": [
+            "Decaen"
+          ]
+        },
+        {
+          "answer": "Pierre Claude Pajol",
+          "tier": "t4",
+          "aliases": [
+            "Pajol"
+          ]
+        },
+        {
+          "answer": "Louis Lepic",
+          "tier": "t4",
+          "aliases": [
+            "Lepic"
+          ]
+        },
+        {
+          "answer": "Joseph Souham",
+          "tier": "t4",
+          "aliases": [
+            "Souham"
+          ]
+        },
+        {
+          "answer": "Michel Marie Claparède",
+          "tier": "t4",
+          "aliases": [
+            "Claparède"
+          ]
+        },
+        {
+          "answer": "Jean Gabriel Marchand",
+          "tier": "t4",
+          "aliases": [
+            "Marchand"
+          ]
+        },
+        {
+          "answer": "Joseph Lagrange",
+          "tier": "t4",
+          "aliases": [
+            "Lagrange"
+          ]
+        },
+        {
+          "answer": "Philippe Paul de Ségur",
+          "tier": "t4",
+          "aliases": [
+            "Ségur"
+          ]
+        },
+        {
+          "answer": "François Étienne Kellermann",
+          "tier": "t4",
+          "aliases": [
+            "Kellermann fils"
+          ]
+        },
+        {
+          "answer": "Jean-Jacques Pelet",
+          "tier": "t5",
+          "aliases": [
+            "Pelet"
+          ]
+        },
+        {
+          "answer": "Jean-Pierre Doumerc",
+          "tier": "t5",
+          "aliases": [
+            "Doumerc"
+          ]
+        },
+        {
+          "answer": "Étienne Hulot",
+          "tier": "t5",
+          "aliases": [
+            "Hulot"
+          ]
+        },
+        {
+          "answer": "Jean-Baptiste Cervoni",
+          "tier": "t5",
+          "aliases": [
+            "Cervoni"
+          ]
+        },
+        {
+          "answer": "Jean-Pierre Travot",
+          "tier": "t5",
+          "aliases": [
+            "Travot"
+          ]
+        },
+        {
+          "answer": "Antoine Guillaume Delmas",
+          "tier": "t5",
+          "aliases": [
+            "Delmas"
+          ]
+        },
+        {
+          "answer": "Louis Partouneaux",
+          "tier": "t5",
+          "aliases": [
+            "Partouneaux"
+          ]
+        },
+        {
+          "answer": "Jean-Pierre Firmin Malher",
+          "tier": "t5",
+          "aliases": [
+            "Malher"
+          ]
+        },
+        {
+          "answer": "Pierre Berthezène",
+          "tier": "t5",
+          "aliases": [
+            "Berthezène"
+          ]
+        },
+        {
+          "answer": "François Roguet",
+          "tier": "t5",
+          "aliases": [
+            "Roguet"
+          ]
+        },
+        {
+          "answer": "Étienne-Nicolas Lemarois",
+          "tier": "t5",
+          "aliases": [
+            "Lemarois"
+          ]
+        }
+      ]
+    },
+    "his-espagne-portugal": {
+      "promptId": "his-espagne-portugal",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Philippe II d'Espagne",
+          "tier": "t1",
+          "aliases": [
+            "Philippe II"
+          ]
+        },
+        {
+          "answer": "Charles Quint",
+          "tier": "t1",
+          "aliases": [
+            "Charles Ier d'Espagne",
+            "Charles V"
+          ]
+        },
+        {
+          "answer": "Isabelle Ire de Castille",
+          "tier": "t1",
+          "aliases": [
+            "Isabelle la Catholique",
+            "Isabelle de Castille"
+          ]
+        },
+        {
+          "answer": "Ferdinand II d'Aragon",
+          "tier": "t1",
+          "aliases": [
+            "Ferdinand le Catholique",
+            "Ferdinand d'Aragon"
+          ]
+        },
+        {
+          "answer": "Juan Carlos Ier",
+          "tier": "t1",
+          "aliases": [
+            "Juan Carlos"
+          ]
+        },
+        {
+          "answer": "Felipe VI",
+          "tier": "t1",
+          "aliases": [
+            "Philippe VI d'Espagne",
+            "Philippe VI"
+          ]
+        },
+        {
+          "answer": "Alphonse XIII",
+          "tier": "t1",
+          "aliases": [
+            "Alphonse XIII d'Espagne"
+          ]
+        },
+        {
+          "answer": "Manuel Ier de Portugal",
+          "tier": "t1",
+          "aliases": [
+            "Manuel le Fortuné",
+            "Manuel Ier"
+          ]
+        },
+        {
+          "answer": "Joseph Bonaparte",
+          "tier": "t2",
+          "aliases": [
+            "Joseph Ier d'Espagne",
+            "Joseph Napoléon"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Pierre IV de Portugal",
+          "tier": "t6",
+          "aliases": [
+            "Pierre Ier du Brésil",
+            "Dom Pedro IV",
+            "Pedro Ier du Brésil"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Philippe III d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Philippe III"
+          ]
+        },
+        {
+          "answer": "Philippe IV d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Philippe IV"
+          ]
+        },
+        {
+          "answer": "Charles II d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Charles II"
+          ]
+        },
+        {
+          "answer": "Philippe V d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Philippe V"
+          ]
+        },
+        {
+          "answer": "Ferdinand VI d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Ferdinand VI"
+          ]
+        },
+        {
+          "answer": "Charles III d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Charles III"
+          ]
+        },
+        {
+          "answer": "Charles IV d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Charles IV"
+          ]
+        },
+        {
+          "answer": "Ferdinand VII d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Ferdinand VII"
+          ]
+        },
+        {
+          "answer": "Isabelle II d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Isabelle II"
+          ]
+        },
+        {
+          "answer": "Alphonse XII d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Alphonse XII"
+          ]
+        },
+        {
+          "answer": "Amédée Ier d'Espagne",
+          "tier": "t3",
+          "aliases": [
+            "Amédée de Savoie",
+            "Amédée Ier"
+          ]
+        },
+        {
+          "answer": "Jeanne la Folle",
+          "tier": "t3",
+          "aliases": [
+            "Jeanne Ire de Castille"
+          ]
+        },
+        {
+          "answer": "Philippe le Beau",
+          "tier": "t3",
+          "aliases": [
+            "Philippe Ier de Castille"
+          ]
+        },
+        {
+          "answer": "Jean Ier de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Jean Ier"
+          ]
+        },
+        {
+          "answer": "Jean II de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Jean II",
+            "Jean le Parfait"
+          ]
+        },
+        {
+          "answer": "Sébastien Ier de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Sébastien Ier",
+            "Dom Sébastien",
+            "Sébastien le Désiré"
+          ]
+        },
+        {
+          "answer": "Jean IV de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Jean IV",
+            "Jean le Restaurateur"
+          ]
+        },
+        {
+          "answer": "Marie Ire de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Marie la Folle",
+            "Marie Ire"
+          ]
+        },
+        {
+          "answer": "Jean VI de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Jean VI"
+          ]
+        },
+        {
+          "answer": "Pierre Ier de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Pierre le Justicier"
+          ]
+        },
+        {
+          "answer": "Alphonse Ier de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Alphonse Henriques",
+            "Afonso Henriques",
+            "Alphonse le Conquérant"
+          ]
+        },
+        {
+          "answer": "Denis Ier de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Denis Ier",
+            "Dinis Ier",
+            "Denis le Laboureur"
+          ]
+        },
+        {
+          "answer": "Jean V de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Jean V",
+            "Jean le Magnanime"
+          ]
+        },
+        {
+          "answer": "Joseph Ier de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Joseph Ier le Réformateur"
+          ]
+        },
+        {
+          "answer": "Charles Ier de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Charles Ier",
+            "Charles le Diplomate"
+          ]
+        },
+        {
+          "answer": "Manuel II de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Manuel II"
+          ]
+        },
+        {
+          "answer": "Marie II de Portugal",
+          "tier": "t3",
+          "aliases": [
+            "Marie II"
+          ]
+        },
+        {
+          "answer": "Jean III de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Jean III",
+            "Jean le Pieux"
+          ]
+        },
+        {
+          "answer": "Alphonse V de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Alphonse V",
+            "Alphonse l'Africain"
+          ]
+        },
+        {
+          "answer": "Édouard Ier de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Édouard Ier",
+            "Duarte Ier"
+          ]
+        },
+        {
+          "answer": "Henri Ier de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Henri le Chaste",
+            "Cardinal-roi Henri"
+          ]
+        },
+        {
+          "answer": "Alphonse VI de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Alphonse le Victorieux"
+          ]
+        },
+        {
+          "answer": "Pierre II de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Pierre le Pacifique"
+          ]
+        },
+        {
+          "answer": "Louis Ier de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Louis le Populaire"
+          ]
+        },
+        {
+          "answer": "Ferdinand Ier de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Ferdinand le Beau"
+          ]
+        },
+        {
+          "answer": "Alphonse III de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Alphonse le Boulonnais"
+          ]
+        },
+        {
+          "answer": "Alphonse IV de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Alphonse le Brave"
+          ]
+        },
+        {
+          "answer": "Alphonse II de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Alphonse le Gros"
+          ]
+        },
+        {
+          "answer": "Sanche Ier de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Sanche le Colonisateur"
+          ]
+        },
+        {
+          "answer": "Sanche II de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Sanche le Capelo"
+          ]
+        },
+        {
+          "answer": "Pierre V de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Pierre le Très Fidèle"
+          ]
+        },
+        {
+          "answer": "Miguel Ier de Portugal",
+          "tier": "t4",
+          "aliases": [
+            "Dom Miguel"
+          ]
+        },
+        {
+          "answer": "Louis Ier d'Espagne",
+          "tier": "t4",
+          "aliases": [
+            "Louis Ier le Bien-Aimé"
+          ]
+        },
+        {
+          "answer": "Alphonse X de Castille",
+          "tier": "t4",
+          "aliases": [
+            "Alphonse le Sage",
+            "Alphonse X le Sage"
+          ]
+        },
+        {
+          "answer": "Ferdinand III de Castille",
+          "tier": "t4",
+          "aliases": [
+            "Ferdinand le Saint",
+            "Ferdinand III le Saint"
+          ]
+        },
+        {
+          "answer": "Jacques Ier d'Aragon",
+          "tier": "t4",
+          "aliases": [
+            "Jacques le Conquérant"
+          ]
+        },
+        {
+          "answer": "Pierre Ier de Castille",
+          "tier": "t4",
+          "aliases": [
+            "Pierre le Cruel"
+          ]
+        },
+        {
+          "answer": "Henri IV de Castille",
+          "tier": "t4",
+          "aliases": [
+            "Henri l'Impuissant"
+          ]
+        },
+        {
+          "answer": "Alphonse V d'Aragon",
+          "tier": "t4",
+          "aliases": [
+            "Alphonse le Magnanime"
+          ]
+        },
+        {
+          "answer": "Jean II d'Aragon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Henri II de Castille",
+          "tier": "t4",
+          "aliases": [
+            "Henri de Trastamare"
+          ]
+        },
+        {
+          "answer": "Alphonse VI de Castille",
+          "tier": "t5",
+          "aliases": [
+            "Alphonse VI de León"
+          ]
+        },
+        {
+          "answer": "Alphonse VIII de Castille",
+          "tier": "t5",
+          "aliases": [
+            "Alphonse le Noble"
+          ]
+        },
+        {
+          "answer": "Alphonse XI de Castille",
+          "tier": "t5",
+          "aliases": [
+            "Alphonse le Justicier"
+          ]
+        },
+        {
+          "answer": "Jean II de Castille",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Henri III de Castille",
+          "tier": "t5",
+          "aliases": [
+            "Henri le Souffrant"
+          ]
+        },
+        {
+          "answer": "Pierre IV d'Aragon",
+          "tier": "t5",
+          "aliases": [
+            "Pierre le Cérémonieux"
+          ]
+        },
+        {
+          "answer": "Alphonse II d'Aragon",
+          "tier": "t5",
+          "aliases": [
+            "Alphonse le Chaste"
+          ]
+        },
+        {
+          "answer": "Pierre II d'Aragon",
+          "tier": "t5",
+          "aliases": [
+            "Pierre le Catholique"
+          ]
+        },
+        {
+          "answer": "Alphonse III d'Aragon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Jacques II d'Aragon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Martin Ier d'Aragon",
+          "tier": "t5",
+          "aliases": [
+            "Martin l'Humain"
+          ]
+        },
+        {
+          "answer": "Ferdinand Ier d'Aragon",
+          "tier": "t5",
+          "aliases": [
+            "Ferdinand d'Antequera"
+          ]
+        },
+        {
+          "answer": "Ramire II d'Aragon",
+          "tier": "t5",
+          "aliases": [
+            "Ramire le Moine"
+          ]
+        },
+        {
+          "answer": "Alphonse Ier d'Aragon",
+          "tier": "t5",
+          "aliases": [
+            "Alphonse le Batailleur"
+          ]
+        }
+      ]
+    },
+    "his-guerre-xxe": {
+      "promptId": "his-guerre-xxe",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Première Guerre mondiale",
+          "tier": "t1",
+          "aliases": [
+            "Grande Guerre",
+            "WWI",
+            "Guerre de 14-18",
+            "1ère Guerre mondiale"
+          ]
+        },
+        {
+          "answer": "Seconde Guerre mondiale",
+          "tier": "t1",
+          "aliases": [
+            "Deuxième Guerre mondiale",
+            "WWII",
+            "Guerre de 39-45",
+            "2nde Guerre mondiale"
+          ]
+        },
+        {
+          "answer": "Guerre du Vietnam",
+          "tier": "t1",
+          "aliases": [
+            "Guerre du Viêt Nam"
+          ]
+        },
+        {
+          "answer": "Guerre de Corée",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre d'Algérie",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre froide",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre d'Indochine",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre du Golfe",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre civile espagnole",
+          "tier": "t1",
+          "aliases": [
+            "Guerre d'Espagne"
+          ]
+        },
+        {
+          "answer": "Guerre des Six Jours",
+          "tier": "t2",
+          "aliases": [
+            "Guerre de 1967",
+            "Guerre israélo-arabe de 1967"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Guerre du football",
+          "tier": "t6",
+          "aliases": [
+            "Guerre des Cent Heures"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Guerre du Kippour",
+          "tier": "t3",
+          "aliases": [
+            "Guerre du Yom Kippour",
+            "Guerre israélo-arabe de 1973"
+          ]
+        },
+        {
+          "answer": "Guerre Iran-Irak",
+          "tier": "t3",
+          "aliases": [
+            "Guerre irano-irakienne"
+          ]
+        },
+        {
+          "answer": "Guerre des Malouines",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre du Kosovo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre de Bosnie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre civile russe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre russo-japonaise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guerres balkaniques",
+          "tier": "t3",
+          "aliases": [
+            "Guerre des Balkans"
+          ]
+        },
+        {
+          "answer": "Guerre d'Hiver",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre soviéto-afghane",
+          "tier": "t3",
+          "aliases": [
+            "Guerre d'Afghanistan"
+          ]
+        },
+        {
+          "answer": "Guerre civile chinoise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre du Liban",
+          "tier": "t3",
+          "aliases": [
+            "Guerre civile libanaise"
+          ]
+        },
+        {
+          "answer": "Crise de Suez",
+          "tier": "t3",
+          "aliases": [
+            "Guerre de Suez"
+          ]
+        },
+        {
+          "answer": "Guerre d'indépendance d'Israël",
+          "tier": "t3",
+          "aliases": [
+            "Guerre israélo-arabe de 1948"
+          ]
+        },
+        {
+          "answer": "Guerres de Yougoslavie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre du Chaco",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre polono-soviétique",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre du Rif",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre civile grecque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre civile finlandaise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre de Continuation",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre gréco-turque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre d'indépendance turque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre italo-turque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre du Biafra",
+          "tier": "t4",
+          "aliases": [
+            "Guerre civile nigériane"
+          ]
+        },
+        {
+          "answer": "Guerre indo-pakistanaise de 1971",
+          "tier": "t4",
+          "aliases": [
+            "Guerre de libération du Bangladesh"
+          ]
+        },
+        {
+          "answer": "Guerre civile angolaise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre de Croatie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Première guerre de Tchétchénie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre sino-vietnamienne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Seconde guerre sino-japonaise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Seconde guerre italo-éthiopienne",
+          "tier": "t4",
+          "aliases": [
+            "Guerre d'Éthiopie"
+          ]
+        },
+        {
+          "answer": "Seconde guerre des Boers",
+          "tier": "t4",
+          "aliases": [
+            "Guerre des Boers"
+          ]
+        },
+        {
+          "answer": "Guerre d'indépendance irlandaise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre civile rwandaise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre indo-pakistanaise de 1965",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre des Cristeros",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre de l'Ogaden",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre des Sables",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre de l'Ifni",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre du Cenepa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre de Kargil",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre des Dix Jours",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre du Haut-Karabagh",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre d'Abkhazie",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre de Transnistrie",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre d'usure",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre des Bananes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre civile guatémaltèque",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre du Sahara occidental",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre d'indépendance estonienne",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre civile du Salvador",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Première guerre du Congo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre civile du Mozambique",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre du Dhofar",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guerre de la bande d'Aozou",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "his-traite": {
+      "promptId": "his-traite",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Traité de Versailles",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Rome",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Maastricht",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Traités de Westphalie",
+          "tier": "t1",
+          "aliases": [
+            "Traité de Westphalie",
+            "Paix de Westphalie"
+          ]
+        },
+        {
+          "answer": "Traité de Verdun",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Tordesillas",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Paris",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de l'Élysée",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Lisbonne",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Brest-Litovsk",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Pacte Briand-Kellogg",
+          "tier": "t6",
+          "aliases": [
+            "Pacte de Paris"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Traité d'Utrecht",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Campo-Formio",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Tilsit",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Trianon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Sèvres",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Lausanne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Saint-Germain-en-Laye",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Neuilly",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Nankin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Portsmouth",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Francfort",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Vereeniging",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Troyes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité d'Amiens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Guadalupe Hidalgo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Waitangi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité sur la non-prolifération des armes nucléaires",
+          "tier": "t3",
+          "aliases": [
+            "TNP",
+            "Traité de non-prolifération"
+          ]
+        },
+        {
+          "answer": "Traité de l'Atlantique Nord",
+          "tier": "t3",
+          "aliases": [
+            "Traité de Washington de 1949"
+          ]
+        },
+        {
+          "answer": "Traité de Varsovie",
+          "tier": "t3",
+          "aliases": [
+            "Pacte de Varsovie"
+          ]
+        },
+        {
+          "answer": "Traité de Vienne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Nice",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité d'Amsterdam",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Schengen",
+          "tier": "t3",
+          "aliases": [
+            "Accords de Schengen"
+          ]
+        },
+        {
+          "answer": "Traité des Pyrénées",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Nimègue",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Cateau-Cambrésis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Lunéville",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Presbourg",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Schönbrunn",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Fontainebleau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Rapallo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Locarno",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Bucarest",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Berlin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de San Stefano",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Gand",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Ryswick",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité d'Aix-la-Chapelle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Karlowitz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Brétigny",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Saint-Clair-sur-Epte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Shimonoseki",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Kanagawa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Saragosse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Nystad",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Cambrai",
+          "tier": "t4",
+          "aliases": [
+            "Paix des Dames"
+          ]
+        },
+        {
+          "answer": "Traité de Vervins",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traité d'Alcáçovas",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Kutchuk-Kaïnardji",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Nertchinsk",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité d'Aigun",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Kiel",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Fès",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité du Bardo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité d'Ouchy",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité d'Andrinople",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Picquigny",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Wedmore",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Mortefontaine",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Sugauli",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Gandamak",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité d'Unkiar-Skelessi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Tianjin",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Noyon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Crépy",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité de Meerssen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Traité d'Ancône",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "his-explorateur-xviii-xix": {
+      "promptId": "his-explorateur-xviii-xix",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "James Cook",
+          "tier": "t1",
+          "aliases": [
+            "Capitaine Cook"
+          ]
+        },
+        {
+          "answer": "David Livingstone",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Henry Morton Stanley",
+          "tier": "t1",
+          "aliases": [
+            "Stanley"
+          ]
+        },
+        {
+          "answer": "Louis Antoine de Bougainville",
+          "tier": "t1",
+          "aliases": [
+            "Bougainville"
+          ]
+        },
+        {
+          "answer": "Jean-François de La Pérouse",
+          "tier": "t1",
+          "aliases": [
+            "La Pérouse",
+            "Lapérouse"
+          ]
+        },
+        {
+          "answer": "Meriwether Lewis",
+          "tier": "t1",
+          "aliases": [
+            "Lewis"
+          ]
+        },
+        {
+          "answer": "William Clark",
+          "tier": "t1",
+          "aliases": [
+            "Clark"
+          ]
+        },
+        {
+          "answer": "Alexander von Humboldt",
+          "tier": "t1",
+          "aliases": [
+            "Humboldt"
+          ]
+        },
+        {
+          "answer": "Pierre Savorgnan de Brazza",
+          "tier": "t1",
+          "aliases": [
+            "Brazza"
+          ]
+        },
+        {
+          "answer": "René Caillié",
+          "tier": "t1",
+          "aliases": [
+            "Caillié"
+          ]
+        },
+        {
+          "answer": "Mungo Park",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Mary Kingsley",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Vitus Bering",
+          "tier": "t3",
+          "aliases": [
+            "Bering"
+          ]
+        },
+        {
+          "answer": "Jules Dumont d'Urville",
+          "tier": "t3",
+          "aliases": [
+            "Dumont d'Urville"
+          ]
+        },
+        {
+          "answer": "Richard Burton",
+          "tier": "t3",
+          "aliases": [
+            "Richard Francis Burton"
+          ]
+        },
+        {
+          "answer": "John Hanning Speke",
+          "tier": "t3",
+          "aliases": [
+            "Speke"
+          ]
+        },
+        {
+          "answer": "John Franklin",
+          "tier": "t3",
+          "aliases": [
+            "Franklin"
+          ]
+        },
+        {
+          "answer": "Fridtjof Nansen",
+          "tier": "t3",
+          "aliases": [
+            "Nansen"
+          ]
+        },
+        {
+          "answer": "Matthew Flinders",
+          "tier": "t3",
+          "aliases": [
+            "Flinders"
+          ]
+        },
+        {
+          "answer": "George Vancouver",
+          "tier": "t3",
+          "aliases": [
+            "Vancouver"
+          ]
+        },
+        {
+          "answer": "Nicolas Baudin",
+          "tier": "t3",
+          "aliases": [
+            "Baudin"
+          ]
+        },
+        {
+          "answer": "Alexander Mackenzie",
+          "tier": "t3",
+          "aliases": [
+            "Mackenzie"
+          ]
+        },
+        {
+          "answer": "Samuel Baker",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Heinrich Barth",
+          "tier": "t3",
+          "aliases": [
+            "Barth"
+          ]
+        },
+        {
+          "answer": "Henry Walter Bates",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alfred Russel Wallace",
+          "tier": "t3",
+          "aliases": [
+            "Wallace"
+          ]
+        },
+        {
+          "answer": "Robert Peary",
+          "tier": "t3",
+          "aliases": [
+            "Peary"
+          ]
+        },
+        {
+          "answer": "James Clark Ross",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Yves de Kerguelen",
+          "tier": "t3",
+          "aliases": [
+            "Kerguelen"
+          ]
+        },
+        {
+          "answer": "Joseph Banks",
+          "tier": "t3",
+          "aliases": [
+            "Banks"
+          ]
+        },
+        {
+          "answer": "Aimé Bonpland",
+          "tier": "t3",
+          "aliases": [
+            "Bonpland"
+          ]
+        },
+        {
+          "answer": "Fabian von Bellingshausen",
+          "tier": "t3",
+          "aliases": [
+            "Bellingshausen"
+          ]
+        },
+        {
+          "answer": "Bruni d'Entrecasteaux",
+          "tier": "t4",
+          "aliases": [
+            "Antoine Bruni d'Entrecasteaux",
+            "D'Entrecasteaux"
+          ]
+        },
+        {
+          "answer": "Samuel Wallis",
+          "tier": "t4",
+          "aliases": [
+            "Wallis"
+          ]
+        },
+        {
+          "answer": "Hugh Clapperton",
+          "tier": "t4",
+          "aliases": [
+            "Clapperton"
+          ]
+        },
+        {
+          "answer": "Richard Lander",
+          "tier": "t4",
+          "aliases": [
+            "Lander"
+          ]
+        },
+        {
+          "answer": "Gustav Nachtigal",
+          "tier": "t4",
+          "aliases": [
+            "Nachtigal"
+          ]
+        },
+        {
+          "answer": "Georg Schweinfurth",
+          "tier": "t4",
+          "aliases": [
+            "Schweinfurth"
+          ]
+        },
+        {
+          "answer": "James Grant",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Paul Du Chaillu",
+          "tier": "t4",
+          "aliases": [
+            "Du Chaillu"
+          ]
+        },
+        {
+          "answer": "Louis Gustave Binger",
+          "tier": "t4",
+          "aliases": [
+            "Binger"
+          ]
+        },
+        {
+          "answer": "Jean-Baptiste Marchand",
+          "tier": "t4",
+          "aliases": [
+            "Marchand"
+          ]
+        },
+        {
+          "answer": "Henri Mouhot",
+          "tier": "t4",
+          "aliases": [
+            "Mouhot"
+          ]
+        },
+        {
+          "answer": "Francis Garnier",
+          "tier": "t4",
+          "aliases": [
+            "Garnier"
+          ]
+        },
+        {
+          "answer": "Ernest Doudart de Lagrée",
+          "tier": "t4",
+          "aliases": [
+            "Doudart de Lagrée"
+          ]
+        },
+        {
+          "answer": "Charles Sturt",
+          "tier": "t4",
+          "aliases": [
+            "Sturt"
+          ]
+        },
+        {
+          "answer": "Robert O'Hara Burke",
+          "tier": "t4",
+          "aliases": [
+            "Burke"
+          ]
+        },
+        {
+          "answer": "John McDouall Stuart",
+          "tier": "t4",
+          "aliases": [
+            "McDouall Stuart"
+          ]
+        },
+        {
+          "answer": "Ludwig Leichhardt",
+          "tier": "t4",
+          "aliases": [
+            "Leichhardt"
+          ]
+        },
+        {
+          "answer": "Edward John Eyre",
+          "tier": "t4",
+          "aliases": [
+            "Eyre"
+          ]
+        },
+        {
+          "answer": "Charles Wilkes",
+          "tier": "t4",
+          "aliases": [
+            "Wilkes"
+          ]
+        },
+        {
+          "answer": "John Ross",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "William Edward Parry",
+          "tier": "t4",
+          "aliases": [
+            "Parry"
+          ]
+        },
+        {
+          "answer": "Nikolaï Prjevalski",
+          "tier": "t4",
+          "aliases": [
+            "Przewalski",
+            "Przhevalsky",
+            "Nikolai Przhevalsky"
+          ]
+        },
+        {
+          "answer": "Adolf Erik Nordenskiöld",
+          "tier": "t4",
+          "aliases": [
+            "Nordenskiöld"
+          ]
+        },
+        {
+          "answer": "Adrien de Gerlache",
+          "tier": "t4",
+          "aliases": [
+            "Gerlache"
+          ]
+        },
+        {
+          "answer": "Samuel Hearne",
+          "tier": "t4",
+          "aliases": [
+            "Hearne"
+          ]
+        },
+        {
+          "answer": "Simon Fraser",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "David Thompson",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zebulon Pike",
+          "tier": "t4",
+          "aliases": [
+            "Pike"
+          ]
+        },
+        {
+          "answer": "John Charles Frémont",
+          "tier": "t4",
+          "aliases": [
+            "Frémont",
+            "John C. Frémont"
+          ]
+        },
+        {
+          "answer": "Louis de Freycinet",
+          "tier": "t4",
+          "aliases": [
+            "Freycinet"
+          ]
+        },
+        {
+          "answer": "Adam Johann von Krusenstern",
+          "tier": "t4",
+          "aliases": [
+            "Krusenstern"
+          ]
+        },
+        {
+          "answer": "Philip Carteret",
+          "tier": "t5",
+          "aliases": [
+            "Carteret"
+          ]
+        },
+        {
+          "answer": "Tobias Furneaux",
+          "tier": "t5",
+          "aliases": [
+            "Furneaux"
+          ]
+        },
+        {
+          "answer": "Charles Clerke",
+          "tier": "t5",
+          "aliases": [
+            "Clerke"
+          ]
+        },
+        {
+          "answer": "Georg Forster",
+          "tier": "t5",
+          "aliases": [
+            "Forster"
+          ]
+        },
+        {
+          "answer": "Johann Reinhold Forster",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Alessandro Malaspina",
+          "tier": "t5",
+          "aliases": [
+            "Malaspina"
+          ]
+        },
+        {
+          "answer": "Carsten Niebuhr",
+          "tier": "t5",
+          "aliases": [
+            "Niebuhr"
+          ]
+        },
+        {
+          "answer": "James Bruce",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gerhard Rohlfs",
+          "tier": "t5",
+          "aliases": [
+            "Rohlfs"
+          ]
+        },
+        {
+          "answer": "Verney Lovett Cameron",
+          "tier": "t5",
+          "aliases": [
+            "Cameron"
+          ]
+        },
+        {
+          "answer": "Joseph Thomson",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Henri Duveyrier",
+          "tier": "t5",
+          "aliases": [
+            "Duveyrier"
+          ]
+        },
+        {
+          "answer": "Jules Crevaux",
+          "tier": "t5",
+          "aliases": [
+            "Crevaux"
+          ]
+        },
+        {
+          "answer": "Auguste Pavie",
+          "tier": "t5",
+          "aliases": [
+            "Pavie"
+          ]
+        },
+        {
+          "answer": "Louis Delaporte",
+          "tier": "t5",
+          "aliases": [
+            "Delaporte"
+          ]
+        },
+        {
+          "answer": "Johann Ludwig Krapf",
+          "tier": "t5",
+          "aliases": [
+            "Krapf"
+          ]
+        },
+        {
+          "answer": "Johannes Rebmann",
+          "tier": "t5",
+          "aliases": [
+            "Rebmann"
+          ]
+        },
+        {
+          "answer": "Hermann von Wissmann",
+          "tier": "t5",
+          "aliases": [
+            "Wissmann"
+          ]
+        },
+        {
+          "answer": "Emin Pacha",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Salomon August Andrée",
+          "tier": "t5",
+          "aliases": [
+            "Andrée"
+          ]
+        },
+        {
+          "answer": "Julius von Payer",
+          "tier": "t5",
+          "aliases": [
+            "Payer"
+          ]
+        },
+        {
+          "answer": "Karl Weyprecht",
+          "tier": "t5",
+          "aliases": [
+            "Weyprecht"
+          ]
+        },
+        {
+          "answer": "Adolphus Greely",
+          "tier": "t5",
+          "aliases": [
+            "Greely"
+          ]
+        },
+        {
+          "answer": "Elisha Kent Kane",
+          "tier": "t5",
+          "aliases": [
+            "Kane"
+          ]
+        },
+        {
+          "answer": "Charles Francis Hall",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Otto von Kotzebue",
+          "tier": "t5",
+          "aliases": [
+            "Kotzebue"
+          ]
+        },
+        {
+          "answer": "Francisco Moreno",
+          "tier": "t5",
+          "aliases": [
+            "Perito Moreno"
+          ]
+        },
+        {
+          "answer": "Isabella Bird",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ida Pfeiffer",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Alexine Tinne",
+          "tier": "t5",
+          "aliases": [
+            "Alexandrine Tinné",
+            "Tinné"
+          ]
+        },
+        {
+          "answer": "Thomas Baines",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hamilton Hume",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "William Hovell",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "John Oxley",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gregory Blaxland",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Marc-Joseph Marion du Fresne",
+          "tier": "t5",
+          "aliases": [
+            "Marion du Fresne"
+          ]
+        }
+      ]
+    },
+    "his-dictateur": {
+      "promptId": "his-dictateur",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Adolf Hitler",
+          "tier": "t1",
+          "aliases": [
+            "Hitler"
+          ]
+        },
+        {
+          "answer": "Joseph Staline",
+          "tier": "t1",
+          "aliases": [
+            "Staline",
+            "Stalin",
+            "Iossif Staline"
+          ]
+        },
+        {
+          "answer": "Benito Mussolini",
+          "tier": "t1",
+          "aliases": [
+            "Mussolini"
+          ]
+        },
+        {
+          "answer": "Francisco Franco",
+          "tier": "t1",
+          "aliases": [
+            "Franco"
+          ]
+        },
+        {
+          "answer": "Mao Zedong",
+          "tier": "t1",
+          "aliases": [
+            "Mao Tsé-toung",
+            "Mao"
+          ]
+        },
+        {
+          "answer": "Pol Pot",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "António de Oliveira Salazar",
+          "tier": "t1",
+          "aliases": [
+            "Salazar"
+          ]
+        },
+        {
+          "answer": "Augusto Pinochet",
+          "tier": "t1",
+          "aliases": [
+            "Pinochet"
+          ]
+        },
+        {
+          "answer": "Saddam Hussein",
+          "tier": "t1",
+          "aliases": [
+            "Saddam"
+          ]
+        },
+        {
+          "answer": "Mouammar Kadhafi",
+          "tier": "t1",
+          "aliases": [
+            "Kadhafi",
+            "Khadafi",
+            "Gaddafi",
+            "Muammar Gaddafi",
+            "Mouammar Khadafi"
+          ]
+        },
+        {
+          "answer": "Kim Il-sung",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Saparmurat Niyazov",
+          "tier": "t6",
+          "aliases": [
+            "Turkmenbachi",
+            "Niazov",
+            "Turkmenbashi"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Idi Amin Dada",
+          "tier": "t3",
+          "aliases": [
+            "Idi Amin"
+          ]
+        },
+        {
+          "answer": "Mobutu Sese Seko",
+          "tier": "t3",
+          "aliases": [
+            "Mobutu"
+          ]
+        },
+        {
+          "answer": "Nicolae Ceaușescu",
+          "tier": "t3",
+          "aliases": [
+            "Ceaușescu",
+            "Ceausescu",
+            "Nicolae Ceausescu"
+          ]
+        },
+        {
+          "answer": "François Duvalier",
+          "tier": "t3",
+          "aliases": [
+            "Papa Doc"
+          ]
+        },
+        {
+          "answer": "Jean-Claude Duvalier",
+          "tier": "t3",
+          "aliases": [
+            "Baby Doc"
+          ]
+        },
+        {
+          "answer": "Fulgencio Batista",
+          "tier": "t3",
+          "aliases": [
+            "Batista"
+          ]
+        },
+        {
+          "answer": "Rafael Trujillo",
+          "tier": "t3",
+          "aliases": [
+            "Trujillo",
+            "Rafael Leónidas Trujillo"
+          ]
+        },
+        {
+          "answer": "Anastasio Somoza",
+          "tier": "t3",
+          "aliases": [
+            "Somoza"
+          ]
+        },
+        {
+          "answer": "Alfredo Stroessner",
+          "tier": "t3",
+          "aliases": [
+            "Stroessner"
+          ]
+        },
+        {
+          "answer": "Jorge Rafael Videla",
+          "tier": "t3",
+          "aliases": [
+            "Videla"
+          ]
+        },
+        {
+          "answer": "Manuel Noriega",
+          "tier": "t3",
+          "aliases": [
+            "Noriega"
+          ]
+        },
+        {
+          "answer": "Jean-Bédel Bokassa",
+          "tier": "t3",
+          "aliases": [
+            "Bokassa"
+          ]
+        },
+        {
+          "answer": "Enver Hoxha",
+          "tier": "t3",
+          "aliases": [
+            "Hoxha"
+          ]
+        },
+        {
+          "answer": "Hafez el-Assad",
+          "tier": "t3",
+          "aliases": [
+            "Hafez al-Assad",
+            "Assad père"
+          ]
+        },
+        {
+          "answer": "Ferdinand Marcos",
+          "tier": "t3",
+          "aliases": [
+            "Marcos"
+          ]
+        },
+        {
+          "answer": "Suharto",
+          "tier": "t3",
+          "aliases": [
+            "Soeharto"
+          ]
+        },
+        {
+          "answer": "Kim Jong-il",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ion Antonescu",
+          "tier": "t3",
+          "aliases": [
+            "Antonescu"
+          ]
+        },
+        {
+          "answer": "Mengistu Haile Mariam",
+          "tier": "t4",
+          "aliases": [
+            "Mengistu"
+          ]
+        },
+        {
+          "answer": "Todor Jivkov",
+          "tier": "t4",
+          "aliases": [
+            "Jivkov",
+            "Todor Zhivkov"
+          ]
+        },
+        {
+          "answer": "Miguel Primo de Rivera",
+          "tier": "t4",
+          "aliases": [
+            "Primo de Rivera"
+          ]
+        },
+        {
+          "answer": "Ioannis Metaxas",
+          "tier": "t4",
+          "aliases": [
+            "Metaxás",
+            "Metaxas"
+          ]
+        },
+        {
+          "answer": "Georgios Papadopoulos",
+          "tier": "t4",
+          "aliases": [
+            "Papadopoulos"
+          ]
+        },
+        {
+          "answer": "Ne Win",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Park Chung-hee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chun Doo-hwan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Than Shwe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mohammad Zia-ul-Haq",
+          "tier": "t4",
+          "aliases": [
+            "Zia-ul-Haq",
+            "Zia ul-Haq"
+          ]
+        },
+        {
+          "answer": "Mohamed Siad Barre",
+          "tier": "t4",
+          "aliases": [
+            "Siad Barre"
+          ]
+        },
+        {
+          "answer": "Sani Abacha",
+          "tier": "t4",
+          "aliases": [
+            "Abacha"
+          ]
+        },
+        {
+          "answer": "Gnassingbé Eyadéma",
+          "tier": "t4",
+          "aliases": [
+            "Eyadéma"
+          ]
+        },
+        {
+          "answer": "Hissène Habré",
+          "tier": "t4",
+          "aliases": [
+            "Habré"
+          ]
+        },
+        {
+          "answer": "Leopoldo Galtieri",
+          "tier": "t4",
+          "aliases": [
+            "Galtieri"
+          ]
+        },
+        {
+          "answer": "Efraín Ríos Montt",
+          "tier": "t4",
+          "aliases": [
+            "Ríos Montt",
+            "Rios Montt"
+          ]
+        },
+        {
+          "answer": "Hugo Banzer",
+          "tier": "t4",
+          "aliases": [
+            "Banzer"
+          ]
+        },
+        {
+          "answer": "Ante Pavelić",
+          "tier": "t4",
+          "aliases": [
+            "Pavelić",
+            "Pavelic"
+          ]
+        },
+        {
+          "answer": "Ahmed Sékou Touré",
+          "tier": "t4",
+          "aliases": [
+            "Sékou Touré"
+          ]
+        },
+        {
+          "answer": "Zine el-Abidine Ben Ali",
+          "tier": "t4",
+          "aliases": [
+            "Ben Ali"
+          ]
+        },
+        {
+          "answer": "Omar el-Béchir",
+          "tier": "t4",
+          "aliases": [
+            "Omar al-Bachir",
+            "El-Béchir"
+          ]
+        },
+        {
+          "answer": "Yahya Khan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ayub Khan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Getúlio Vargas",
+          "tier": "t4",
+          "aliases": [
+            "Vargas"
+          ]
+        },
+        {
+          "answer": "Macías Nguema",
+          "tier": "t5",
+          "aliases": [
+            "Francisco Macías Nguema"
+          ]
+        },
+        {
+          "answer": "Hastings Banda",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Samuel Doe",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Moussa Traoré",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Juan Vicente Gómez",
+          "tier": "t5",
+          "aliases": [
+            "Juan Vicente Gomez"
+          ]
+        },
+        {
+          "answer": "Marcos Pérez Jiménez",
+          "tier": "t5",
+          "aliases": [
+            "Pérez Jiménez"
+          ]
+        },
+        {
+          "answer": "Gustavo Rojas Pinilla",
+          "tier": "t5",
+          "aliases": [
+            "Rojas Pinilla"
+          ]
+        },
+        {
+          "answer": "Tiburcio Carías Andino",
+          "tier": "t5",
+          "aliases": [
+            "Carías"
+          ]
+        },
+        {
+          "answer": "Maximiliano Hernández Martínez",
+          "tier": "t5",
+          "aliases": [
+            "Hernández Martínez"
+          ]
+        },
+        {
+          "answer": "Jorge Ubico",
+          "tier": "t5",
+          "aliases": [
+            "Ubico"
+          ]
+        },
+        {
+          "answer": "Theodoros Pangalos",
+          "tier": "t5",
+          "aliases": [
+            "Pangalos"
+          ]
+        },
+        {
+          "answer": "Dimitrios Ioannidis",
+          "tier": "t5",
+          "aliases": [
+            "Ioannidis"
+          ]
+        }
+      ]
+    },
+    "his-pm-britannique": {
+      "promptId": "his-pm-britannique",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Winston Churchill",
+          "tier": "t1",
+          "aliases": [
+            "Churchill"
+          ]
+        },
+        {
+          "answer": "Margaret Thatcher",
+          "tier": "t1",
+          "aliases": [
+            "Thatcher"
+          ]
+        },
+        {
+          "answer": "Tony Blair",
+          "tier": "t1",
+          "aliases": [
+            "Blair"
+          ]
+        },
+        {
+          "answer": "Boris Johnson",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "David Cameron",
+          "tier": "t1",
+          "aliases": [
+            "Cameron"
+          ]
+        },
+        {
+          "answer": "Theresa May",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Gordon Brown",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "John Major",
+          "tier": "t1",
+          "aliases": [
+            "Major"
+          ]
+        },
+        {
+          "answer": "Clement Attlee",
+          "tier": "t1",
+          "aliases": [
+            "Attlee"
+          ]
+        },
+        {
+          "answer": "Rishi Sunak",
+          "tier": "t1",
+          "aliases": [
+            "Sunak"
+          ]
+        },
+        {
+          "answer": "William Pitt le Jeune",
+          "tier": "t2",
+          "aliases": [
+            "Pitt le Jeune",
+            "William Pitt the Younger",
+            "Pitt"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Spencer Perceval",
+          "tier": "t6",
+          "aliases": [
+            "Perceval"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Keir Starmer",
+          "tier": "t3",
+          "aliases": [
+            "Starmer"
+          ]
+        },
+        {
+          "answer": "Liz Truss",
+          "tier": "t3",
+          "aliases": [
+            "Truss"
+          ]
+        },
+        {
+          "answer": "William Gladstone",
+          "tier": "t3",
+          "aliases": [
+            "Gladstone",
+            "William Ewart Gladstone"
+          ]
+        },
+        {
+          "answer": "Benjamin Disraeli",
+          "tier": "t3",
+          "aliases": [
+            "Disraeli"
+          ]
+        },
+        {
+          "answer": "David Lloyd George",
+          "tier": "t3",
+          "aliases": [
+            "Lloyd George"
+          ]
+        },
+        {
+          "answer": "Neville Chamberlain",
+          "tier": "t3",
+          "aliases": [
+            "Chamberlain"
+          ]
+        },
+        {
+          "answer": "Harold Wilson",
+          "tier": "t3",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Edward Heath",
+          "tier": "t3",
+          "aliases": [
+            "Heath"
+          ]
+        },
+        {
+          "answer": "James Callaghan",
+          "tier": "t3",
+          "aliases": [
+            "Callaghan"
+          ]
+        },
+        {
+          "answer": "Harold Macmillan",
+          "tier": "t3",
+          "aliases": [
+            "Macmillan"
+          ]
+        },
+        {
+          "answer": "Anthony Eden",
+          "tier": "t3",
+          "aliases": [
+            "Eden"
+          ]
+        },
+        {
+          "answer": "Robert Walpole",
+          "tier": "t3",
+          "aliases": [
+            "Walpole"
+          ]
+        },
+        {
+          "answer": "Robert Peel",
+          "tier": "t3",
+          "aliases": [
+            "Peel"
+          ]
+        },
+        {
+          "answer": "Lord Palmerston",
+          "tier": "t3",
+          "aliases": [
+            "Palmerston"
+          ]
+        },
+        {
+          "answer": "Arthur Wellesley de Wellington",
+          "tier": "t3",
+          "aliases": [
+            "Wellington",
+            "Duc de Wellington",
+            "Arthur Wellesley"
+          ]
+        },
+        {
+          "answer": "Lord Salisbury",
+          "tier": "t3",
+          "aliases": [
+            "Salisbury"
+          ]
+        },
+        {
+          "answer": "Stanley Baldwin",
+          "tier": "t4",
+          "aliases": [
+            "Baldwin"
+          ]
+        },
+        {
+          "answer": "Ramsay MacDonald",
+          "tier": "t4",
+          "aliases": [
+            "MacDonald"
+          ]
+        },
+        {
+          "answer": "H. H. Asquith",
+          "tier": "t4",
+          "aliases": [
+            "Asquith",
+            "Herbert Asquith"
+          ]
+        },
+        {
+          "answer": "Arthur Balfour",
+          "tier": "t4",
+          "aliases": [
+            "Balfour"
+          ]
+        },
+        {
+          "answer": "Lord North",
+          "tier": "t4",
+          "aliases": [
+            "Frederick North"
+          ]
+        },
+        {
+          "answer": "Lord Melbourne",
+          "tier": "t4",
+          "aliases": [
+            "Melbourne"
+          ]
+        },
+        {
+          "answer": "Lord John Russell",
+          "tier": "t4",
+          "aliases": [
+            "John Russell",
+            "Russell"
+          ]
+        },
+        {
+          "answer": "Alec Douglas-Home",
+          "tier": "t4",
+          "aliases": [
+            "Douglas-Home",
+            "Lord Home"
+          ]
+        },
+        {
+          "answer": "William Pitt l'Ancien",
+          "tier": "t4",
+          "aliases": [
+            "Pitt l'Ancien",
+            "Lord Chatham",
+            "Chatham",
+            "William Pitt the Elder"
+          ]
+        },
+        {
+          "answer": "Lord Liverpool",
+          "tier": "t4",
+          "aliases": [
+            "Liverpool"
+          ]
+        },
+        {
+          "answer": "Lord Grey",
+          "tier": "t4",
+          "aliases": [
+            "Charles Grey"
+          ]
+        },
+        {
+          "answer": "Lord Derby",
+          "tier": "t4",
+          "aliases": [
+            "Derby",
+            "Edward Smith-Stanley"
+          ]
+        },
+        {
+          "answer": "Lord Aberdeen",
+          "tier": "t4",
+          "aliases": [
+            "Aberdeen"
+          ]
+        },
+        {
+          "answer": "Lord Rosebery",
+          "tier": "t4",
+          "aliases": [
+            "Rosebery"
+          ]
+        },
+        {
+          "answer": "Lord Bute",
+          "tier": "t5",
+          "aliases": [
+            "John Stuart de Bute",
+            "Bute"
+          ]
+        },
+        {
+          "answer": "Duc de Grafton",
+          "tier": "t5",
+          "aliases": [
+            "Grafton"
+          ]
+        },
+        {
+          "answer": "Lord Rockingham",
+          "tier": "t5",
+          "aliases": [
+            "Rockingham"
+          ]
+        },
+        {
+          "answer": "Lord Shelburne",
+          "tier": "t5",
+          "aliases": [
+            "Shelburne"
+          ]
+        },
+        {
+          "answer": "Duc de Portland",
+          "tier": "t5",
+          "aliases": [
+            "Portland"
+          ]
+        },
+        {
+          "answer": "Henry Addington",
+          "tier": "t5",
+          "aliases": [
+            "Addington"
+          ]
+        },
+        {
+          "answer": "George Canning",
+          "tier": "t5",
+          "aliases": [
+            "Canning"
+          ]
+        },
+        {
+          "answer": "Lord Goderich",
+          "tier": "t5",
+          "aliases": [
+            "Goderich",
+            "Frederick Robinson"
+          ]
+        },
+        {
+          "answer": "Bonar Law",
+          "tier": "t5",
+          "aliases": [
+            "Andrew Bonar Law"
+          ]
+        },
+        {
+          "answer": "Henry Campbell-Bannerman",
+          "tier": "t5",
+          "aliases": [
+            "Campbell-Bannerman"
+          ]
+        },
+        {
+          "answer": "Lord Wilmington",
+          "tier": "t5",
+          "aliases": [
+            "Wilmington",
+            "Spencer Compton"
+          ]
+        },
+        {
+          "answer": "Henry Pelham",
+          "tier": "t5",
+          "aliases": [
+            "Pelham"
+          ]
+        },
+        {
+          "answer": "Duc de Newcastle",
+          "tier": "t5",
+          "aliases": [
+            "Newcastle",
+            "Thomas Pelham-Holles"
+          ]
+        },
+        {
+          "answer": "Duc de Devonshire",
+          "tier": "t5",
+          "aliases": [
+            "Devonshire",
+            "William Cavendish"
+          ]
+        },
+        {
+          "answer": "George Grenville",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "William Grenville",
+          "tier": "t5",
+          "aliases": [
+            "Lord Grenville"
+          ]
+        }
+      ]
+    },
+    "his-dynastie": {
+      "promptId": "his-dynastie",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Bourbons",
+          "tier": "t1",
+          "aliases": [
+            "Bourbon",
+            "Maison de Bourbon"
+          ]
+        },
+        {
+          "answer": "Capétiens",
+          "tier": "t1",
+          "aliases": [
+            "Capétien",
+            "Capet",
+            "Maison capétienne"
+          ]
+        },
+        {
+          "answer": "Habsbourg",
+          "tier": "t1",
+          "aliases": [
+            "Habsbourgs",
+            "Maison d'Autriche",
+            "Hapsbourg",
+            "Habsburg"
+          ]
+        },
+        {
+          "answer": "Romanov",
+          "tier": "t1",
+          "aliases": [
+            "Romanovs",
+            "Romanoff"
+          ]
+        },
+        {
+          "answer": "Windsor",
+          "tier": "t1",
+          "aliases": [
+            "Maison de Windsor"
+          ]
+        },
+        {
+          "answer": "Tudor",
+          "tier": "t1",
+          "aliases": [
+            "Tudors"
+          ]
+        },
+        {
+          "answer": "Carolingiens",
+          "tier": "t1",
+          "aliases": [
+            "Carolingien"
+          ]
+        },
+        {
+          "answer": "Mérovingiens",
+          "tier": "t1",
+          "aliases": [
+            "Mérovingien"
+          ]
+        },
+        {
+          "answer": "Bonaparte",
+          "tier": "t1",
+          "aliases": [
+            "Bonapartes"
+          ]
+        },
+        {
+          "answer": "Plantagenêt",
+          "tier": "t1",
+          "aliases": [
+            "Plantagenets",
+            "Plantagenêts",
+            "Plantagenet"
+          ]
+        },
+        {
+          "answer": "Hohenzollern",
+          "tier": "t2",
+          "aliases": [
+            "Hohenzollerns"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Hauteville",
+          "tier": "t6",
+          "aliases": [
+            "Maison de Hauteville"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Valois",
+          "tier": "t3",
+          "aliases": [
+            "Maison de Valois"
+          ]
+        },
+        {
+          "answer": "Stuart",
+          "tier": "t3",
+          "aliases": [
+            "Stuarts",
+            "Stewart"
+          ]
+        },
+        {
+          "answer": "Hanovre",
+          "tier": "t3",
+          "aliases": [
+            "Maison de Hanovre",
+            "Hanovriens"
+          ]
+        },
+        {
+          "answer": "Orléans",
+          "tier": "t3",
+          "aliases": [
+            "Maison d'Orléans"
+          ]
+        },
+        {
+          "answer": "Savoie",
+          "tier": "t3",
+          "aliases": [
+            "Maison de Savoie"
+          ]
+        },
+        {
+          "answer": "Lancastre",
+          "tier": "t3",
+          "aliases": [
+            "Lancaster",
+            "Maison de Lancastre"
+          ]
+        },
+        {
+          "answer": "York",
+          "tier": "t3",
+          "aliases": [
+            "Maison d'York"
+          ]
+        },
+        {
+          "answer": "Wittelsbach",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Orange-Nassau",
+          "tier": "t3",
+          "aliases": [
+            "Maison d'Orange",
+            "Nassau",
+            "Orange"
+          ]
+        },
+        {
+          "answer": "Braganza",
+          "tier": "t3",
+          "aliases": [
+            "Bragance",
+            "Maison de Bragance"
+          ]
+        },
+        {
+          "answer": "Saxe-Cobourg-Gotha",
+          "tier": "t3",
+          "aliases": [
+            "Saxe-Cobourg et Gotha",
+            "Cobourg",
+            "Saxe-Cobourg"
+          ]
+        },
+        {
+          "answer": "Habsbourg-Lorraine",
+          "tier": "t3",
+          "aliases": [
+            "Maison de Habsbourg-Lorraine"
+          ]
+        },
+        {
+          "answer": "Normands",
+          "tier": "t3",
+          "aliases": [
+            "Maison de Normandie",
+            "Dynastie normande"
+          ]
+        },
+        {
+          "answer": "Bernadotte",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Glücksbourg",
+          "tier": "t3",
+          "aliases": [
+            "Glücksburg"
+          ]
+        },
+        {
+          "answer": "Oldenbourg",
+          "tier": "t3",
+          "aliases": [
+            "Maison d'Oldenbourg"
+          ]
+        },
+        {
+          "answer": "Hohenstaufen",
+          "tier": "t4",
+          "aliases": [
+            "Staufen",
+            "Hohenstauffen"
+          ]
+        },
+        {
+          "answer": "Trastamare",
+          "tier": "t4",
+          "aliases": [
+            "Trastámara"
+          ]
+        },
+        {
+          "answer": "Wasa",
+          "tier": "t4",
+          "aliases": [
+            "Vasa",
+            "Vaasa"
+          ]
+        },
+        {
+          "answer": "Jagellon",
+          "tier": "t4",
+          "aliases": [
+            "Jagellons",
+            "Jagiellon",
+            "Jagellonne"
+          ]
+        },
+        {
+          "answer": "Piast",
+          "tier": "t4",
+          "aliases": [
+            "Piasts"
+          ]
+        },
+        {
+          "answer": "Árpád",
+          "tier": "t4",
+          "aliases": [
+            "Arpad",
+            "Arpades",
+            "Árpádes"
+          ]
+        },
+        {
+          "answer": "Rurikides",
+          "tier": "t4",
+          "aliases": [
+            "Riourikides",
+            "Riourik",
+            "Rurik"
+          ]
+        },
+        {
+          "answer": "Paléologue",
+          "tier": "t4",
+          "aliases": [
+            "Paléologues",
+            "Palaiologos"
+          ]
+        },
+        {
+          "answer": "Comnène",
+          "tier": "t4",
+          "aliases": [
+            "Comnènes",
+            "Comnenos"
+          ]
+        },
+        {
+          "answer": "Anjou",
+          "tier": "t4",
+          "aliases": [
+            "Maison d'Anjou"
+          ]
+        },
+        {
+          "answer": "Angevins",
+          "tier": "t4",
+          "aliases": [
+            "Angevin"
+          ]
+        },
+        {
+          "answer": "Ottoniens",
+          "tier": "t4",
+          "aliases": [
+            "Ottonien",
+            "Liudolfiens"
+          ]
+        },
+        {
+          "answer": "Saliens",
+          "tier": "t4",
+          "aliases": [
+            "Franconiens",
+            "Salien"
+          ]
+        },
+        {
+          "answer": "Luxembourg",
+          "tier": "t4",
+          "aliases": [
+            "Maison de Luxembourg"
+          ]
+        },
+        {
+          "answer": "Wettin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Karađorđević",
+          "tier": "t4",
+          "aliases": [
+            "Karageorgevitch",
+            "Karadjordjevic"
+          ]
+        },
+        {
+          "answer": "Obrenović",
+          "tier": "t4",
+          "aliases": [
+            "Obrénovitch",
+            "Obrenovic"
+          ]
+        },
+        {
+          "answer": "Julio-Claudiens",
+          "tier": "t4",
+          "aliases": [
+            "Julio-Claudienne"
+          ]
+        },
+        {
+          "answer": "Flaviens",
+          "tier": "t4",
+          "aliases": [
+            "Flavienne",
+            "Flaviens"
+          ]
+        },
+        {
+          "answer": "Antonins",
+          "tier": "t4",
+          "aliases": [
+            "Antonine"
+          ]
+        },
+        {
+          "answer": "Přemyslides",
+          "tier": "t5",
+          "aliases": [
+            "Premyslides",
+            "Przemyslides",
+            "Premyslide"
+          ]
+        },
+        {
+          "answer": "Aviz",
+          "tier": "t5",
+          "aliases": [
+            "Avis",
+            "Maison d'Aviz"
+          ]
+        },
+        {
+          "answer": "Holstein-Gottorp",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dunkeld",
+          "tier": "t5",
+          "aliases": [
+            "Maison de Dunkeld"
+          ]
+        },
+        {
+          "answer": "Bruce",
+          "tier": "t5",
+          "aliases": [
+            "Maison de Bruce"
+          ]
+        },
+        {
+          "answer": "Balliol",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gediminas",
+          "tier": "t5",
+          "aliases": [
+            "Gediminides",
+            "Gédiminides"
+          ]
+        },
+        {
+          "answer": "Doukas",
+          "tier": "t5",
+          "aliases": [
+            "Doukai"
+          ]
+        },
+        {
+          "answer": "Lascaris",
+          "tier": "t5",
+          "aliases": [
+            "Laskaris"
+          ]
+        },
+        {
+          "answer": "Anges",
+          "tier": "t5",
+          "aliases": [
+            "Angelos",
+            "Ange"
+          ]
+        },
+        {
+          "answer": "Sévères",
+          "tier": "t5",
+          "aliases": [
+            "Dynastie des Sévères"
+          ]
+        },
+        {
+          "answer": "Isauriens",
+          "tier": "t5",
+          "aliases": [
+            "Isaurienne"
+          ]
+        },
+        {
+          "answer": "Macédonienne",
+          "tier": "t5",
+          "aliases": [
+            "Dynastie macédonienne"
+          ]
+        },
+        {
+          "answer": "Babenberg",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hunyadi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bourbon-Siciles",
+          "tier": "t5",
+          "aliases": [
+            "Bourbon des Deux-Siciles",
+            "Deux-Siciles"
+          ]
+        },
+        {
+          "answer": "Lorraine",
+          "tier": "t5",
+          "aliases": [
+            "Maison de Lorraine"
+          ]
+        },
+        {
+          "answer": "Estridsen",
+          "tier": "t5",
+          "aliases": [
+            "Estrid"
+          ]
+        },
+        {
+          "answer": "Wessex",
+          "tier": "t5",
+          "aliases": [
+            "Maison de Wessex"
+          ]
+        },
+        {
+          "answer": "Blois",
+          "tier": "t5",
+          "aliases": [
+            "Maison de Blois"
+          ]
+        },
+        {
+          "answer": "Bourgogne",
+          "tier": "t5",
+          "aliases": [
+            "Maison de Bourgogne"
+          ]
+        },
+        {
+          "answer": "Palatinat-Deux-Ponts",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "his-revolution": {
+      "promptId": "his-revolution",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Révolution française",
+          "tier": "t1",
+          "aliases": [
+            "Révolution de 1789",
+            "Révolution",
+            "1789"
+          ]
+        },
+        {
+          "answer": "Révolution russe",
+          "tier": "t1",
+          "aliases": [
+            "Révolution de 1917",
+            "Révolution d'Octobre",
+            "Révolution bolchévique"
+          ]
+        },
+        {
+          "answer": "Révolution américaine",
+          "tier": "t1",
+          "aliases": [
+            "Guerre d'indépendance américaine",
+            "Révolution des États-Unis"
+          ]
+        },
+        {
+          "answer": "Mai 68",
+          "tier": "t1",
+          "aliases": [
+            "Mai 1968",
+            "Événements de mai 68"
+          ]
+        },
+        {
+          "answer": "Révolution cubaine",
+          "tier": "t1",
+          "aliases": [
+            "Révolution de Cuba"
+          ]
+        },
+        {
+          "answer": "Printemps arabe",
+          "tier": "t1",
+          "aliases": [
+            "Printemps arabes"
+          ]
+        },
+        {
+          "answer": "Révolution de 1848",
+          "tier": "t1",
+          "aliases": [
+            "Printemps des peuples"
+          ]
+        },
+        {
+          "answer": "Révolution iranienne",
+          "tier": "t1",
+          "aliases": [
+            "Révolution islamique",
+            "Révolution d'Iran"
+          ]
+        },
+        {
+          "answer": "Trois Glorieuses",
+          "tier": "t1",
+          "aliases": [
+            "Révolution de 1830",
+            "Révolution de Juillet",
+            "Glorieuses"
+          ]
+        },
+        {
+          "answer": "Commune de Paris",
+          "tier": "t2",
+          "aliases": [
+            "Commune",
+            "La Commune"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Révolution chantante",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Révolution haïtienne",
+          "tier": "t3",
+          "aliases": [
+            "Révolution de Saint-Domingue",
+            "Révolution d'Haïti"
+          ]
+        },
+        {
+          "answer": "Révolution mexicaine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Révolution chinoise",
+          "tier": "t3",
+          "aliases": [
+            "Révolution communiste chinoise"
+          ]
+        },
+        {
+          "answer": "Révolution culturelle",
+          "tier": "t3",
+          "aliases": [
+            "Révolution culturelle chinoise"
+          ]
+        },
+        {
+          "answer": "Révolution des Œillets",
+          "tier": "t3",
+          "aliases": [
+            "Révolution des oeillets",
+            "Révolution portugaise"
+          ]
+        },
+        {
+          "answer": "Révolution de velours",
+          "tier": "t3",
+          "aliases": [
+            "Révolution de Velours"
+          ]
+        },
+        {
+          "answer": "Révolution orange",
+          "tier": "t3",
+          "aliases": [
+            "Révolution orange ukrainienne"
+          ]
+        },
+        {
+          "answer": "Révolution de février 1917",
+          "tier": "t3",
+          "aliases": [
+            "Révolution de Février 1917",
+            "Révolution de février"
+          ]
+        },
+        {
+          "answer": "Glorieuse Révolution",
+          "tier": "t3",
+          "aliases": [
+            "Révolution anglaise",
+            "Révolution de 1688"
+          ]
+        },
+        {
+          "answer": "Révolte des Boxers",
+          "tier": "t3",
+          "aliases": [
+            "Guerre des Boxers",
+            "Boxers"
+          ]
+        },
+        {
+          "answer": "Révolte des Cipayes",
+          "tier": "t3",
+          "aliases": [
+            "Révolte des Cipayes",
+            "Mutinerie des Cipayes",
+            "Rébellion indienne de 1857"
+          ]
+        },
+        {
+          "answer": "Révolte des Taiping",
+          "tier": "t3",
+          "aliases": [
+            "Rébellion des Taiping",
+            "Taiping"
+          ]
+        },
+        {
+          "answer": "Révolte de Spartacus",
+          "tier": "t3",
+          "aliases": [
+            "Spartacus",
+            "Troisième guerre servile"
+          ]
+        },
+        {
+          "answer": "Jacquerie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fronde",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Insurrection de Pâques",
+          "tier": "t3",
+          "aliases": [
+            "Easter Rising",
+            "Soulèvement de Pâques",
+            "Insurrection de Pâques 1916"
+          ]
+        },
+        {
+          "answer": "Révolution de février 1848",
+          "tier": "t3",
+          "aliases": [
+            "Révolution de Février 1848"
+          ]
+        },
+        {
+          "answer": "Printemps de Prague",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Révolution du jasmin",
+          "tier": "t3",
+          "aliases": [
+            "Révolution tunisienne"
+          ]
+        },
+        {
+          "answer": "Révolution des roses",
+          "tier": "t3",
+          "aliases": [
+            "Révolution rose"
+          ]
+        },
+        {
+          "answer": "Euromaïdan",
+          "tier": "t3",
+          "aliases": [
+            "Maïdan",
+            "Révolution de la dignité",
+            "Révolution du Maïdan"
+          ]
+        },
+        {
+          "answer": "Insurrection de Budapest",
+          "tier": "t3",
+          "aliases": [
+            "Révolution hongroise de 1956",
+            "Insurrection hongroise de 1956"
+          ]
+        },
+        {
+          "answer": "Guerre de Vendée",
+          "tier": "t3",
+          "aliases": [
+            "Insurrection vendéenne",
+            "Vendée"
+          ]
+        },
+        {
+          "answer": "Chouannerie",
+          "tier": "t3",
+          "aliases": [
+            "Chouans"
+          ]
+        },
+        {
+          "answer": "Révolte des paysans",
+          "tier": "t4",
+          "aliases": [
+            "Révolte des travailleurs",
+            "Peasants' Revolt",
+            "Révolte de Wat Tyler",
+            "Révolte de 1381"
+          ]
+        },
+        {
+          "answer": "Révolution de 1905",
+          "tier": "t4",
+          "aliases": [
+            "Révolution russe de 1905"
+          ]
+        },
+        {
+          "answer": "Révolution xinhai",
+          "tier": "t4",
+          "aliases": [
+            "Révolution de 1911",
+            "Révolution chinoise de 1911",
+            "Révolution Xinhai"
+          ]
+        },
+        {
+          "answer": "Insurrection de Varsovie",
+          "tier": "t4",
+          "aliases": [
+            "Soulèvement de Varsovie"
+          ]
+        },
+        {
+          "answer": "Soulèvement du ghetto de Varsovie",
+          "tier": "t4",
+          "aliases": [
+            "Insurrection du ghetto de Varsovie"
+          ]
+        },
+        {
+          "answer": "Révolte des Canuts",
+          "tier": "t4",
+          "aliases": [
+            "Canuts",
+            "Révolte des canuts"
+          ]
+        },
+        {
+          "answer": "Révolte des Décembristes",
+          "tier": "t4",
+          "aliases": [
+            "Décembristes",
+            "Révolte décembriste"
+          ]
+        },
+        {
+          "answer": "Révolte de Pougatchev",
+          "tier": "t4",
+          "aliases": [
+            "Pougatchev",
+            "Révolte de Pugachev"
+          ]
+        },
+        {
+          "answer": "Révolte des Camisards",
+          "tier": "t4",
+          "aliases": [
+            "Camisards"
+          ]
+        },
+        {
+          "answer": "Révolte des Bonnets rouges",
+          "tier": "t4",
+          "aliases": [
+            "Bonnets rouges"
+          ]
+        },
+        {
+          "answer": "Révolte des Gueux",
+          "tier": "t4",
+          "aliases": [
+            "Gueux"
+          ]
+        },
+        {
+          "answer": "Révolte hussite",
+          "tier": "t4",
+          "aliases": [
+            "Hussites",
+            "Guerres hussites"
+          ]
+        },
+        {
+          "answer": "Révolte des Maccabées",
+          "tier": "t4",
+          "aliases": [
+            "Maccabées"
+          ]
+        },
+        {
+          "answer": "Révolte de Nika",
+          "tier": "t4",
+          "aliases": [
+            "Nika"
+          ]
+        },
+        {
+          "answer": "Révolution sandiniste",
+          "tier": "t4",
+          "aliases": [
+            "Révolution du Nicaragua"
+          ]
+        },
+        {
+          "answer": "Révolution des cèdres",
+          "tier": "t4",
+          "aliases": [
+            "Révolution du Cèdre"
+          ]
+        },
+        {
+          "answer": "Révolution allemande de 1918",
+          "tier": "t4",
+          "aliases": [
+            "Révolution allemande",
+            "Révolution de novembre"
+          ]
+        },
+        {
+          "answer": "Révolution belge",
+          "tier": "t4",
+          "aliases": [
+            "Révolution belge de 1830"
+          ]
+        },
+        {
+          "answer": "Insurrection de Kronstadt",
+          "tier": "t4",
+          "aliases": [
+            "Révolte de Kronstadt"
+          ]
+        },
+        {
+          "answer": "Révolte des Hereros",
+          "tier": "t4",
+          "aliases": [
+            "Révolte des Héréros"
+          ]
+        },
+        {
+          "answer": "Rébellion des Patriotes",
+          "tier": "t4",
+          "aliases": [
+            "Révolte des Patriotes",
+            "Rébellion de 1837"
+          ]
+        },
+        {
+          "answer": "Guerre des paysans",
+          "tier": "t4",
+          "aliases": [
+            "Guerre des paysans allemande"
+          ]
+        },
+        {
+          "answer": "Révolte des Mau-Mau",
+          "tier": "t4",
+          "aliases": [
+            "Mau-Mau",
+            "Révolte Mau Mau"
+          ]
+        },
+        {
+          "answer": "Soulèvement de Soweto",
+          "tier": "t4",
+          "aliases": [
+            "Émeutes de Soweto"
+          ]
+        },
+        {
+          "answer": "Révolution égyptienne",
+          "tier": "t4",
+          "aliases": [
+            "Révolution du 25 janvier",
+            "Révolution égyptienne de 2011"
+          ]
+        },
+        {
+          "answer": "Révolution des tulipes",
+          "tier": "t4",
+          "aliases": [
+            "Révolution kirghize"
+          ]
+        },
+        {
+          "answer": "Révolution du Lotus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Révolution des Jeunes-Turcs",
+          "tier": "t5",
+          "aliases": [
+            "Jeunes-Turcs",
+            "Révolution de 1908"
+          ]
+        },
+        {
+          "answer": "Révolution constitutionnelle persane",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Révolution tranquille",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Rébellion de Shays",
+          "tier": "t5",
+          "aliases": [
+            "Révolte de Shays"
+          ]
+        },
+        {
+          "answer": "Révolte de Túpac Amaru",
+          "tier": "t5",
+          "aliases": [
+            "Tupac Amaru",
+            "Túpac Amaru II"
+          ]
+        },
+        {
+          "answer": "Révolution safran",
+          "tier": "t5",
+          "aliases": [
+            "Révolution de Safran"
+          ]
+        },
+        {
+          "answer": "Révolution des parapluies",
+          "tier": "t5",
+          "aliases": [
+            "Mouvement des parapluies"
+          ]
+        },
+        {
+          "answer": "Insurrection de Lyon",
+          "tier": "t5",
+          "aliases": [
+            "Révolte de Lyon"
+          ]
+        },
+        {
+          "answer": "Rébellion du Whisky",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Révolte de Nat Turner",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Révolution libyenne",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "People Power",
+          "tier": "t5",
+          "aliases": [
+            "Révolution EDSA",
+            "Pouvoir du peuple"
+          ]
+        },
+        {
+          "answer": "Restauration de Meiji",
+          "tier": "t5",
+          "aliases": [
+            "Révolution Meiji"
+          ]
+        },
+        {
+          "answer": "Révolution du 25 avril",
+          "tier": "t5",
+          "aliases": [
+            "Révolution du 25 Avril"
+          ]
+        }
+      ]
+    },
+    "his-revolution-industrielle": {
+      "promptId": "his-revolution-industrielle",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Machine à vapeur",
+          "tier": "t1",
+          "aliases": [
+            "Moteur à vapeur"
+          ]
+        },
+        {
+          "answer": "Locomotive à vapeur",
+          "tier": "t1",
+          "aliases": [
+            "Locomotive"
+          ]
+        },
+        {
+          "answer": "Métier à tisser mécanique",
+          "tier": "t1",
+          "aliases": [
+            "Métier à tisser",
+            "Métier mécanique",
+            "Power loom"
+          ]
+        },
+        {
+          "answer": "Spinning Jenny",
+          "tier": "t1",
+          "aliases": [
+            "Jenny",
+            "Métier Jenny"
+          ]
+        },
+        {
+          "answer": "Télégraphe",
+          "tier": "t1",
+          "aliases": [
+            "Télégraphe électrique"
+          ]
+        },
+        {
+          "answer": "Ampoule électrique",
+          "tier": "t1",
+          "aliases": [
+            "Ampoule à incandescence",
+            "Lampe à incandescence",
+            "Ampoule"
+          ]
+        },
+        {
+          "answer": "Téléphone",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Chemin de fer",
+          "tier": "t1",
+          "aliases": [
+            "Train",
+            "Voie ferrée"
+          ]
+        },
+        {
+          "answer": "Bateau à vapeur",
+          "tier": "t1",
+          "aliases": [
+            "Navire à vapeur",
+            "Vapeur"
+          ]
+        },
+        {
+          "answer": "Photographie",
+          "tier": "t2",
+          "aliases": [
+            "Daguerréotype"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Conserve alimentaire",
+          "tier": "t6",
+          "aliases": [
+            "Conserve",
+            "Appertisation",
+            "Boîte de conserve"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Water frame",
+          "tier": "t3",
+          "aliases": [
+            "Métier hydraulique"
+          ]
+        },
+        {
+          "answer": "Mule-jenny",
+          "tier": "t3",
+          "aliases": [
+            "Mule Jenny",
+            "Métier renvideur",
+            "Mule"
+          ]
+        },
+        {
+          "answer": "Convertisseur Bessemer",
+          "tier": "t3",
+          "aliases": [
+            "Procédé Bessemer",
+            "Bessemer",
+            "Acier Bessemer"
+          ]
+        },
+        {
+          "answer": "Égreneuse de coton",
+          "tier": "t3",
+          "aliases": [
+            "Cotton gin",
+            "Égreneuse"
+          ]
+        },
+        {
+          "answer": "Dynamo",
+          "tier": "t3",
+          "aliases": [
+            "Dynamo électrique"
+          ]
+        },
+        {
+          "answer": "Moteur électrique",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pile électrique",
+          "tier": "t3",
+          "aliases": [
+            "Pile de Volta",
+            "Pile voltaïque",
+            "Pile"
+          ]
+        },
+        {
+          "answer": "Métier Jacquard",
+          "tier": "t3",
+          "aliases": [
+            "Métier à tisser Jacquard",
+            "Jacquard"
+          ]
+        },
+        {
+          "answer": "Moteur à combustion interne",
+          "tier": "t3",
+          "aliases": [
+            "Moteur à explosion",
+            "Moteur à combustion"
+          ]
+        },
+        {
+          "answer": "Automobile",
+          "tier": "t3",
+          "aliases": [
+            "Voiture",
+            "Automobile à moteur"
+          ]
+        },
+        {
+          "answer": "Machine à coudre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lampe de sécurité",
+          "tier": "t3",
+          "aliases": [
+            "Lampe de Davy",
+            "Lampe de sûreté",
+            "Lampe Davy"
+          ]
+        },
+        {
+          "answer": "Vaccin",
+          "tier": "t3",
+          "aliases": [
+            "Vaccination",
+            "Vaccin contre la variole"
+          ]
+        },
+        {
+          "answer": "Pasteurisation",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dynamite",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Phonographe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Code Morse",
+          "tier": "t3",
+          "aliases": [
+            "Alphabet Morse",
+            "Morse"
+          ]
+        },
+        {
+          "answer": "Acier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Haut fourneau au coke",
+          "tier": "t3",
+          "aliases": [
+            "Coke métallurgique",
+            "Coke"
+          ]
+        },
+        {
+          "answer": "Fusée de Stephenson",
+          "tier": "t3",
+          "aliases": [
+            "Rocket",
+            "Stephenson's Rocket"
+          ]
+        },
+        {
+          "answer": "Moissonneuse",
+          "tier": "t3",
+          "aliases": [
+            "Moissonneuse mécanique",
+            "Moissonneuse-lieuse"
+          ]
+        },
+        {
+          "answer": "Puddlage",
+          "tier": "t4",
+          "aliases": [
+            "Procédé de puddlage"
+          ]
+        },
+        {
+          "answer": "Navette volante",
+          "tier": "t4",
+          "aliases": [
+            "Flying shuttle"
+          ]
+        },
+        {
+          "answer": "Moteur diesel",
+          "tier": "t4",
+          "aliases": [
+            "Diesel"
+          ]
+        },
+        {
+          "answer": "Moteur à quatre temps",
+          "tier": "t4",
+          "aliases": [
+            "Moteur Otto"
+          ]
+        },
+        {
+          "answer": "Béton armé",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ciment Portland",
+          "tier": "t4",
+          "aliases": [
+            "Ciment"
+          ]
+        },
+        {
+          "answer": "Vulcanisation",
+          "tier": "t4",
+          "aliases": [
+            "Vulcanisation du caoutchouc"
+          ]
+        },
+        {
+          "answer": "Pneumatique",
+          "tier": "t4",
+          "aliases": [
+            "Pneu"
+          ]
+        },
+        {
+          "answer": "Anesthésie",
+          "tier": "t4",
+          "aliases": [
+            "Anesthésie à l'éther",
+            "Éther"
+          ]
+        },
+        {
+          "answer": "Stéthoscope",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Machine à écrire",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cinématographe",
+          "tier": "t4",
+          "aliases": [
+            "Cinéma"
+          ]
+        },
+        {
+          "answer": "Rayons X",
+          "tier": "t4",
+          "aliases": [
+            "Radiographie"
+          ]
+        },
+        {
+          "answer": "Radioactivité",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gaz d'éclairage",
+          "tier": "t4",
+          "aliases": [
+            "Éclairage au gaz",
+            "Gaz de houille"
+          ]
+        },
+        {
+          "answer": "Allumette",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ascenseur",
+          "tier": "t4",
+          "aliases": [
+            "Ascenseur de sécurité"
+          ]
+        },
+        {
+          "answer": "Induction électromagnétique",
+          "tier": "t4",
+          "aliases": [
+            "Induction"
+          ]
+        },
+        {
+          "answer": "Radio",
+          "tier": "t4",
+          "aliases": [
+            "TSF",
+            "Télégraphie sans fil"
+          ]
+        },
+        {
+          "answer": "Transformateur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pont de fer",
+          "tier": "t4",
+          "aliases": [
+            "Ironbridge",
+            "Pont en fonte"
+          ]
+        },
+        {
+          "answer": "Hélice",
+          "tier": "t4",
+          "aliases": [
+            "Hélice navale"
+          ]
+        },
+        {
+          "answer": "Courant alternatif",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Turbine à vapeur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Linotype",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Presse rotative",
+          "tier": "t4",
+          "aliases": [
+            "Rotative"
+          ]
+        },
+        {
+          "answer": "Soude artificielle",
+          "tier": "t4",
+          "aliases": [
+            "Procédé Leblanc"
+          ]
+        },
+        {
+          "answer": "Procédé Solvay",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tableau périodique",
+          "tier": "t4",
+          "aliases": [
+            "Tableau de Mendeleïev"
+          ]
+        },
+        {
+          "answer": "Télégraphe optique",
+          "tier": "t5",
+          "aliases": [
+            "Télégraphe Chappe",
+            "Télégraphe de Chappe"
+          ]
+        },
+        {
+          "answer": "Turbine hydraulique",
+          "tier": "t5",
+          "aliases": [
+            "Turbine Fourneyron"
+          ]
+        },
+        {
+          "answer": "Lampe à arc",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Accumulateur électrique",
+          "tier": "t5",
+          "aliases": [
+            "Accumulateur"
+          ]
+        },
+        {
+          "answer": "Pile Daniell",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pile Leclanché",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Procédé Hall-Héroult",
+          "tier": "t5",
+          "aliases": [
+            "Hall-Héroult"
+          ]
+        },
+        {
+          "answer": "Machine de Newcomen",
+          "tier": "t5",
+          "aliases": [
+            "Machine atmosphérique"
+          ]
+        },
+        {
+          "answer": "Moteur Stirling",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mitrailleuse Gatling",
+          "tier": "t5",
+          "aliases": [
+            "Gatling"
+          ]
+        },
+        {
+          "answer": "Hydroélectricité",
+          "tier": "t5",
+          "aliases": [
+            "Houille blanche"
+          ]
+        }
+      ]
+    },
+    "his-general-ww1": {
+      "promptId": "his-general-ww1",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Foch",
+          "tier": "t1",
+          "aliases": [
+            "Ferdinand Foch",
+            "Maréchal Foch"
+          ]
+        },
+        {
+          "answer": "Joffre",
+          "tier": "t1",
+          "aliases": [
+            "Joseph Joffre",
+            "Maréchal Joffre",
+            "Papa Joffre"
+          ]
+        },
+        {
+          "answer": "Pétain",
+          "tier": "t1",
+          "aliases": [
+            "Philippe Pétain",
+            "Maréchal Pétain"
+          ]
+        },
+        {
+          "answer": "Haig",
+          "tier": "t1",
+          "aliases": [
+            "Douglas Haig",
+            "Maréchal Haig"
+          ]
+        },
+        {
+          "answer": "Hindenburg",
+          "tier": "t1",
+          "aliases": [
+            "Paul von Hindenburg",
+            "Von Hindenburg"
+          ]
+        },
+        {
+          "answer": "Ludendorff",
+          "tier": "t1",
+          "aliases": [
+            "Erich Ludendorff"
+          ]
+        },
+        {
+          "answer": "Pershing",
+          "tier": "t1",
+          "aliases": [
+            "John Pershing",
+            "John J. Pershing"
+          ]
+        },
+        {
+          "answer": "Nivelle",
+          "tier": "t1",
+          "aliases": [
+            "Robert Nivelle"
+          ]
+        },
+        {
+          "answer": "Kitchener",
+          "tier": "t1",
+          "aliases": [
+            "Lord Kitchener",
+            "Horatio Kitchener"
+          ]
+        },
+        {
+          "answer": "Gallieni",
+          "tier": "t1",
+          "aliases": [
+            "Joseph Gallieni"
+          ]
+        },
+        {
+          "answer": "Moltke",
+          "tier": "t2",
+          "aliases": [
+            "Helmuth von Moltke",
+            "Moltke le Jeune",
+            "Von Moltke"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Mustafa Kemal",
+          "tier": "t6",
+          "aliases": [
+            "Atatürk",
+            "Ataturk",
+            "Mustafa Kemal Atatürk"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Castelnau",
+          "tier": "t3",
+          "aliases": [
+            "Édouard de Castelnau",
+            "De Castelnau"
+          ]
+        },
+        {
+          "answer": "Mangin",
+          "tier": "t3",
+          "aliases": [
+            "Charles Mangin"
+          ]
+        },
+        {
+          "answer": "Franchet d'Espèrey",
+          "tier": "t3",
+          "aliases": [
+            "Louis Franchet d'Espèrey",
+            "Franchet d'Esperey"
+          ]
+        },
+        {
+          "answer": "Fayolle",
+          "tier": "t3",
+          "aliases": [
+            "Émile Fayolle"
+          ]
+        },
+        {
+          "answer": "Sarrail",
+          "tier": "t3",
+          "aliases": [
+            "Maurice Sarrail"
+          ]
+        },
+        {
+          "answer": "Maunoury",
+          "tier": "t3",
+          "aliases": [
+            "Michel Maunoury"
+          ]
+        },
+        {
+          "answer": "Lanrezac",
+          "tier": "t3",
+          "aliases": [
+            "Charles Lanrezac"
+          ]
+        },
+        {
+          "answer": "Gouraud",
+          "tier": "t3",
+          "aliases": [
+            "Henri Gouraud"
+          ]
+        },
+        {
+          "answer": "Weygand",
+          "tier": "t3",
+          "aliases": [
+            "Maxime Weygand"
+          ]
+        },
+        {
+          "answer": "Falkenhayn",
+          "tier": "t3",
+          "aliases": [
+            "Erich von Falkenhayn"
+          ]
+        },
+        {
+          "answer": "Mackensen",
+          "tier": "t3",
+          "aliases": [
+            "August von Mackensen"
+          ]
+        },
+        {
+          "answer": "Kluck",
+          "tier": "t3",
+          "aliases": [
+            "Alexander von Kluck",
+            "Von Kluck"
+          ]
+        },
+        {
+          "answer": "Bülow",
+          "tier": "t3",
+          "aliases": [
+            "Karl von Bülow",
+            "Von Bülow"
+          ]
+        },
+        {
+          "answer": "Rupprecht de Bavière",
+          "tier": "t3",
+          "aliases": [
+            "Rupprecht",
+            "Prince Rupprecht"
+          ]
+        },
+        {
+          "answer": "Prittwitz",
+          "tier": "t3",
+          "aliases": [
+            "Maximilian von Prittwitz"
+          ]
+        },
+        {
+          "answer": "Lettow-Vorbeck",
+          "tier": "t3",
+          "aliases": [
+            "Paul von Lettow-Vorbeck"
+          ]
+        },
+        {
+          "answer": "French",
+          "tier": "t3",
+          "aliases": [
+            "John French",
+            "Lord French"
+          ]
+        },
+        {
+          "answer": "Plumer",
+          "tier": "t3",
+          "aliases": [
+            "Herbert Plumer"
+          ]
+        },
+        {
+          "answer": "Allenby",
+          "tier": "t3",
+          "aliases": [
+            "Edmund Allenby"
+          ]
+        },
+        {
+          "answer": "Byng",
+          "tier": "t3",
+          "aliases": [
+            "Julian Byng"
+          ]
+        },
+        {
+          "answer": "Rawlinson",
+          "tier": "t3",
+          "aliases": [
+            "Henry Rawlinson"
+          ]
+        },
+        {
+          "answer": "Cadorna",
+          "tier": "t3",
+          "aliases": [
+            "Luigi Cadorna"
+          ]
+        },
+        {
+          "answer": "Diaz",
+          "tier": "t3",
+          "aliases": [
+            "Armando Diaz"
+          ]
+        },
+        {
+          "answer": "Badoglio",
+          "tier": "t3",
+          "aliases": [
+            "Pietro Badoglio"
+          ]
+        },
+        {
+          "answer": "Broussilov",
+          "tier": "t3",
+          "aliases": [
+            "Alexeï Broussilov",
+            "Brusilov",
+            "Brussilov"
+          ]
+        },
+        {
+          "answer": "Rennenkampf",
+          "tier": "t3",
+          "aliases": [
+            "Paul von Rennenkampf"
+          ]
+        },
+        {
+          "answer": "Samsonov",
+          "tier": "t3",
+          "aliases": [
+            "Alexandre Samsonov"
+          ]
+        },
+        {
+          "answer": "Conrad von Hötzendorf",
+          "tier": "t3",
+          "aliases": [
+            "Conrad",
+            "Franz Conrad von Hötzendorf"
+          ]
+        },
+        {
+          "answer": "Debeney",
+          "tier": "t4",
+          "aliases": [
+            "Marie-Eugène Debeney"
+          ]
+        },
+        {
+          "answer": "Humbert",
+          "tier": "t4",
+          "aliases": [
+            "Georges Humbert"
+          ]
+        },
+        {
+          "answer": "Micheler",
+          "tier": "t4",
+          "aliases": [
+            "Joseph Micheler"
+          ]
+        },
+        {
+          "answer": "Guillaumat",
+          "tier": "t4",
+          "aliases": [
+            "Marie-Louis Guillaumat"
+          ]
+        },
+        {
+          "answer": "Pau",
+          "tier": "t4",
+          "aliases": [
+            "Paul Pau"
+          ]
+        },
+        {
+          "answer": "Dubail",
+          "tier": "t4",
+          "aliases": [
+            "Auguste Dubail"
+          ]
+        },
+        {
+          "answer": "Langle de Cary",
+          "tier": "t4",
+          "aliases": [
+            "Fernand de Langle de Cary"
+          ]
+        },
+        {
+          "answer": "Ruffey",
+          "tier": "t4",
+          "aliases": [
+            "Pierre Ruffey"
+          ]
+        },
+        {
+          "answer": "Sordet",
+          "tier": "t4",
+          "aliases": [
+            "André Sordet"
+          ]
+        },
+        {
+          "answer": "Maistre",
+          "tier": "t4",
+          "aliases": [
+            "Paul Maistre"
+          ]
+        },
+        {
+          "answer": "Anthoine",
+          "tier": "t4",
+          "aliases": [
+            "François Anthoine"
+          ]
+        },
+        {
+          "answer": "Estienne",
+          "tier": "t4",
+          "aliases": [
+            "Jean-Baptiste Estienne"
+          ]
+        },
+        {
+          "answer": "Berthelot",
+          "tier": "t4",
+          "aliases": [
+            "Henri Berthelot"
+          ]
+        },
+        {
+          "answer": "Smith-Dorrien",
+          "tier": "t4",
+          "aliases": [
+            "Horace Smith-Dorrien"
+          ]
+        },
+        {
+          "answer": "Robertson",
+          "tier": "t4",
+          "aliases": [
+            "William Robertson"
+          ]
+        },
+        {
+          "answer": "Birdwood",
+          "tier": "t4",
+          "aliases": [
+            "William Birdwood"
+          ]
+        },
+        {
+          "answer": "Monash",
+          "tier": "t4",
+          "aliases": [
+            "John Monash"
+          ]
+        },
+        {
+          "answer": "Currie",
+          "tier": "t4",
+          "aliases": [
+            "Arthur Currie"
+          ]
+        },
+        {
+          "answer": "Gough",
+          "tier": "t4",
+          "aliases": [
+            "Hubert Gough"
+          ]
+        },
+        {
+          "answer": "Horne",
+          "tier": "t4",
+          "aliases": [
+            "Henry Horne"
+          ]
+        },
+        {
+          "answer": "Maude",
+          "tier": "t4",
+          "aliases": [
+            "Stanley Maude"
+          ]
+        },
+        {
+          "answer": "Townshend",
+          "tier": "t4",
+          "aliases": [
+            "Charles Townshend"
+          ]
+        },
+        {
+          "answer": "Ian Hamilton",
+          "tier": "t4",
+          "aliases": [
+            "Hamilton"
+          ]
+        },
+        {
+          "answer": "Hausen",
+          "tier": "t4",
+          "aliases": [
+            "Max von Hausen"
+          ]
+        },
+        {
+          "answer": "Albrecht de Wurtemberg",
+          "tier": "t4",
+          "aliases": [
+            "Albrecht de Württemberg"
+          ]
+        },
+        {
+          "answer": "Gallwitz",
+          "tier": "t4",
+          "aliases": [
+            "Max von Gallwitz"
+          ]
+        },
+        {
+          "answer": "Hutier",
+          "tier": "t4",
+          "aliases": [
+            "Oskar von Hutier"
+          ]
+        },
+        {
+          "answer": "François",
+          "tier": "t4",
+          "aliases": [
+            "Hermann von François"
+          ]
+        },
+        {
+          "answer": "Linsingen",
+          "tier": "t4",
+          "aliases": [
+            "Alexander von Linsingen"
+          ]
+        },
+        {
+          "answer": "Liman von Sanders",
+          "tier": "t4",
+          "aliases": [
+            "Otto Liman von Sanders"
+          ]
+        },
+        {
+          "answer": "Max Hoffmann",
+          "tier": "t4",
+          "aliases": [
+            "Hoffmann"
+          ]
+        },
+        {
+          "answer": "Eichhorn",
+          "tier": "t4",
+          "aliases": [
+            "Hermann von Eichhorn"
+          ]
+        },
+        {
+          "answer": "Below",
+          "tier": "t4",
+          "aliases": [
+            "Otto von Below"
+          ]
+        },
+        {
+          "answer": "Boroević",
+          "tier": "t4",
+          "aliases": [
+            "Svetozar Boroević"
+          ]
+        },
+        {
+          "answer": "Potiorek",
+          "tier": "t4",
+          "aliases": [
+            "Oskar Potiorek"
+          ]
+        },
+        {
+          "answer": "Nicolas Nikolaïevitch",
+          "tier": "t4",
+          "aliases": [
+            "Grand-duc Nicolas"
+          ]
+        },
+        {
+          "answer": "Alexeïev",
+          "tier": "t4",
+          "aliases": [
+            "Mikhaïl Alexeïev"
+          ]
+        },
+        {
+          "answer": "Kornilov",
+          "tier": "t4",
+          "aliases": [
+            "Lavr Kornilov"
+          ]
+        },
+        {
+          "answer": "Denikine",
+          "tier": "t4",
+          "aliases": [
+            "Anton Denikine"
+          ]
+        },
+        {
+          "answer": "Rouzski",
+          "tier": "t4",
+          "aliases": [
+            "Nikolaï Rouzski"
+          ]
+        },
+        {
+          "answer": "Ivanov",
+          "tier": "t4",
+          "aliases": [
+            "Nikolaï Ivanov"
+          ]
+        },
+        {
+          "answer": "Youdenitch",
+          "tier": "t4",
+          "aliases": [
+            "Nikolaï Youdenitch"
+          ]
+        },
+        {
+          "answer": "Putnik",
+          "tier": "t4",
+          "aliases": [
+            "Radomir Putnik"
+          ]
+        },
+        {
+          "answer": "Mišić",
+          "tier": "t4",
+          "aliases": [
+            "Živojin Mišić",
+            "Misic"
+          ]
+        },
+        {
+          "answer": "Averescu",
+          "tier": "t4",
+          "aliases": [
+            "Alexandru Averescu"
+          ]
+        },
+        {
+          "answer": "Liggett",
+          "tier": "t4",
+          "aliases": [
+            "Hunter Liggett"
+          ]
+        },
+        {
+          "answer": "Summerall",
+          "tier": "t4",
+          "aliases": [
+            "Charles Summerall"
+          ]
+        },
+        {
+          "answer": "Cavan",
+          "tier": "t5",
+          "aliases": [
+            "Comte de Cavan"
+          ]
+        },
+        {
+          "answer": "Wilson",
+          "tier": "t5",
+          "aliases": [
+            "Henry Wilson"
+          ]
+        },
+        {
+          "answer": "Murray",
+          "tier": "t5",
+          "aliases": [
+            "Archibald Murray"
+          ]
+        },
+        {
+          "answer": "Godley",
+          "tier": "t5",
+          "aliases": [
+            "Alexander Godley"
+          ]
+        },
+        {
+          "answer": "Groener",
+          "tier": "t5",
+          "aliases": [
+            "Wilhelm Groener"
+          ]
+        },
+        {
+          "answer": "Seeckt",
+          "tier": "t5",
+          "aliases": [
+            "Hans von Seeckt"
+          ]
+        },
+        {
+          "answer": "Kress von Kressenstein",
+          "tier": "t5",
+          "aliases": [
+            "Friedrich Kress von Kressenstein"
+          ]
+        },
+        {
+          "answer": "Arz von Straußenburg",
+          "tier": "t5",
+          "aliases": [
+            "Arthur Arz von Straussenburg",
+            "Arz"
+          ]
+        },
+        {
+          "answer": "Dankl",
+          "tier": "t5",
+          "aliases": [
+            "Viktor Dankl"
+          ]
+        },
+        {
+          "answer": "Auffenberg",
+          "tier": "t5",
+          "aliases": [
+            "Moritz von Auffenberg"
+          ]
+        },
+        {
+          "answer": "Böhm-Ermolli",
+          "tier": "t5",
+          "aliases": [
+            "Eduard von Böhm-Ermolli"
+          ]
+        },
+        {
+          "answer": "Kövess",
+          "tier": "t5",
+          "aliases": [
+            "Hermann Kövess von Kövessháza"
+          ]
+        },
+        {
+          "answer": "Kouropatkine",
+          "tier": "t5",
+          "aliases": [
+            "Alexeï Kouropatkine"
+          ]
+        },
+        {
+          "answer": "Gourko",
+          "tier": "t5",
+          "aliases": [
+            "Vassili Gourko"
+          ]
+        },
+        {
+          "answer": "Lechitski",
+          "tier": "t5",
+          "aliases": [
+            "Platon Lechitski"
+          ]
+        },
+        {
+          "answer": "Stepanović",
+          "tier": "t5",
+          "aliases": [
+            "Stepa Stepanović"
+          ]
+        },
+        {
+          "answer": "Prezan",
+          "tier": "t5",
+          "aliases": [
+            "Constantin Prezan"
+          ]
+        },
+        {
+          "answer": "Bullard",
+          "tier": "t5",
+          "aliases": [
+            "Robert Bullard"
+          ]
+        }
+      ]
+    },
+    "his-aviateur": {
+      "promptId": "his-aviateur",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Frères Wright",
+          "tier": "t1",
+          "aliases": [
+            "Wright",
+            "Les Wright",
+            "Wright Brothers"
+          ]
+        },
+        {
+          "answer": "Orville Wright",
+          "tier": "t1",
+          "aliases": [
+            "Orville"
+          ]
+        },
+        {
+          "answer": "Wilbur Wright",
+          "tier": "t1",
+          "aliases": [
+            "Wilbur"
+          ]
+        },
+        {
+          "answer": "Louis Blériot",
+          "tier": "t1",
+          "aliases": [
+            "Blériot"
+          ]
+        },
+        {
+          "answer": "Charles Lindbergh",
+          "tier": "t1",
+          "aliases": [
+            "Lindbergh"
+          ]
+        },
+        {
+          "answer": "Amelia Earhart",
+          "tier": "t1",
+          "aliases": [
+            "Earhart"
+          ]
+        },
+        {
+          "answer": "Clément Ader",
+          "tier": "t1",
+          "aliases": [
+            "Ader"
+          ]
+        },
+        {
+          "answer": "Alberto Santos-Dumont",
+          "tier": "t1",
+          "aliases": [
+            "Santos-Dumont",
+            "Santos Dumont"
+          ]
+        },
+        {
+          "answer": "Antoine de Saint-Exupéry",
+          "tier": "t1",
+          "aliases": [
+            "Saint-Exupéry",
+            "Saint Exupéry"
+          ]
+        },
+        {
+          "answer": "Jean Mermoz",
+          "tier": "t1",
+          "aliases": [
+            "Mermoz"
+          ]
+        },
+        {
+          "answer": "Gabriel Voisin",
+          "tier": "t2",
+          "aliases": [
+            "Voisin"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Traian Vuia",
+          "tier": "t6",
+          "aliases": [
+            "Vuia"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Roland Garros",
+          "tier": "t3",
+          "aliases": [
+            "Garros"
+          ]
+        },
+        {
+          "answer": "Henri Farman",
+          "tier": "t3",
+          "aliases": [
+            "Farman"
+          ]
+        },
+        {
+          "answer": "Henri Guillaumet",
+          "tier": "t3",
+          "aliases": [
+            "Guillaumet"
+          ]
+        },
+        {
+          "answer": "Dieudonné Costes",
+          "tier": "t3",
+          "aliases": [
+            "Costes"
+          ]
+        },
+        {
+          "answer": "Charles Nungesser",
+          "tier": "t3",
+          "aliases": [
+            "Nungesser"
+          ]
+        },
+        {
+          "answer": "François Coli",
+          "tier": "t3",
+          "aliases": [
+            "Coli"
+          ]
+        },
+        {
+          "answer": "Maryse Bastié",
+          "tier": "t3",
+          "aliases": [
+            "Bastié"
+          ]
+        },
+        {
+          "answer": "Hélène Boucher",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jacqueline Auriol",
+          "tier": "t3",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Manfred von Richthofen",
+          "tier": "t3",
+          "aliases": [
+            "Baron rouge",
+            "Richthofen",
+            "Le Baron rouge",
+            "Red Baron"
+          ]
+        },
+        {
+          "answer": "Georges Guynemer",
+          "tier": "t3",
+          "aliases": [
+            "Guynemer"
+          ]
+        },
+        {
+          "answer": "René Fonck",
+          "tier": "t3",
+          "aliases": [
+            "Fonck"
+          ]
+        },
+        {
+          "answer": "Otto Lilienthal",
+          "tier": "t3",
+          "aliases": [
+            "Lilienthal"
+          ]
+        },
+        {
+          "answer": "Amy Johnson",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Charles Kingsford Smith",
+          "tier": "t3",
+          "aliases": [
+            "Kingsford Smith"
+          ]
+        },
+        {
+          "answer": "Howard Hughes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chuck Yeager",
+          "tier": "t3",
+          "aliases": [
+            "Yeager"
+          ]
+        },
+        {
+          "answer": "Jimmy Doolittle",
+          "tier": "t3",
+          "aliases": [
+            "Doolittle"
+          ]
+        },
+        {
+          "answer": "Igor Sikorsky",
+          "tier": "t3",
+          "aliases": [
+            "Sikorsky"
+          ]
+        },
+        {
+          "answer": "Anthony Fokker",
+          "tier": "t3",
+          "aliases": [
+            "Fokker"
+          ]
+        },
+        {
+          "answer": "Geoffrey de Havilland",
+          "tier": "t3",
+          "aliases": [
+            "De Havilland"
+          ]
+        },
+        {
+          "answer": "Eddie Rickenbacker",
+          "tier": "t3",
+          "aliases": [
+            "Rickenbacker"
+          ]
+        },
+        {
+          "answer": "Glenn Curtiss",
+          "tier": "t3",
+          "aliases": [
+            "Curtiss"
+          ]
+        },
+        {
+          "answer": "John Alcock",
+          "tier": "t3",
+          "aliases": [
+            "Alcock"
+          ]
+        },
+        {
+          "answer": "Arthur Whitten Brown",
+          "tier": "t3",
+          "aliases": [
+            "Whitten Brown"
+          ]
+        },
+        {
+          "answer": "Maurice Farman",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hubert Latham",
+          "tier": "t4",
+          "aliases": [
+            "Latham"
+          ]
+        },
+        {
+          "answer": "Léon Delagrange",
+          "tier": "t4",
+          "aliases": [
+            "Delagrange"
+          ]
+        },
+        {
+          "answer": "Louis Paulhan",
+          "tier": "t4",
+          "aliases": [
+            "Paulhan"
+          ]
+        },
+        {
+          "answer": "Adolphe Pégoud",
+          "tier": "t4",
+          "aliases": [
+            "Pégoud"
+          ]
+        },
+        {
+          "answer": "Maurice Bellonte",
+          "tier": "t4",
+          "aliases": [
+            "Bellonte"
+          ]
+        },
+        {
+          "answer": "Joseph Le Brix",
+          "tier": "t4",
+          "aliases": [
+            "Le Brix"
+          ]
+        },
+        {
+          "answer": "Maryse Hilsz",
+          "tier": "t4",
+          "aliases": [
+            "Hilsz"
+          ]
+        },
+        {
+          "answer": "Adrienne Bolland",
+          "tier": "t4",
+          "aliases": [
+            "Bolland"
+          ]
+        },
+        {
+          "answer": "Raymonde de Laroche",
+          "tier": "t4",
+          "aliases": [
+            "Baronne de Laroche"
+          ]
+        },
+        {
+          "answer": "Didier Daurat",
+          "tier": "t4",
+          "aliases": [
+            "Daurat"
+          ]
+        },
+        {
+          "answer": "Pierre-Georges Latécoère",
+          "tier": "t4",
+          "aliases": [
+            "Latécoère"
+          ]
+        },
+        {
+          "answer": "Henri Fabre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Louis Breguet",
+          "tier": "t4",
+          "aliases": [
+            "Breguet",
+            "Bréguet",
+            "Louis Bréguet"
+          ]
+        },
+        {
+          "answer": "Henri Mignet",
+          "tier": "t4",
+          "aliases": [
+            "Mignet"
+          ]
+        },
+        {
+          "answer": "Paul Cornu",
+          "tier": "t4",
+          "aliases": [
+            "Cornu"
+          ]
+        },
+        {
+          "answer": "Samuel Langley",
+          "tier": "t4",
+          "aliases": [
+            "Langley"
+          ]
+        },
+        {
+          "answer": "Octave Chanute",
+          "tier": "t4",
+          "aliases": [
+            "Chanute"
+          ]
+        },
+        {
+          "answer": "George Cayley",
+          "tier": "t4",
+          "aliases": [
+            "Cayley"
+          ]
+        },
+        {
+          "answer": "Wiley Post",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bessie Coleman",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Harriet Quimby",
+          "tier": "t4",
+          "aliases": [
+            "Quimby"
+          ]
+        },
+        {
+          "answer": "Jacqueline Cochran",
+          "tier": "t4",
+          "aliases": [
+            "Cochran"
+          ]
+        },
+        {
+          "answer": "Hanna Reitsch",
+          "tier": "t4",
+          "aliases": [
+            "Reitsch"
+          ]
+        },
+        {
+          "answer": "Beryl Markham",
+          "tier": "t4",
+          "aliases": [
+            "Markham"
+          ]
+        },
+        {
+          "answer": "Jean Batten",
+          "tier": "t4",
+          "aliases": [
+            "Batten"
+          ]
+        },
+        {
+          "answer": "Bert Hinkler",
+          "tier": "t4",
+          "aliases": [
+            "Hinkler"
+          ]
+        },
+        {
+          "answer": "Jim Mollison",
+          "tier": "t4",
+          "aliases": [
+            "Mollison"
+          ]
+        },
+        {
+          "answer": "Billy Bishop",
+          "tier": "t4",
+          "aliases": [
+            "Bishop"
+          ]
+        },
+        {
+          "answer": "Albert Ball",
+          "tier": "t4",
+          "aliases": [
+            "Ball"
+          ]
+        },
+        {
+          "answer": "Ernst Udet",
+          "tier": "t4",
+          "aliases": [
+            "Udet"
+          ]
+        },
+        {
+          "answer": "Oswald Boelcke",
+          "tier": "t4",
+          "aliases": [
+            "Boelcke"
+          ]
+        },
+        {
+          "answer": "Max Immelmann",
+          "tier": "t4",
+          "aliases": [
+            "Immelmann"
+          ]
+        },
+        {
+          "answer": "Francesco Baracca",
+          "tier": "t4",
+          "aliases": [
+            "Baracca"
+          ]
+        },
+        {
+          "answer": "Italo Balbo",
+          "tier": "t4",
+          "aliases": [
+            "Balbo"
+          ]
+        },
+        {
+          "answer": "Hugo Junkers",
+          "tier": "t4",
+          "aliases": [
+            "Junkers"
+          ]
+        },
+        {
+          "answer": "Frank Whittle",
+          "tier": "t4",
+          "aliases": [
+            "Whittle"
+          ]
+        },
+        {
+          "answer": "Charles Rolls",
+          "tier": "t4",
+          "aliases": [
+            "Rolls"
+          ]
+        },
+        {
+          "answer": "Alliott Verdon-Roe",
+          "tier": "t4",
+          "aliases": [
+            "Avro Roe",
+            "Verdon-Roe"
+          ]
+        },
+        {
+          "answer": "Marie Marvingt",
+          "tier": "t4",
+          "aliases": [
+            "Marvingt"
+          ]
+        },
+        {
+          "answer": "Jorge Chávez",
+          "tier": "t5",
+          "aliases": [
+            "Jorge Chavez",
+            "Geo Chávez"
+          ]
+        },
+        {
+          "answer": "Jacob Ellehammer",
+          "tier": "t5",
+          "aliases": [
+            "Ellehammer"
+          ]
+        },
+        {
+          "answer": "Hans von Ohain",
+          "tier": "t5",
+          "aliases": [
+            "Von Ohain"
+          ]
+        },
+        {
+          "answer": "Henri Coandă",
+          "tier": "t5",
+          "aliases": [
+            "Henri Coanda",
+            "Coandă"
+          ]
+        },
+        {
+          "answer": "Étienne Œhmichen",
+          "tier": "t5",
+          "aliases": [
+            "Oehmichen",
+            "Œhmichen"
+          ]
+        },
+        {
+          "answer": "Elly Beinhorn",
+          "tier": "t5",
+          "aliases": [
+            "Beinhorn"
+          ]
+        },
+        {
+          "answer": "Hélène Dutrieu",
+          "tier": "t5",
+          "aliases": [
+            "Dutrieu"
+          ]
+        },
+        {
+          "answer": "Valéri Tchkalov",
+          "tier": "t5",
+          "aliases": [
+            "Tchkalov",
+            "Chkalov"
+          ]
+        },
+        {
+          "answer": "Léon Morane",
+          "tier": "t5",
+          "aliases": [
+            "Morane"
+          ]
+        }
+      ]
+    }
+  }
+}

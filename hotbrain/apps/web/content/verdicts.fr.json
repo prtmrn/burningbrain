@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "bands": [
+    { "min": 0, "tier": "t1", "title": "Tiède", "phrase": "Le mercure frémit à peine — demain, il frémira plus fort." },
+    { "min": 151, "tier": "t3", "title": "Chaud", "phrase": "Ça commence à chauffer sérieusement." },
+    { "min": 251, "tier": "t4", "title": "Brûlant", "phrase": "Attention, ça brûle : belle montée." },
+    { "min": 351, "tier": "t5", "title": "Incandescent", "phrase": "Tu rayonnes littéralement." },
+    { "min": 450, "tier": "t6", "title": "Fusion", "phrase": "Cœur de réacteur. Respect absolu." }
+  ]
+}

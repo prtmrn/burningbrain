@@ -1,0 +1,615 @@
+{
+  "banks": {
+    "general": {
+      "contentVersion": 2,
+      "prompts": {
+        "gen-disney-perso": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-super-heros": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-simpson-perso": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-dessin-anime-80-90": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-serie-us": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-film-animation": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-jeu-nintendo": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-pokemon-gen1": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-harry-potter-perso": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-acteur-francais": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-emission-tele-fr": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-jeu-societe": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-appli-site": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-artiste-fr": {
+          "family": "musique",
+          "status": "draft"
+        },
+        "gen-chanson-beatles": {
+          "family": "musique",
+          "status": "draft"
+        },
+        "gen-instrument": {
+          "family": "musique",
+          "status": "draft"
+        },
+        "gen-compositeur-classique": {
+          "family": "musique",
+          "status": "draft"
+        },
+        "gen-roi-france": {
+          "family": "histoire",
+          "status": "draft"
+        },
+        "gen-revolution-perso": {
+          "family": "histoire",
+          "status": "draft"
+        },
+        "gen-empereur-romain": {
+          "family": "histoire",
+          "status": "draft"
+        },
+        "gen-invention-xxe": {
+          "family": "histoire",
+          "status": "draft"
+        },
+        "gen-femme-historique": {
+          "family": "histoire",
+          "status": "draft"
+        },
+        "gen-bataille": {
+          "family": "histoire",
+          "status": "draft"
+        },
+        "gen-explorateur": {
+          "family": "histoire",
+          "status": "draft"
+        },
+        "gen-mytho-grecque": {
+          "family": "histoire",
+          "status": "draft"
+        },
+        "gen-animal-afrique": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-dinosaure": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-oiseau": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-element-chimique": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-systeme-solaire": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-maladie": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-scientifique": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-arbre": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-fleur": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-poisson": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-roman-francais": {
+          "family": "arts",
+          "status": "draft"
+        },
+        "gen-conte-perso": {
+          "family": "arts",
+          "status": "draft"
+        },
+        "gen-peintre": {
+          "family": "arts",
+          "status": "draft"
+        },
+        "gen-oeuvre-art": {
+          "family": "arts",
+          "status": "draft"
+        },
+        "gen-bd-franco-belge": {
+          "family": "arts",
+          "status": "draft"
+        },
+        "gen-auteur-francais": {
+          "family": "arts",
+          "status": "draft"
+        },
+        "gen-club-foot-europe": {
+          "family": "sport",
+          "status": "draft"
+        },
+        "gen-sport-olympique": {
+          "family": "sport",
+          "status": "draft"
+        },
+        "gen-footballeur-fr": {
+          "family": "sport",
+          "status": "draft"
+        },
+        "gen-tennis": {
+          "family": "sport",
+          "status": "draft"
+        },
+        "gen-marque-sport": {
+          "family": "sport",
+          "status": "draft"
+        },
+        "gen-plat-italien": {
+          "family": "gastronomie",
+          "status": "draft"
+        },
+        "gen-plat-francais": {
+          "family": "gastronomie",
+          "status": "draft"
+        },
+        "gen-fromage": {
+          "family": "gastronomie",
+          "status": "draft"
+        },
+        "gen-epice": {
+          "family": "gastronomie",
+          "status": "draft"
+        },
+        "gen-boisson-alcool": {
+          "family": "gastronomie",
+          "status": "draft"
+        },
+        "gen-dessert-monde": {
+          "family": "gastronomie",
+          "status": "draft"
+        },
+        "gen-metier-ier": {
+          "family": "langue",
+          "status": "draft"
+        },
+        "gen-anglicisme": {
+          "family": "langue",
+          "status": "draft"
+        },
+        "gen-expression-corps": {
+          "family": "langue",
+          "status": "draft"
+        },
+        "gen-langue-monde": {
+          "family": "langue",
+          "status": "draft"
+        },
+        "gen-religion": {
+          "family": "langue",
+          "status": "draft"
+        },
+        "gen-marque-auto": {
+          "family": "marques",
+          "status": "draft"
+        },
+        "gen-entreprise-fr": {
+          "family": "marques",
+          "status": "draft"
+        },
+        "gen-invention-francaise": {
+          "family": "marques",
+          "status": "draft"
+        },
+        "gen-film-de-funes": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-starwars-perso": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-lotr-perso": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-got-perso": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-pixar-perso": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-real-us": {
+          "family": "cinema",
+          "status": "draft"
+        },
+        "gen-acteur-us": {
+          "family": "cinema",
+          "status": "draft"
+        },
+        "gen-rock-70": {
+          "family": "musique",
+          "status": "draft"
+        },
+        "gen-rappeur-fr": {
+          "family": "musique",
+          "status": "draft"
+        },
+        "gen-chanteur-us": {
+          "family": "musique",
+          "status": "draft"
+        },
+        "gen-instrument-cordes": {
+          "family": "musique",
+          "status": "draft"
+        },
+        "gen-compositeur-fr": {
+          "family": "musique",
+          "status": "draft"
+        },
+        "gen-opera": {
+          "family": "musique",
+          "status": "draft"
+        },
+        "gen-philo-europe": {
+          "family": "philosophie",
+          "status": "draft"
+        },
+        "gen-roi-angleterre": {
+          "family": "histoire",
+          "status": "draft"
+        },
+        "gen-pape": {
+          "family": "religions",
+          "status": "draft"
+        },
+        "gen-saint": {
+          "family": "religions",
+          "status": "draft"
+        },
+        "gen-bible-perso": {
+          "family": "religions",
+          "status": "draft"
+        },
+        "gen-dieu-antique": {
+          "family": "mythologie",
+          "status": "draft"
+        },
+        "gen-race-chien": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-race-chat": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-insecte": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-reptile": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-animal-marin": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-fruit": {
+          "family": "gastronomie",
+          "status": "draft"
+        },
+        "gen-legume": {
+          "family": "gastronomie",
+          "status": "draft"
+        },
+        "gen-champignon": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-pierre-precieuse": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-metal": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-os": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-muscle": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-constellation": {
+          "family": "sciences",
+          "status": "draft"
+        },
+        "gen-langage-prog": {
+          "family": "technologie",
+          "status": "draft"
+        },
+        "gen-sport-balle": {
+          "family": "sport",
+          "status": "draft"
+        },
+        "gen-sport-combat": {
+          "family": "sport",
+          "status": "draft"
+        },
+        "gen-pilote-f1": {
+          "family": "sport",
+          "status": "draft"
+        },
+        "gen-cycliste-tdf": {
+          "family": "sport",
+          "status": "draft"
+        },
+        "gen-cepage": {
+          "family": "gastronomie",
+          "status": "draft"
+        },
+        "gen-manga": {
+          "family": "pop",
+          "status": "draft"
+        },
+        "gen-ecrivain-russe": {
+          "family": "litterature",
+          "status": "draft"
+        }
+      }
+    },
+    "geography": {
+      "contentVersion": 1,
+      "prompts": {
+        "geo-pays-b": {
+          "family": "pays",
+          "status": "reviewed"
+        },
+        "geo-pays-europe": {
+          "family": "pays",
+          "status": "reviewed"
+        },
+        "geo-pays-afrique": {
+          "family": "pays",
+          "status": "reviewed"
+        },
+        "geo-pays-sans-littoral": {
+          "family": "pays",
+          "status": "reviewed"
+        },
+        "geo-pays-equateur": {
+          "family": "pays",
+          "status": "reviewed"
+        },
+        "geo-pays-insulaire": {
+          "family": "pays",
+          "status": "reviewed"
+        },
+        "geo-pays-transcontinental": {
+          "family": "pays",
+          "status": "reviewed"
+        },
+        "geo-pays-ue": {
+          "family": "pays",
+          "status": "reviewed"
+        },
+        "geo-pays-amerique-sud": {
+          "family": "pays",
+          "status": "reviewed"
+        },
+        "geo-capitale-europe": {
+          "family": "capitales",
+          "status": "reviewed"
+        },
+        "geo-capitale-afrique": {
+          "family": "capitales",
+          "status": "reviewed"
+        },
+        "geo-capitale-amerique": {
+          "family": "capitales",
+          "status": "reviewed"
+        },
+        "geo-capitale-pas-plus-grande": {
+          "family": "capitales",
+          "status": "reviewed"
+        },
+        "geo-capitale-oceanie": {
+          "family": "capitales",
+          "status": "reviewed"
+        },
+        "geo-fleuve-afrique": {
+          "family": "fleuves-rivieres",
+          "status": "reviewed"
+        },
+        "geo-fleuve-europe": {
+          "family": "fleuves-rivieres",
+          "status": "reviewed"
+        },
+        "geo-fleuve-france": {
+          "family": "fleuves-rivieres",
+          "status": "reviewed"
+        },
+        "geo-fleuve-asie": {
+          "family": "fleuves-rivieres",
+          "status": "reviewed"
+        },
+        "geo-fleuve-amerique": {
+          "family": "fleuves-rivieres",
+          "status": "reviewed"
+        },
+        "geo-sommet-8000": {
+          "family": "reliefs",
+          "status": "reviewed"
+        },
+        "geo-sommet-4000": {
+          "family": "reliefs",
+          "status": "reviewed"
+        },
+        "geo-chaine": {
+          "family": "reliefs",
+          "status": "reviewed"
+        },
+        "geo-volcan": {
+          "family": "reliefs",
+          "status": "reviewed"
+        },
+        "geo-desert": {
+          "family": "reliefs",
+          "status": "reviewed"
+        },
+        "geo-lac": {
+          "family": "reliefs",
+          "status": "reviewed"
+        },
+        "geo-mont-france": {
+          "family": "reliefs",
+          "status": "reviewed"
+        },
+        "geo-grotte": {
+          "family": "reliefs",
+          "status": "reviewed"
+        },
+        "geo-ile-mediterranee": {
+          "family": "iles",
+          "status": "reviewed"
+        },
+        "geo-ile-francaise": {
+          "family": "iles",
+          "status": "reviewed"
+        },
+        "geo-archipel": {
+          "family": "iles",
+          "status": "reviewed"
+        },
+        "geo-ile-atlantique": {
+          "family": "iles",
+          "status": "reviewed"
+        },
+        "geo-ocean-ou-mer": {
+          "family": "mers-cotes",
+          "status": "reviewed"
+        },
+        "geo-detroit": {
+          "family": "mers-cotes",
+          "status": "reviewed"
+        },
+        "geo-golfe": {
+          "family": "mers-cotes",
+          "status": "reviewed"
+        },
+        "geo-cap": {
+          "family": "mers-cotes",
+          "status": "reviewed"
+        },
+        "geo-peninsule": {
+          "family": "mers-cotes",
+          "status": "reviewed"
+        },
+        "geo-megapole": {
+          "family": "villes",
+          "status": "reviewed"
+        },
+        "geo-prefecture-region": {
+          "family": "villes",
+          "status": "reviewed"
+        },
+        "geo-ville-olympique": {
+          "family": "villes",
+          "status": "reviewed"
+        },
+        "geo-port": {
+          "family": "villes",
+          "status": "reviewed"
+        },
+        "geo-monument-unesco": {
+          "family": "monuments-sites",
+          "status": "reviewed"
+        },
+        "geo-monument-paris": {
+          "family": "monuments-sites",
+          "status": "reviewed"
+        },
+        "geo-merveilles": {
+          "family": "monuments-sites",
+          "status": "reviewed"
+        },
+        "geo-chateau": {
+          "family": "monuments-sites",
+          "status": "reviewed"
+        },
+        "geo-pont": {
+          "family": "monuments-sites",
+          "status": "reviewed"
+        },
+        "geo-statue": {
+          "family": "monuments-sites",
+          "status": "reviewed"
+        },
+        "geo-site-antique": {
+          "family": "monuments-sites",
+          "status": "reviewed"
+        },
+        "geo-region-francaise": {
+          "family": "france-carto",
+          "status": "reviewed"
+        },
+        "geo-fuseau": {
+          "family": "france-carto",
+          "status": "reviewed"
+        },
+        "geo-frontiere-france": {
+          "family": "france-carto",
+          "status": "reviewed"
+        }
+      }
+    }
+  },
+  "updated": "2026-11-10"
+}

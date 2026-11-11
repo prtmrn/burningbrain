@@ -1,0 +1,651 @@
+/* ─────────────────────────────────────────────────────────────
+   tokens.css — identité visuelle HotBrain (spec v2 §A.6)
+   · Dégradé thermique --heat-* : signal SYSTÉMIQUE (jauge), hors de
+     portée des thèmes (R5).
+   · Identité de thème = --theme-accent sur le CHROME uniquement.
+   · .colorblind : la couleur n'est jamais seule porteuse (icônes +
+     labels + textures), contrastes renforcés.
+   · .low-power / prefers-reduced-motion : animations instantanées.
+   ───────────────────────────────────────────────────────────── */
+
+:root {
+  /* Dégradé thermique (jauge uniquement) */
+  --heat-0: #2563eb;   /* bleu froid */
+  --heat-25: #60a5fa;
+  --heat-45: #fbbf24;  /* jaune */
+  --heat-65: #f97316;  /* orange */
+  --heat-85: #ef4444;  /* rouge */
+  --heat-100: #ffffff; /* incandescent */
+
+  --bg: #0b1020;
+  --bg-card: #141b33;
+  --bg-raised: #1d2747;
+  --text: #f3f6ff;
+  --text-dim: #a8b3d4;
+  --ok: #34d399;
+  --warn: #fbbf24;
+  --err: #f87171;
+
+  /* Accent de thème (chrome uniquement — R5) */
+  --theme-accent: #38bdf8; /* Général 🌡️ */
+
+  --radius: 4px;
+  --tube-width: 36px;
+  --font-pixel: 'Pixelify Sans', 'VT323', monospace;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+html.colorblind {
+  /* Palette daltonien-safe (bleu→orange, jamais rouge/vert seuls) */
+  --heat-0: #0072b2;
+  --heat-25: #56b4e9;
+  --heat-45: #f0e442;
+  --heat-65: #e69f00;
+  --heat-85: #d55e00;
+  --heat-100: #ffffff;
+  --ok: #0072b2;
+  --err: #d55e00;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  /* D-27 : fond = grille de synapses (pas de dégradé de couleur) */
+  background: #0a0714 radial-gradient(circle, rgba(255, 170, 200, 0.08) 1px, transparent 1.6px) 0 0 / 18px 18px;
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  line-height: 1.45;
+}
+h1, h2, .thermo-score, .total, .hud .score { font-family: var(--font-pixel); }
+/* Scanlines CRT très légères (désactivées en basse énergie) */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(to bottom, transparent 0 3px, rgba(0, 0, 0, 0.08) 3px 4px);
+  z-index: 10;
+}
+html.low-power body::after { display: none; }
+
+a { color: var(--theme-accent); }
+
+button {
+  font: inherit;
+  font-family: var(--font-pixel);
+  cursor: pointer;
+  border: 2px solid #061018;
+  border-radius: var(--radius);
+  padding: 0.6rem 1.3rem;
+  background: var(--theme-accent);
+  color: #061018;
+  font-weight: 700;
+  box-shadow: 0 4px 0 #061018;
+}
+button:active:not(:disabled) { transform: translateY(3px); box-shadow: 0 1px 0 #061018; }
+button:disabled { opacity: 0.45; cursor: not-allowed; }
+button.secondary { background: var(--bg-raised); color: var(--text); }
+
+button:focus-visible,
+input:focus-visible,
+a:focus-visible {
+  outline: 3px solid var(--heat-45);
+  outline-offset: 2px;
+}
+
+input[type='text'] {
+  font: inherit;
+  font-size: 1.15rem;
+  width: 100%;
+  padding: 0.7rem 1rem;
+  border-radius: var(--radius);
+  border: 2px solid var(--bg-raised);
+  image-rendering: pixelated;
+  background: #0e1530;
+  color: var(--text);
+}
+input[type='text']:disabled { opacity: 0.5; }
+
+/* ── Layout de session ── */
+.session {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1.5rem;
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 1rem;
+  min-height: 100vh;
+  align-content: start;
+}
+.session-main { min-width: 0; }
+.chrome-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.8rem 1rem;
+  border-bottom: 3px solid var(--theme-accent); /* accent thème — chrome */
+  background: var(--bg-card);
+}
+.chrome-header .theme-icon { font-size: 1.3rem; }
+.chrome-header .muted { color: var(--text-dim); font-size: 0.9rem; }
+
+/* ── Thermomètre ── */
+.thermometer {
+  display: flex;
+  gap: 0.6rem;
+  align-items: stretch;
+  position: sticky;
+  top: 1rem;
+}
+.thermo-tube {
+  position: relative;
+  width: var(--tube-width);
+  height: 420px;
+  border-radius: 999px;
+  background: #0e1530;
+  border: 3px solid #061018;
+  box-shadow: 0 0 0 2px var(--bg-raised), inset 0 0 0 2px #0a1226;
+  overflow: hidden;
+}
+.thermo-mercury {
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  background: linear-gradient(
+    to top,
+    var(--heat-0) 0%,
+    var(--heat-25) 25%,
+    var(--heat-45) 55%,
+    var(--heat-65) 75%,
+    var(--heat-85) 92%,
+    var(--heat-100) 100%
+  );
+  transition-property: height;
+}
+/* Daltonien : texture de repère — la hauteur n'est jamais seule */
+html.colorblind .thermo-mercury {
+  background-image: repeating-linear-gradient(
+      -45deg,
+      rgba(0, 0, 0, 0.18) 0 6px,
+      transparent 6px 12px
+    ),
+    linear-gradient(
+      to top,
+      var(--heat-0) 0%,
+      var(--heat-25) 25%,
+      var(--heat-45) 55%,
+      var(--heat-65) 75%,
+      var(--heat-85) 92%,
+      var(--heat-100) 100%
+    );
+}
+.thermo-scale {
+  position: relative;
+  width: 12rem;
+  font-size: 0.92rem;
+  color: var(--text-dim);
+}
+.thermo-milestone {
+  position: absolute;
+  left: 0;
+  transform: translateY(50%);
+  white-space: nowrap;
+  line-height: 1;
+}
+.thermo-milestone::before {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 2px;
+  background: var(--text-dim);
+  margin-right: 4px;
+  vertical-align: middle;
+}
+.thermo-milestone.reached {
+  color: var(--heat-45);
+  font-weight: 650;
+}
+html.colorblind .thermo-milestone.reached { color: var(--heat-45); }
+.thermo-milestone.flash { animation: milestone-pop 0.8s ease-out; }
+@keyframes milestone-pop {
+  0% { transform: translateY(50%) scale(1); }
+  40% { transform: translateY(50%) scale(1.25); }
+  100% { transform: translateY(50%) scale(1); }
+}
+.thermo-score {
+  text-align: center;
+  font-weight: 700;
+  margin-top: 0.4rem;
+}
+
+/* ── Cartes & HUD ── */
+.prompt-card {
+  background: var(--bg-card);
+  border: 1px solid var(--bg-raised);
+  border-radius: var(--radius);
+  padding: 1.2rem 1.4rem;
+  margin: 1rem 0;
+}
+.prompt-card .prompt-label { color: var(--text-dim); font-size: 0.85rem; }
+.prompt-card .prompt-text { font-family: var(--font-body); font-size: 1.6rem; font-weight: 700; margin-top: 0.2rem; line-height: 1.25; }
+
+.hud {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  color: var(--text-dim);
+  font-size: 0.95rem;
+}
+.hud .score { color: var(--text); font-weight: 700; }
+
+/* ── Compte à rebours ── */
+.countdown {
+  height: 10px;
+  border-radius: 5px;
+  background: var(--bg-raised);
+  overflow: hidden;
+}
+.countdown-fill {
+  height: 100%;
+  background: var(--heat-45);
+  transition: width 100ms linear;
+}
+.countdown.urgent .countdown-fill { background: var(--heat-85); }
+
+/* ── Feedback ── */
+.feedback {
+  border-radius: var(--radius);
+  padding: 0.9rem 1.1rem;
+  margin-top: 0.8rem;
+  background: var(--bg-raised);
+  border: 2px solid #061018;
+  animation: fade-in 0.25s ease-out;
+}
+.feedback.rejected { border-left: 4px solid var(--err); }
+.feedback.correction { border-left: 4px solid var(--warn); }
+.feedback.accepted { border-left: 4px solid var(--ok); }
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+
+.tier-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  border-radius: 999px;
+  padding: 0.35rem 0.9rem;
+  background: var(--bg-raised);
+  border: 1px solid var(--heat-45);
+  font-weight: 650;
+}
+.tier-badge .tier-icon { font-size: 1.1rem; }
+.tier-badge .tier-points { color: var(--heat-45); }
+html.colorblind .tier-badge { border-style: dashed; } /* repère non coloré */
+
+/* ── Synthèse ── */
+.summary { max-width: 760px; margin: 0 auto; padding: 1rem; }
+.summary .total { font-size: 3rem; font-weight: 800; }
+.summary .verdict-title { font-size: 1.4rem; font-weight: 700; }
+.summary .verdict-phrase { color: var(--text-dim); }
+.round-row {
+  border: 1px solid var(--bg-raised);
+  border-radius: var(--radius);
+  padding: 0.8rem 1rem;
+  margin: 0.6rem 0;
+  background: var(--bg-card);
+}
+.round-row .round-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.8rem;
+  align-items: center;
+}
+.round-row .sheet-reveal {
+  margin-top: 0.6rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.sheet-chip {
+  font-size: 0.8rem;
+  border-radius: 999px;
+  padding: 0.15rem 0.6rem;
+  background: var(--bg-raised);
+  color: var(--text-dim);
+}
+.sheet-chip.yours {
+  color: var(--text);
+  border: 1px solid var(--heat-45);
+  font-weight: 650;
+}
+.streak-badge {
+  display: inline-flex;
+  gap: 0.4rem;
+  align-items: center;
+  background: var(--bg-raised);
+  border-radius: 999px;
+  padding: 0.3rem 0.9rem;
+  font-weight: 650;
+}
+
+/* ── Kill-switch animations (reco 8) ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+html.low-power *,
+html.low-power *::before,
+html.low-power *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+}
+
+/* ── D-27 : cerveau en ébullition ── */
+.brain-stage {
+  position: relative;
+  width: min(280px, 100%);
+  height: 270px;
+  margin: 0.4rem auto 0.8rem;
+}
+.brain-svg {
+  width: 100%;
+  height: 176px;
+  display: block;
+  filter: drop-shadow(0 0 calc(var(--heat, 0) * 16px) rgba(255, 60, 50, calc(var(--heat, 0) * 0.9)));
+}
+.b-edge { fill: #2a0a18; }
+.b-fold { fill: #a8456e; }
+.b-matter { fill: color-mix(in srgb, #ffc9d8 calc((1 - var(--heat, 0)) * 100%), #ff3b2f); }
+.brain-stage[data-label='Ébullition'] .brain-svg,
+.brain-stage[data-label='Fusion'] .brain-svg { animation: brain-shake 0.5s steps(2) infinite; }
+.brain-stage[data-label='Fusion'] .brain-svg { filter: drop-shadow(0 0 18px #ffe08a); }
+@keyframes brain-shake {
+  0% { transform: translate(0, 0); }
+  50% { transform: translate(1px, -1px); }
+  100% { transform: translate(-1px, 0); }
+}
+.pot {
+  position: absolute;
+  left: 6%;
+  right: 6%;
+  bottom: 30px;
+  height: 40px;
+  border-top: 4px solid #3a0f1f;
+  border-radius: 0 0 6px 6px;
+}
+.bubble {
+  position: absolute;
+  bottom: 0;
+  background: #ffd6e0;
+  box-shadow: 0 0 0 2px #2a0a18;
+  animation-name: rise;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+@keyframes rise {
+  0% { transform: translateY(0); opacity: 0; }
+  15% { opacity: 1; }
+  100% { transform: translateY(-170px); opacity: 0; }
+}
+.steam {
+  position: absolute;
+  top: -8px;
+  left: 22%;
+  right: 22%;
+  height: 70px;
+  background: repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.22) 0 6px, transparent 6px 14px);
+  animation: steam 1.2s steps(4) infinite;
+  opacity: 0.6;
+}
+@keyframes steam {
+  from { transform: translateY(0); }
+  to { transform: translateY(-14px); }
+}
+.brain-label {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  text-align: center;
+  font-family: var(--font-pixel);
+  font-size: 1.3rem;
+  color: var(--heat-45);
+}
+html.low-power .bubble, html.low-power .steam, html.low-power .brain-svg { animation: none !important; }
+
+/* ── Choix de thème (chrome : accent par thème, jamais sur la jauge — R5) ── */
+.theme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 0.9rem;
+  margin: 1.2rem 0;
+}
+.theme-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 1rem;
+  background: var(--bg-card);
+  border: 3px solid var(--bg-raised);
+  border-radius: var(--radius);
+  color: var(--text);
+  text-decoration: none;
+  box-shadow: 0 4px 0 #061018;
+}
+.theme-card:hover:not(.disabled) { transform: translateY(-2px); }
+.theme-card.disabled { opacity: 0.5; }
+.theme-icon-big { font-size: 2rem; }
+
+/* ── Design : visage, gain flottant, chrono chiffré, accueil, cadres pixel, mobile ── */
+.b-face { fill: #2a0a18; }
+.b-sweat { fill: #7dd3fc; }
+.b-eye-white { fill: #ffffff; }
+
+.float-score {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-family: var(--font-pixel);
+  font-size: 2rem;
+  color: #ffd36b;
+  text-shadow: 3px 3px 0 #061018;
+  pointer-events: none;
+  animation: float-up 1.4s ease-out forwards;
+}
+@keyframes float-up {
+  0% { transform: translateY(30px) scale(0.7); opacity: 0; }
+  20% { transform: translateY(0) scale(1.15); opacity: 1; }
+  100% { transform: translateY(-50px) scale(1); opacity: 0; }
+}
+
+.session.fusion-flash { animation: fusion-flash 0.9s ease-out; }
+@keyframes fusion-flash {
+  0% { box-shadow: inset 0 0 0 100vmax rgba(255, 224, 138, 0.35); }
+  100% { box-shadow: inset 0 0 0 100vmax rgba(255, 224, 138, 0); }
+}
+
+.countdown-wrap { display: flex; align-items: center; gap: 0.7rem; }
+.countdown-wrap .countdown { flex: 1; }
+.countdown-num {
+  font-family: var(--font-pixel);
+  font-size: 1.5rem;
+  min-width: 2.2ch;
+  text-align: right;
+  color: var(--heat-45);
+}
+.countdown-num.urgent { color: var(--heat-85); animation: urgent-blink 0.5s steps(2) infinite; }
+@keyframes urgent-blink { 50% { opacity: 0.5; } }
+
+.sound-btn { padding: 0.25rem 0.6rem; font-size: 1.1rem; box-shadow: 0 3px 0 #061018; }
+
+/* Accueil */
+.home { max-width: 560px; margin: 0 auto; padding: 1.5rem 1rem 2rem; text-align: center; }
+.logo {
+  font-size: clamp(2.6rem, 9vw, 4.2rem);
+  letter-spacing: 0.06em;
+  margin: 0;
+  text-shadow: 4px 4px 0 #061018, 0 0 22px rgba(255, 80, 60, 0.35);
+}
+.logo span { color: #ff6b5a; }
+.tagline { font-family: var(--font-pixel); font-size: 1.3rem; color: var(--heat-45); margin: 0.3rem 0 0.8rem; }
+.home-actions { display: grid; gap: 0.9rem; justify-items: center; margin: 1.6rem 0 1.2rem; }
+.home-actions a { width: 100%; max-width: 420px; text-decoration: none; }
+button.big { width: 100%; max-width: 420px; font-size: 1.2rem; padding: 0.95rem 1.4rem; }
+button.big:disabled { width: 100%; }
+
+/* Cadres pixel */
+.prompt-card, .round-row, .feedback {
+  border: 3px solid #061018;
+  box-shadow: inset 0 0 0 2px var(--bg-raised), 0 4px 0 #061018;
+}
+
+/* Mobile */
+@media (max-width: 720px) {
+  .session { grid-template-columns: minmax(0, 1fr) 56px; gap: 0.6rem; padding: 0.6rem; }
+  .thermo-scale { display: none; }
+  .thermo-tube { height: 300px; }
+  .thermo-score { font-size: 0.85rem; }
+  .brain-stage { height: 230px; }
+  .brain-svg { height: 150px; }
+  .prompt-card .prompt-text { font-size: 1.3rem; }
+  .chrome-header { flex-wrap: wrap; }
+}
+
+.home .brain-stage { height: 215px; }
+
+/* ═════════ Refonte « HotBrain » : barre de jeu, scène chaude, braises ═════════ */
+.game-bar {
+  position: sticky; top: 0; z-index: 20;
+  display: flex; align-items: center; gap: 0.8rem;
+  padding: 0.55rem 0.9rem;
+  background: linear-gradient(#1c1030, #120a20);
+  border-bottom: 4px solid #061018;
+  box-shadow: 0 3px 0 #ff6b3d33;
+}
+.game-bar-left, .game-bar-right { display: flex; gap: 0.5rem; align-items: center; }
+.game-bar-right { margin-left: auto; }
+.game-bar-title { display: flex; gap: 0.5rem; align-items: baseline; font-family: var(--font-pixel); font-size: 1.15rem; }
+.game-bar-sub { font-size: 0.9rem; color: var(--heat-45); }
+.pixel-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 40px; height: 40px; padding: 0;
+  background: #2a1a44; color: #ffd36b;
+  border: 3px solid #061018; border-radius: 4px;
+  box-shadow: inset 0 -3px 0 #160c26, 0 3px 0 #061018;
+  cursor: pointer;
+}
+.pixel-btn:hover { background: #3a2460; }
+.pixel-btn:active { transform: translateY(2px); box-shadow: inset 0 -1px 0 #160c26, 0 1px 0 #061018; }
+.round-pill {
+  font-family: var(--font-pixel); padding: 0.25rem 0.7rem;
+  background: #2a1a44; border: 3px solid #061018; border-radius: 4px; color: #fff;
+}
+.panel-screen { text-align: center; padding-top: 2rem; }
+.panel-screen .lead, .lead { font-family: var(--font-pixel); color: var(--heat-45); font-size: 1.15rem; }
+
+/* Braises et lueur */
+body { background: #0c0614 radial-gradient(circle, rgba(255, 150, 120, 0.06) 1px, transparent 1.6px) 0 0 / 18px 18px; }
+.embers { position: fixed; inset: 0; pointer-events: none; z-index: 0; overflow: hidden; }
+.heat-glow {
+  position: absolute; left: -10%; right: -10%; bottom: -20vh; height: 70vh;
+  background: radial-gradient(ellipse at 50% 100%, rgba(255, 90, 30, calc(0.18 + var(--heat, 0.3) * 0.4)), rgba(255, 40, 20, 0.05) 45%, transparent 70%);
+}
+.ember {
+  position: absolute; bottom: -12px; background: #ffb347;
+  box-shadow: 0 0 6px 2px rgba(255, 110, 20, 0.8);
+  animation-name: ember-rise; animation-timing-function: linear; animation-iteration-count: infinite;
+}
+@keyframes ember-rise {
+  0% { transform: translate(0, 0); opacity: 0; }
+  10% { opacity: 1; }
+  50% { transform: translate(12px, -50vh); }
+  100% { transform: translate(-8px, -105vh); opacity: 0; }
+}
+.session, .home, .summary { position: relative; z-index: 1; }
+
+/* Scène : cerveau dans la marmite */
+.brain-stage { position: relative; width: min(300px, 100%); height: 300px; margin: 0.2rem auto 0.4rem; }
+.brain-svg { width: 100%; height: 270px; display: block; filter: none; }
+.brain-body { filter: drop-shadow(0 0 calc(var(--heat, 0) * 2px) rgba(255, 70, 40, 0.9)); }
+.b-edge { fill: #3b0d22; }
+.b-matter { fill: color-mix(in srgb, #ffc4d3 calc((1 - var(--heat, 0)) * 100%), #ff4d2e); }
+.b-fold { fill: color-mix(in srgb, #d97a98 calc((1 - var(--heat, 0)) * 100%), #a8151a); }
+.b-cereb { fill: color-mix(in srgb, #f0a2b8 calc((1 - var(--heat, 0)) * 100%), #d83020); }
+.b-stem { fill: #c9798f; }
+.b-face { fill: #2a0a18; }
+.pot-rim { fill: #4a4f63; }
+.pot-shine { fill: #7c8299; }
+.pot-body { fill: #2b2f3e; }
+.fl-core { fill: #fff3b0; }
+.fl-mid { fill: #ffb02e; }
+.fl-tip { fill: #ff4a1c; }
+.flames { animation: flicker 0.35s steps(1) infinite; }
+.fl-b { animation-delay: 0.175s; opacity: 0; }
+@keyframes flicker { 0% { opacity: 1; } 50% { opacity: 0; } }
+.pot-bubbles { position: absolute; left: 12%; right: 12%; top: 40%; height: 0; }
+.pot-bubbles .bubble {
+  position: absolute; bottom: 0; background: #e8f4ff; box-shadow: 0 0 0 2px #2b2f3e;
+  animation-name: pot-rise; animation-timing-function: ease-out; animation-iteration-count: infinite;
+}
+@keyframes pot-rise { 0% { transform: translateY(0); opacity: 0; } 20% { opacity: 1; } 100% { transform: translateY(-70px); opacity: 0; } }
+.steam { top: 4px; left: 20%; right: 20%; height: 90px; }
+.brain-stage[data-label='Ébullition'] .brain-body,
+.brain-stage[data-label='Fusion'] .brain-body { animation: brain-shake 0.45s steps(2) infinite; }
+.brain-stage[data-label='Fusion'] .brain-body { filter: drop-shadow(0 0 3px #ffe08a); }
+.brain-label { bottom: -6px; font-size: 1.35rem; text-shadow: 2px 2px 0 #061018; }
+.float-score { top: 30px; font-size: 2.2rem; }
+
+/* Thermomètre avec réservoir */
+.thermo-col { display: flex; flex-direction: column; align-items: center; }
+.thermo-tube { border-radius: 18px 18px 0 0; border-bottom: none; }
+.thermo-mercury { background: linear-gradient(to top, #ff2a1a, #ff6a1a 60%, #ffb02e); }
+.thermo-bulb {
+  width: 52px; height: 52px; margin-top: -6px; border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #ff9a6a, #ff2a1a 55%, #b8100a);
+  border: 3px solid #061018; box-shadow: 0 0 calc(10px + var(--heat, 0) * 26px) rgba(255, 60, 20, 0.8);
+}
+
+/* Accueil */
+.home { max-width: 760px; }
+.home .brain-stage { height: 280px; }
+.logo { margin-top: 0.4rem; }
+.mode-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1.4rem 0 1rem; text-align: left; }
+.mode-card {
+  display: flex; flex-direction: column; gap: 0.6rem; padding: 1rem;
+  background: linear-gradient(#1e1232, #150c24);
+  border: 3px solid #061018; border-radius: 6px;
+  box-shadow: inset 0 0 0 2px #2e1d4a, 0 5px 0 #061018;
+}
+.mode-card.hot { box-shadow: inset 0 0 0 2px #7a2a18, 0 5px 0 #061018; }
+.mode-card.brain { box-shadow: inset 0 0 0 2px #6a2a6a, 0 5px 0 #061018; }
+.mode-card h2 { margin: 0; font-family: var(--font-pixel); }
+.mode-card p { margin: 0; color: var(--text-dim); font-size: 1rem; }
+.mode-card a, .mode-card button.big { max-width: none; width: 100%; }
+.theme-btn { max-width: 420px; }
+.theme-actions { display: flex; gap: 0.5rem; margin-top: 0.4rem; }
+.theme-actions button { padding: 0.45rem 0.9rem; }
+.found-list { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 0.8rem 0; }
+.found-list em { color: var(--heat-45); font-style: normal; }
+.feedback.accepted { border-left: 6px solid #ffb02e; }
+.feedback.duplicate { border-left: 6px solid #8b8fa8; }
+details summary { cursor: pointer; margin-top: 0.4rem; }
+
+@media (max-width: 720px) {
+  .mode-cards { grid-template-columns: 1fr; }
+  .game-bar-title { font-size: 0.95rem; }
+  .game-bar-sub { display: none; }
+  .brain-stage, .home .brain-stage { height: 240px; }
+  .brain-svg { height: 215px; }
+  .thermo-bulb { width: 40px; height: 40px; }
+}
