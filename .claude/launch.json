@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "hotbrain-web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "hotbrain", "--workspace", "@hotbrain/web", "--", "--port", "3005"],
+      "port": 3005
+    }
+  ]
+}

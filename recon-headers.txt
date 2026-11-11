@@ -1,0 +1,21 @@
+HTTP/2 200 
+accept-ranges: bytes
+access-control-allow-origin: *
+age: 7114
+cache-control: public, max-age=0, must-revalidate
+content-disposition: inline
+content-security-policy: frame-ancestors 'self'
+content-type: text/html; charset=utf-8
+date: Sun, 08 Nov 2026 11:11:30 GMT
+etag: "f906b834c96aa3312c2ba94dc2d84f4c"
+server: Vercel
+strict-transport-security: max-age=63072000
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+x-frame-options: SAMEORIGIN
+x-matched-path: /
+x-nextjs-prerender: 1
+x-nextjs-stale-time: 300
+x-vercel-cache: HIT
+x-vercel-id: cdg1::8bs9w-1794136290943-3a96eee34fb8
+content-length: 24092
+
