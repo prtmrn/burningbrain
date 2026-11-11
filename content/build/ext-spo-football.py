@@ -1,0 +1,154 @@
+PROMPTS = [
+    {'id': 'spo-football-01', 'text': "Nomme un club ayant évolué en première division française (Division 1 ou Ligue 1)"},
+    {'id': 'spo-football-02', 'text': "Nomme un club ayant joué en Premier League anglaise (depuis sa création en 1992)"},
+    {'id': 'spo-football-03', 'text': "Nomme un joueur ayant porté le maillot de Manchester United en match officiel"},
+    {'id': 'spo-football-04', 'text': "Nomme un joueur ayant porté le maillot de la Juventus en match officiel"},
+    {'id': 'spo-football-05', 'text': "Nomme un joueur ayant porté le maillot de l'Olympique lyonnais en match officiel"},
+    {'id': 'spo-football-06', 'text': "Nomme un joueur ayant marqué au moins un but avec l'équipe de France A masculine"},
+    {'id': 'spo-football-07', 'text': "Nomme une sélection ayant disputé au moins une phase finale de Coupe du monde masculine"},
+    {'id': 'spo-football-08', 'text': "Nomme un joueur sacré champion du monde (membre d'une équipe vainqueur de la Coupe du monde masculine)"},
+    {'id': 'spo-football-09', 'text': "Nomme un joueur ayant porté le maillot du Paris Saint-Germain en match officiel"},
+    {'id': 'spo-football-10', 'text': "Nomme un joueur ayant porté le maillot de l'Olympique de Marseille en match officiel"},
+    {'id': 'spo-football-11', 'text': "Nomme un joueur ayant porté le maillot du Real Madrid en match officiel"},
+    {'id': 'spo-football-12', 'text': "Nomme un joueur ayant porté le maillot du FC Barcelone en match officiel"},
+    {'id': 'spo-football-13', 'text': "Nomme une sélection nationale membre de l'UEFA"},
+    {'id': 'spo-football-14', 'text': "Nomme une sélection nationale membre de la CAF (Confédération africaine de football)"},
+    {'id': 'spo-football-15', 'text': "Nomme un club de football brésilien"},
+]
+
+T = {}
+
+T['spo-football-01'] = {
+    't1': ["Olympique de Marseille=OM/Marseille", "Paris Saint-Germain=PSG/Paris SG", "Olympique lyonnais=OL/Lyon", "AS Saint-Étienne=ASSE/Saint-Étienne/Sainté", "LOSC Lille=Lille/LOSC", "Girondins de Bordeaux=Bordeaux", "AS Monaco=Monaco/ASM", "FC Nantes=Nantes", "RC Lens=Lens"],
+    't2': ["Gazélec Ajaccio=GFC Ajaccio/Gazélec/GFCA"],
+    't3': ["Stade rennais=Rennes", "OGC Nice=Nice", "RC Strasbourg=Strasbourg/Racing Strasbourg", "Toulouse FC=Toulouse/TFC", "Montpellier HSC=Montpellier/MHSC", "Stade de Reims=Reims", "FC Metz=Metz", "AJ Auxerre=Auxerre/AJA", "FC Sochaux=Sochaux/Sochaux-Montbéliard", "SC Bastia=Bastia", "Stade brestois=Brest", "FC Lorient=Lorient", "Angers SCO=Angers/SCO", "En Avant Guingamp=Guingamp/EAG", "AS Nancy-Lorraine=Nancy/ASNL", "Le Havre AC=Le Havre/HAC", "Stade Malherbe Caen=Caen/SM Caen", "Dijon FCO=Dijon/DFCO", "ESTAC Troyes=Troyes/ESTAC"],
+    't4': ["CS Sedan=Sedan", "AC Ajaccio=ACA", "Valenciennes FC=Valenciennes/VAFC", "Nîmes Olympique=Nîmes", "FC Rouen=Rouen", "Le Mans FC=Le Mans/Le Mans UC", "Grenoble Foot 38=Grenoble/GF38", "Clermont Foot=Clermont", "Évian Thonon Gaillard=Évian/ETG/Thonon Évian", "FC Istres=Istres", "LB Châteauroux=Châteauroux/La Berrichonne", "AC Arles-Avignon=Arles-Avignon/Arles", "US Boulogne=Boulogne/Boulogne-sur-Mer", "Amiens SC=Amiens/ASC", "Racing Club de Paris=Racing Paris/Matra Racing/Racing", "Stade lavallois=Laval", "Tours FC=Tours", "FC Mulhouse=Mulhouse", "SC Toulon=Toulon", "FC Martigues=Martigues", "AS Cannes=Cannes", "Red Star=Red Star FC/Red Star Paris", "Paris FC=PFC", "Chamois niortais=Niort"],
+    't5': ["AS Angoulême=Angoulême", "Olympique d'Alès=Alès", "Stade français=Stade français Paris", "CO Roubaix-Tourcoing=Roubaix-Tourcoing/CORT"],
+    't6': ["FC Sète=Sète/Cette"],
+}
+
+T['spo-football-02'] = {
+    't1': ["Manchester United=Man United/Man Utd/MU", "Manchester City=Man City", "Liverpool=Liverpool FC", "Arsenal", "Chelsea", "Tottenham Hotspur=Tottenham/Spurs"],
+    't2': ["Swindon Town=Swindon"],
+    't3': ["Everton", "Newcastle United=Newcastle", "Aston Villa=Villa", "West Ham United=West Ham", "Leicester City=Leicester", "Leeds United=Leeds", "Southampton=Saints", "Fulham", "Crystal Palace=Palace", "Brighton & Hove Albion=Brighton", "Wolverhampton Wanderers=Wolves/Wolverhampton", "Nottingham Forest=Forest", "AFC Bournemouth=Bournemouth", "Brentford", "Burnley", "Sunderland", "Middlesbrough=Boro", "Blackburn Rovers=Blackburn", "West Bromwich Albion=West Brom/WBA", "Stoke City=Stoke", "Watford", "Norwich City=Norwich", "Ipswich Town=Ipswich"],
+    't4': ["Bolton Wanderers=Bolton", "Wigan Athletic=Wigan", "Portsmouth=Pompey", "Sheffield United=Sheffield Utd", "Sheffield Wednesday", "Birmingham City=Birmingham", "Hull City=Hull", "Swansea City=Swansea", "Cardiff City=Cardiff", "Queens Park Rangers=QPR", "Reading", "Charlton Athletic=Charlton", "Derby County=Derby", "Coventry City=Coventry", "Huddersfield Town=Huddersfield", "Luton Town=Luton"],
+    't5': ["Oldham Athletic=Oldham", "Barnsley", "Bradford City=Bradford", "Blackpool"],
+    't6': ["Wimbledon FC=Wimbledon/Crazy Gang"],
+}
+
+T['spo-football-03'] = {
+    't1': ["Cristiano Ronaldo=CR7/Ronaldo", "Eric Cantona=Cantona", "David Beckham=Beckham", "Wayne Rooney=Rooney", "Ryan Giggs=Giggs", "Paul Scholes=Scholes", "Bruno Fernandes", "Marcus Rashford=Rashford"],
+    't2': ["Zlatan Ibrahimović=Zlatan/Ibrahimović"],
+    't3': ["Roy Keane", "Peter Schmeichel=Schmeichel", "Rio Ferdinand", "Nemanja Vidić=Vidić", "Patrice Evra=Evra", "Gary Neville", "Ruud van Nistelrooy=Van Nistelrooy", "Edwin van der Sar=Van der Sar", "Paul Pogba=Pogba", "Anthony Martial=Martial", "Raphaël Varane=Varane", "Ole Gunnar Solskjær=Solskjær", "Dimitar Berbatov=Berbatov", "Carlos Tévez=Tévez", "Robin van Persie=Van Persie", "Bobby Charlton", "George Best", "Denis Law", "Michael Carrick=Carrick", "David de Gea=De Gea", "Ángel Di María=Di María", "Romelu Lukaku=Lukaku", "Juan Mata", "Fabien Barthez=Barthez", "Mikaël Silvestre=Silvestre", "Louis Saha=Saha"],
+    't4': ["Andy Cole", "Dwight Yorke", "Teddy Sheringham", "Jaap Stam", "Darren Fletcher", "Wes Brown", "John O'Shea", "Park Ji-sung", "Nani", "Antonio Valencia", "Javier Hernández=Chicharito", "Ander Herrera", "Nemanja Matić=Matić", "Harry Maguire=Maguire", "Luke Shaw", "Casemiro", "Lisandro Martínez", "Alejandro Garnacho=Garnacho", "Rasmus Højlund=Højlund", "André Onana", "Mason Mount", "Jadon Sancho=Sancho", "Edinson Cavani=Cavani", "Alexis Sánchez", "Bryan Robson", "Mark Hughes", "Steve Bruce", "Gary Pallister", "Denis Irwin", "Owen Hargreaves", "Michael Owen", "Juan Sebastián Verón=Verón", "Bastian Schweinsteiger=Schweinsteiger", "Morgan Schneiderlin=Schneiderlin", "Memphis Depay=Memphis", "Radamel Falcao=Falcao", "Kobbie Mainoo=Mainoo", "Scott McTominay=McTominay", "Victor Lindelöf=Lindelöf", "Diogo Dalot=Dalot", "Marouane Fellaini=Fellaini", "Chris Smalling=Smalling", "Jesse Lingard=Lingard"],
+    't5': ["Laurent Blanc", "Diego Forlán=Forlán", "Kléberson", "Eric Djemba-Djemba=Djemba-Djemba", "Tim Howard", "Gabriel Heinze=Heinze", "Henrik Larsson", "Bebé", "Quinton Fortune"],
+    't6': ["William Prunier=Prunier"],
+}
+
+T['spo-football-04'] = {
+    't1': ["Alessandro Del Piero=Del Piero", "Gianluigi Buffon=Buffon/Gigi Buffon", "Zinédine Zidane=Zidane/Zizou", "Michel Platini=Platini", "Cristiano Ronaldo=CR7/Ronaldo", "Pavel Nedvěd=Nedvěd", "Paul Pogba=Pogba", "David Trezeguet=Trezeguet/Trezegol"],
+    't2': ["Thierry Henry=Henry"],
+    't3': ["Andrea Pirlo=Pirlo", "Giorgio Chiellini=Chiellini", "Leonardo Bonucci=Bonucci", "Fabio Cannavaro=Cannavaro", "Lilian Thuram=Thuram", "Zlatan Ibrahimović=Zlatan/Ibrahimović", "Patrick Vieira=Vieira", "Gonzalo Higuaín=Higuaín", "Paulo Dybala=Dybala", "Carlos Tévez=Tévez", "Arturo Vidal=Vidal", "Claudio Marchisio=Marchisio", "Mario Mandžukić=Mandžukić", "Álvaro Morata=Morata", "Dušan Vlahović=Vlahović", "Roberto Baggio=Baggio", "Gianluca Vialli=Vialli", "Fabrizio Ravanelli=Ravanelli", "Didier Deschamps=Deschamps", "Edgar Davids=Davids", "Filippo Inzaghi=Inzaghi/Pippo Inzaghi", "Antonio Conte=Conte", "Dino Zoff=Zoff", "Gaetano Scirea=Scirea", "Paolo Rossi", "Federico Chiesa=Chiesa", "Blaise Matuidi=Matuidi", "Miralem Pjanić=Pjanić", "Adrien Rabiot=Rabiot", "Sami Khedira=Khedira", "Gianluca Zambrotta=Zambrotta", "Mauro Camoranesi=Camoranesi", "Ciro Ferrara"],
+    't4': ["Kingsley Coman=Coman", "Patrice Evra=Evra", "Jonathan Zebina=Zebina", "Edwin van der Sar=Van der Sar", "Zbigniew Boniek=Boniek", "Michael Laudrup", "Liam Brady", "Omar Sívori=Sívori", "John Charles", "Giampiero Boniperti=Boniperti", "Roberto Bettega=Bettega", "Marco Tardelli=Tardelli", "Claudio Gentile=Gentile", "Antonio Cabrini=Cabrini", "Kwadwo Asamoah=Asamoah", "Stephan Lichtsteiner=Lichtsteiner", "Alex Sandro", "Juan Cuadrado=Cuadrado", "Wojciech Szczęsny=Szczęsny", "Matthijs de Ligt=De Ligt", "Manuel Locatelli=Locatelli", "Moise Kean=Kean", "Dejan Kulusevski=Kulusevski", "Ángel Di María=Di María", "Leandro Paredes=Paredes", "Weston McKennie=McKennie", "Kenan Yıldız=Yıldız", "Andrea Barzagli=Barzagli", "Sebastian Giovinco=Giovinco", "Vincenzo Iaquinta=Iaquinta", "Amauri"],
+    't5': ["Alen Bokšić=Bokšić", "Jean-Alain Boumsong=Boumsong", "Olivier Kapo=Kapo", "Christian Poulsen", "Felipe Melo", "Hasan Salihamidžić=Salihamidžić"],
+    't6': ["Ian Rush"],
+}
+
+T['spo-football-05'] = {
+    't1': ["Juninho Pernambucano=Juninho", "Karim Benzema=Benzema", "Sonny Anderson", "Sidney Govou=Govou", "Grégory Coupet=Coupet", "Alexandre Lacazette=Lacazette", "Nabil Fekir=Fekir", "Florent Malouda=Malouda"],
+    't2': ["Raymond Domenech=Domenech"],
+    't3': ["Michael Essien=Essien", "Mahamadou Diarra", "Éric Abidal=Abidal", "Cris", "Anthony Réveillère=Réveillère", "Hugo Lloris=Lloris", "Kim Källström=Källström", "Fred", "Lisandro López=Lisandro", "Miralem Pjanić=Pjanić", "Bafétimbi Gomis=Gomis", "Jérémy Toulalan=Toulalan", "Clément Grenier=Grenier", "Corentin Tolisso=Tolisso", "Samuel Umtiti=Umtiti", "Memphis Depay=Memphis", "Houssem Aouar=Aouar", "Moussa Dembélé", "Rayan Cherki=Cherki", "Anthony Lopes", "Bernard Lacombe=Lacombe", "Fleury Di Nallo=Di Nallo", "Patrick Müller", "Claudio Caçapa=Caçapa", "Edmílson", "Vikash Dhorasoo=Dhorasoo", "Ludovic Giuly=Giuly", "Florian Maurice", "Steve Marlet=Marlet", "Rémi Garde", "Hatem Ben Arfa=Ben Arfa", "Sylvain Wiltord=Wiltord", "Yoann Gourcuff=Gourcuff", "Mathieu Valbuena=Valbuena", "Ferland Mendy", "Tanguy Ndombele=Ndombele", "Lucas Paquetá=Paquetá", "Bruno Guimarães"],
+    't4': ["Tiago Mendes=Tiago", "Jean II Makoun=Makoun", "Aly Cissokho=Cissokho", "Dejan Lovren=Lovren", "Nicolás Tagliafico=Tagliafico", "Georges Mikautadze=Mikautadze", "Malick Fofana", "Léo Dubois", "Jason Denayer=Denayer", "Marcelo", "Mouctar Diakhaby=Diakhaby", "Karl Toko Ekambi=Toko Ekambi", "Islam Slimani=Slimani", "Jérôme Boateng", "Xherdan Shaqiri=Shaqiri", "Steed Malbranque=Malbranque", "Pierre-Alain Frau=Frau", "Milan Baroš=Baroš", "John Carew=Carew", "Éric Carrière=Carrière", "Maxwel Cornet=Cornet", "Bruno N'Gotty=N'Gotty", "Serge Chiesa"],
+    't5': ["Jean Djorkaeff", "Nestor Combin=Combin"],
+    't6': ["Jean Tigana=Tigana"],
+}
+
+T['spo-football-06'] = {
+    't1': ["Thierry Henry=Henry", "Olivier Giroud=Giroud", "Kylian Mbappé=Mbappé", "Antoine Griezmann=Griezmann", "Michel Platini=Platini", "Zinédine Zidane=Zidane/Zizou", "Karim Benzema=Benzema", "Just Fontaine=Fontaine", "David Trezeguet=Trezeguet", "Jean-Pierre Papin=Papin/JPP"],
+    't2': ["Lilian Thuram"],
+    't3': ["Raymond Kopa=Kopa", "Youri Djorkaeff=Djorkaeff", "Robert Pirès=Pirès", "Sylvain Wiltord=Wiltord", "Franck Ribéry=Ribéry", "Paul Pogba=Pogba", "Ousmane Dembélé=Dembélé", "Kingsley Coman=Coman", "Christophe Dugarry=Dugarry", "Patrick Vieira=Vieira", "Laurent Blanc", "Emmanuel Petit=Petit", "Dominique Rocheteau=Rocheteau", "Alain Giresse=Giresse", "Bernard Lacombe=Lacombe", "Marcus Thuram", "Randal Kolo Muani=Kolo Muani", "Adrien Rabiot=Rabiot", "Aurélien Tchouaméni=Tchouaméni", "Theo Hernandez", "Benjamin Pavard=Pavard", "Raphaël Varane=Varane", "Samuel Umtiti=Umtiti", "Blaise Matuidi=Matuidi", "Louis Saha=Saha", "Nicolas Anelka=Anelka", "Djibril Cissé=Cissé", "Florent Malouda=Malouda", "Mathieu Valbuena=Valbuena", "Loïc Rémy=Rémy", "Dimitri Payet=Payet", "Moussa Sissoko=Sissoko", "Yohan Cabaye=Cabaye", "Éric Cantona=Cantona", "Didier Deschamps=Deschamps"],
+    't4': ["Jean Vincent", "Yannick Stopyra=Stopyra", "Luis Fernandez", "Jean Tigana=Tigana", "Didier Six", "Bernard Genghini=Genghini", "Maxime Bossis=Bossis", "Gérard Soler=Soler", "Manuel Amoros=Amoros", "Jean-Marc Ferreri=Ferreri", "Bixente Lizarazu=Lizarazu", "Eduardo Camavinga=Camavinga", "Michael Olise=Olise", "Sidney Govou=Govou", "André-Pierre Gignac=Gignac", "Jérémy Ménez=Ménez", "Mamadou Sakho=Sakho", "Steve Marlet=Marlet", "Ludovic Giuly=Giuly", "William Gallas=Gallas", "Kévin Gameiro=Gameiro"],
+    't5': ["Roger Piantoni=Piantoni", "Maryan Wisnieski=Wisnieski", "Yvon Douis=Douis", "Hervé Revelli=Revelli", "Marcel Langiller=Langiller", "Jean Nicolas"],
+    't6': ["Lucien Laurent"],
+}
+
+T['spo-football-07'] = {
+    't1': ["Brésil", "France", "Allemagne=RFA/Allemagne de l'Ouest", "Argentine", "Italie", "Espagne", "Angleterre", "Pays-Bas=Hollande"],
+    't2': ["Cuba"],
+    't3': ["Uruguay", "Portugal", "Belgique", "Croatie", "Mexique", "États-Unis=USA", "Japon", "Corée du Sud", "Maroc", "Sénégal", "Cameroun", "Nigeria", "Suisse", "Suède", "Danemark", "Pologne", "Colombie", "Chili", "Australie", "Russie", "Tunisie", "Algérie", "Ghana", "Côte d'Ivoire", "Égypte", "Arabie saoudite", "Iran", "Qatar", "Équateur", "Paraguay", "Pérou", "Costa Rica", "Écosse", "Serbie=Serbie-et-Monténégro", "Canada"],
+    't4': ["Autriche", "Hongrie", "Tchécoslovaquie", "République tchèque=Tchéquie", "Roumanie", "Bulgarie", "Yougoslavie", "URSS=Union soviétique", "Turquie", "Grèce", "Irlande", "Irlande du Nord", "Pays de Galles", "Norvège", "Islande", "Slovaquie", "Slovénie", "Ukraine", "Bosnie-Herzégovine=Bosnie", "Afrique du Sud", "Togo", "Angola", "Zaïre=RD Congo", "Cap-Vert", "Bolivie", "Honduras", "Panama", "Jamaïque", "Nouvelle-Zélande", "Chine", "Corée du Nord", "Ouzbékistan", "Jordanie", "Curaçao"],
+    't5': ["Israël", "RDA=Allemagne de l'Est", "Haïti", "Salvador", "Trinité-et-Tobago", "Koweït", "Irak", "Émirats arabes unis=EAU"],
+    't6': ["Indes orientales néerlandaises=Indes néerlandaises/Indonésie"],
+}
+
+T['spo-football-08'] = {
+    't1': ["Zinédine Zidane=Zidane/Zizou", "Kylian Mbappé=Mbappé", "Lionel Messi=Messi", "Pelé", "Diego Maradona=Maradona", "Antoine Griezmann=Griezmann", "Ronaldo=Ronaldo Nazário/R9", "Didier Deschamps=Deschamps", "Hugo Lloris=Lloris"],
+    't2': ["Kaká"],
+    't3': ["Thierry Henry=Henry", "Fabien Barthez=Barthez", "Lilian Thuram=Thuram", "Marcel Desailly=Desailly", "Laurent Blanc", "Bixente Lizarazu=Lizarazu", "Emmanuel Petit=Petit", "Youri Djorkaeff=Djorkaeff", "Christophe Dugarry=Dugarry", "David Trezeguet=Trezeguet", "Robert Pirès=Pirès", "Patrick Vieira=Vieira", "Paul Pogba=Pogba", "Raphaël Varane=Varane", "N'Golo Kanté=Kanté", "Olivier Giroud=Giroud", "Benjamin Pavard=Pavard", "Samuel Umtiti=Umtiti", "Blaise Matuidi=Matuidi", "Ousmane Dembélé=Dembélé", "Andrés Iniesta=Iniesta", "Xavi=Xavi Hernández", "Iker Casillas=Casillas", "Sergio Ramos", "Carles Puyol=Puyol", "Gerard Piqué=Piqué", "David Villa", "Fernando Torres", "Xabi Alonso", "Sergio Busquets=Busquets", "Cesc Fàbregas=Fàbregas", "Gianluigi Buffon=Buffon", "Fabio Cannavaro=Cannavaro", "Andrea Pirlo=Pirlo", "Francesco Totti=Totti", "Alessandro Del Piero=Del Piero", "Gennaro Gattuso=Gattuso", "Marco Materazzi=Materazzi", "Manuel Neuer=Neuer", "Thomas Müller", "Miroslav Klose=Klose", "Philipp Lahm=Lahm", "Bastian Schweinsteiger=Schweinsteiger", "Toni Kroos=Kroos", "Mario Götze=Götze", "Mesut Özil=Özil", "Ronaldinho", "Rivaldo", "Roberto Carlos", "Cafu", "Romário", "Franz Beckenbauer=Beckenbauer", "Gerd Müller", "Lothar Matthäus=Matthäus", "Emiliano Martínez=Dibu Martínez", "Ángel Di María=Di María", "Julián Álvarez", "Enzo Fernández", "Alexis Mac Allister=Mac Allister", "Mario Kempes=Kempes", "Paolo Rossi", "Dino Zoff=Zoff", "Bobby Moore", "Bobby Charlton", "Geoff Hurst", "Garrincha"],
+    't4': ["Bebeto", "Dunga", "Jürgen Klinsmann=Klinsmann", "Andreas Brehme=Brehme", "Rudi Völler=Völler", "Rodrigo De Paul=De Paul", "Lautaro Martínez=Lautaro", "Paulo Dybala=Dybala", "Daniel Passarella=Passarella", "Jorge Valdano=Valdano", "Jorge Burruchaga=Burruchaga", "Marco Tardelli=Tardelli", "Gordon Banks", "Jairzinho", "Rivelino", "Carlos Alberto", "Tostão", "Didi", "Vavá", "Mário Zagallo=Zagallo", "Nílton Santos", "Djalma Santos", "Lúcio", "Gilberto Silva", "Kléberson", "Edmílson", "Marcos", "Per Mertesacker=Mertesacker", "Benedikt Höwedes=Höwedes", "André Schürrle=Schürrle", "Sami Khedira=Khedira", "Jérôme Boateng", "Mats Hummels=Hummels", "Víctor Valdés", "Pepe Reina", "Stéphane Guivarc'h=Guivarc'h", "Alain Boghossian=Boghossian", "Bernard Diomède=Diomède", "Frank Leboeuf=Leboeuf", "Christian Karembeu=Karembeu", "Vincent Candela=Candela", "Bernard Lama", "Adil Rami", "Steve Mandanda=Mandanda", "Alphonse Areola=Areola", "Thomas Lemar=Lemar", "Florian Thauvin=Thauvin", "Nabil Fekir=Fekir", "Corentin Tolisso=Tolisso", "Presnel Kimpembe=Kimpembe", "Djibril Sidibé=Sidibé", "Lucas Hernandez", "Benjamin Mendy", "Steven N'Zonzi=N'Zonzi"],
+    't5': ["Christoph Kramer=Kramer", "Alcides Ghiggia=Ghiggia", "Juan Alberto Schiaffino=Schiaffino", "Obdulio Varela", "José Nasazzi=Nasazzi", "Héctor Scarone=Scarone"],
+    't6': ["Lionel Charbonnier=Charbonnier"],
+}
+
+T['spo-football-09'] = {
+    't1': ["Kylian Mbappé=Mbappé", "Zlatan Ibrahimović=Zlatan/Ibrahimović", "Neymar", "Lionel Messi=Messi", "Edinson Cavani=Cavani", "Ronaldinho", "Pauleta", "George Weah=Weah", "Ousmane Dembélé=Dembélé", "Marquinhos"],
+    't2': ["Gianluigi Buffon=Buffon"],
+    't3': ["Thiago Silva", "Marco Verratti=Verratti", "Ángel Di María=Di María", "David Beckham=Beckham", "Raí", "Safet Sušić=Sušić", "Dominique Rocheteau=Rocheteau", "Luis Fernandez", "Youri Djorkaeff=Djorkaeff", "Nicolas Anelka=Anelka", "Jay-Jay Okocha=Okocha", "Bernard Lama", "Ricardo", "Valdo", "David Ginola=Ginola", "Alain Roche", "Paul Le Guen=Le Guen", "Vincent Guérin", "Daniel Bravo", "Leonardo", "Mickaël Landreau=Landreau", "Ludovic Giuly=Giuly", "Claude Makélélé=Makélélé", "Javier Pastore=Pastore", "Lucas Moura", "Ezequiel Lavezzi=Lavezzi", "Blaise Matuidi=Matuidi", "Maxwell", "Serge Aurier=Aurier", "Adrien Rabiot=Rabiot", "Presnel Kimpembe=Kimpembe", "Julian Draxler=Draxler", "Thomas Meunier=Meunier", "Achraf Hakimi=Hakimi", "Gianluigi Donnarumma=Donnarumma", "Vitinha", "João Neves", "Khvicha Kvaratskhelia=Kvaratskhelia/Kvara", "Désiré Doué=Doué", "Bradley Barcola=Barcola", "Warren Zaïre-Emery=Zaïre-Emery", "Nuno Mendes", "Fabián Ruiz", "Sergio Ramos", "Keylor Navas", "Mauro Icardi=Icardi", "Leandro Paredes=Paredes", "Kevin Trapp=Trapp", "Salvatore Sirigu=Sirigu", "Thiago Motta", "Dani Alves", "Gonçalo Ramos"],
+    't4': ["Jérémy Ménez=Ménez", "Mamadou Sakho=Sakho", "Guillaume Hoarau=Hoarau", "Péguy Luyindula=Luyindula", "Jérôme Rothen=Rothen", "Sylvain Armand", "Bernard Mendy", "Joël Bats", "Mustapha Dahleb=Dahleb", "Carlos Bianchi=Bianchi", "Gabriel Heinze=Heinze", "Fabrice Fiorèse=Fiorèse", "Patrice Loko=Loko", "Marco Simone", "Florian Maurice", "Ali Benarbia=Benarbia", "Lionel Letizi=Letizi", "Mario Yepes=Yepes", "Bonaventure Kalou", "Amara Diané", "Clément Chantôme=Chantôme", "Nenê", "Yohan Cabaye=Cabaye", "Hatem Ben Arfa=Ben Arfa", "Grzegorz Krychowiak=Krychowiak", "Thilo Kehrer=Kehrer", "Juan Bernat=Bernat", "Pablo Sarabia=Sarabia", "Idrissa Gueye", "Georginio Wijnaldum=Wijnaldum", "Carlos Soler", "Renato Sanches", "Milan Škriniar=Škriniar", "Manuel Ugarte=Ugarte", "Randal Kolo Muani=Kolo Muani", "Lucas Hernandez", "Willian Pacho=Pacho", "Lee Kang-in", "Patrick Mboma=Mboma"],
+    't5': ["Mateja Kežman=Kežman", "Mevlüt Erding=Erding", "Ceará", "Jesé", "Jean-Marc Pilorget=Pilorget"],
+    't6': ["Mauricio Pochettino=Pochettino"],
+}
+
+T['spo-football-10'] = {
+    't1': ["Jean-Pierre Papin=Papin/JPP", "Didier Drogba=Drogba", "Chris Waddle=Waddle", "Abedi Pelé", "Basile Boli=Boli", "Fabien Barthez=Barthez", "Mathieu Valbuena=Valbuena", "Steve Mandanda=Mandanda", "Franck Ribéry=Ribéry", "Dimitri Payet=Payet"],
+    't2': ["Eric Cantona=Cantona"],
+    't3': ["Marcel Desailly=Desailly", "Didier Deschamps=Deschamps", "Rudi Völler=Völler", "Alen Bokšić=Bokšić", "Jean Tigana=Tigana", "Enzo Francescoli=Francescoli", "Klaus Allofs=Allofs", "Manuel Amoros=Amoros", "Jocelyn Angloma=Angloma", "Éric Di Meco=Di Meco", "Bernard Casoni=Casoni", "Josip Skoblar=Skoblar", "Roger Magnusson=Magnusson", "Marius Trésor=Trésor", "Jean-Philippe Durand", "Carlos Mozer=Mozer", "Laurent Blanc", "Robert Pirès=Pirès", "Fabrizio Ravanelli=Ravanelli", "Christophe Dugarry=Dugarry", "Florian Maurice", "Bixente Lizarazu=Lizarazu", "Ibrahima Bakayoko=Bakayoko", "Mamadou Niang=Niang", "Djibril Cissé=Cissé", "Lucho González=Lucho", "Samir Nasri=Nasri", "Hatem Ben Arfa=Ben Arfa", "Lorik Cana=Cana", "André-Pierre Gignac=Gignac", "Loïc Rémy=Rémy", "André Ayew=Dédé Ayew", "Jordan Ayew", "Souleymane Diawara=Diawara", "Benoît Cheyrou=Cheyrou", "Florian Thauvin=Thauvin", "Michy Batshuayi=Batshuayi", "Lassana Diarra", "Patrice Evra=Evra", "Adil Rami", "Luiz Gustavo", "Morgan Sanson=Sanson", "Boubacar Kamara", "Arkadiusz Milik=Milik", "Mattéo Guendouzi=Guendouzi", "William Saliba=Saliba", "Gerson", "Alexis Sánchez", "Pierre-Emerick Aubameyang=Aubameyang", "Mason Greenwood=Greenwood", "Pierre-Emile Højbjerg=Højbjerg", "Adrien Rabiot=Rabiot", "Jonathan Clauss=Clauss"],
+    't4': ["Amine Harit=Harit", "Bamba Dieng", "Pau López", "Leonardo Balerdi=Balerdi", "Chancel Mbemba=Mbemba", "Valentin Rongier=Rongier", "Habib Beye=Beye", "Taye Taiwo=Taiwo", "Cédric Carrasso=Carrasso", "Fabrice Fiorèse=Fiorèse", "Toifilou Maoulida=Maoulida", "Julien Rodriguez", "Frank Leboeuf=Leboeuf", "Daniel Van Buyten=Van Buyten", "Jean-Marc Ferreri=Ferreri", "Sonny Anderson", "Peter Luccin=Luccin", "Stéphane Dalmat=Dalmat", "Morgan Amalfitano=Amalfitano", "Kostas Mitroglou=Mitroglou", "Cengiz Ünder"],
+    't5': ["Tony Cascarino=Cascarino", "Trevor Steven", "Iván de la Peña=De la Peña", "Titi Camara"],
+    't6': ["Karl-Heinz Förster=Förster"],
+}
+
+T['spo-football-11'] = {
+    't1': ["Cristiano Ronaldo=CR7", "Zinédine Zidane=Zidane/Zizou", "Karim Benzema=Benzema", "Raúl=Raúl González", "Sergio Ramos", "Luka Modrić=Modrić", "Iker Casillas=Casillas", "Alfredo Di Stéfano=Di Stéfano", "Vinícius Júnior=Vinícius/Vini Jr", "Kylian Mbappé=Mbappé"],
+    't2': ["Michael Owen=Owen"],
+    't3': ["Ronaldo=Ronaldo Nazário/R9", "Luís Figo=Figo", "David Beckham=Beckham", "Roberto Carlos", "Fernando Hierro=Hierro", "Gareth Bale=Bale", "Toni Kroos=Kroos", "Kaká", "Ferenc Puskás=Puskás", "Francisco Gento=Paco Gento/Gento", "Emilio Butragueño=Butragueño", "Hugo Sánchez", "Fernando Redondo=Redondo", "Clarence Seedorf=Seedorf", "Christian Karembeu=Karembeu", "Predrag Mijatović=Mijatović", "Davor Šuker=Šuker", "Claude Makélélé=Makélélé", "Steve McManaman=McManaman", "Míchel Salgado=Salgado", "Guti", "Fabio Cannavaro=Cannavaro", "Ruud van Nistelrooy=Van Nistelrooy", "Gonzalo Higuaín=Higuaín", "Marcelo", "Pepe", "Xabi Alonso", "Mesut Özil=Özil", "Ángel Di María=Di María", "Raphaël Varane=Varane", "Casemiro", "Isco", "James Rodríguez=James", "Thibaut Courtois=Courtois", "Keylor Navas", "Dani Carvajal=Carvajal", "Federico Valverde=Fede Valverde", "Eduardo Camavinga=Camavinga", "Aurélien Tchouaméni=Tchouaméni", "Jude Bellingham=Bellingham", "Rodrygo", "Eden Hazard=Hazard", "David Alaba=Alaba", "Antonio Rüdiger=Rüdiger", "Ferland Mendy", "Arda Güler=Güler", "Álvaro Morata=Morata", "Nicolas Anelka=Anelka", "Fernando Morientes=Morientes", "Arjen Robben=Robben", "Wesley Sneijder=Sneijder", "Robinho", "Manolo Sanchís=Sanchís", "Jorge Valdano=Valdano", "Bernd Schuster=Schuster"],
+    't4': ["Jonathan Woodgate=Woodgate", "Thomas Gravesen=Gravesen", "Júlio Baptista", "Antonio Cassano=Cassano", "Emerson", "Mahamadou Diarra", "Lassana Diarra", "Royston Drenthe=Drenthe", "Klaas-Jan Huntelaar=Huntelaar", "Sami Khedira=Khedira", "Nuri Şahin=Şahin", "Hamit Altıntop=Altıntop", "Michael Essien=Essien", "Asier Illarramendi=Illarramendi", "Javier Hernández=Chicharito", "Danilo", "Mateo Kovačić=Kovačić", "Theo Hernandez", "Dani Ceballos=Ceballos", "Martin Ødegaard=Ødegaard", "Brahim Díaz=Brahim", "Endrick", "Trent Alexander-Arnold=Alexander-Arnold/Trent", "Dean Huijsen=Huijsen", "Luka Jović=Jović"],
+    't5': ["Álvaro Carreras=Carreras", "Míchel"],
+    't6': ["Julien Faubert=Faubert"],
+}
+
+T['spo-football-12'] = {
+    't1': ["Lionel Messi=Messi", "Johan Cruyff=Cruyff", "Ronaldinho", "Xavi=Xavi Hernández", "Andrés Iniesta=Iniesta", "Neymar", "Diego Maradona=Maradona", "Carles Puyol=Puyol", "Lamine Yamal=Yamal", "Luis Suárez=Suárez"],
+    't2': ["Emmanuel Petit=Petit/Manu Petit"],
+    't3': ["Luís Figo=Figo", "Rivaldo", "Ronaldo=Ronaldo Nazário/R9", "Romário", "Hristo Stoichkov=Stoichkov", "Ronald Koeman=Koeman", "Michael Laudrup", "Pep Guardiola=Guardiola", "Thierry Henry=Henry", "Samuel Eto'o=Eto'o", "Zlatan Ibrahimović=Zlatan/Ibrahimović", "Gerard Piqué=Piqué", "Sergio Busquets=Busquets", "Dani Alves", "Éric Abidal=Abidal", "Ludovic Giuly=Giuly", "Deco", "Víctor Valdés=Valdés", "Cesc Fàbregas=Fàbregas", "David Villa", "Javier Mascherano=Mascherano", "Ivan Rakitić=Rakitić", "Jordi Alba", "Marc-André ter Stegen=Ter Stegen", "Antoine Griezmann=Griezmann", "Ousmane Dembélé=Dembélé", "Philippe Coutinho=Coutinho", "Frenkie de Jong=De Jong", "Pedri", "Gavi", "Robert Lewandowski=Lewandowski", "Raphinha", "Gary Lineker=Lineker", "Patrick Kluivert=Kluivert", "Marc Overmars=Overmars", "Frank de Boer", "Ronald de Boer", "Phillip Cocu=Cocu", "Edgar Davids=Davids", "Giovanni van Bronckhorst=Van Bronckhorst", "Lilian Thuram=Thuram", "Yaya Touré", "Seydou Keita=Keita", "Bojan Krkić=Bojan", "Pedro=Pedro Rodríguez", "Alexis Sánchez", "Andoni Zubizarreta=Zubizarreta", "Ladislao Kubala=Kubala", "Bernd Schuster=Schuster"],
+    't4': ["Alexander Hleb=Hleb", "Edmílson", "Jordi Cruyff", "Allan Simonsen=Simonsen", "Txiki Begiristain=Begiristain", "José Mari Bakero=Bakero", "Julio Salinas", "Samuel Umtiti=Umtiti", "Clément Lenglet=Lenglet", "Jules Koundé=Koundé", "Lucas Digne=Digne", "Arda Turan", "Paulinho", "Arturo Vidal=Vidal", "Ferran Torres", "Ansu Fati", "Gerard Deulofeu=Deulofeu", "Sergi Roberto", "Malcom", "Miralem Pjanić=Pjanić", "Memphis Depay=Memphis", "Thomas Vermaelen=Vermaelen", "Javier Saviola=Saviola", "Henrik Larsson=Larsson"],
+    't5': ["Laurent Blanc", "Christophe Dugarry=Dugarry", "Jérémy Mathieu", "Ricardo Quaresma=Quaresma", "Juan Román Riquelme=Riquelme", "Gheorghe Hagi=Hagi"],
+    't6': ["Kevin-Prince Boateng"],
+}
+
+T['spo-football-13'] = {
+    't1': ["France", "Espagne", "Allemagne", "Italie", "Angleterre", "Portugal", "Belgique", "Pays-Bas=Hollande"],
+    't2': ["Israël"],
+    't3': ["Croatie", "Suisse", "Danemark", "Suède", "Pologne", "Écosse", "Pays de Galles", "Irlande=République d'Irlande", "Irlande du Nord", "Autriche", "Turquie", "Grèce", "Norvège", "Serbie", "Ukraine", "Russie", "République tchèque=Tchéquie", "Hongrie", "Roumanie"],
+    't4': ["Slovaquie", "Slovénie", "Bulgarie", "Islande", "Finlande", "Albanie", "Bosnie-Herzégovine=Bosnie", "Macédoine du Nord=Macédoine", "Monténégro", "Géorgie", "Arménie", "Azerbaïdjan", "Biélorussie=Bélarus", "Lituanie", "Lettonie", "Estonie", "Moldavie", "Chypre", "Kosovo", "Luxembourg"],
+    't5': ["Malte", "Andorre", "Liechtenstein", "Saint-Marin", "Îles Féroé=Féroé", "Gibraltar"],
+    't6': ["Kazakhstan"],
+}
+
+T['spo-football-14'] = {
+    't1': ["Maroc", "Sénégal", "Cameroun", "Côte d'Ivoire", "Nigeria", "Égypte", "Algérie", "Ghana", "Tunisie"],
+    't2': ["Madagascar"],
+    't3': ["Afrique du Sud", "Mali", "RD Congo=République démocratique du Congo/Zaïre", "Burkina Faso", "Guinée", "Gabon", "Zambie", "Cap-Vert", "Bénin", "Angola", "Togo", "Kenya", "Congo=Congo-Brazzaville", "Guinée équatoriale", "Zimbabwe", "Ouganda", "Libye", "Tanzanie", "Mauritanie"],
+    't4': ["Comores", "Namibie", "Gambie", "Guinée-Bissau", "Sierra Leone", "Niger", "Mozambique", "Malawi", "Rwanda", "Burundi", "Soudan", "Éthiopie", "Liberia", "Botswana", "Centrafrique=République centrafricaine", "Tchad"],
+    't5': ["Lesotho", "Eswatini=Swaziland", "Djibouti", "Érythrée", "Somalie", "Seychelles", "Maurice=Île Maurice", "Sao Tomé-et-Principe=Sao Tomé"],
+    't6': ["Soudan du Sud"],
+}
+
+T['spo-football-15'] = {
+    't1': ["Flamengo", "Corinthians", "Palmeiras", "São Paulo FC=São Paulo", "Santos", "Fluminense", "Vasco da Gama=Vasco", "Grêmio"],
+    't2': ["Juventude"],
+    't3': ["Botafogo", "Internacional=Inter de Porto Alegre", "Cruzeiro", "Atlético Mineiro=Galo/Atlético-MG", "EC Bahia=Bahia", "Athletico Paranaense=Atlético Paranaense", "Fortaleza", "Ceará", "Sport Recife=Sport", "EC Vitória=Vitória", "Coritiba", "Goiás", "Red Bull Bragantino=Bragantino", "Chapecoense", "América Mineiro=América-MG"],
+    't4': ["Atlético Goianiense", "Cuiabá", "Ponte Preta", "Guarani", "Portuguesa", "Náutico", "Santa Cruz", "Avaí", "Figueirense", "Criciúma", "Paraná Clube", "Paysandu", "Clube do Remo=Remo", "CRB", "CSA", "Mirassol", "Vila Nova", "Sampaio Corrêa", "Londrina", "Ituano", "Novorizontino"],
+    't5': ["São Caetano", "Santo André", "Joinville", "Brasil de Pelotas", "Ferroviária", "XV de Piracicaba", "Operário Ferroviário", "Botafogo-SP=Botafogo de Ribeirão Preto", "Tombense", "ABC"],
+    't6': ["Bangu"],
+}

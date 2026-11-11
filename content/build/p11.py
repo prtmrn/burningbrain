@@ -1,0 +1,41 @@
+T = {}
+T['gen-boisson-alcool'] = {
+ 't1': ["Mojito", "Margarita", "Cosmopolitan", "Piña colada=Pina colada", "Bloody Mary", "Daiquiri", "Moscow Mule", "Old Fashioned", "Negroni", "Caipirinha"],
+ 't2': ["Irish Coffee"],
+ 't3': ["Mai Tai", "Long Island Iced Tea=Long Island", "Manhattan", "Dry Martini=Martini", "Espresso Martini", "Tequila Sunrise", "Sex on the Beach", "Cuba Libre", "Singapore Sling", "Mint Julep", "Whiskey Sour=Whisky Sour", "Pisco Sour", "Bellini", "Mimosa", "French 75", "Black Russian", "White Russian", "Tom Collins", "Screwdriver", "Americano", "Sidecar", "Paloma", "Dark 'n' Stormy=Dark and Stormy", "Gimlet", "Aviation"],
+ 't4': ["John Collins", "Gin Fizz", "Sazerac", "Boulevardier", "Rusty Nail", "Godfather", "Grasshopper", "Harvey Wallbanger", "Hemingway Special", "Horse's Neck", "Kamikaze", "Sea Breeze", "Bay Breeze", "B-52=B52", "Bramble", "Vesper", "Stinger", "Alexander", "Clover Club", "Last Word", "Martinez", "Paper Plane", "Penicillin", "Pornstar Martini", "Ramos Fizz", "Planter's Punch", "Tommy's Margarita", "Southside", "Rob Roy", "Blood and Sand", "Bronx"],
+ 't5': ["Angel Face", "Between the Sheets", "Brandy Crusta", "Casino", "Mary Pickford", "Monkey Gland", "Paradise", "Porto Flip", "Tuxedo", "Vieux Carré", "White Lady", "Bijou", "Garibaldi", "Godmother", "French Connection", "Rose", "Barracuda", "Bacardi", "Jungle Bird", "Naked and Famous", "Trinidad Sour", "Gin Basil Smash", "Final Ward", "Old Cuban", "Bee's Knees", "Michelada", "Amaretto Sour", "Corpse Reviver n°2=Corpse Reviver 2/Corpse Reviver #2", "Brave Bull", "Pegu Club", "Vodka Martini", "Illegal", "Spicy Fifty", "Negroni Sbagliato=Sbagliato"],
+ 't6': ["Hanky Panky"],
+}
+T['gen-dessert-monde'] = {
+ 't1': ["Éclair=Éclair au chocolat/Éclair au café", "Mille-feuille=Millefeuille/Mille feuille", "Paris-Brest=Paris Brest", "Religieuse", "Tarte Tatin=Tarte des demoiselles Tatin", "Macaron", "Madeleine", "Opéra=Gâteau Opéra", "Saint-Honoré=Gâteau Saint-Honoré", "Tarte au citron=Tarte citron"],
+ 't2': ["Kouglof=Kougelhopf/Kugelhopf/Kougelhof"],
+ 't3': ["Fraisier", "Framboisier", "Financier", "Canelé=Cannelé/Canelé bordelais/Cannelé bordelais", "Kouign-amann=Kouign amann", "Far breton", "Clafoutis", "Gâteau basque", "Baba au rhum=Baba", "Savarin", "Profiterole", "Chou à la crème=Chou", "Croquembouche=Pièce montée", "Pain au chocolat=Chocolatine", "Chausson aux pommes", "Palmier", "Galette des rois=Gâteau des rois/Couronne des rois", "Tropézienne=Tarte tropézienne", "Charlotte", "Mont-Blanc=Mont Blanc", "Bûche de Noël=Bûche", "Fondant au chocolat=Moelleux au chocolat/Coulant au chocolat", "Brioche", "Pain d'épices", "Tarte aux pommes", "Tarte aux fraises", "Chouquette", "Beignet", "Meringue", "Croissant", "Quatre-quarts", "Génoise"],
+ 't4': ["Pithiviers", "Dacquoise", "Succès", "Merveilleux", "Gâteau au yaourt", "Nonnette", "Tarte Bourdaloue=Bourdaloue", "Mirliton", "Gâteau breton", "Gâteau nantais", "Pastis landais=Pastis gascon", "Gâteau de Savoie=Biscuit de Savoie", "Flan pâtissier=Flan parisien/Flan", "Tarte au sucre", "Tarte normande", "Douillon", "Calisson", "Navette", "Palet breton", "Sablé breton=Sablé", "Madeleine de Commercy", "Bergamote de Nancy", "Langue de chat", "Tuile", "Gaufre", "Crêpe", "Congolais=Rocher coco/Rocher congolais", "Marjolaine", "Concorde", "Trianon=Royal", "Entremets", "Tartelette", "Tarte aux framboises", "Cake", "Marbré", "Pain de Gênes", "Dartois", "Conversation", "Jésuite", "Allumette glacée=Allumette", "Gâteau de riz", "Carolines", "Pompe à l'huile=Gibassier", "Croustade", "Galette bretonne", "Tourteau fromager", "Duchesse"],
+ 't5': ["Gâteau Brestois=Brestois", "Bredele=Bredala", "Tarte aux noix", "Tarte à la rhubarbe"],
+ 't6': ["Pets de nonne"],
+}
+T['gen-metier-ier'] = {
+ 't1': ["Pâtissier=Pâtissière", "Plombier=Plombière", "Charcutier=Charcutière", "Cordonnier=Cordonnière", "Serrurier=Serrurière", "Menuisier=Menuisière", "Charpentier=Charpentière", "Couturier=Couturière", "Jardinier=Jardinière", "Bijoutier=Bijoutière"],
+ 't2': ["Ouvrier=Ouvrière"],
+ 't3': ["Cuisinier=Cuisinière", "Chocolatier=Chocolatière", "Verrier", "Tonnelier=Tonnelière", "Sellier=Sellière", "Chaudronnier=Chaudronnière", "Ferblantier=Ferblantière", "Épicier=Épicière", "Fermier=Fermière", "Meunier=Meunière", "Armurier=Armurière", "Vitrier=Vitrière", "Carrossier=Carrossière", "Bottier=Bottière", "Chapelier=Chapelière", "Cordier=Cordière", "Tapissier=Tapissière", "Quincaillier=Quincaillière", "Poissonnier=Poissonnière", "Glacier=Glacière", "Fruitier=Fruitière", "Laitier=Laitière", "Ambulancier=Ambulancière", "Cantonnier=Cantonnière"],
+ 't4': ["Luthier=Luthière", "Coutelier=Coutelière", "Maroquinier=Maroquinière", "Gantier=Gantière", "Sabotier=Sabotière", "Bourrelier=Bourrelière", "Papetier=Papetière", "Drapier=Drapière", "Mercier=Mercière", "Tripier=Tripière", "Fripier=Fripière", "Cirier=Cirière", "Ferronnier=Ferronnière", "Charbonnier=Charbonnière", "Forestier=Forestière", "Batelier=Batelière", "Carrier=Carrière", "Savonnier=Savonnière", "Chiffonnier=Chiffonnière", "Tuilier=Tuilière", "Briquetier=Briquetière", "Taillandier=Taillandière", "Boutonnier=Boutonnière", "Passementier=Passementière", "Bonnetier=Bonnetière"],
+ 't5': ["Layetier=Layetière", "Peaussier=Peaussière", "Gainier=Gainière", "Dentellier=Dentellière", "Cloutier=Cloutière", "Ardoisier=Ardoisière", "Sablier=Sablière", "Grutier=Grutière", "Routier=Routière", "Crémier=Crémière", "Bouvier=Bouvière", "Saunier=Saunière", "Pelletier=Pelletière"],
+ 't6': ["Vannier"],
+}
+T['gen-anglicisme'] = {
+ 't1': ["Football=Foot", "Corner", "Penalty=Penalty kick", "Dribble=Dribbler", "Hat-trick=Hat trick", "Coach", "Supporter=Supporteur", "Hooligan", "Match"],
+ 't2': ["Fair-play=Fair play"],
+ 't3': ["Goal", "Cross", "Tacle=Tackle/Tacler", "Pressing", "Play-off=Play-offs/Playoff", "Derby", "Fan", "Score", "Team", "Staff", "Leader", "Challenge", "Sponsor=Sponsoring", "Manager", "Club", "Stopper", "Assist", "Top scorer", "Goal-average=Goal average", "Playmaker", "Outsider", "Star", "Coaching", "Dream team", "Scorer", "Challenger", "Box"],
+ 't4': ["Winger", "Back", "Dribbleur", "Warm-up=Warm up", "Fanzone=Fan zone", "VAR", "Goal-line technology=Goal line technology", "Fan club"],
+ 't5': ["Kop", "Kick-off"],
+ 't6': ["Clean sheet"],
+}
+T['gen-expression-corps'] = {
+ 't1': ["Avoir le cœur sur la main=Avoir le coeur sur la main", "Mettre la main à la pâte=Mettre la main a la pate", "Donner un coup de main=Coup de main", "Avoir la main verte", "Prendre en main", "Prêter main-forte=Prêter main forte", "Mettre la main au feu", "Se laver les mains de", "Gagner haut la main=Haut la main"],
+ 't2': ["Prendre la main dans le sac=Être pris la main dans le sac"],
+ 't3': ["Avoir la main heureuse", "Avoir la main leste", "Avoir la main lourde", "Mettre la main sur", "Avoir les mains liées", "Avoir les mains propres", "Avoir les mains sales", "Passer la main", "Perdre la main", "Avoir sous la main=Sous la main", "Faire main basse sur=Main basse", "Mettre la main à la poche=Mettre la main au portefeuille", "En venir aux mains", "Tendre la main", "Demander la main de", "Forcer la main", "Avoir la main baladeuse", "Avoir deux mains gauches", "Être en bonnes mains", "Main dans la main", "Mettre la dernière main", "Se faire la main", "Manger dans la main", "Mettre les mains dans le cambouis", "Ne pas y aller de main morte", "Faire des pieds et des mains", "Serrer la main", "De première main", "De seconde main", "À main levée", "Reprendre en main", "Avoir la situation en main"],
+ 't4': ["Lever la main sur", "Donner la main", "Mettre la main au collet", "Passer de main en main", "Avoir la main qui démange", "Tomber entre les mains de", "Les mains dans les poches", "Prêter la main à", "Agir en sous-main=En sous-main", "À pleines mains", "À main armée", "Les mains nues", "De main de maître", "Fait main=Fait à la main", "Un homme de main", "Une main de fer dans un gant de velours", "Avoir la main longue", "Tendre une main secourable", "Jouer à la main chaude=Main chaude", "Mettre la main au panier", "Avoir des mains en or", "Avoir la main sur le cœur", "Remettre en main propre=En main propre", "Changer de mains", "Taper dans la main", "Se donner la main", "Prendre les choses en main"],
+ 't5': ["Être aux mains de"],
+ 't6': ["Avoir un poil dans la main"],
+}
