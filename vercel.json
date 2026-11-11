@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd hotbrain/apps/web && npm install && npm run build",
+  "outputDirectory": "hotbrain/apps/web/.next"
+}
