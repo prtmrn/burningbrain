@@ -1,4 +1,5 @@
 {
-  "buildCommand": "cd hotbrain/apps/web && npm install && npm run build",
-  "outputDirectory": "hotbrain/apps/web/.next"
+  "buildCommand": "cd hotbrain && npm install && cd apps/web && npm run build",
+  "outputDirectory": "hotbrain/apps/web/.next",
+  "framework": "nextjs"
 }
