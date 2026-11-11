@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build --workspace @hotbrain/engine && npm run build --workspace @hotbrain/web",
+  "outputDirectory": "apps/web/.next",
+  "framework": "nextjs"
+}
