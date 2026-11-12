@@ -3,7 +3,7 @@ import type { ReactNode } from 'react';
 import '../styles/tokens.css';
 
 export const metadata: Metadata = {
-  title: 'BurningBrain',
+  title: 'BoilingBrain',
   description: 'Le quiz quotidien qui fait monter le mercure.',
 };
 

@@ -15,6 +15,7 @@ import { playFusion, playMiss, playTier } from '../sound';
 import { useSoundPref } from '../hooks/useSoundPref';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
+import { HeatBar } from './HeatBar';
 import { Thermometer } from './Thermometer';
 import { PromptCard } from './PromptCard';
 import { AnswerInput } from './AnswerInput';
@@ -113,7 +114,7 @@ export function SessionScreen({
   if (s.pausedAt !== undefined) {
     return (
       <>
-        <GameBar icon={themeIcon} title={`Burning · ${themeLabel}`} subtitle={dayLabel} />
+        <GameBar icon={themeIcon} title={`Boiling · ${themeLabel}`} subtitle={dayLabel} />
         <main className="summary panel-screen" data-testid="paused">
           <h1>Pause</h1>
           <p>Le chrono est arrêté tant que tu n'es pas revenu.</p>
@@ -129,10 +130,10 @@ export function SessionScreen({
   if (phase === 'intro') {
     return (
       <>
-        <GameBar icon={themeIcon} title={`Burning · ${themeLabel}`} subtitle={dayLabel} />
+        <GameBar icon={themeIcon} title={`Boiling · ${themeLabel}`} subtitle={dayLabel} />
         <Embers heat={0.15} />
         <main className="summary panel-screen" data-testid="intro">
-          <h1>🔥 Mode Burning</h1>
+          <h1>🔥 Mode Boiling</h1>
           <p className="lead">{cfg.rounds} questions · {cfg.roundMs / 1000} secondes chacune · une seule réponse.</p>
           <p>
             Ta première idée vaut peu de degrés : vise la réponse que presque personne ne
@@ -171,7 +172,7 @@ export function SessionScreen({
     <>
       <GameBar
         icon={themeIcon}
-        title={`Burning · ${themeLabel}`}
+        title={`Boiling · ${themeLabel}`}
         subtitle={dayLabel}
         right={
           <span className="round-pill">
@@ -187,6 +188,7 @@ export function SessionScreen({
         data-testid="session-root"
       >
         <div className="session-main">
+          <HeatBar score={score} max={700} />
           <div className="hud">
             <span className="score" data-testid="hud-score">{score} °C</span>
           </div>

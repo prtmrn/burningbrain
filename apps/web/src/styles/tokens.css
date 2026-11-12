@@ -696,7 +696,7 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
 .brain-verdict { text-align: center; }
 .brain-verdict.won { color: #ffe08a; text-shadow: 0 0 16px rgba(255, 200, 80, 0.7); }
 
-/* Réponses possibles masquées par défaut (Burning) */
+/* Réponses possibles masquées par défaut (Boiling) */
 .reveal-toggle summary { cursor: pointer; color: var(--text-dim); margin-top: 0.4rem; font-size: 0.95rem; }
 .reveal-toggle[open] summary { margin-bottom: 0.3rem; }
 
@@ -741,3 +741,24 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
 @media (max-width: 380px) {
   .theme-grid { grid-template-columns: 1fr; }
 }
+
+/* Saisie : champ + bouton Valider toujours visibles (D-40) */
+.answer-row { display: flex; gap: 0.5rem; align-items: stretch; }
+.answer-row input { flex: 1; min-width: 0; }
+.answer-submit { white-space: nowrap; min-width: 96px; font-size: 1.1rem; }
+.answer-submit:disabled { opacity: 0.45; }
+
+/* Thermomètre horizontal (mobile) */
+.heat-bar { display: none; margin: 0 0 0.6rem; }
+@media (max-width: 720px) { .heat-bar { display: block; } }
+.heat-bar-track { height: 20px; border-radius: 10px; background: #1a1030; border: 3px solid #061018; overflow: hidden; }
+.heat-bar-fill { height: 100%; background: linear-gradient(90deg, #ffb02e, #ff6a1a 60%, #ff2a1a); transition: width 0.35s ease-out; box-shadow: 0 0 12px rgba(255, 90, 20, 0.7); }
+.heat-bar-label { display: block; text-align: right; margin-top: 0.2rem; font-family: var(--font-pixel); font-size: 1.1rem; color: var(--text); }
+
+/* Alignement : cartes de même hauteur, boutons alignés en bas (D-40) */
+.mode-cards { align-items: stretch; }
+.mode-card { height: 100%; }
+.mode-card p { flex: 1 1 auto; margin-bottom: 0.4rem; }
+.mode-card > a, .mode-card > button { flex: 0 0 auto; }
+.theme-card { display: flex; flex-direction: column; gap: 0.35rem; }
+.theme-card .theme-actions { margin-top: auto; }

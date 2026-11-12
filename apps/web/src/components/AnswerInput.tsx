@@ -32,6 +32,7 @@ export function AnswerInput({
 
   return (
     <form
+      className="answer-row"
       onSubmit={(e) => {
         e.preventDefault();
         if (!disabled && value.trim() !== '') onSubmit(value);
@@ -52,6 +53,14 @@ export function AnswerInput({
         spellCheck={false}
         onChange={(e) => onChange(e.target.value)}
       />
+      <button
+        type="submit"
+        className="answer-submit"
+        data-testid="answer-submit"
+        disabled={disabled || value.trim() === ''}
+      >
+        Valider
+      </button>
     </form>
   );
 }

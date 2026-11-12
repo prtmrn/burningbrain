@@ -211,7 +211,7 @@ describe('session hot daily (M3 — jouable)', () => {
 
     // ── Partage thermo-colonne anti-spoiler : 7 pastilles, zéro réponse ──
     const share = screen.getByTestId('share-text').textContent as string;
-    expect(share).toContain(`🔥 BurningBrain · Jour ${DAY} · Burning · Général`);
+    expect(share).toContain(`🔥 BoilingBrain · Jour ${DAY} · Boiling · Général`);
     const row = share.split('\n')[1] as string;
     expect([...row]).toHaveLength(7);
     for (const answer of chosen) expect(share).not.toContain(answer);

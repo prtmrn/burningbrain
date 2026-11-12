@@ -17,9 +17,12 @@ export function seedSeries(theme: ThemeId, mode: GameMode, dayNumber: number): n
   return fnv1a32(`${theme}:${mode}:${dayNumber}`);
 }
 
-/** Série quotidienne déterministe : n = config.modes[mode].rounds (7|5).
- *  Gardes : bank.theme === theme ; bank.prompts.length ≥ n (sinon échec
- *  explicite au boot — contenu corrompu). */
+/** Série quotidienne (D-42) : parcours continu, sans répétition tant que la
+ *  banque n'est pas épuisée. Le jour d puis le mode (hot puis brain) occupent
+ *  des positions consécutives d'un flux de cycles ; chaque cycle est une
+ *  permutation de la banque graine (theme, cycle). Deux jours consécutifs ne
+ *  partagent donc aucune question tant que la banque n'est pas épuisée, et
+ *  Hot et Brain ne se recouvrent jamais le même jour. */
 export function seedDaily(
   theme: ThemeId,
   mode: GameMode,
@@ -36,12 +39,29 @@ export function seedDaily(
       `seedDaily: bank "${theme}" has ${bank.prompts.length} prompts < ${n} required`,
     );
   }
-  const rng = mulberry32(seedSeries(theme, mode, day));
-  const indices = fisherYatesShuffle(
-    bank.prompts.map((_, i) => i),
-    rng,
-  );
-  return indices.slice(0, n).map((i) => (bank.prompts[i] as { id: string }).id);
+  const perDay = config.modes.hot.rounds + config.modes.brain.rounds;
+  const offset = mode === 'hot' ? 0 : config.modes.hot.rounds;
+  const start = (Math.max(1, day) - 1) * perDay + offset;
+  return streamPick(theme, bank, start, n);
+}
+
+/** Lit n identifiants distincts dans le flux de cycles à partir de `start`. */
+function streamPick(theme: ThemeId, bank: PromptBank, start: number, n: number): string[] {
+  const ids = bank.prompts.map((p) => p.id);
+  const N = ids.length;
+  const perms = new Map<number, string[]>();
+  const out: string[] = [];
+  for (let pos = start; out.length < n; pos++) {
+    const cycle = Math.floor(pos / N);
+    let perm = perms.get(cycle);
+    if (!perm) {
+      perm = fisherYatesShuffle(ids, mulberry32(fnv1a32(`${theme}:cycle:${cycle}`)));
+      perms.set(cycle, perm);
+    }
+    const id = perm[pos % N] as string;
+    if (!out.includes(id)) out.push(id); // jamais deux fois la même question le même jour
+  }
+  return out;
 }
 
 /** Ids déjà vus en illimité pour (theme, mode) — redérivé de l'historique

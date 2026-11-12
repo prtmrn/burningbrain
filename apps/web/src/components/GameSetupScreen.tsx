@@ -9,7 +9,7 @@ import { SETUP_OPTIONS, defaultSetup, type GameSetup } from '../config';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
 
-const KEY = (mode: string): string => `burningbrain:setup:v1:${mode}`;
+const KEY = (mode: string): string => `boilingbrain:setup:v1:${mode}`;
 
 function lastSetup(mode: 'hot' | 'brain'): GameSetup {
   try {
@@ -38,7 +38,7 @@ export function GameSetupScreen({
 }) {
   const [setup, setSetup] = useState<GameSetup>(() => lastSetup(mode));
   const opts = SETUP_OPTIONS[mode];
-  const modeLabel = mode === 'hot' ? 'Burning' : 'Brain';
+  const modeLabel = mode === 'hot' ? 'Boiling' : 'Brain';
   const start = (): void => {
     try {
       window.localStorage.setItem(KEY(mode), JSON.stringify(setup));

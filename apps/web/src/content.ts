@@ -68,7 +68,7 @@ export function buildShareText(
   completion: Completion,
   opts: { dayLabel: string; themeLabel: string; percentileText?: string },
 ): string {
-  const head = `🔥 BurningBrain · ${opts.dayLabel} · ${completion.mode === 'hot' ? 'Burning' : 'Brain'} · ${opts.themeLabel}`;
+  const head = `🔥 BoilingBrain · ${opts.dayLabel} · ${completion.mode === 'hot' ? 'Boiling' : 'Brain'} · ${opts.themeLabel}`;
   if (completion.mode === 'hot') {
     const row = completion.tiers
       .map((t) => (t === 'miss' ? '⚪' : SHARE_ZONES[t]))

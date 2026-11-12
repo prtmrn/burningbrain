@@ -27,7 +27,7 @@ export default function HomePage() {
   if (!kv)
     return (
       <main className="summary">
-        <h1>🔥 BurningBrain</h1>
+        <h1>🔥 BoilingBrain</h1>
         <p className="muted">Le mercure monte…</p>
       </main>
     );
@@ -50,24 +50,24 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
       <main className="home" data-testid="home">
         <BrainStage heat={0.6} showLabel={false} />
         <h1 className="logo">
-          BURNING<span>BRAIN</span>
+          BOILING<span>BRAIN</span>
         </h1>
         <p className="tagline">Le quiz qui fait bouillir ton cerveau.</p>
 
         <section className="mode-cards">
           <article className="mode-card hot">
-            <h2>🔥 Burning</h2>
+            <h2>🔥 Boiling</h2>
             <p>Une seule réponse par question : plus elle est rare, plus ton cerveau brûle.</p>
             {hotStatus === 'played' ? (
               <button type="button" className="big" disabled data-testid="play-hot-disabled">
                 Partie du jour jouée
               </button>
             ) : (
-              <Link href="/burning/daily" data-testid="play-hot">
+              <Link href="/boiling/daily" data-testid="play-hot">
                 <button type="button" className="big">▶ Partie du jour · Jour {day}</button>
               </Link>
             )}
-            <Link href="/burning/play" data-testid="play-hot-unlimited">
+            <Link href="/boiling/play" data-testid="play-hot-unlimited">
               <button type="button" className="big secondary">Partie Classique</button>
             </Link>
           </article>

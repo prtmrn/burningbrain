@@ -35,12 +35,12 @@ export default function ThemesPage() {
       <Embers heat={0.3} />
       <main className="summary" data-testid="themes">
         <h1>Choisis ton thème</h1>
-        <p className="muted">Parties classiques, en mode Burning ou Brain.</p>
+        <p className="muted">Parties classiques, en mode Boiling ou Brain.</p>
         <div className="theme-grid">
           {THEMES.map((t) => {
             const n = available?.[t.id];
             const ready = n !== undefined && n >= 7;
-            const hotHref = t.id === 'general' ? '/burning/play' : `/themes/${t.id}`;
+            const hotHref = t.id === 'general' ? '/boiling/play' : `/themes/${t.id}`;
             const brainHref = t.id === 'general' ? '/brain/play' : `/themes/${t.id}/brain`;
             return (
               <div
@@ -55,7 +55,7 @@ export default function ThemesPage() {
                 <span className="muted">{ready ? `${n} questions` : available === null ? '…' : 'Bientôt'}</span>
                 {ready && (
                   <span className="theme-actions">
-                    <Link href={hotHref}><button type="button">🔥 Burning</button></Link>
+                    <Link href={hotHref}><button type="button">🔥 Boiling</button></Link>
                     <Link href={brainHref}><button type="button" className="secondary">🧠 Brain</button></Link>
                   </span>
                 )}

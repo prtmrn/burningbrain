@@ -144,7 +144,7 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
     };
   }, [theme.id, theme.label]);
 
-  const modeLabel = mode === 'hot' ? 'Burning' : 'Brain';
+  const modeLabel = mode === 'hot' ? 'Boiling' : 'Brain';
   if (error || !bank) {
     return (
       <>
@@ -170,7 +170,7 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
             <p data-testid="reset-countdown">{resetLabel(nowWall)}</p>
             <p>Meilleure température : {getStats(kv, today).bestScore} °C</p>
             <p>
-              <a href={mode === 'hot' ? '/burning/play' : '/brain/play'}>
+              <a href={mode === 'hot' ? '/boiling/play' : '/brain/play'}>
                 <button type="button" className="big">Partie Classique</button>
               </a>
             </p>
