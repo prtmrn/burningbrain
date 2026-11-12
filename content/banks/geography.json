@@ -328,6 +328,81 @@
       "text": "Nomme une commune française dont le nom commence par « Saint- » ou « Sainte- »"
     },
     {
+      "id": "geo-reliefs-01",
+      "theme": "geography",
+      "text": "Nomme une île de l'océan Pacifique"
+    },
+    {
+      "id": "geo-reliefs-02",
+      "theme": "geography",
+      "text": "Nomme un parc national des États-Unis"
+    },
+    {
+      "id": "geo-reliefs-03",
+      "theme": "geography",
+      "text": "Nomme un lac d'Europe"
+    },
+    {
+      "id": "geo-reliefs-04",
+      "theme": "geography",
+      "text": "Nomme un parc national ou une réserve naturelle d'Afrique"
+    },
+    {
+      "id": "geo-reliefs-05",
+      "theme": "geography",
+      "text": "Nomme un monument ou un site célèbre d'Italie"
+    },
+    {
+      "id": "geo-reliefs-06",
+      "theme": "geography",
+      "text": "Nomme un temple, une mosquée ou un lieu de culte célèbre (hors églises et cathédrales)"
+    },
+    {
+      "id": "geo-reliefs-07",
+      "theme": "geography",
+      "text": "Nomme une tour ou un gratte-ciel célèbre dans le monde"
+    },
+    {
+      "id": "geo-reliefs-08",
+      "theme": "geography",
+      "text": "Nomme un musée célèbre dans le monde"
+    },
+    {
+      "id": "geo-reliefs-09",
+      "theme": "geography",
+      "text": "Nomme un jardin ou un parc urbain célèbre dans le monde"
+    },
+    {
+      "id": "geo-reliefs-10",
+      "theme": "geography",
+      "text": "Nomme un monument, un temple ou un site célèbre d'Égypte"
+    },
+    {
+      "id": "geo-reliefs-11",
+      "theme": "geography",
+      "text": "Nomme un monument ou un site célèbre d'Espagne"
+    },
+    {
+      "id": "geo-reliefs-12",
+      "theme": "geography",
+      "text": "Nomme un monument ou un site célèbre des États-Unis"
+    },
+    {
+      "id": "geo-reliefs-13",
+      "theme": "geography",
+      "text": "Nomme un monument ou un site célèbre d'Amérique latine"
+    },
+    {
+      "id": "geo-reliefs-14",
+      "theme": "geography",
+      "text": "Nomme un monument, un musée ou un lieu célèbre de Londres"
+    },
+    {
+      "id": "geo-reliefs-15",
+      "theme": "geography",
+      "text": "Nomme une cathédrale célèbre dans le monde"
+    },
+    {
       "id": "geo-villes-01",
       "theme": "geography",
       "text": "Nomme une ville d'Italie"
@@ -21559,6 +21634,8296 @@
         },
         {
           "answer": "Sainte-Luce-sur-Loire",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-01": {
+      "promptId": "geo-reliefs-01",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Hawaï",
+          "tier": "t1",
+          "aliases": [
+            "Hawaii",
+            "Big Island"
+          ]
+        },
+        {
+          "answer": "Bora-Bora",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Île de Pâques",
+          "tier": "t1",
+          "aliases": [
+            "Rapa Nui",
+            "Pâques"
+          ]
+        },
+        {
+          "answer": "Nouvelle-Calédonie",
+          "tier": "t1",
+          "aliases": [
+            "Grande Terre"
+          ]
+        },
+        {
+          "answer": "Moorea",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Oahu",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Maui",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Guam",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Tahiti",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Pitcairn",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Viti Levu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vanua Levu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Raiatea",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Huahine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tahaa",
+          "tier": "t3",
+          "aliases": [
+            "Taha'a"
+          ]
+        },
+        {
+          "answer": "Maupiti",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nuku Hiva",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hiva Oa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kauai",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Molokai",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lanai",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Upolu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Savai'i",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tongatapu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Espiritu Santo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Efate",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tanna",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lifou",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Maré",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ouvéa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Île des Pins",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Rarotonga",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Aitutaki",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Île du Nord",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Île du Sud",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vancouver",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Honshu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hokkaido",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kyushu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Shikoku",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Taïwan",
+          "tier": "t3",
+          "aliases": [
+            "Formose"
+          ]
+        },
+        {
+          "answer": "Luzon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mindanao",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Isabela",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Santa Cruz",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "San Cristóbal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Floreana",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nouvelle-Guinée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guadalcanal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bougainville",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Okinawa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sakhaline",
+          "tier": "t3",
+          "aliases": [
+            "Sakhalin"
+          ]
+        },
+        {
+          "answer": "Kodiak",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chiloé",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Wallis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Futuna",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fatu Hiva",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ua Pou",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tetiaroa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Saipan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tinian",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rota",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pohnpei",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chuuk",
+          "tier": "t4",
+          "aliases": [
+            "Truk"
+          ]
+        },
+        {
+          "answer": "Yap",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kosrae",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tarawa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nauru",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Niue",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rurutu",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rapa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mangareva",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Norfolk",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lord Howe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chatham",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Stewart",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Waiheke",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nouvelle-Bretagne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nouvelle-Irlande",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Malaita",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Haida Gwaii",
+          "tier": "t4",
+          "aliases": [
+            "Îles de la Reine-Charlotte"
+          ]
+        },
+        {
+          "answer": "Juan Fernández",
+          "tier": "t4",
+          "aliases": [
+            "Robinson Crusoé"
+          ]
+        },
+        {
+          "answer": "Clipperton",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Iwo Jima",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Midway",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wake",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kwajalein",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rangiroa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fakarava",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tikehau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Makatea",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Babeldaob",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Koror",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Aneityum",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ambrym",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pentecôte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Malekula",
+          "tier": "t4",
+          "aliases": [
+            "Mallicolo"
+          ]
+        },
+        {
+          "answer": "Tubuai",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Raivavae",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kapiti",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bikini",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Eniwetok",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tikopia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Niihau",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kahoolawe",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Isla del Coco",
+          "tier": "t5",
+          "aliases": [
+            "Île Cocos"
+          ]
+        },
+        {
+          "answer": "Malpelo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sala y Gómez",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Santa Isabel",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Choiseul",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Rennell",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Fakaofo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Funafuti",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Taveuni",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kadavu",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Rabi",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-02": {
+      "promptId": "geo-reliefs-02",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Grand Canyon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Yosemite",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Zion",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Arches",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Everglades",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Death Valley",
+          "tier": "t1",
+          "aliases": [
+            "Vallée de la Mort"
+          ]
+        },
+        {
+          "answer": "Bryce Canyon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Yellowstone",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Dry Tortugas",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Glacier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Grand Teton",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Great Smoky Mountains",
+          "tier": "t3",
+          "aliases": [
+            "Smoky Mountains"
+          ]
+        },
+        {
+          "answer": "Joshua Tree",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sequoia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Rocky Mountain",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Acadia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Canyonlands",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Olympic",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Denali",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Badlands",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Carlsbad Caverns",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mount Rainier",
+          "tier": "t3",
+          "aliases": [
+            "Rainier"
+          ]
+        },
+        {
+          "answer": "Redwood",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Crater Lake",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mesa Verde",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Capitol Reef",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Haleakala",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Petrified Forest",
+          "tier": "t4",
+          "aliases": [
+            "Forêt pétrifiée"
+          ]
+        },
+        {
+          "answer": "Saguaro",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Big Bend",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Shenandoah",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mammoth Cave",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Channel Islands",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Glacier Bay",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Katmai",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kings Canyon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hawaï Volcanoes",
+          "tier": "t4",
+          "aliases": [
+            "Volcans d'Hawaï"
+          ]
+        },
+        {
+          "answer": "Lassen Volcanic",
+          "tier": "t4",
+          "aliases": [
+            "Lassen"
+          ]
+        },
+        {
+          "answer": "Voyageurs",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Biscayne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Great Sand Dunes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "White Sands",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Black Canyon of the Gunnison",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Great Basin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kenai Fjords",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wrangell-St. Elias",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "North Cascades",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guadalupe Mountains",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Theodore Roosevelt",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wind Cave",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Isle Royale",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Congaree",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hot Springs",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pinnacles",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Indiana Dunes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cuyahoga Valley",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gateway Arch",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "New River Gorge",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Virgin Islands",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Samoa américaine",
+          "tier": "t5",
+          "aliases": [
+            "American Samoa"
+          ]
+        },
+        {
+          "answer": "Gates of the Arctic",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lake Clark",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kobuk Valley",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-03": {
+      "promptId": "geo-reliefs-03",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Lac de Constance",
+          "tier": "t1",
+          "aliases": [
+            "Bodensee"
+          ]
+        },
+        {
+          "answer": "Lac de Garde",
+          "tier": "t1",
+          "aliases": [
+            "Garda"
+          ]
+        },
+        {
+          "answer": "Lac Majeur",
+          "tier": "t1",
+          "aliases": [
+            "Lago Maggiore"
+          ]
+        },
+        {
+          "answer": "Lac de Côme",
+          "tier": "t1",
+          "aliases": [
+            "Lago di Como"
+          ]
+        },
+        {
+          "answer": "Lac d'Annecy",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Lac du Bourget",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Loch Ness",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Balaton",
+          "tier": "t1",
+          "aliases": [
+            "Balaton"
+          ]
+        },
+        {
+          "answer": "Lac Léman",
+          "tier": "t2",
+          "aliases": [
+            "Léman",
+            "Lac de Genève"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Lac Nemi",
+          "tier": "t6",
+          "aliases": [
+            "Lac de Nemi"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Lac de Lugano",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Ladoga",
+          "tier": "t3",
+          "aliases": [
+            "Ladoga"
+          ]
+        },
+        {
+          "answer": "Lac Onega",
+          "tier": "t3",
+          "aliases": [
+            "Onega"
+          ]
+        },
+        {
+          "answer": "Lac d'Ohrid",
+          "tier": "t3",
+          "aliases": [
+            "Ohrid"
+          ]
+        },
+        {
+          "answer": "Lac de Neuchâtel",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Zurich",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac des Quatre-Cantons",
+          "tier": "t3",
+          "aliases": [
+            "Lac de Lucerne"
+          ]
+        },
+        {
+          "answer": "Lac de Thoune",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac d'Iseo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Trasimène",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Bolsena",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vänern",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vättern",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mälaren",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Peïpous",
+          "tier": "t3",
+          "aliases": [
+            "Peipsi"
+          ]
+        },
+        {
+          "answer": "Loch Lomond",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Windermere",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac d'Aiguebelette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Serre-Ponçon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac du Der",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac d'Orta",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Brienz",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Bled",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Neusiedl",
+          "tier": "t3",
+          "aliases": [
+            "Neusiedler See"
+          ]
+        },
+        {
+          "answer": "Chiemsee",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Starnberger See",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Müritz",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Paladru",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Nantua",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Grand-Lieu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Vassivière",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Guerlédan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Gérardmer",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Saimaa",
+          "tier": "t3",
+          "aliases": [
+            "Saimaa"
+          ]
+        },
+        {
+          "answer": "Lac Inari",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Joux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Bienne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Morat",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Zoug",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Walenstadt",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Skadar",
+          "tier": "t4",
+          "aliases": [
+            "Lac de Scutari"
+          ]
+        },
+        {
+          "answer": "Lac Prespa",
+          "tier": "t4",
+          "aliases": [
+            "Prespa"
+          ]
+        },
+        {
+          "answer": "Lough Neagh",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lough Corrib",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lough Derg",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Loch Katrine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Loch Awe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Loch Tay",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Loch Leven",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ullswater",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Derwentwater",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Coniston Water",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mjøsa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Bohinj",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lacs de Plitvice",
+          "tier": "t4",
+          "aliases": [
+            "Plitvice"
+          ]
+        },
+        {
+          "answer": "Lac Ilmen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Päijänne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mývatn",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Þingvallavatn",
+          "tier": "t4",
+          "aliases": [
+            "Thingvallavatn"
+          ]
+        },
+        {
+          "answer": "Wörthersee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Attersee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wolfgangsee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Traunsee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mondsee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hallstätter See",
+          "tier": "t4",
+          "aliases": [
+            "Lac de Hallstatt"
+          ]
+        },
+        {
+          "answer": "Zeller See",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Königssee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Titisee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ammersee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Śniardwy",
+          "tier": "t4",
+          "aliases": [
+            "Sniardwy"
+          ]
+        },
+        {
+          "answer": "Lac de Sainte-Croix",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Chalain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Vouglans",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Pavin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac d'Aydat",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Roselend",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac d'Allos",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Madine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Pareloup",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Sanguinet",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Biscarrosse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Lacanau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Montbel",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Braies",
+          "tier": "t4",
+          "aliases": [
+            "Pragser Wildsee"
+          ]
+        },
+        {
+          "answer": "Lac de Carezza",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Sempach",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Greifensee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Albano",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Bracciano",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Varano",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Pskov",
+          "tier": "t5",
+          "aliases": [
+            "Lac de Pskov"
+          ]
+        },
+        {
+          "answer": "Lac Seliger",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Beloye",
+          "tier": "t5",
+          "aliases": [
+            "Beloozero"
+          ]
+        },
+        {
+          "answer": "Lac Velence",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Pamvotis",
+          "tier": "t5",
+          "aliases": [
+            "Lac de Ioannina"
+          ]
+        },
+        {
+          "answer": "Lac Kerkini",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Trichonida",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Oeschinen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac d'Hallwil",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Silvaplana",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Sils",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Resia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Molveno",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac d'Idro",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Viverone",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Vico",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Lesina",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Mergozzo",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-04": {
+      "promptId": "geo-reliefs-04",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Kruger",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Masai Mara",
+          "tier": "t1",
+          "aliases": [
+            "Maasai Mara"
+          ]
+        },
+        {
+          "answer": "Ngorongoro",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Etosha",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Okavango",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Amboseli",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Tsavo",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Kilimandjaro",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Serengeti",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Olduvai",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Chobe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hwange",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Virunga",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bwindi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parc des Volcans",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Queen Elizabeth",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Murchison Falls",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kidepo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lake Nakuru",
+          "tier": "t3",
+          "aliases": [
+            "Nakuru"
+          ]
+        },
+        {
+          "answer": "Lake Manyara",
+          "tier": "t3",
+          "aliases": [
+            "Manyara"
+          ]
+        },
+        {
+          "answer": "Tarangire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Selous",
+          "tier": "t3",
+          "aliases": [
+            "Nyerere"
+          ]
+        },
+        {
+          "answer": "Ruaha",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mikumi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Samburu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Meru",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Aberdare",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Addo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kgalagadi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Table Mountain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "iSimangaliso",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kafue",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "South Luangwa",
+          "tier": "t4",
+          "aliases": [
+            "Luangwa"
+          ]
+        },
+        {
+          "answer": "Gorongosa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Limpopo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pendjari",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Waza",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dzanga-Sangha",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lopé",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Loango",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Odzala",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Garamba",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mole",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kakum",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Niokolo-Koba",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Djoudj",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Banc d'Arguin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Namib-Naukluft",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Skeleton Coast",
+          "tier": "t4",
+          "aliases": [
+            "Côte des Squelettes"
+          ]
+        },
+        {
+          "answer": "Sossusvlei",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Simien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Awash",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Omo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ranomafana",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Andasibe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tsingy de Bemaraha",
+          "tier": "t4",
+          "aliases": [
+            "Tsingy"
+          ]
+        },
+        {
+          "answer": "Tassili n'Ajjer",
+          "tier": "t4",
+          "aliases": [
+            "Tassili"
+          ]
+        },
+        {
+          "answer": "Ahaggar",
+          "tier": "t4",
+          "aliases": [
+            "Hoggar"
+          ]
+        },
+        {
+          "answer": "Kalahari",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hluhluwe-iMfolozi",
+          "tier": "t4",
+          "aliases": [
+            "Hluhluwe"
+          ]
+        },
+        {
+          "answer": "Pilanesberg",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Moremi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mana Pools",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Victoria Falls",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Matobo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nyungwe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Akagera",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gombe",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mahale",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Katavi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tai",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Comoé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "W du Niger",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Zakouma",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ennedi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Aïr et Ténéré",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Malawi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Liwonde",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Nxai Pan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Makgadikgadi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Savuti",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mkomazi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Saadani",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ol Pejeta",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Laikipia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lewa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hell's Gate",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Nairobi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mount Kenya",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Rwenzori",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mgahinga",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Semuliki",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ivindo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Minkébé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Conkouati",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Salonga",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kahuzi-Biega",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Maiko",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Manovo-Gounda St Floris",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bamingui-Bangoran",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Boucle du Baoulé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gambella",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bale Mountains",
+          "tier": "t5",
+          "aliases": [
+            "Bale"
+          ]
+        },
+        {
+          "answer": "Abijatta-Shalla",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Turkana",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sine-Saloum",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Langue de Barbarie",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-05": {
+      "promptId": "geo-reliefs-05",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Tour de Pise",
+          "tier": "t1",
+          "aliases": [
+            "Tour penchée de Pise"
+          ]
+        },
+        {
+          "answer": "Fontaine de Trevi",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Vatican",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Basilique Saint-Pierre",
+          "tier": "t1",
+          "aliases": [
+            "Saint-Pierre de Rome"
+          ]
+        },
+        {
+          "answer": "Chapelle Sixtine",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Pompéi",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Pont des Soupirs",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Place Saint-Marc",
+          "tier": "t1",
+          "aliases": [
+            "Piazza San Marco"
+          ]
+        },
+        {
+          "answer": "Colisée",
+          "tier": "t2",
+          "aliases": [
+            "Colosseum"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Catacombes des Capucins",
+          "tier": "t6",
+          "aliases": [
+            "Cimetière des Capucins"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Panthéon de Rome",
+          "tier": "t3",
+          "aliases": [
+            "Panthéon"
+          ]
+        },
+        {
+          "answer": "Forum romain",
+          "tier": "t3",
+          "aliases": [
+            "Forum"
+          ]
+        },
+        {
+          "answer": "Palatin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Place d'Espagne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pont du Rialto",
+          "tier": "t3",
+          "aliases": [
+            "Rialto"
+          ]
+        },
+        {
+          "answer": "Palais des Doges",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Duomo de Florence",
+          "tier": "t3",
+          "aliases": [
+            "Santa Maria del Fiore"
+          ]
+        },
+        {
+          "answer": "Ponte Vecchio",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Galerie des Offices",
+          "tier": "t3",
+          "aliases": [
+            "Offices",
+            "Uffizi"
+          ]
+        },
+        {
+          "answer": "Duomo de Milan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Scala de Milan",
+          "tier": "t3",
+          "aliases": [
+            "La Scala"
+          ]
+        },
+        {
+          "answer": "Cinque Terre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Côte amalfitaine",
+          "tier": "t3",
+          "aliases": [
+            "Amalfi"
+          ]
+        },
+        {
+          "answer": "Capri",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vésuve",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Etna",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Piazza del Campo",
+          "tier": "t3",
+          "aliases": [
+            "Place du Campo"
+          ]
+        },
+        {
+          "answer": "Château Saint-Ange",
+          "tier": "t3",
+          "aliases": [
+            "Mausolée d'Hadrien"
+          ]
+        },
+        {
+          "answer": "Catacombes de Rome",
+          "tier": "t3",
+          "aliases": [
+            "Catacombes"
+          ]
+        },
+        {
+          "answer": "Place Navone",
+          "tier": "t3",
+          "aliases": [
+            "Piazza Navona"
+          ]
+        },
+        {
+          "answer": "Arène de Vérone",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Maison de Juliette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Burano",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Murano",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Grand Canal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Colonne Trajane",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Arc de Constantin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Thermes de Caracalla",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cirque Maxime",
+          "tier": "t3",
+          "aliases": [
+            "Circus Maximus"
+          ]
+        },
+        {
+          "answer": "Villa Borghèse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Villa d'Este",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Villa Adriana",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Herculanum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ostie antique",
+          "tier": "t3",
+          "aliases": [
+            "Ostie"
+          ]
+        },
+        {
+          "answer": "Paestum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vallée des Temples",
+          "tier": "t3",
+          "aliases": [
+            "Agrigente"
+          ]
+        },
+        {
+          "answer": "Alberobello",
+          "tier": "t3",
+          "aliases": [
+            "Trulli"
+          ]
+        },
+        {
+          "answer": "Matera",
+          "tier": "t3",
+          "aliases": [
+            "Sassi de Matera"
+          ]
+        },
+        {
+          "answer": "Assise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "San Gimignano",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Baptistère de Florence",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Campanile de Giotto",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Palazzo Pitti",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Palazzo Vecchio",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Place de la Seigneurie",
+          "tier": "t3",
+          "aliases": [
+            "Piazza della Signoria"
+          ]
+        },
+        {
+          "answer": "Piazzale Michelangelo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Galerie de l'Académie de Florence",
+          "tier": "t3",
+          "aliases": [
+            "Académie de Florence"
+          ]
+        },
+        {
+          "answer": "Capitole",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bocca della Verità",
+          "tier": "t3",
+          "aliases": [
+            "Bouche de la Vérité"
+          ]
+        },
+        {
+          "answer": "Via Appia",
+          "tier": "t3",
+          "aliases": [
+            "Voie Appienne"
+          ]
+        },
+        {
+          "answer": "Arc de Titus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ara Pacis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dolomites",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Stromboli",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pyramide de Cestius",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sainte-Marie-Majeure",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Jean-de-Latran",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Quirinal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mont-Cassin",
+          "tier": "t4",
+          "aliases": [
+            "Monte Cassino"
+          ]
+        },
+        {
+          "answer": "Monreale",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chapelle Palatine de Palerme",
+          "tier": "t4",
+          "aliases": [
+            "Chapelle Palatine"
+          ]
+        },
+        {
+          "answer": "Segeste",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Théâtre grec de Taormine",
+          "tier": "t4",
+          "aliases": [
+            "Taormine"
+          ]
+        },
+        {
+          "answer": "Castel del Monte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ravenne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chapelle des Scrovegni",
+          "tier": "t4",
+          "aliases": [
+            "Scrovegni"
+          ]
+        },
+        {
+          "answer": "Palais ducal d'Urbino",
+          "tier": "t4",
+          "aliases": [
+            "Urbino"
+          ]
+        },
+        {
+          "answer": "Palais royal de Caserte",
+          "tier": "t4",
+          "aliases": [
+            "Caserte"
+          ]
+        },
+        {
+          "answer": "Maschio Angioino",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Théâtre San Carlo",
+          "tier": "t4",
+          "aliases": [
+            "San Carlo"
+          ]
+        },
+        {
+          "answer": "Galerie Umberto Ier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Solfatara",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grotte d'Azur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Faraglioni",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Villa Jovis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Îles Éoliennes",
+          "tier": "t4",
+          "aliases": [
+            "Éoliennes"
+          ]
+        },
+        {
+          "answer": "Tre Cime di Lavaredo",
+          "tier": "t4",
+          "aliases": [
+            "Tre Cime"
+          ]
+        },
+        {
+          "answer": "Lac de Braies",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Deux Tours de Bologne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sabbioneta",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cefalù",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Val di Noto",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Selinonte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Château des Sforza",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Galerie Vittorio Emanuele II",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Galleria Borghese",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Basilique San Vitale",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Église Santa Maria della Salute",
+          "tier": "t5",
+          "aliases": [
+            "Salute"
+          ]
+        },
+        {
+          "answer": "Ghetto de Venise",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Campo de' Fiori",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Villa Médicis",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Palais Farnèse",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Stade olympique de Rome",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Via dei Fori Imperiali",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac d'Averne",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-06": {
+      "promptId": "geo-reliefs-06",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Mosquée bleue",
+          "tier": "t1",
+          "aliases": [
+            "Mosquée du Sultan Ahmed"
+          ]
+        },
+        {
+          "answer": "Sainte-Sophie",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Kaaba",
+          "tier": "t1",
+          "aliases": [
+            "Masjid al-Haram"
+          ]
+        },
+        {
+          "answer": "Dôme du Rocher",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Mur des Lamentations",
+          "tier": "t1",
+          "aliases": [
+            "Mur occidental"
+          ]
+        },
+        {
+          "answer": "Temple d'Or",
+          "tier": "t1",
+          "aliases": [
+            "Harmandir Sahib"
+          ]
+        },
+        {
+          "answer": "Parthénon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Borobudur",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Angkor Vat",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Temple des rats de Karni Mata",
+          "tier": "t6",
+          "aliases": [
+            "Karni Mata"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Mosquée Al-Aqsa",
+          "tier": "t3",
+          "aliases": [
+            "Al-Aqsa"
+          ]
+        },
+        {
+          "answer": "Shwedagon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Potala",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Wat Arun",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Wat Pho",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bayon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Prambanan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pashupatinath",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Temple du Lotus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Akshardham",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Meenakshi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Brihadisvara",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Konârak",
+          "tier": "t3",
+          "aliases": [
+            "Konark"
+          ]
+        },
+        {
+          "answer": "Khajuraho",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Senso-ji",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fushimi Inari",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kinkaku-ji",
+          "tier": "t3",
+          "aliases": [
+            "Pavillon d'Or"
+          ]
+        },
+        {
+          "answer": "Todai-ji",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Itsukushima",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sanctuaire d'Ise",
+          "tier": "t3",
+          "aliases": [
+            "Ise"
+          ]
+        },
+        {
+          "answer": "Sanctuaire Meiji",
+          "tier": "t3",
+          "aliases": [
+            "Meiji-jingu"
+          ]
+        },
+        {
+          "answer": "Temple du Ciel",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Shaolin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mezquita de Cordoue",
+          "tier": "t3",
+          "aliases": [
+            "Mosquée de Cordoue",
+            "Mezquita"
+          ]
+        },
+        {
+          "answer": "Mosquée Hassan II",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Qarawiyyin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Koutoubia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Grande Mosquée de Kairouan",
+          "tier": "t3",
+          "aliases": [
+            "Kairouan"
+          ]
+        },
+        {
+          "answer": "Grande Mosquée de Djenné",
+          "tier": "t3",
+          "aliases": [
+            "Djenné"
+          ]
+        },
+        {
+          "answer": "Al-Azhar",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée Sultan Hassan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Grande Mosquée Cheikh Zayed",
+          "tier": "t3",
+          "aliases": [
+            "Mosquée Cheikh Zayed"
+          ]
+        },
+        {
+          "answer": "Süleymaniye",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Selimiye",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jama Masjid",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Badshahi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée du Prophète",
+          "tier": "t3",
+          "aliases": [
+            "Mosquée al-Nabawi"
+          ]
+        },
+        {
+          "answer": "Mosquée du Shah",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Karnak",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Louxor",
+          "tier": "t3",
+          "aliases": [
+            "Louxor"
+          ]
+        },
+        {
+          "answer": "Abou Simbel",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Philae",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Delphes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Zeus Olympien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Érechthéion",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Poséidon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Temple d'Hatchepsout",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Edfou",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kom Ombo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dendérah",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Baalbek",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Bel",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lalibela",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bagan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hampi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tirupati",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Wat Phra Kaew",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Wat Rong Khun",
+          "tier": "t3",
+          "aliases": [
+            "Temple blanc"
+          ]
+        },
+        {
+          "answer": "Jokhang",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Besakih",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tanah Lot",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Uluwatu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bouddha de Leshan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grottes de Longmen",
+          "tier": "t4",
+          "aliases": [
+            "Longmen"
+          ]
+        },
+        {
+          "answer": "Grottes de Yungang",
+          "tier": "t4",
+          "aliases": [
+            "Yungang"
+          ]
+        },
+        {
+          "answer": "Grottes de Mogao",
+          "tier": "t4",
+          "aliases": [
+            "Mogao"
+          ]
+        },
+        {
+          "answer": "Mosquée Faisal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Minaret de Samarra",
+          "tier": "t4",
+          "aliases": [
+            "Grande Mosquée de Samarra"
+          ]
+        },
+        {
+          "answer": "Grande Mosquée de Damas",
+          "tier": "t4",
+          "aliases": [
+            "Mosquée des Omeyyades"
+          ]
+        },
+        {
+          "answer": "Mosquée de l'imam Reza",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée Sheikh Lotfollah",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kailasa",
+          "tier": "t4",
+          "aliases": [
+            "Temple de Kailasa"
+          ]
+        },
+        {
+          "answer": "Temple de la Dent",
+          "tier": "t4",
+          "aliases": [
+            "Sri Dalada Maligawa"
+          ]
+        },
+        {
+          "answer": "Mahabodhi",
+          "tier": "t4",
+          "aliases": [
+            "Bodh Gaya"
+          ]
+        },
+        {
+          "answer": "Sarnath",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sanchi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ajanta",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ellora",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jagannath",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Somnath",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dilwara",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ranakpur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Toshogu",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Horyu-ji",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kiyomizu-dera",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ryoan-ji",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Yasukuni",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tashilhunpo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Batu Caves",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée Istiqlal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ramesseum",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Medinet Habou",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Colosses de Memnon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grande Mosquée d'Alger",
+          "tier": "t4",
+          "aliases": [
+            "Djamaâ el Djazaïr"
+          ]
+        },
+        {
+          "answer": "Mosquée de Sankoré",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grande Mosquée de Kano",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Kalabsha",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Garni",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dambulla",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Abydos",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée Sidi Okba",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-07": {
+      "promptId": "geo-reliefs-07",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Tour Eiffel",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Empire State Building",
+          "tier": "t1",
+          "aliases": [
+            "Empire State"
+          ]
+        },
+        {
+          "answer": "Taipei 101",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Tours Petronas",
+          "tier": "t1",
+          "aliases": [
+            "Petronas"
+          ]
+        },
+        {
+          "answer": "CN Tower",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Shanghai Tower",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "One World Trade Center",
+          "tier": "t1",
+          "aliases": [
+            "Freedom Tower"
+          ]
+        },
+        {
+          "answer": "Tour Montparnasse",
+          "tier": "t1",
+          "aliases": [
+            "Montparnasse"
+          ]
+        },
+        {
+          "answer": "Chrysler Building",
+          "tier": "t1",
+          "aliases": [
+            "Chrysler"
+          ]
+        },
+        {
+          "answer": "Burj Khalifa",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Ryugyong",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Willis Tower",
+          "tier": "t3",
+          "aliases": [
+            "Sears Tower"
+          ]
+        },
+        {
+          "answer": "Tokyo Skytree",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tokyo Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Space Needle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour de la Perle orientale",
+          "tier": "t3",
+          "aliases": [
+            "Oriental Pearl Tower"
+          ]
+        },
+        {
+          "answer": "Lotte World Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Makkah Royal Clock Tower",
+          "tier": "t3",
+          "aliases": [
+            "Abraj Al-Bait"
+          ]
+        },
+        {
+          "answer": "Burj Al Arab",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "The Shard",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "The Gherkin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour First",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour CMA CGM",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour Total",
+          "tier": "t3",
+          "aliases": [
+            "Tour Coupole"
+          ]
+        },
+        {
+          "answer": "Jin Mao",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Shanghai World Financial Center",
+          "tier": "t3",
+          "aliases": [
+            "Décapsuleur"
+          ]
+        },
+        {
+          "answer": "Canton Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ping An Finance Center",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lakhta Center",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ostankino",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fernsehturm de Berlin",
+          "tier": "t3",
+          "aliases": [
+            "Fernsehturm"
+          ]
+        },
+        {
+          "answer": "Torre Glòries",
+          "tier": "t3",
+          "aliases": [
+            "Torre Agbar"
+          ]
+        },
+        {
+          "answer": "Flatiron Building",
+          "tier": "t3",
+          "aliases": [
+            "Flatiron"
+          ]
+        },
+        {
+          "answer": "Woolworth Building",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "John Hancock Center",
+          "tier": "t3",
+          "aliases": [
+            "Hancock Center"
+          ]
+        },
+        {
+          "answer": "Aon Center",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sky Tower d'Auckland",
+          "tier": "t3",
+          "aliases": [
+            "Sky Tower"
+          ]
+        },
+        {
+          "answer": "Stratosphere Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Milad Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kingdom Centre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour Saint-Jacques",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour de Pise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour de Belém",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour Hassan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Giralda",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour de Galata",
+          "tier": "t3",
+          "aliases": [
+            "Galata"
+          ]
+        },
+        {
+          "answer": "Tour Part-Dieu",
+          "tier": "t3",
+          "aliases": [
+            "Crayon"
+          ]
+        },
+        {
+          "answer": "Tour Incity",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour Majunga",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour Hekla",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour Sequana",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour Phare",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tour Triangle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Walkie-Talkie",
+          "tier": "t3",
+          "aliases": [
+            "20 Fenchurch Street"
+          ]
+        },
+        {
+          "answer": "Cheesegrater",
+          "tier": "t3",
+          "aliases": [
+            "Leadenhall Building"
+          ]
+        },
+        {
+          "answer": "Bank of China Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "International Commerce Centre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Transamerica Pyramid",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Salesforce Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hearst Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Trump Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Seagram Building",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lever House",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Rockefeller Center",
+          "tier": "t3",
+          "aliases": [
+            "GE Building"
+          ]
+        },
+        {
+          "answer": "Turning Torso",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Žižkov Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Donauturm",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Olympiaturm",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Rheinturm",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Funkturm",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kuwait Towers",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Azadi Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Federation Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Menara Kuala Lumpur",
+          "tier": "t3",
+          "aliases": [
+            "KL Tower"
+          ]
+        },
+        {
+          "answer": "432 Park Avenue",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "One Vanderbilt",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Central Park Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Steinway Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Citigroup Center",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "US Bank Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Prudential Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tower of the Americas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Capital Gate",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Emirates Towers",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cayan Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Princess Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Marina 101",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Almas Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zifeng Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guangzhou CTF Finance Centre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "KK100",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jeddah Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Etihad Towers",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Landmark 81",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bitexco",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Heron Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Two International Finance Centre",
+          "tier": "t4",
+          "aliases": [
+            "Two IFC"
+          ]
+        },
+        {
+          "answer": "Central Plaza",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cheung Kong Center",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Eureka Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Q1 Tower",
+          "tier": "t4",
+          "aliases": [
+            "Q1"
+          ]
+        },
+        {
+          "answer": "Heinrich-Hertz-Turm",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Burj Rafal",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Wuhan Greenland Center",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-08": {
+      "promptId": "geo-reliefs-08",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Musée d'Orsay",
+          "tier": "t1",
+          "aliases": [
+            "Orsay"
+          ]
+        },
+        {
+          "answer": "Centre Pompidou",
+          "tier": "t1",
+          "aliases": [
+            "Pompidou"
+          ]
+        },
+        {
+          "answer": "British Museum",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Prado",
+          "tier": "t1",
+          "aliases": [
+            "Musée du Prado"
+          ]
+        },
+        {
+          "answer": "Ermitage",
+          "tier": "t1",
+          "aliases": [
+            "Musée de l'Ermitage"
+          ]
+        },
+        {
+          "answer": "Galerie des Offices",
+          "tier": "t1",
+          "aliases": [
+            "Offices",
+            "Uffizi"
+          ]
+        },
+        {
+          "answer": "Rijksmuseum",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "MoMA",
+          "tier": "t1",
+          "aliases": [
+            "Museum of Modern Art"
+          ]
+        },
+        {
+          "answer": "Metropolitan Museum of Art",
+          "tier": "t1",
+          "aliases": [
+            "Met"
+          ]
+        },
+        {
+          "answer": "Louvre",
+          "tier": "t2",
+          "aliases": [
+            "Musée du Louvre"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Musée Mécanique",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Guggenheim de Bilbao",
+          "tier": "t3",
+          "aliases": [
+            "Guggenheim Bilbao"
+          ]
+        },
+        {
+          "answer": "Guggenheim de New York",
+          "tier": "t3",
+          "aliases": [
+            "Guggenheim"
+          ]
+        },
+        {
+          "answer": "Smithsonian",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Getty",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tate Modern",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tate Britain",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "National Gallery",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Victoria and Albert Museum",
+          "tier": "t3",
+          "aliases": [
+            "V&A"
+          ]
+        },
+        {
+          "answer": "Science Museum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Musée de Pergame",
+          "tier": "t3",
+          "aliases": [
+            "Pergamon"
+          ]
+        },
+        {
+          "answer": "Neues Museum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Altes Museum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kunsthistorisches Museum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Belvédère",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Albertina",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zwinger",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Galleria dell'Accademia",
+          "tier": "t3",
+          "aliases": [
+            "Galerie de l'Académie"
+          ]
+        },
+        {
+          "answer": "Musée Reina Sofía",
+          "tier": "t3",
+          "aliases": [
+            "Reina Sofía"
+          ]
+        },
+        {
+          "answer": "Musée Thyssen-Bornemisza",
+          "tier": "t3",
+          "aliases": [
+            "Thyssen"
+          ]
+        },
+        {
+          "answer": "Musées du Vatican",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Musée égyptien du Caire",
+          "tier": "t3",
+          "aliases": [
+            "Musée égyptien"
+          ]
+        },
+        {
+          "answer": "Musée égyptien de Turin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Grand Musée égyptien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Musée de l'Acropole",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Palais de Topkapi",
+          "tier": "t3",
+          "aliases": [
+            "Topkapi"
+          ]
+        },
+        {
+          "answer": "Musée Pouchkine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Galerie Tretiakov",
+          "tier": "t3",
+          "aliases": [
+            "Tretiakov"
+          ]
+        },
+        {
+          "answer": "Musée Rodin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Marmottan Monet",
+          "tier": "t3",
+          "aliases": [
+            "Marmottan"
+          ]
+        },
+        {
+          "answer": "Musée de l'Orangerie",
+          "tier": "t3",
+          "aliases": [
+            "Orangerie"
+          ]
+        },
+        {
+          "answer": "Musée du quai Branly",
+          "tier": "t3",
+          "aliases": [
+            "Quai Branly"
+          ]
+        },
+        {
+          "answer": "Musée de Cluny",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Carnavalet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Guimet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Picasso",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Dalí",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Louvre Abou Dabi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "MuCEM",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fondation Louis Vuitton",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Louvre-Lens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée océanographique de Monaco",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cité des sciences et de l'industrie",
+          "tier": "t4",
+          "aliases": [
+            "Cité des sciences"
+          ]
+        },
+        {
+          "answer": "Musée Grévin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mauritshuis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Stedelijk Museum",
+          "tier": "t4",
+          "aliases": [
+            "Stedelijk"
+          ]
+        },
+        {
+          "answer": "Musée Van Gogh",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Munch",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Vasa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée national de Chine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Art Institute of Chicago",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Field Museum",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "National Gallery of Art",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée de l'Homme",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Fabre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Soulages",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée des Confluences",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mémorial de Caen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée de l'Armée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Jacquemart-André",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée des Arts décoratifs",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Museo Nacional de Antropología",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Museo del Oro",
+          "tier": "t4",
+          "aliases": [
+            "Musée de l'Or"
+          ]
+        },
+        {
+          "answer": "MASP",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Museo Larco",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Magritte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Horta",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Louisiana",
+          "tier": "t4",
+          "aliases": [
+            "Louisiana Museum"
+          ]
+        },
+        {
+          "answer": "Fondation Beyeler",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kunsthaus de Zurich",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Matisse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Chagall",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Unterlinden",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Pompidou-Metz",
+          "tier": "t4",
+          "aliases": [
+            "Centre Pompidou-Metz"
+          ]
+        },
+        {
+          "answer": "Deutsches Museum",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Alte Pinakothek",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Neue Pinakothek",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Städel",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Museum Ludwig",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Folkwang",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Ghibli",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mori Art Museum",
+          "tier": "t5",
+          "aliases": [
+            "Musée Mori"
+          ]
+        },
+        {
+          "answer": "Musée Granet",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Léger",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Condé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Plantin-Moretus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ateneum",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kiasma",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Zentrum Paul Klee",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Musée Soumaya",
+          "tier": "t5",
+          "aliases": [
+            "Soumaya"
+          ]
+        },
+        {
+          "answer": "Institut Lumière",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-09": {
+      "promptId": "geo-reliefs-09",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Jardin du Luxembourg",
+          "tier": "t1",
+          "aliases": [
+            "Luxembourg"
+          ]
+        },
+        {
+          "answer": "Jardin des Tuileries",
+          "tier": "t1",
+          "aliases": [
+            "Tuileries"
+          ]
+        },
+        {
+          "answer": "Hyde Park",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Jardins de Versailles",
+          "tier": "t1",
+          "aliases": [
+            "Parc de Versailles"
+          ]
+        },
+        {
+          "answer": "Bois de Boulogne",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Parc des Buttes-Chaumont",
+          "tier": "t1",
+          "aliases": [
+            "Buttes-Chaumont"
+          ]
+        },
+        {
+          "answer": "Kew Gardens",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Jardins de Giverny",
+          "tier": "t1",
+          "aliases": [
+            "Giverny"
+          ]
+        },
+        {
+          "answer": "Central Park",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "High Line",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Bois de Vincennes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parc du Retiro",
+          "tier": "t3",
+          "aliases": [
+            "Retiro"
+          ]
+        },
+        {
+          "answer": "Tiergarten",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Englischer Garten",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Prater",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Keukenhof",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Butchart Gardens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jardins de Villandry",
+          "tier": "t3",
+          "aliases": [
+            "Villandry"
+          ]
+        },
+        {
+          "answer": "Parc Güell",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Villa Borghèse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jardin de Boboli",
+          "tier": "t3",
+          "aliases": [
+            "Boboli"
+          ]
+        },
+        {
+          "answer": "Golden Gate Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Stanley Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parc du Mont-Royal",
+          "tier": "t3",
+          "aliases": [
+            "Mont-Royal"
+          ]
+        },
+        {
+          "answer": "Ueno",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Shinjuku Gyoen",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kenroku-en",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ritsurin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Gardens by the Bay",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jardin Majorelle",
+          "tier": "t3",
+          "aliases": [
+            "Majorelle"
+          ]
+        },
+        {
+          "answer": "Generalife",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Peterhof",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tsarskoïe Selo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Schönbrunn",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sanssouci",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jardins de Tivoli",
+          "tier": "t3",
+          "aliases": [
+            "Tivoli"
+          ]
+        },
+        {
+          "answer": "Parc Vigeland",
+          "tier": "t3",
+          "aliases": [
+            "Vigeland"
+          ]
+        },
+        {
+          "answer": "Regent's Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "St James's Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Greenwich Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Phoenix Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parc de la Ciutadella",
+          "tier": "t3",
+          "aliases": [
+            "Ciutadella"
+          ]
+        },
+        {
+          "answer": "Parc de la Villette",
+          "tier": "t3",
+          "aliases": [
+            "La Villette"
+          ]
+        },
+        {
+          "answer": "Parc Monceau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parc André-Citroën",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parc de Bercy",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jardin des Plantes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jardin d'Acclimatation",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jardin du Palais-Royal",
+          "tier": "t3",
+          "aliases": [
+            "Palais-Royal"
+          ]
+        },
+        {
+          "answer": "Parc de la Tête d'Or",
+          "tier": "t3",
+          "aliases": [
+            "Tête d'Or"
+          ]
+        },
+        {
+          "answer": "Parc Borély",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jardin du Trocadéro",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Singapore Botanic Gardens",
+          "tier": "t3",
+          "aliases": [
+            "Jardin botanique de Singapour"
+          ]
+        },
+        {
+          "answer": "Chapultepec",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ibirapuera",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kirstenbosch",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hamarikyu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Korakuen",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vondelpark",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jardin exotique de Monaco",
+          "tier": "t3",
+          "aliases": [
+            "Jardin exotique"
+          ]
+        },
+        {
+          "answer": "Jardin Albert-Kahn",
+          "tier": "t3",
+          "aliases": [
+            "Albert-Kahn"
+          ]
+        },
+        {
+          "answer": "Jardins de Marqueyssac",
+          "tier": "t3",
+          "aliases": [
+            "Marqueyssac"
+          ]
+        },
+        {
+          "answer": "Jardins d'Eyrignac",
+          "tier": "t3",
+          "aliases": [
+            "Eyrignac"
+          ]
+        },
+        {
+          "answer": "Parc de Sceaux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parc de Saint-Cloud",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parc de Bagatelle",
+          "tier": "t3",
+          "aliases": [
+            "Bagatelle"
+          ]
+        },
+        {
+          "answer": "Parc du Cinquantenaire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Richmond Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Battersea Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bushy Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Volksgarten",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Burggarten",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Stadtpark",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parc de Montjuïc",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Royal Botanic Gardens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jardins de Het Loo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jardins d'Annevoie",
+          "tier": "t4",
+          "aliases": [
+            "Annevoie"
+          ]
+        },
+        {
+          "answer": "Jardins d'Appeltern",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Parc de Wilhelmshöhe",
+          "tier": "t4",
+          "aliases": [
+            "Bergpark Wilhelmshöhe"
+          ]
+        },
+        {
+          "answer": "Herrenhausen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nymphenburg",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Parc de Pavlovsk",
+          "tier": "t4",
+          "aliases": [
+            "Pavlovsk"
+          ]
+        },
+        {
+          "answer": "Jardins de Villa Lante",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jardins de la Villa d'Este",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jardins de Ninfa",
+          "tier": "t4",
+          "aliases": [
+            "Ninfa"
+          ]
+        },
+        {
+          "answer": "Jardins de Shalimar",
+          "tier": "t4",
+          "aliases": [
+            "Shalimar"
+          ]
+        },
+        {
+          "answer": "Jardins du Lodi",
+          "tier": "t4",
+          "aliases": [
+            "Lodi Garden"
+          ]
+        },
+        {
+          "answer": "Cubbon Park",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lumpini",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Parc Yoyogi",
+          "tier": "t4",
+          "aliases": [
+            "Yoyogi"
+          ]
+        },
+        {
+          "answer": "Jardin du Pavillon d'Or",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Jardins de Suzhou",
+          "tier": "t5",
+          "aliases": [
+            "Jardins classiques de Suzhou"
+          ]
+        },
+        {
+          "answer": "Humble Administrator's Garden",
+          "tier": "t5",
+          "aliases": [
+            "Jardin de l'Humble Administrateur"
+          ]
+        }
+      ]
+    },
+    "geo-reliefs-10": {
+      "promptId": "geo-reliefs-10",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Sphinx de Gizeh",
+          "tier": "t1",
+          "aliases": [
+            "Sphinx"
+          ]
+        },
+        {
+          "answer": "Pyramide de Khéops",
+          "tier": "t1",
+          "aliases": [
+            "Grande Pyramide"
+          ]
+        },
+        {
+          "answer": "Pyramide de Khéphren",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Pyramide de Mykérinos",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Abou Simbel",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Vallée des Rois",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Karnak",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Louxor",
+          "tier": "t1",
+          "aliases": [
+            "Louxor"
+          ]
+        },
+        {
+          "answer": "Saqqarah",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Philae",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Pyramides de Gizeh",
+          "tier": "t2",
+          "aliases": [
+            "Pyramides"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Vallée des Momies d'Or",
+          "tier": "t6",
+          "aliases": [
+            "Vallée des momies d'or de Bahariya"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Pyramide à degrés de Djoser",
+          "tier": "t3",
+          "aliases": [
+            "Pyramide de Djéser"
+          ]
+        },
+        {
+          "answer": "Dahchour",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pyramide rhomboïdale",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pyramide rouge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Méidoum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vallée des Reines",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Deir el-Bahari",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Temple d'Hatchepsout",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Colosses de Memnon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Medinet Habou",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ramesseum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Edfou",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kom Ombo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dendérah",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Abydos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Assouan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Île Éléphantine",
+          "tier": "t3",
+          "aliases": [
+            "Éléphantine"
+          ]
+        },
+        {
+          "answer": "Haut barrage d'Assouan",
+          "tier": "t3",
+          "aliases": [
+            "Haut barrage"
+          ]
+        },
+        {
+          "answer": "Phare d'Alexandrie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bibliothèque d'Alexandrie",
+          "tier": "t3",
+          "aliases": [
+            "Bibliotheca Alexandrina"
+          ]
+        },
+        {
+          "answer": "Fort Qaitbay",
+          "tier": "t3",
+          "aliases": [
+            "Citadelle de Qaitbay"
+          ]
+        },
+        {
+          "answer": "Oasis de Siwa",
+          "tier": "t3",
+          "aliases": [
+            "Siwa"
+          ]
+        },
+        {
+          "answer": "Mont Sinaï",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Monastère Sainte-Catherine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Khan el-Khalili",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Citadelle de Saladin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée Al-Azhar",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée Sultan Hassan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée d'Ibn Touloun",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée de Mohammed Ali",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Musée égyptien du Caire",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grand Musée égyptien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Place Tahrir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tour du Caire",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Memphis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tell el-Amarna",
+          "tier": "t4",
+          "aliases": [
+            "Amarna"
+          ]
+        },
+        {
+          "answer": "Béni Hassan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tanis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fayoum",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Désert blanc",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wadi el-Hitan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Le Caire copte",
+          "tier": "t4",
+          "aliases": [
+            "Vieux Caire"
+          ]
+        },
+        {
+          "answer": "Église suspendue",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée Al-Hakim",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mosquée Al-Rifai",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Seti Ier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Taposiris Magna",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Catacombes de Kom el-Chougafa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Temple d'Hibis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Kalabsha",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Beit el-Wali",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pyramide d'Ounas",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pyramide de Téti",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sérapéum de Saqqarah",
+          "tier": "t5",
+          "aliases": [
+            "Sérapéum"
+          ]
+        },
+        {
+          "answer": "Pyramide de Sahourê",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Abousir",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Zawyet el-Aryan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hawara",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Illahun",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tounah el-Gebel",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Deir el-Medina",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Montouhotep",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Temple de Khonsou",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Colonne de Pompée",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-11": {
+      "promptId": "geo-reliefs-11",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Alhambra",
+          "tier": "t1",
+          "aliases": [
+            "Alhambra de Grenade"
+          ]
+        },
+        {
+          "answer": "Park Güell",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Casa Batlló",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Casa Milà",
+          "tier": "t1",
+          "aliases": [
+            "La Pedrera"
+          ]
+        },
+        {
+          "answer": "Alcázar de Séville",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Giralda",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Mezquita de Cordoue",
+          "tier": "t1",
+          "aliases": [
+            "Mezquita"
+          ]
+        },
+        {
+          "answer": "Escurial",
+          "tier": "t1",
+          "aliases": [
+            "Monastère de l'Escurial"
+          ]
+        },
+        {
+          "answer": "Guggenheim de Bilbao",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Sagrada Familia",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Caminito del Rey",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Palais royal de Madrid",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Plaza Mayor",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Puerta del Sol",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Parc du Retiro",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fontaine de Cibeles",
+          "tier": "t3",
+          "aliases": [
+            "Cibeles"
+          ]
+        },
+        {
+          "answer": "Puerta de Alcalá",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Musée du Prado",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cathédrale de Saint-Jacques-de-Compostelle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Aqueduc de Ségovie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alcazar de Ségovie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Murailles d'Ávila",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tolède",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Salamanque",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Montserrat",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cité des arts et des sciences de Valence",
+          "tier": "t3",
+          "aliases": [
+            "Cité des arts et des sciences"
+          ]
+        },
+        {
+          "answer": "Oceanogràfic",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "La Rambla",
+          "tier": "t3",
+          "aliases": [
+            "Ramblas"
+          ]
+        },
+        {
+          "answer": "Barri Gòtic",
+          "tier": "t3",
+          "aliases": [
+            "Quartier gothique"
+          ]
+        },
+        {
+          "answer": "Camp Nou",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Stade Santiago-Bernabéu",
+          "tier": "t3",
+          "aliases": [
+            "Bernabéu"
+          ]
+        },
+        {
+          "answer": "Teide",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alcazaba de Malaga",
+          "tier": "t3",
+          "aliases": [
+            "Alcazaba"
+          ]
+        },
+        {
+          "answer": "Medina Azahara",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grottes d'Altamira",
+          "tier": "t4",
+          "aliases": [
+            "Altamira"
+          ]
+        },
+        {
+          "answer": "Casas Colgadas de Cuenca",
+          "tier": "t4",
+          "aliases": [
+            "Maisons suspendues de Cuenca"
+          ]
+        },
+        {
+          "answer": "Monastère de Poblet",
+          "tier": "t4",
+          "aliases": [
+            "Poblet"
+          ]
+        },
+        {
+          "answer": "Théâtre romain de Mérida",
+          "tier": "t4",
+          "aliases": [
+            "Mérida"
+          ]
+        },
+        {
+          "answer": "Italica",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tarragone",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cap Formentor",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Montjuïc",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tibidabo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sitges",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Valle de los Caídos",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Plaza de España de Séville",
+          "tier": "t4",
+          "aliases": [
+            "Plaza de España"
+          ]
+        },
+        {
+          "answer": "Torre del Oro",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Quartier de Santa Cruz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Albaicín",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sacromonte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Generalife",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cathédrale de Palma",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Château de Bellver",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grottes du Drach",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tour d'Hercule",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cap Finisterre",
+          "tier": "t4",
+          "aliases": [
+            "Fisterra"
+          ]
+        },
+        {
+          "answer": "Îles Cíes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Picos de Europa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chemin de Saint-Jacques",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Roncevaux",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cathédrale de Burgos",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cathédrale de Séville",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cathédrale de Tolède",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Alcazar de Tolède",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Casa Vicens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Palau de la Música Catalana",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Puente Nuevo de Ronda",
+          "tier": "t4",
+          "aliases": [
+            "Pont neuf de Ronda"
+          ]
+        },
+        {
+          "answer": "Hôpital de Sant Pau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mirador de San Nicolás",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Torre Glòries",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Monastère de Santa María de Guadalupe",
+          "tier": "t5",
+          "aliases": [
+            "Guadalupe"
+          ]
+        },
+        {
+          "answer": "Monastère de Yuso",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Monastère de Santo Domingo de Silos",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cathédrale de León",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cathédrale d'Oviedo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Santa María del Naranco",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Château de Peñafiel",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Château de Coca",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Château de Loarre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Château de Belmonte",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Alcázar de Jerez",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Alcazaba de Almería",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Alcazaba de Badajoz",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cueva de los Verdes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tabernas",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cabo de Gata",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Parc de Doñana",
+          "tier": "t5",
+          "aliases": [
+            "Doñana"
+          ]
+        },
+        {
+          "answer": "Vallée de Ordesa",
+          "tier": "t5",
+          "aliases": [
+            "Ordesa"
+          ]
+        },
+        {
+          "answer": "Delta de l'Èbre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lac de Banyoles",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sierra Nevada",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-12": {
+      "promptId": "geo-reliefs-12",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Grand Canyon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Mont Rushmore",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Golden Gate Bridge",
+          "tier": "t1",
+          "aliases": [
+            "Golden Gate"
+          ]
+        },
+        {
+          "answer": "Alcatraz",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Hollywood Sign",
+          "tier": "t1",
+          "aliases": [
+            "Panneau Hollywood"
+          ]
+        },
+        {
+          "answer": "Maison-Blanche",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Times Square",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Central Park",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Statue de la Liberté",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Empire State Building",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Cadillac Ranch",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Capitole des États-Unis",
+          "tier": "t3",
+          "aliases": [
+            "Capitole"
+          ]
+        },
+        {
+          "answer": "Lincoln Memorial",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Washington Monument",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jefferson Memorial",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pentagone",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cimetière d'Arlington",
+          "tier": "t3",
+          "aliases": [
+            "Arlington"
+          ]
+        },
+        {
+          "answer": "Vietnam Veterans Memorial",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Gateway Arch",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Space Needle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pearl Harbor",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alamo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kennedy Space Center",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Disneyland",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hoover Dam",
+          "tier": "t3",
+          "aliases": [
+            "Barrage Hoover"
+          ]
+        },
+        {
+          "answer": "Route 66",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Monument Valley",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Devils Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Independence Hall",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Liberty Bell",
+          "tier": "t3",
+          "aliases": [
+            "Cloche de la Liberté"
+          ]
+        },
+        {
+          "answer": "Fort Knox",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Graceland",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cloud Gate",
+          "tier": "t3",
+          "aliases": [
+            "Bean"
+          ]
+        },
+        {
+          "answer": "Willis Tower",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Navy Pier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ellis Island",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cap Canaveral",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Antelope Canyon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Horseshoe Bend",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mesa Verde",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vieux Carré",
+          "tier": "t3",
+          "aliases": [
+            "French Quarter"
+          ]
+        },
+        {
+          "answer": "Bourbon Street",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Beale Street",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hollywood Walk of Fame",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chinese Theatre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Griffith Observatory",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Santa Monica Pier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Venice Beach",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rodeo Drive",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fisherman's Wharf",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lombard Street",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cable cars de San Francisco",
+          "tier": "t4",
+          "aliases": [
+            "Cable cars"
+          ]
+        },
+        {
+          "answer": "Mount Vernon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Monticello",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Plymouth Rock",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Old Faithful",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mont Saint Helens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Diamond Head",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Brooklyn Bridge",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rockefeller Center",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grand Central Terminal",
+          "tier": "t4",
+          "aliases": [
+            "Grand Central"
+          ]
+        },
+        {
+          "answer": "Wall Street",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Broadway",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Niagara Falls",
+          "tier": "t4",
+          "aliases": [
+            "Chutes du Niagara"
+          ]
+        },
+        {
+          "answer": "Chrysler Building",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Flatiron Building",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "High Line",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Coney Island",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ground Zero",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Smithsonian",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Library of Congress",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Biltmore Estate",
+          "tier": "t4",
+          "aliases": [
+            "Biltmore"
+          ]
+        },
+        {
+          "answer": "Winchester Mystery House",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hearst Castle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Las Vegas Strip",
+          "tier": "t4",
+          "aliases": [
+            "Strip"
+          ]
+        },
+        {
+          "answer": "Roswell",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Area 51",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Faneuil Hall",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Freedom Trail",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Fenway Park",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "West Point",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kitty Hawk",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gettysburg",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Valley Forge",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Fort Sumter",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Fort McHenry",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Fort Ticonderoga",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Little Bighorn",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Wounded Knee",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ford's Theatre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "National Mall",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Union Station",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lincoln Center",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Carnegie Hall",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Radio City Music Hall",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Apollo Theater",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Madison Square Garden",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hudson Yards",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Staten Island Ferry",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dakota Building",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "The Cloisters",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bronx Zoo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Yankee Stadium",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Intrepid Museum",
+          "tier": "t5",
+          "aliases": [
+            "Intrepid"
+          ]
+        },
+        {
+          "answer": "Meteor Crater",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Harvard Yard",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-13": {
+      "promptId": "geo-reliefs-13",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Christ Rédempteur",
+          "tier": "t1",
+          "aliases": [
+            "Cristo Redentor"
+          ]
+        },
+        {
+          "answer": "Chichén Itzá",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Pain de Sucre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Copacabana",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Chutes d'Iguazú",
+          "tier": "t1",
+          "aliases": [
+            "Iguazú",
+            "Iguaçu"
+          ]
+        },
+        {
+          "answer": "Salar d'Uyuni",
+          "tier": "t1",
+          "aliases": [
+            "Uyuni"
+          ]
+        },
+        {
+          "answer": "Moaï",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Lignes de Nazca",
+          "tier": "t1",
+          "aliases": [
+            "Nazca"
+          ]
+        },
+        {
+          "answer": "Galápagos",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Machu Picchu",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Route de la Mort",
+          "tier": "t6",
+          "aliases": [
+            "Camino de la Muerte"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Teotihuacan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cuzco",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sacsayhuamán",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lac Titicaca",
+          "tier": "t3",
+          "aliases": [
+            "Titicaca"
+          ]
+        },
+        {
+          "answer": "Tikal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Copán",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Palenque",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tulum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Uxmal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Monte Albán",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cancún",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zócalo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chapultepec",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Casa Azul",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Canyon du Cuivre",
+          "tier": "t3",
+          "aliases": [
+            "Copper Canyon"
+          ]
+        },
+        {
+          "answer": "Cénotes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Salto Ángel",
+          "tier": "t3",
+          "aliases": [
+            "Angel Falls"
+          ]
+        },
+        {
+          "answer": "Perito Moreno",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Torres del Paine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Aconcagua",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Amazonie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pantanal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lençóis Maranhenses",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fernando de Noronha",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ouro Preto",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Maracanã",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sambodrome",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cartagena des Indes",
+          "tier": "t3",
+          "aliases": [
+            "Carthagène des Indes"
+          ]
+        },
+        {
+          "answer": "Désert d'Atacama",
+          "tier": "t3",
+          "aliases": [
+            "Atacama"
+          ]
+        },
+        {
+          "answer": "Vallée de la Lune",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ollantaytambo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pisac",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vallée sacrée des Incas",
+          "tier": "t3",
+          "aliases": [
+            "Vallée sacrée"
+          ]
+        },
+        {
+          "answer": "Canyon de Colca",
+          "tier": "t3",
+          "aliases": [
+            "Colca"
+          ]
+        },
+        {
+          "answer": "Choquequirao",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kuélap",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chan Chan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tiwanaku",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mitad del Mundo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cotopaxi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chimborazo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Palacio Salvo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Colonia del Sacramento",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Obelisco de Buenos Aires",
+          "tier": "t4",
+          "aliases": [
+            "Obelisco"
+          ]
+        },
+        {
+          "answer": "Casa Rosada",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Caminito",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Recoleta",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ushuaïa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Péninsule Valdés",
+          "tier": "t4",
+          "aliases": [
+            "Península Valdés"
+          ]
+        },
+        {
+          "answer": "Valparaíso",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ipanema",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Escalier Selarón",
+          "tier": "t4",
+          "aliases": [
+            "Escadaria Selarón"
+          ]
+        },
+        {
+          "answer": "Pelourinho",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Salvador de Bahia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chapada Diamantina",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bonito",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jericoacoara",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Salines de Maras",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Moray",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Montagne des sept couleurs",
+          "tier": "t4",
+          "aliases": [
+            "Vinicunca"
+          ]
+        },
+        {
+          "answer": "Lac Atitlán",
+          "tier": "t4",
+          "aliases": [
+            "Atitlán"
+          ]
+        },
+        {
+          "answer": "Antigua Guatemala",
+          "tier": "t4",
+          "aliases": [
+            "Antigua"
+          ]
+        },
+        {
+          "answer": "Volcan Pacaya",
+          "tier": "t4",
+          "aliases": [
+            "Pacaya"
+          ]
+        },
+        {
+          "answer": "Canal de Panama",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Canopée de Monteverde",
+          "tier": "t4",
+          "aliases": [
+            "Monteverde"
+          ]
+        },
+        {
+          "answer": "Volcan Arenal",
+          "tier": "t4",
+          "aliases": [
+            "Arenal"
+          ]
+        },
+        {
+          "answer": "Vallée de Cocora",
+          "tier": "t4",
+          "aliases": [
+            "Cocora"
+          ]
+        },
+        {
+          "answer": "Cathédrale de sel de Zipaquirá",
+          "tier": "t4",
+          "aliases": [
+            "Zipaquirá"
+          ]
+        },
+        {
+          "answer": "Parc Tayrona",
+          "tier": "t4",
+          "aliases": [
+            "Tayrona"
+          ]
+        },
+        {
+          "answer": "Cité perdue",
+          "tier": "t4",
+          "aliases": [
+            "Ciudad Perdida"
+          ]
+        },
+        {
+          "answer": "San Agustín",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tierradentro",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mont Roraima",
+          "tier": "t4",
+          "aliases": [
+            "Roraima"
+          ]
+        },
+        {
+          "answer": "Plaza de Mayo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Palacio de Bellas Artes",
+          "tier": "t5",
+          "aliases": [
+            "Palais des beaux-arts de Mexico"
+          ]
+        },
+        {
+          "answer": "Museo Soumaya",
+          "tier": "t5",
+          "aliases": [
+            "Soumaya"
+          ]
+        },
+        {
+          "answer": "Xochimilco",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guanajuato",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Taxco",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hierve el Agua",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cañón del Sumidero",
+          "tier": "t5",
+          "aliases": [
+            "Sumidero"
+          ]
+        },
+        {
+          "answer": "Calakmul",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cobá",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ek Balam",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mitla",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "El Tajín",
+          "tier": "t5",
+          "aliases": [
+            "Tajín"
+          ]
+        },
+        {
+          "answer": "Cholula",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Paquimé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Caracol",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Quiriguá",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Joya de Cerén",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pachacámac",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Caral",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Huayna Picchu",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Coricancha",
+          "tier": "t5",
+          "aliases": [
+            "Qorikancha"
+          ]
+        },
+        {
+          "answer": "Saqsaywaman",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Chavín de Huántar",
+          "tier": "t5",
+          "aliases": [
+            "Chavín"
+          ]
+        },
+        {
+          "answer": "Gocta",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Huacachina",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Paracas",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Islas Ballestas",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Églises de Chiloé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Villarrica",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lago Llanquihue",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Carretera Austral",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Fitz Roy",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cerro Torre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Glacier Upsala",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cueva de las Manos",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Garganta del Diablo",
+          "tier": "t5",
+          "aliases": [
+            "Gorge du Diable"
+          ]
+        },
+        {
+          "answer": "Train des nuages",
+          "tier": "t5",
+          "aliases": [
+            "Tren de las Nubes"
+          ]
+        }
+      ]
+    },
+    "geo-reliefs-14": {
+      "promptId": "geo-reliefs-14",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Tower Bridge",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "London Eye",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Buckingham Palace",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Westminster Abbey",
+          "tier": "t1",
+          "aliases": [
+            "Abbaye de Westminster"
+          ]
+        },
+        {
+          "answer": "Cathédrale Saint-Paul",
+          "tier": "t1",
+          "aliases": [
+            "St Paul's"
+          ]
+        },
+        {
+          "answer": "Trafalgar Square",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Piccadilly Circus",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "British Museum",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Big Ben",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Platform 9¾",
+          "tier": "t6",
+          "aliases": [
+            "Quai 9 3",
+            "4"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Hyde Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tate Modern",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "The Shard",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "The Gherkin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Globe Theatre",
+          "tier": "t3",
+          "aliases": [
+            "Globe"
+          ]
+        },
+        {
+          "answer": "Covent Garden",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Camden Market",
+          "tier": "t3",
+          "aliases": [
+            "Camden"
+          ]
+        },
+        {
+          "answer": "Harrods",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Abbey Road",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hampton Court",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kew Gardens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Greenwich",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cutty Sark",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Madame Tussauds",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Regent's Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kensington Palace",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Royal Albert Hall",
+          "tier": "t3",
+          "aliases": [
+            "Albert Hall"
+          ]
+        },
+        {
+          "answer": "Natural History Museum",
+          "tier": "t3",
+          "aliases": [
+            "Muséum d'histoire naturelle"
+          ]
+        },
+        {
+          "answer": "Victoria and Albert Museum",
+          "tier": "t3",
+          "aliases": [
+            "V&A"
+          ]
+        },
+        {
+          "answer": "National Gallery",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Downing Street",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Oxford Street",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Soho",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Notting Hill",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Millennium Bridge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nelson's Column",
+          "tier": "t3",
+          "aliases": [
+            "Colonne de Nelson"
+          ]
+        },
+        {
+          "answer": "Marble Arch",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Stade de Wembley",
+          "tier": "t3",
+          "aliases": [
+            "Wembley"
+          ]
+        },
+        {
+          "answer": "Houses of Parliament",
+          "tier": "t3",
+          "aliases": [
+            "Palais de Westminster"
+          ]
+        },
+        {
+          "answer": "Westminster Bridge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cleopatra's Needle",
+          "tier": "t3",
+          "aliases": [
+            "Aiguille de Cléopâtre"
+          ]
+        },
+        {
+          "answer": "Borough Market",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Brick Lane",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Canary Wharf",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Battersea Power Station",
+          "tier": "t3",
+          "aliases": [
+            "Battersea"
+          ]
+        },
+        {
+          "answer": "Wimbledon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Twickenham",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lord's",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Royal Observatory",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "St James's Park",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Highgate Cemetery",
+          "tier": "t3",
+          "aliases": [
+            "Cimetière de Highgate"
+          ]
+        },
+        {
+          "answer": "Sherlock Holmes Museum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "King's Cross",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Thames Barrier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Carnaby Street",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Leicester Square",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Science Museum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tate Britain",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Somerset House",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Royal Opera House",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Horse Guards",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Barbican",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lloyd's Building",
+          "tier": "t4",
+          "aliases": [
+            "Lloyd's"
+          ]
+        },
+        {
+          "answer": "Leadenhall Market",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Monument",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Old Bailey",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "BT Tower",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Portobello Road",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Primrose Hill",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Speakers' Corner",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wellington Arch",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Admiralty Arch",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "London Bridge",
+          "tier": "t4",
+          "aliases": [
+            "Pont de Londres"
+          ]
+        },
+        {
+          "answer": "Imperial War Museum",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wallace Collection",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Courtauld Gallery",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Alexandra Palace",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Crystal Palace",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Spitalfields",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bank of England",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Royal Exchange",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guildhall",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Selfridges",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Liberty",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fortnum & Mason",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hamleys",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hampstead Heath",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cabinet War Rooms",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sir John Soane's Museum",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dulwich Picture Gallery",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Eltham Palace",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Syon House",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Osterley Park",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-reliefs-15": {
+      "promptId": "geo-reliefs-15",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Chartres",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Reims",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Strasbourg",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Cologne",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Duomo de Milan",
+          "tier": "t1",
+          "aliases": [
+            "Cathédrale de Milan"
+          ]
+        },
+        {
+          "answer": "Cantorbéry",
+          "tier": "t1",
+          "aliases": [
+            "Canterbury"
+          ]
+        },
+        {
+          "answer": "Amiens",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Séville",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Paul de Londres",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Notre-Dame de Paris",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Cathédrale de sel de Zipaquirá",
+          "tier": "t6",
+          "aliases": [
+            "Zipaquirá"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Rouen",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bourges",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Beauvais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Albi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Burgos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tolède",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Jacques-de-Compostelle",
+          "tier": "t3",
+          "aliases": [
+            "Compostelle"
+          ]
+        },
+        {
+          "answer": "León",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Étienne de Vienne",
+          "tier": "t3",
+          "aliases": [
+            "Stephansdom"
+          ]
+        },
+        {
+          "answer": "Santa Maria del Fiore",
+          "tier": "t3",
+          "aliases": [
+            "Duomo de Florence"
+          ]
+        },
+        {
+          "answer": "Pise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sienne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Orvieto",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "York Minster",
+          "tier": "t3",
+          "aliases": [
+            "York"
+          ]
+        },
+        {
+          "answer": "Salisbury",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Durham",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lincoln",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ely",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Wells",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Winchester",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Guy de Prague",
+          "tier": "t3",
+          "aliases": [
+            "Saint-Vitus"
+          ]
+        },
+        {
+          "answer": "Ulm",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Spire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Worms",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mayence",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Aix-la-Chapelle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Trèves",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fribourg-en-Brisgau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bamberg",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Anvers",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sainte-Sophie de Kiev",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Isaac",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Christ-Sauveur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nidaros",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Uppsala",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Roskilde",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lund",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Monreale",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Palerme",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cefalù",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Patrick de New York",
+          "tier": "t3",
+          "aliases": [
+            "Saint-Patrick"
+          ]
+        },
+        {
+          "answer": "Brasilia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mexico",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Notre-Dame de Montréal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Washington National Cathedral",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tournai",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Laon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Noyon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Senlis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Metz",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bayeux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Coutances",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nantes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cahors",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Toul",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Soissons",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Troyes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Poitiers",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Denis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chichester",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gloucester",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Exeter",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Norwich",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Peterborough",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Gilles d'Édimbourg",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Glasgow",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Patrick de Dublin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Christ Church de Dublin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Salamanque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ségovie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grenade",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cordoue",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Palma de Majorque",
+          "tier": "t4",
+          "aliases": [
+            "Palma"
+          ]
+        },
+        {
+          "answer": "Gérone",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Oviedo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Utrecht",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zagreb",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gniezno",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Riga",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Alexandre Nevski de Sofia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Sava de Belgrade",
+          "tier": "t4",
+          "aliases": [
+            "Saint-Sava"
+          ]
+        },
+        {
+          "answer": "Etchmiadzine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Svetitskhoveli",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Valence",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lima",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Quito",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bogota",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "La Havane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Santiago du Chili",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wawel",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Sauveur de Bruges",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Rombaut de Malines",
+          "tier": "t5",
+          "aliases": [
+            "Saint-Rombaut"
+          ]
+        },
+        {
+          "answer": "Saint-Jean de Lyon",
           "tier": "t5",
           "aliases": []
         }

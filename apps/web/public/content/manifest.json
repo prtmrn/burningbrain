@@ -5,26 +5,26 @@
   },
   "geography": {
     "contentVersion": 2,
-    "prompts": 80
+    "prompts": 95
   },
   "arts-literature": {
     "contentVersion": 2,
-    "prompts": 45
+    "prompts": 75
   },
   "entertainment": {
     "contentVersion": 2,
-    "prompts": 44
+    "prompts": 74
   },
   "history": {
     "contentVersion": 2,
-    "prompts": 44
+    "prompts": 74
   },
   "science-nature": {
     "contentVersion": 2,
-    "prompts": 58
+    "prompts": 73
   },
   "sports-leisure": {
     "contentVersion": 2,
-    "prompts": 43
+    "prompts": 73
   }
 }

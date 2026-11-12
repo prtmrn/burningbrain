@@ -291,6 +291,81 @@
       "id": "sci-physchim-15",
       "theme": "science-nature",
       "text": "Nomme un composé chimique courant (molécule ou corps composé)"
+    },
+    {
+      "id": "sci-plantes-01",
+      "theme": "science-nature",
+      "text": "Nomme un fruit"
+    },
+    {
+      "id": "sci-plantes-02",
+      "theme": "science-nature",
+      "text": "Nomme un légume"
+    },
+    {
+      "id": "sci-plantes-03",
+      "theme": "science-nature",
+      "text": "Nomme une fleur"
+    },
+    {
+      "id": "sci-plantes-04",
+      "theme": "science-nature",
+      "text": "Nomme un arbre qui pousse en France"
+    },
+    {
+      "id": "sci-plantes-05",
+      "theme": "science-nature",
+      "text": "Nomme un champignon"
+    },
+    {
+      "id": "sci-plantes-06",
+      "theme": "science-nature",
+      "text": "Nomme une herbe aromatique ou une épice"
+    },
+    {
+      "id": "sci-plantes-07",
+      "theme": "science-nature",
+      "text": "Nomme une céréale ou une légumineuse"
+    },
+    {
+      "id": "sci-plantes-08",
+      "theme": "science-nature",
+      "text": "Nomme une plante d'intérieur"
+    },
+    {
+      "id": "sci-plantes-09",
+      "theme": "science-nature",
+      "text": "Nomme un outil ou un équipement de jardinage"
+    },
+    {
+      "id": "sci-plantes-10",
+      "theme": "science-nature",
+      "text": "Nomme une variété de pomme"
+    },
+    {
+      "id": "sci-plantes-11",
+      "theme": "science-nature",
+      "text": "Nomme une plante sauvage commune en France (fleur, herbe ou plante des champs et des bois)"
+    },
+    {
+      "id": "sci-plantes-12",
+      "theme": "science-nature",
+      "text": "Nomme un conifère"
+    },
+    {
+      "id": "sci-plantes-13",
+      "theme": "science-nature",
+      "text": "Nomme une plante grasse (cactus ou succulente)"
+    },
+    {
+      "id": "sci-plantes-14",
+      "theme": "science-nature",
+      "text": "Nomme un arbuste"
+    },
+    {
+      "id": "sci-plantes-15",
+      "theme": "science-nature",
+      "text": "Nomme une plante toxique ou vénéneuse"
     }
   ],
   "sheets": {
@@ -30197,6 +30272,7942 @@
         },
         {
           "answer": "tétrachlorure de carbone",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-01": {
+      "promptId": "sci-plantes-01",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "fraise",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "banane",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "orange",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "citron",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "raisin",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "cerise",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "poire",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "kiwi",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "ananas",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pêche",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pomme",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "tomate",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "abricot",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "prune",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "framboise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mangue",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "melon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pastèque",
+          "tier": "t3",
+          "aliases": [
+            "melon d'eau"
+          ]
+        },
+        {
+          "answer": "clémentine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mandarine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pamplemousse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "myrtille",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "figue",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "noix de coco",
+          "tier": "t3",
+          "aliases": [
+            "coco"
+          ]
+        },
+        {
+          "answer": "citron vert",
+          "tier": "t3",
+          "aliases": [
+            "lime"
+          ]
+        },
+        {
+          "answer": "groseille",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mûre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "papaye",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "grenade",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "nectarine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "avocat",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "litchi",
+          "tier": "t3",
+          "aliases": [
+            "letchi"
+          ]
+        },
+        {
+          "answer": "cassis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "datte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fruit de la passion",
+          "tier": "t4",
+          "aliases": [
+            "maracuja",
+            "passiflore"
+          ]
+        },
+        {
+          "answer": "goyave",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kaki",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mirabelle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "quetsche",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "reine-claude",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "coing",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "nèfle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "physalis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "canneberge",
+          "tier": "t4",
+          "aliases": [
+            "cranberry"
+          ]
+        },
+        {
+          "answer": "fruit du dragon",
+          "tier": "t4",
+          "aliases": [
+            "pitaya"
+          ]
+        },
+        {
+          "answer": "carambole",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kumquat",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bergamote",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pomelo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mangoustan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ramboutan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tamarin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "airelle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "baie de goji",
+          "tier": "t4",
+          "aliases": [
+            "goji"
+          ]
+        },
+        {
+          "answer": "olive",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "grenadille",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tangerine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "jujube",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "nashi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "arbouse",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cornouille",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sorbe",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "azerole",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "durian",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "jacquier",
+          "tier": "t5",
+          "aliases": [
+            "jacque",
+            "jackfruit"
+          ]
+        },
+        {
+          "answer": "corossol",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pomme-cannelle",
+          "tier": "t5",
+          "aliases": [
+            "anone"
+          ]
+        },
+        {
+          "answer": "chérimole",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "feijoa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "kiwano",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "longane",
+          "tier": "t5",
+          "aliases": [
+            "longan"
+          ]
+        },
+        {
+          "answer": "figue de Barbarie",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "tamarillo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "açaï",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sapotille",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "groseille à maquereau",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "yuzu",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "calamansi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "combava",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cédrat",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "noni",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "prunelle",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cynorrhodon",
+          "tier": "t5",
+          "aliases": [
+            "gratte-cul"
+          ]
+        },
+        {
+          "answer": "main de Bouddha",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "citron caviar",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-02": {
+      "promptId": "sci-plantes-02",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "tomate",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pomme de terre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "courgette",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "haricot vert",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "poireau",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "oignon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "salade",
+          "tier": "t1",
+          "aliases": [
+            "laitue"
+          ]
+        },
+        {
+          "answer": "aubergine",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "poivron",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "chou-fleur",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "carotte",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "rhubarbe",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "brocoli",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "concombre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "radis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "navet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "épinard",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "betterave",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "céleri",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fenouil",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "asperge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "artichaut",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "courge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "potiron",
+          "tier": "t3",
+          "aliases": [
+            "citrouille"
+          ]
+        },
+        {
+          "answer": "ail",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "échalote",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "endive",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "petit pois",
+          "tier": "t3",
+          "aliases": [
+            "petits pois"
+          ]
+        },
+        {
+          "answer": "maïs",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chou rouge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chou de Bruxelles",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "panais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "céleri-rave",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "blette",
+          "tier": "t3",
+          "aliases": [
+            "bette"
+          ]
+        },
+        {
+          "answer": "rutabaga",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "topinambour",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "salsifis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "patate douce",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "potimarron",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "butternut",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pâtisson",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cornichon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chou-rave",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kale",
+          "tier": "t4",
+          "aliases": [
+            "chou frisé"
+          ]
+        },
+        {
+          "answer": "mâche",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "roquette",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cresson",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "oseille",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chicorée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "scarole",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "frisée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "radicchio",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "romaine",
+          "tier": "t4",
+          "aliases": [
+            "laitue romaine"
+          ]
+        },
+        {
+          "answer": "haricot beurre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fève",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gombo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "igname",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "manioc",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "taro",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cébette",
+          "tier": "t4",
+          "aliases": [
+            "oignon nouveau"
+          ]
+        },
+        {
+          "answer": "pak-choï",
+          "tier": "t4",
+          "aliases": [
+            "bok choy"
+          ]
+        },
+        {
+          "answer": "chou chinois",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "romanesco",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cardon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "céleri branche",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "crosne",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "christophine",
+          "tier": "t5",
+          "aliases": [
+            "chayotte"
+          ]
+        },
+        {
+          "answer": "courge spaghetti",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "bardane",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "scorsonère",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "raifort",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "daikon",
+          "tier": "t5",
+          "aliases": [
+            "radis blanc"
+          ]
+        },
+        {
+          "answer": "radis noir",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "tétragone",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "arroche",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "mange-tout",
+          "tier": "t5",
+          "aliases": [
+            "pois mange-tout"
+          ]
+        },
+        {
+          "answer": "jicama",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "salicorne",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "tomatille",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pourpier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "oca du Pérou",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ulluco",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pousse de bambou",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "germe de soja",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "chou de Milan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "chou pointu",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "chou palmiste",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "mizuna",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "tatsoi",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-03": {
+      "promptId": "sci-plantes-03",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "tulipe",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "marguerite",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "tournesol",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "lys",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "muguet",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pivoine",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "coquelicot",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "violette",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "orchidée",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "jonquille",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "rose",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "rafflesia",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "pâquerette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "narcisse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lavande",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "iris",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "œillet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "géranium",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pensée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bleuet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "myosotis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "jacinthe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "crocus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "dahlia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "hortensia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lilas",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "glaïeul",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "capucine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "primevère",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "anémone",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "camélia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "hibiscus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "jasmin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "giroflée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "souci",
+          "tier": "t3",
+          "aliases": [
+            "calendula"
+          ]
+        },
+        {
+          "answer": "cosmos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "zinnia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ancolie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bégonia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pétunia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chrysanthème",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mimosa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "magnolia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "nénuphar",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "edelweiss",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "gentiane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "clématite",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lupin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "delphinium",
+          "tier": "t4",
+          "aliases": [
+            "pied-d'alouette"
+          ]
+        },
+        {
+          "answer": "digitale",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "œillet d'Inde",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "impatiens",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fuchsia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "azalée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "rhododendron",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gypsophile",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "aster",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bruyère",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "hellébore",
+          "tier": "t4",
+          "aliases": [
+            "rose de Noël"
+          ]
+        },
+        {
+          "answer": "pervenche",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cyclamen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "freesia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gerbera",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "amaryllis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bougainvillier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "laurier-rose",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lotus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "strelitzia",
+          "tier": "t4",
+          "aliases": [
+            "oiseau de paradis"
+          ]
+        },
+        {
+          "answer": "anthurium",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "alstroemeria",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "muflier",
+          "tier": "t4",
+          "aliases": [
+            "gueule-de-loup"
+          ]
+        },
+        {
+          "answer": "phlox",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "rudbeckia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "échinacée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "verveine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "agapanthe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "matthiole",
+          "tier": "t4",
+          "aliases": [
+            "giroflée des jardins"
+          ]
+        },
+        {
+          "answer": "scabieuse",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "nigelle",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cléome",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "lobélie",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "alysse",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "aubriète",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "protée",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "bourrache",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "coréopsis",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "gaura",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "hémérocalle",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pavot",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "renoncule",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ancolie des Alpes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "lis tigré",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "œillet de poète",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "passiflore",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "glycine",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "chèvrefeuille",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "calla",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "arum",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ixia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "tubéreuse",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "fritillaire",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "muscari",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sauge",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "statice",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "immortelle",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "reine-marguerite",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "tagète",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "balsamine",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "gloxinia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "streptocarpus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "lisianthus",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-04": {
+      "promptId": "sci-plantes-04",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "hêtre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "sapin",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pin",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "bouleau",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "érable",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "frêne",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "peuplier",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "saule",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "tilleul",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "marronnier",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "chêne",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "ginkgo",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "orme",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "platane",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "noyer",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "charme",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "aulne",
+          "tier": "t3",
+          "aliases": [
+            "aune",
+            "verne"
+          ]
+        },
+        {
+          "answer": "châtaignier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cèdre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cyprès",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "épicéa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mélèze",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "if",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "olivier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pommier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "poirier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cerisier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sorbier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "noisetier",
+          "tier": "t3",
+          "aliases": [
+            "coudrier"
+          ]
+        },
+        {
+          "answer": "robinier",
+          "tier": "t3",
+          "aliases": [
+            "faux acacia",
+            "acacia"
+          ]
+        },
+        {
+          "answer": "houx",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tremble",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "merisier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "figuier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sureau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "séquoia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "thuya",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mûrier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "alisier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cormier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "micocoulier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pin parasol",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pin sylvestre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pin maritime",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pin noir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "douglas",
+          "tier": "t4",
+          "aliases": [
+            "sapin de Douglas"
+          ]
+        },
+        {
+          "answer": "cornouiller",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "genévrier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "buis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "aubépine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sycomore",
+          "tier": "t4",
+          "aliases": [
+            "érable sycomore"
+          ]
+        },
+        {
+          "answer": "érable champêtre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "érable plane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bouleau verruqueux",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chêne vert",
+          "tier": "t4",
+          "aliases": [
+            "yeuse"
+          ]
+        },
+        {
+          "answer": "chêne-liège",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chêne pubescent",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chêne sessile",
+          "tier": "t4",
+          "aliases": [
+            "rouvre"
+          ]
+        },
+        {
+          "answer": "chêne pédonculé",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chêne rouge d'Amérique",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "hêtre pourpre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "saule pleureur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "saule marsault",
+          "tier": "t4",
+          "aliases": [
+            "marsault"
+          ]
+        },
+        {
+          "answer": "osier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "peuplier noir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "peuplier blanc",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "peuplier d'Italie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ailante",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "catalpa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "paulownia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tulipier de Virginie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "févier d'Amérique",
+          "tier": "t4",
+          "aliases": [
+            "févier"
+          ]
+        },
+        {
+          "answer": "arbre de Judée",
+          "tier": "t4",
+          "aliases": [
+            "gainier"
+          ]
+        },
+        {
+          "answer": "pistachier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "caroubier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "arolle",
+          "tier": "t4",
+          "aliases": [
+            "pin cembro"
+          ]
+        },
+        {
+          "answer": "tamaris",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "argousier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "nerprun",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "viorne",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cade",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "alisier torminal",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "alisier blanc",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "érable de Montpellier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "orne",
+          "tier": "t5",
+          "aliases": [
+            "frêne à fleurs"
+          ]
+        },
+        {
+          "answer": "chêne kermès",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "chêne tauzin",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pin laricio",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pin d'Alep",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "bouleau pubescent",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "saule blanc",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "saule cendré",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "saule fragile",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "putier",
+          "tier": "t5",
+          "aliases": [
+            "cerisier à grappes"
+          ]
+        },
+        {
+          "answer": "poirier sauvage",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pommier sauvage",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "orme de montagne",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sorbier des oiseleurs",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "savonnier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "laurier-sauce",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "prunellier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "troène",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "fusain",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sapin de Nordmann",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sapin pectiné",
+          "tier": "t5",
+          "aliases": [
+            "sapin blanc"
+          ]
+        },
+        {
+          "answer": "nerprun purgatif",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "bourdaine",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-05": {
+      "promptId": "sci-plantes-05",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "cèpe",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "girolle",
+          "tier": "t1",
+          "aliases": [
+            "chanterelle"
+          ]
+        },
+        {
+          "answer": "morille",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "truffe",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pleurote",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "shiitake",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "amanite tue-mouches",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "bolet",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "coulemelle",
+          "tier": "t1",
+          "aliases": [
+            "lépiote élevée"
+          ]
+        },
+        {
+          "answer": "trompette de la mort",
+          "tier": "t1",
+          "aliases": [
+            "craterelle"
+          ]
+        },
+        {
+          "answer": "champignon de Paris",
+          "tier": "t2",
+          "aliases": [
+            "psalliote cultivée"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "levure",
+          "tier": "t6",
+          "aliases": [
+            "levure de boulanger"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "amanite phalloïde",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "rosé des prés",
+          "tier": "t3",
+          "aliases": [
+            "agaric champêtre"
+          ]
+        },
+        {
+          "answer": "pied de mouton",
+          "tier": "t3",
+          "aliases": [
+            "hydne"
+          ]
+        },
+        {
+          "answer": "mousseron",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "faux mousseron",
+          "tier": "t3",
+          "aliases": [
+            "marasme des oréades"
+          ]
+        },
+        {
+          "answer": "pied-bleu",
+          "tier": "t3",
+          "aliases": [
+            "tricholome nu"
+          ]
+        },
+        {
+          "answer": "clitocybe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "russule",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lactaire délicieux",
+          "tier": "t3",
+          "aliases": [
+            "lactaire"
+          ]
+        },
+        {
+          "answer": "vesse-de-loup",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "polypore",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "amadouvier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "enoki",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "maitake",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "armillaire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "coprin chevelu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "coprin noir d'encre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bolet de Satan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bolet bai",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cèpe de Bordeaux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "morille conique",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "gyromitre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "helvelle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "truffe noire du Périgord",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "truffe blanche d'Alba",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cortinaire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "hygrophore",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "langue de bœuf",
+          "tier": "t3",
+          "aliases": [
+            "fistuline"
+          ]
+        },
+        {
+          "answer": "clavaire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "amanite panthère",
+          "tier": "t3",
+          "aliases": [
+            "panthérine"
+          ]
+        },
+        {
+          "answer": "amanite des Césars",
+          "tier": "t3",
+          "aliases": [
+            "oronge"
+          ]
+        },
+        {
+          "answer": "amanite citrine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ergot de seigle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "penicillium",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "rouille",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "oïdium",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "candida",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mérule",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pézize",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cordyceps",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "reishi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "oreille de Judas",
+          "tier": "t4",
+          "aliases": [
+            "auriculaire"
+          ]
+        },
+        {
+          "answer": "nameko",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pholiote",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "shimeji",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lépiote",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lactaire sanguin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "russule verdoyante",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bolet orangé",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bolet granuleux",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chanterelle en tube",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "polypore du bouleau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "phalle impudique",
+          "tier": "t4",
+          "aliases": [
+            "satyre puant"
+          ]
+        },
+        {
+          "answer": "clathre rouge",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "truffe d'été",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "truffe de Bourgogne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lycoperdon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "géastre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lépiote déguenillée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tricholome",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sparassis crépu",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "amanite vireuse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "galère marginée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cortinaire des montagnes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "entolome livide",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bolet à pied rouge",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bolet à chair jaune",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bolet élégant",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "hypholome",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fausse girolle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "marasme",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "collybie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mycène",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lépiote brune",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bolet radicant",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lactaire poivré",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "charbon du maïs",
+          "tier": "t5",
+          "aliases": [
+            "huitlacoche",
+            "ustilago"
+          ]
+        },
+        {
+          "answer": "pleurote du panicaut",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pleurote du peuplier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ganoderme",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "trémelle",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "morille blonde",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "verpa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pézize orangée",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "clavaire jaune",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "fistuline hépatique",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-06": {
+      "promptId": "sci-plantes-06",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "persil",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "basilic",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "thym",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "romarin",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "menthe",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "ciboulette",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "coriandre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "laurier",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "origan",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "estragon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "poivre",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "vanille",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "cannelle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "paprika",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cumin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "curcuma",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "gingembre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "muscade",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "clou de girofle",
+          "tier": "t3",
+          "aliases": [
+            "girofle"
+          ]
+        },
+        {
+          "answer": "safran",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "piment",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "piment d'Espelette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cardamome",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "anis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "badiane",
+          "tier": "t3",
+          "aliases": [
+            "anis étoilé"
+          ]
+        },
+        {
+          "answer": "fenouil",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "aneth",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sauge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "marjolaine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sarriette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cerfeuil",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mélisse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "moutarde",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ail",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fenugrec",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cayenne",
+          "tier": "t3",
+          "aliases": [
+            "piment de Cayenne"
+          ]
+        },
+        {
+          "answer": "poivre blanc",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "poivre vert",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "baies roses",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "poivre de Sichuan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "genièvre",
+          "tier": "t3",
+          "aliases": [
+            "baie de genévrier"
+          ]
+        },
+        {
+          "answer": "carvi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "nigelle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sésame",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pavot",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sumac",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "macis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "quatre-épices",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "hysope",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "livèche",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "verveine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "citronnelle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "basilic thaï",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "shiso",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "feuille de curry",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "combava",
+          "tier": "t4",
+          "aliases": [
+            "kaffir"
+          ]
+        },
+        {
+          "answer": "galanga",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tamarin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "asa fœtida",
+          "tier": "t4",
+          "aliases": [
+            "assa-fœtida"
+          ]
+        },
+        {
+          "answer": "ajowan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mastic",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cubèbe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "poivre long",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "piment de la Jamaïque",
+          "tier": "t4",
+          "aliases": [
+            "poivre de la Jamaïque"
+          ]
+        },
+        {
+          "answer": "wasabi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "raifort",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "câpre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bourrache",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pimprenelle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "oseille",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "angélique",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "aspérule odorante",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "grande absinthe",
+          "tier": "t4",
+          "aliases": [
+            "absinthe"
+          ]
+        },
+        {
+          "answer": "tanaisie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "capucine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "serpolet",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "thym citron",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "menthe poivrée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "menthe verte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "menthe pouliot",
+          "tier": "t4",
+          "aliases": [
+            "pouliot"
+          ]
+        },
+        {
+          "answer": "ail des ours",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ciboule",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "piment oiseau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mahaleb",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "baie de Tasmanie",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "poivre de Timut",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "poivre de Kampot",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "poivre de Penja",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "piment habanero",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "piment jalapeño",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "poivre de Voatsiperifery",
+          "tier": "t5",
+          "aliases": [
+            "voatsiperifery"
+          ]
+        },
+        {
+          "answer": "graines de paradis",
+          "tier": "t5",
+          "aliases": [
+            "maniguette"
+          ]
+        },
+        {
+          "answer": "poivre de Selim",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-07": {
+      "promptId": "sci-plantes-07",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "riz",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "maïs",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "orge",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "avoine",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "seigle",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "lentille",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pois chiche",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "haricot",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "soja",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pois",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "blé",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "arachide",
+          "tier": "t6",
+          "aliases": [
+            "cacahuète"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "sarrasin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "millet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sorgho",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "quinoa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "épeautre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "haricot rouge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "haricot blanc",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "haricot noir",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lupin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "luzerne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "trèfle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fève",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "flageolet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mungo",
+          "tier": "t3",
+          "aliases": [
+            "haricot mungo"
+          ]
+        },
+        {
+          "answer": "azuki",
+          "tier": "t3",
+          "aliases": [
+            "haricot azuki"
+          ]
+        },
+        {
+          "answer": "triticale",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fonio",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "teff",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "kamut",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "amarante",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "petit épeautre",
+          "tier": "t3",
+          "aliases": [
+            "engrain",
+            "einkorn"
+          ]
+        },
+        {
+          "answer": "blé dur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "blé tendre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "riz sauvage",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pois cassé",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "petit pois",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lentille corail",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lentille verte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lentille blonde",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "vesce",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gesse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sainfoin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "caroube",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "haricot de Lima",
+          "tier": "t4",
+          "aliases": [
+            "pois du Cap"
+          ]
+        },
+        {
+          "answer": "dolique",
+          "tier": "t4",
+          "aliases": [
+            "niébé",
+            "pois à vache"
+          ]
+        },
+        {
+          "answer": "voandzou",
+          "tier": "t4",
+          "aliases": [
+            "pois bambara"
+          ]
+        },
+        {
+          "answer": "pois d'Angole",
+          "tier": "t4",
+          "aliases": [
+            "pois cajan"
+          ]
+        },
+        {
+          "answer": "févérole",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "alpiste",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "riz basmati",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "riz thaï",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "haricot tarbais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "coco de Paimpol",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "haricot lingot",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "haricot mogette",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pois mange-tout",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pois gourmand",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "millet perlé",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "millet des oiseaux",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "maïs doux",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fenugrec",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "haricot ailé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "lablab",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "dolique asperge",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pois chiche noir",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "riz gluant",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "riz noir",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "orge nue",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "escourgeon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "amidonnier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "coix",
+          "tier": "t5",
+          "aliases": [
+            "larme de Job"
+          ]
+        },
+        {
+          "answer": "zizanie",
+          "tier": "t5",
+          "aliases": [
+            "riz sauvage d'Amérique"
+          ]
+        },
+        {
+          "answer": "lentille du Puy",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "lentille beluga",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ers",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-08": {
+      "promptId": "sci-plantes-08",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "ficus",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "monstera",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "cactus",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "yucca",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "aloe vera",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pothos",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "sansevieria",
+          "tier": "t1",
+          "aliases": [
+            "langue de belle-mère"
+          ]
+        },
+        {
+          "answer": "palmier",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "fougère",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "dracaena",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "orchidée",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "dionée",
+          "tier": "t6",
+          "aliases": [
+            "dionée attrape-mouche"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "calathea",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "spathiphyllum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "philodendron",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chlorophytum",
+          "tier": "t3",
+          "aliases": [
+            "plante araignée"
+          ]
+        },
+        {
+          "answer": "aglaonema",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "kentia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "dieffenbachia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "croton",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "schefflera",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "zamioculcas",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "caoutchouc",
+          "tier": "t3",
+          "aliases": [
+            "ficus elastica"
+          ]
+        },
+        {
+          "answer": "bégonia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "azalée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cyclamen",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "anthurium",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "saintpaulia",
+          "tier": "t3",
+          "aliases": [
+            "violette africaine"
+          ]
+        },
+        {
+          "answer": "kalanchoé",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "jacinthe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "amaryllis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "poinsettia",
+          "tier": "t3",
+          "aliases": [
+            "étoile de Noël"
+          ]
+        },
+        {
+          "answer": "cactus de Noël",
+          "tier": "t3",
+          "aliases": [
+            "schlumbergera"
+          ]
+        },
+        {
+          "answer": "bonsaï",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lierre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tradescantia",
+          "tier": "t3",
+          "aliases": [
+            "misère"
+          ]
+        },
+        {
+          "answer": "peperomia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pilea",
+          "tier": "t3",
+          "aliases": [
+            "plante à monnaie chinoise"
+          ]
+        },
+        {
+          "answer": "nid d'oiseau",
+          "tier": "t3",
+          "aliases": [
+            "asplénium"
+          ]
+        },
+        {
+          "answer": "fittonia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "maranta",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "rhapis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "dragonnier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ficus benjamina",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bambou porte-bonheur",
+          "tier": "t3",
+          "aliases": [
+            "lucky bamboo"
+          ]
+        },
+        {
+          "answer": "hoya",
+          "tier": "t3",
+          "aliases": [
+            "fleur de porcelaine"
+          ]
+        },
+        {
+          "answer": "aspidistra",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pachira",
+          "tier": "t3",
+          "aliases": [
+            "châtaignier de Guyane"
+          ]
+        },
+        {
+          "answer": "clivia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "hibiscus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "citronnier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "crassula",
+          "tier": "t3",
+          "aliases": [
+            "arbre de jade"
+          ]
+        },
+        {
+          "answer": "echeveria",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "haworthia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sedum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lithops",
+          "tier": "t4",
+          "aliases": [
+            "pierre vivante"
+          ]
+        },
+        {
+          "answer": "euphorbe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "figuier lyre",
+          "tier": "t4",
+          "aliases": [
+            "ficus lyrata"
+          ]
+        },
+        {
+          "answer": "alocasia",
+          "tier": "t4",
+          "aliases": [
+            "oreille d'éléphant"
+          ]
+        },
+        {
+          "answer": "colocasia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "syngonium",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "monstera adansonii",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sansevieria cylindrica",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "stromanthe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ctenanthe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chamaedorea",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cycas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "dracaena fragrans",
+          "tier": "t4",
+          "aliases": [
+            "tronc du Brésil"
+          ]
+        },
+        {
+          "answer": "cordyline",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ficus pumila",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bégonia rex",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bromélia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "guzmania",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tillandsia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "orchidée papillon",
+          "tier": "t4",
+          "aliases": [
+            "phalaenopsis"
+          ]
+        },
+        {
+          "answer": "cymbidium",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "dendrobium",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "oncidium",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "vriesea",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "caladium",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "platycerium",
+          "tier": "t4",
+          "aliases": [
+            "corne d'élan"
+          ]
+        },
+        {
+          "answer": "davallia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "adiantum",
+          "tier": "t4",
+          "aliases": [
+            "capillaire"
+          ]
+        },
+        {
+          "answer": "nephrolepis",
+          "tier": "t4",
+          "aliases": [
+            "fougère de Boston"
+          ]
+        },
+        {
+          "answer": "oxalis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "jasmin de Madagascar",
+          "tier": "t4",
+          "aliases": [
+            "stephanotis"
+          ]
+        },
+        {
+          "answer": "ficus ginseng",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pachypodium",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sensitive",
+          "tier": "t4",
+          "aliases": [
+            "mimosa pudique"
+          ]
+        },
+        {
+          "answer": "rosier miniature",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "primevère d'intérieur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "streptocarpus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gloxinia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "achimenes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "columnea",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "aeschynanthus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "strobilanthes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "radermachera",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "philodendron scandens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "philodendron xanadu",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "philodendron birkin",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cissus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "plante zèbre",
+          "tier": "t5",
+          "aliases": [
+            "aphelandra"
+          ]
+        },
+        {
+          "answer": "plante crevette",
+          "tier": "t5",
+          "aliases": [
+            "justicia"
+          ]
+        },
+        {
+          "answer": "peperomia obtusifolia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pilea cadierei",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "callisia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "plectranthus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sinningia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "areca",
+          "tier": "t5",
+          "aliases": [
+            "palmier areca"
+          ]
+        },
+        {
+          "answer": "phoenix",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "livistona",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ravenala",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ficus microcarpa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ficus religiosa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ficus altissima",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-09": {
+      "promptId": "sci-plantes-09",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "bêche",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pelle",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "arrosoir",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "sécateur",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "tondeuse",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "tuyau d'arrosage",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "brouette",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "binette",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "fourche",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "gants",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "râteau",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "grelinette",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "serfouette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "griffe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "plantoir",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "transplantoir",
+          "tier": "t3",
+          "aliases": [
+            "déplantoir"
+          ]
+        },
+        {
+          "answer": "taille-haie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tronçonneuse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "scie d'élagage",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cisaille",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "coupe-bordure",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "débroussailleuse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "souffleur de feuilles",
+          "tier": "t3",
+          "aliases": [
+            "souffleur"
+          ]
+        },
+        {
+          "answer": "motoculteur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "truelle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pulvérisateur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "enrouleur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "asperseur",
+          "tier": "t3",
+          "aliases": [
+            "arroseur"
+          ]
+        },
+        {
+          "answer": "goutte-à-goutte",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "serre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "composteur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tamis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pioche",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ébrancheur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "perche élagueuse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sarcloir",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "scarificateur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "serpette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "faucille",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "faux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "hache",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tuteur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cordeau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "croc",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pic",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cisaille à gazon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "rotofil",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "aérateur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "rouleau à gazon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "épandeur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "seau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "serpe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "piquet",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ficelle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cloche à légumes",
+          "tier": "t4",
+          "aliases": [
+            "cloche"
+          ]
+        },
+        {
+          "answer": "châssis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bâche",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "filet anti-oiseaux",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "voile d'hivernage",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "râteau à gazon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "balai à feuilles",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "arrache-pissenlits",
+          "tier": "t4",
+          "aliases": [
+            "gouge à pissenlits"
+          ]
+        },
+        {
+          "answer": "bineuse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "houe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "hoyau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cultivateur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sécateur à enclume",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "coupe-branches",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "échenilloir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "greffoir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "genouillère",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tondeuse robot",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tondeuse autoportée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chariot",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sac à déchets verts",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mini-serre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pluviomètre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sécateur de vigne",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "treillage",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "rame",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cage à tomates",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pH-mètre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "fourche-bêche",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "déplantoir à bulbes",
+          "tier": "t5",
+          "aliases": [
+            "plantoir à bulbes"
+          ]
+        },
+        {
+          "answer": "fourche à fumier",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-10": {
+      "promptId": "sci-plantes-10",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "granny smith",
+          "tier": "t1",
+          "aliases": [
+            "granny"
+          ]
+        },
+        {
+          "answer": "gala",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "reine des reinettes",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "fuji",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pink lady",
+          "tier": "t1",
+          "aliases": [
+            "cripps pink"
+          ]
+        },
+        {
+          "answer": "braeburn",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "jonagold",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "boskoop",
+          "tier": "t1",
+          "aliases": [
+            "belle de Boskoop"
+          ]
+        },
+        {
+          "answer": "reinette du Canada",
+          "tier": "t1",
+          "aliases": [
+            "canada"
+          ]
+        },
+        {
+          "answer": "red delicious",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "golden delicious",
+          "tier": "t2",
+          "aliases": [
+            "golden"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "arkansas black",
+          "tier": "t6",
+          "aliases": [
+            "pomme noire d'Arkansas"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "elstar",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "idared",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "melrose",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chantecler",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "reinette clochard",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "reinette d'Armorique",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cox's orange pippin",
+          "tier": "t3",
+          "aliases": [
+            "cox orange"
+          ]
+        },
+        {
+          "answer": "starking",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "jonathan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "empire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mcintosh",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cortland",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "honeycrisp",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ariane",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "belchard",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "juliet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "story",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pinova",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ambrosia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cameo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "topaz",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "rubinette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "rubens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "kanzi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "calville blanc d'hiver",
+          "tier": "t3",
+          "aliases": [
+            "calville blanc"
+          ]
+        },
+        {
+          "answer": "api",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bramley",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "discovery",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "spartan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "gloster",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "jazz",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "envy",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cosmic crisp",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "opal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "santana",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "rubin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gravenstein",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "api étoilé",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "transparente de Croncels",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "belle fleur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "james grieve",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "charles ross",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "egremont russet",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lord lambourne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "worcester pearmain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "grenadier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "court-pendu plat",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "reinette grise du Canada",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "reinette de Champagne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "belle de Pontoise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "jerseymac",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "akane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ligol",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "alkmene",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "elise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "rome beauty",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "northern spy",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "baldwin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "winesap",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "newtown pippin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gala royal",
+          "tier": "t4",
+          "aliases": [
+            "royal gala"
+          ]
+        },
+        {
+          "answer": "junami",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fiesta",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "red chief",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "galaxy",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tentation",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "crimson crisp",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "candine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fuji kiku",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ginger gold",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "paula red",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "summer red",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "court pendu rosat",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "marie-ménard",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "bedan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "frequin rouge",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "binet rouge",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "kermerrien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "douce moën",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "domaine",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "peau de chien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "chailleux",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "dabinett",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "kingston black",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "yarlington mill",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "somerset redstreak",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "tremlett's bitter",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "calville rouge d'automne",
+          "tier": "t5",
+          "aliases": [
+            "calville rouge"
+          ]
+        },
+        {
+          "answer": "api noir",
+          "tier": "t5",
+          "aliases": [
+            "pomme d'api noir"
+          ]
+        }
+      ]
+    },
+    "sci-plantes-11": {
+      "promptId": "sci-plantes-11",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "pâquerette",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "coquelicot",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "bleuet",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "trèfle",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "primevère",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "bouton d'or",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "ortie",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "violette",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "marguerite",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "ronce",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "pissenlit",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "drosera",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "lierre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "plantain",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "achillée millefeuille",
+          "tier": "t3",
+          "aliases": [
+            "millefeuille"
+          ]
+        },
+        {
+          "answer": "camomille",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chardon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mauve",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pensée sauvage",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "myosotis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "anémone sylvie",
+          "tier": "t3",
+          "aliases": [
+            "anémone des bois"
+          ]
+        },
+        {
+          "answer": "jacinthe des bois",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ail des ours",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "digitale pourpre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "gaillet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "liseron",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bourrache",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mélilot",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "luzerne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lotier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "vipérine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "séneçon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tussilage",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "renoncule",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ficaire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "stellaire",
+          "tier": "t3",
+          "aliases": [
+            "mouron des oiseaux"
+          ]
+        },
+        {
+          "answer": "lamier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ortie blanche",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "oseille sauvage",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "prêle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fougère aigle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "genêt",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ajonc",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bruyère",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "callune",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "églantier",
+          "tier": "t3",
+          "aliases": [
+            "rosier sauvage"
+          ]
+        },
+        {
+          "answer": "aubépine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sureau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "carotte sauvage",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fougère",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "muguet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "angélique sauvage",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "berce",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "saponaire",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "œillet sauvage",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "centaurée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "scabieuse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "knautie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chicorée sauvage",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "salsifis des prés",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "grande marguerite",
+          "tier": "t4",
+          "aliases": [
+            "leucanthème"
+          ]
+        },
+        {
+          "answer": "valériane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "reine-des-prés",
+          "tier": "t4",
+          "aliases": [
+            "spirée ulmaire"
+          ]
+        },
+        {
+          "answer": "silène",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "épilobe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lysimaque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "iris des marais",
+          "tier": "t4",
+          "aliases": [
+            "iris faux-acore"
+          ]
+        },
+        {
+          "answer": "populage",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "orchis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ophrys",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "gentiane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "arnica",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "rhododendron",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "edelweiss",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "campanule",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sceau de Salomon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cardamine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "véronique",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pulmonaire",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "consoude",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fumeterre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pied-d'alouette",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "nielle des blés",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chélidoine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "bardane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cirse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "molène",
+          "tier": "t4",
+          "aliases": [
+            "bouillon-blanc"
+          ]
+        },
+        {
+          "answer": "aigremoine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "benoîte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "potentille",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fraisier sauvage",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "framboisier sauvage",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "menthe sauvage",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "thym serpolet",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "origan sauvage",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sauge des prés",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lamier pourpre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "prunelier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cornouiller sanguin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sabot de Vénus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "orchis pourpre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "orchis bouc",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ophrys abeille",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ophrys araignée",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "gentiane jaune",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "gentiane printanière",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "lis martagon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sabline",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "saxifrage",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "joubarbe des toits",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "linaire",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "euphraise",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "rhinanthe",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pédiculaire",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "polygala",
+          "tier": "t5",
+          "aliases": [
+            "polygale"
+          ]
+        },
+        {
+          "answer": "gaillet croisette",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "capselle",
+          "tier": "t5",
+          "aliases": [
+            "bourse-à-pasteur"
+          ]
+        },
+        {
+          "answer": "tabouret",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "passerage",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "moutarde des champs",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ravenelle",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sanve",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "lampsane",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "picride",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "crépis",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "épervière",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "liseron des haies",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "vesce craque",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "gesse des prés",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ononis",
+          "tier": "t5",
+          "aliases": [
+            "bugrane"
+          ]
+        },
+        {
+          "answer": "anthyllide",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sainfoin",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "trèfle incarnat",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "trèfle des prés",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "lotier corniculé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "mouron rouge",
+          "tier": "t5",
+          "aliases": [
+            "mouron des champs"
+          ]
+        }
+      ]
+    },
+    "sci-plantes-12": {
+      "promptId": "sci-plantes-12",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "sapin",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "épicéa",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "cèdre",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "cyprès",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "mélèze",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "if",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "thuya",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "genévrier",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "séquoia",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "douglas",
+          "tier": "t1",
+          "aliases": [
+            "sapin de Douglas"
+          ]
+        },
+        {
+          "answer": "pin",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "wollemia",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "pin sylvestre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pin parasol",
+          "tier": "t3",
+          "aliases": [
+            "pin pignon"
+          ]
+        },
+        {
+          "answer": "pin maritime",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pin noir d'Autriche",
+          "tier": "t3",
+          "aliases": [
+            "pin noir"
+          ]
+        },
+        {
+          "answer": "sapin de Nordmann",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sapin pectiné",
+          "tier": "t3",
+          "aliases": [
+            "sapin blanc"
+          ]
+        },
+        {
+          "answer": "épicéa commun",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cèdre du Liban",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cèdre de l'Atlas",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mélèze d'Europe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cyprès de Provence",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cyprès de Lambert",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "thuya géant",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "séquoia géant",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "séquoia à feuilles d'if",
+          "tier": "t3",
+          "aliases": [
+            "séquoia sempervirens"
+          ]
+        },
+        {
+          "answer": "araucaria",
+          "tier": "t3",
+          "aliases": [
+            "désespoir des singes"
+          ]
+        },
+        {
+          "answer": "genévrier commun",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pin cembro",
+          "tier": "t3",
+          "aliases": [
+            "arolle",
+            "arole"
+          ]
+        },
+        {
+          "answer": "pin d'Alep",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pin laricio",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pin de Monterey",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pin Weymouth",
+          "tier": "t3",
+          "aliases": [
+            "pin blanc d'Amérique"
+          ]
+        },
+        {
+          "answer": "pin mugo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pin à crochets",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cèdre de l'Himalaya",
+          "tier": "t4",
+          "aliases": [
+            "deodar"
+          ]
+        },
+        {
+          "answer": "cèdre de Chypre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sapin du Colorado",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sapin noble",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sapin de Vancouver",
+          "tier": "t4",
+          "aliases": [
+            "sapin grandissime"
+          ]
+        },
+        {
+          "answer": "sapin baumier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sapin de Corée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "épicéa bleu",
+          "tier": "t4",
+          "aliases": [
+            "épicéa piquant"
+          ]
+        },
+        {
+          "answer": "épicéa de Sitka",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "épicéa de Serbie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mélèze du Japon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "mélèze de Sibérie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "tsuga",
+          "tier": "t4",
+          "aliases": [
+            "pruche"
+          ]
+        },
+        {
+          "answer": "thuya occidental",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "faux cyprès",
+          "tier": "t4",
+          "aliases": [
+            "chamaecyparis"
+          ]
+        },
+        {
+          "answer": "cyprès de Leyland",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cyprès chauve",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cyprès d'Arizona",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cade",
+          "tier": "t4",
+          "aliases": [
+            "genévrier cade"
+          ]
+        },
+        {
+          "answer": "sabine",
+          "tier": "t4",
+          "aliases": [
+            "genévrier sabine"
+          ]
+        },
+        {
+          "answer": "thurifère",
+          "tier": "t4",
+          "aliases": [
+            "genévrier thurifère"
+          ]
+        },
+        {
+          "answer": "métaséquoia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cryptomère",
+          "tier": "t4",
+          "aliases": [
+            "cèdre du Japon"
+          ]
+        },
+        {
+          "answer": "cunninghamia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "podocarpus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pin ponderosa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pin tordu",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pin de Corée",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cyprès de Lawson",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cyprès de Monterey",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "genévrier de Virginie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sapin de Fraser",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kauri",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pin bristlecone",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pin de Jeffrey",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sapin de Cilicie",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pinsapo",
+          "tier": "t5",
+          "aliases": [
+            "sapin d'Espagne"
+          ]
+        },
+        {
+          "answer": "sapin de Grèce",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sapin de Sibérie",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sciadopitys",
+          "tier": "t5",
+          "aliases": [
+            "pin parasol du Japon"
+          ]
+        },
+        {
+          "answer": "torreya",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "mélèze laricin",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "if du Japon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "araucaria de Norfolk",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pin de Lambert",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pin de Banks",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pin des Canaries",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pin rouge du Japon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pin blanc du Japon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "dacrydium",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "agathis",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "épicéa d'Orient",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cèdre de Californie",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "genévrier rampant",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-13": {
+      "promptId": "sci-plantes-13",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "figuier de Barbarie",
+          "tier": "t1",
+          "aliases": [
+            "opuntia",
+            "raquette"
+          ]
+        },
+        {
+          "answer": "agave",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "cactus de Noël",
+          "tier": "t1",
+          "aliases": [
+            "schlumbergera"
+          ]
+        },
+        {
+          "answer": "echeveria",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "joubarbe",
+          "tier": "t1",
+          "aliases": [
+            "sempervivum"
+          ]
+        },
+        {
+          "answer": "crassula",
+          "tier": "t1",
+          "aliases": [
+            "arbre de jade",
+            "plante de jade"
+          ]
+        },
+        {
+          "answer": "sedum",
+          "tier": "t1",
+          "aliases": [
+            "orpin"
+          ]
+        },
+        {
+          "answer": "kalanchoé",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "saguaro",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "lithops",
+          "tier": "t1",
+          "aliases": [
+            "pierre vivante"
+          ]
+        },
+        {
+          "answer": "aloe vera",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "pourpier",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "haworthia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mammillaria",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cierge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "coussin de belle-mère",
+          "tier": "t3",
+          "aliases": [
+            "echinocactus"
+          ]
+        },
+        {
+          "answer": "cactus de Pâques",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "gasteria",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "aeonium",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "graptopetalum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pachyphytum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "collier de perles",
+          "tier": "t3",
+          "aliases": [
+            "senecio rowleyanus"
+          ]
+        },
+        {
+          "answer": "euphorbe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ficoïde",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pachypodium",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "adenium",
+          "tier": "t3",
+          "aliases": [
+            "rose du désert"
+          ]
+        },
+        {
+          "answer": "stapelia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cleistocactus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tête de vieillard",
+          "tier": "t3",
+          "aliases": [
+            "cactus vieillard"
+          ]
+        },
+        {
+          "answer": "épiphyllum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "rebutia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "gymnocalycium",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "astrophytum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ferocactus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "melocactus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bryophyllum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "delosperma",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "conophytum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "aloès",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "aloe arborescens",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "aloe ferox",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "aloe aristata",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "aloe striata",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "agave américain",
+          "tier": "t4",
+          "aliases": [
+            "agave americana"
+          ]
+        },
+        {
+          "answer": "agave bleu",
+          "tier": "t4",
+          "aliases": [
+            "agave tequilana"
+          ]
+        },
+        {
+          "answer": "agave attenuata",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "echinopsis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sedum morganianum",
+          "tier": "t4",
+          "aliases": [
+            "queue d'âne"
+          ]
+        },
+        {
+          "answer": "sedum spectabile",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "orpin acre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "jovibarba",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "monanthes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "aichryson",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sinocrassula",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "dudleya",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kalanchoe tomentosa",
+          "tier": "t4",
+          "aliases": [
+            "oreille de chat"
+          ]
+        },
+        {
+          "answer": "kalanchoe blossfeldiana",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kalanchoe daigremontiana",
+          "tier": "t4",
+          "aliases": [
+            "mère de milliers"
+          ]
+        },
+        {
+          "answer": "ceropegia",
+          "tier": "t4",
+          "aliases": [
+            "cœur enchaîné"
+          ]
+        },
+        {
+          "answer": "hoya kerrii",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "senecio",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pleiospilos",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "faucaria",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fenestraria",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "trichocereus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "oreocereus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cephalocereus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pilosocereus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "opuntia microdasys",
+          "tier": "t4",
+          "aliases": [
+            "oreille de lapin"
+          ]
+        },
+        {
+          "answer": "cylindropuntia",
+          "tier": "t4",
+          "aliases": [
+            "cholla"
+          ]
+        },
+        {
+          "answer": "pachycereus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cierge du Pérou",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lampranthus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "carpobrotus",
+          "tier": "t5",
+          "aliases": [
+            "griffe de sorcière"
+          ]
+        },
+        {
+          "answer": "aptenia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "crassula perforata",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "crassula arborescens",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "crassula muscosa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "crassula tetragona",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "aeonium arboreum",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "aeonium kiwi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "graptoveria",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "echeveria elegans",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pachyveria",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "sedeveria",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "adromischus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "tylecodon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cotyledon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "othonna",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "avonia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "anacampseros",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ceraria",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "fouquieria",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "baobab",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "monadenium",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "euphorbia obesa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "euphorbia trigona",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "euphorbia milii",
+          "tier": "t5",
+          "aliases": [
+            "couronne d'épines"
+          ]
+        },
+        {
+          "answer": "euphorbia tirucalli",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "euphorbia ingens",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-14": {
+      "promptId": "sci-plantes-14",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "hortensia",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "lilas",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "forsythia",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "buis",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "troène",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "rhododendron",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "azalée",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "laurier-rose",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "lavande",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "camélia",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "rosier",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "théier",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "viorne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "weigela",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "spirée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "seringat",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "buddleia",
+          "tier": "t3",
+          "aliases": [
+            "arbre à papillons"
+          ]
+        },
+        {
+          "answer": "hibiscus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pyracantha",
+          "tier": "t3",
+          "aliases": [
+            "buisson ardent"
+          ]
+        },
+        {
+          "answer": "cotoneaster",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "photinia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "aucuba",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "fusain",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "houx",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "sureau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "noisetier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cornouiller",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mahonia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "céanothe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "deutzia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "genêt",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ajonc",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bruyère",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "myrtille",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "framboisier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "groseillier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cassissier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "églantier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "aubépine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "prunellier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "laurier-cerise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "laurier-tin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "althéa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cognassier du Japon",
+          "tier": "t4",
+          "aliases": [
+            "chaenomeles"
+          ]
+        },
+        {
+          "answer": "potentille arbustive",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "millepertuis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "berbéris",
+          "tier": "t4",
+          "aliases": [
+            "épine-vinette"
+          ]
+        },
+        {
+          "answer": "symphorine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "hamamélis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sumac",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "amélanchier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "abélia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "escallonia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "pittosporum",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chalef",
+          "tier": "t4",
+          "aliases": [
+            "eleagnus"
+          ]
+        },
+        {
+          "answer": "osmanthe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "skimmia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "nandina",
+          "tier": "t4",
+          "aliases": [
+            "bambou sacré"
+          ]
+        },
+        {
+          "answer": "fuchsia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "caryopteris",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "perovskia",
+          "tier": "t4",
+          "aliases": [
+            "sauge russe"
+          ]
+        },
+        {
+          "answer": "ciste",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "romarin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "genévrier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "indigofère",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "kerria",
+          "tier": "t4",
+          "aliases": [
+            "corète du Japon"
+          ]
+        },
+        {
+          "answer": "physocarpe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "myrte",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lagerstroemia",
+          "tier": "t4",
+          "aliases": [
+            "lilas des Indes"
+          ]
+        },
+        {
+          "answer": "callune",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "jasmin d'hiver",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "jasmin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "daphné",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sorbaria",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ribes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "groseillier à maquereau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "agnus-castus",
+          "tier": "t4",
+          "aliases": [
+            "gattilier"
+          ]
+        },
+        {
+          "answer": "tamaris",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "lavatère",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "olearia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cytise",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "baguenaudier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "coronille",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "chimonanthe",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "corylopsis",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "stachyurus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "stephanandra",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "leycesteria",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "callicarpa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "clérodendron",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "clethra",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "lonicera nitida",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "oranger du Mexique",
+          "tier": "t5",
+          "aliases": [
+            "choisya"
+          ]
+        },
+        {
+          "answer": "piéris",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "kalmia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "leucothoé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "enkianthus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "fothergilla",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "cotinus",
+          "tier": "t5",
+          "aliases": [
+            "arbre à perruque"
+          ]
+        },
+        {
+          "answer": "paliure",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "buplèvre",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "coriaire",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "gaulthérie",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "sci-plantes-15": {
+      "promptId": "sci-plantes-15",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "digitale",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "ciguë",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "muguet",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "laurier-rose",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "if",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "ricin",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "colchique",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "aconit",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "gui",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "datura",
+          "tier": "t1",
+          "aliases": [
+            "stramoine",
+            "pomme épineuse"
+          ]
+        },
+        {
+          "answer": "belladone",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "pomme de terre",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "houx",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lierre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "rhododendron",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "azalée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "cytise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "chélidoine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bryone",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "morelle noire",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "douce-amère",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "jusquiame",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "mandragore",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pavot somnifère",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "euphorbe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "thuya",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "buis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "hortensia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "laurier-cerise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "glycine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lupin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "pois de senteur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "rhubarbe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "tabac",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "arum maculé",
+          "tier": "t3",
+          "aliases": [
+            "gouet"
+          ]
+        },
+        {
+          "answer": "hellébore",
+          "tier": "t3",
+          "aliases": [
+            "ellébore"
+          ]
+        },
+        {
+          "answer": "pervenche",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "grande ciguë",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "petite ciguë",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ciguë vireuse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ciguë aquatique",
+          "tier": "t3",
+          "aliases": [
+            "cicutaire"
+          ]
+        },
+        {
+          "answer": "œnanthe safranée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "varaire",
+          "tier": "t3",
+          "aliases": [
+            "vératre"
+          ]
+        },
+        {
+          "answer": "berce du Caucase",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "herbe à puce",
+          "tier": "t3",
+          "aliases": [
+            "sumac vénéneux"
+          ]
+        },
+        {
+          "answer": "manchenillier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "dieffenbachia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "philodendron",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "amaryllis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "narcisse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "jonquille",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "clématite",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "renoncule",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "bouton d'or",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "anémone",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "lantana",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "vomiquier",
+          "tier": "t4",
+          "aliases": [
+            "noix vomique"
+          ]
+        },
+        {
+          "answer": "gloriosa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "redoul",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "chèvrefeuille",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sureau yèble",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "laurier de Portugal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "marronnier d'Inde",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "nerprun",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "fusain d'Europe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "troène",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "genêt à balais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "sabine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "actée en épi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "paris quadrifolié",
+          "tier": "t4",
+          "aliases": [
+            "parisette"
+          ]
+        },
+        {
+          "answer": "aristoloche",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "asaret",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "euphorbe réveille-matin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "euphorbe épurge",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "cerbera",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "upas",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "acokanthera",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "abrus",
+          "tier": "t5",
+          "aliases": [
+            "liane réglisse",
+            "pois rouge"
+          ]
+        },
+        {
+          "answer": "strophanthus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "apocyn",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "pervenche de Madagascar",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "thevetia",
+          "tier": "t5",
+          "aliases": [
+            "laurier jaune"
+          ]
+        },
+        {
+          "answer": "physalis",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "alkékenge",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "solanum",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "morelle",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "aconit tue-loup",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "scille",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ornithogale",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ellébore vert",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ellébore fétide",
           "tier": "t5",
           "aliases": []
         }
