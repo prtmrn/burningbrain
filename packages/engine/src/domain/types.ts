@@ -81,8 +81,8 @@ export interface AnswerSheet {
   };
 }
 
-/** Banque d'un thème. INVARIANT DU VALIDATEUR DE BANQUE (D-10) :
- *  banque('general') ∩ banque(t) = ∅ pour tout t ≠ 'general'. */
+/** Banque d'un thème. INVARIANT DU VALIDATEUR DE BANQUE (D-42) :
+ *  une question d'un thème peut figurer dans 'general' avec une feuille identique. */
 export interface PromptBank {
   theme: ThemeId;
   prompts: Prompt[];

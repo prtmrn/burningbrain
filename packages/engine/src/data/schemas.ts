@@ -133,8 +133,8 @@ export interface BankCheckResult {
 
 /**
  * Règles bloquantes :
- *  · unicité globale des promptId toutes banques confondues ;
- *  · banque('general') ∩ banque(t) = ∅ pour tout t ≠ 'general' (D-10) ;
+ *  · unicité des promptId (partage Général/thème autorisé, D-42) ;
+ *  · promptId partagé entre 'general' et un thème ⇒ feuille identique (D-42) ;
  *  · unicité des clés normalisées intra-feuille (answer + aliases) —
  *    sinon l'index exact serait ambigu ;
  *  · ≤ 2 000 clés normalisées par prompt (F-8) ; ≥ 1 entrée par feuille ;
@@ -151,26 +151,23 @@ export function validateBanks(banks: RawPromptBank[]): BankCheckResult {
   const errors: string[] = [];
   const warnings: string[] = [];
 
-  // Unicité globale des promptId + disjointedness D-10
-  const owner = new Map<string, ThemeId>();
+  // Unicité des promptId. D-42 : le Général est l'union des questions des
+  // thèmes et de ses questions propres ; un promptId partagé avec un thème
+  // doit alors avoir une feuille strictement identique.
+  const seen = new Map<string, { theme: ThemeId; sheet: string }>();
   for (const bank of banks) {
     for (const p of bank.prompts) {
-      const prev = owner.get(p.id);
-      if (prev !== undefined) {
-        errors.push(`promptId "${p.id}" présent dans "${prev}" et "${bank.theme}"`);
-      } else {
-        owner.set(p.id, bank.theme);
+      const sheetKey = JSON.stringify(bank.sheets[p.id]?.entries ?? null);
+      const prev = seen.get(p.id);
+      if (prev === undefined) {
+        seen.set(p.id, { theme: bank.theme, sheet: sheetKey });
+        continue;
       }
-    }
-  }
-  const general = banks.find((b) => b.theme === 'general');
-  if (general) {
-    for (const bank of banks) {
-      if (bank.theme === 'general') continue;
-      for (const p of bank.prompts) {
-        if (general.prompts.some((g) => g.id === p.id)) {
-          errors.push(`D-10 : promptId "${p.id}" présent en "general" et "${bank.theme}"`);
-        }
+      const shared = prev.theme === 'general' || bank.theme === 'general';
+      if (!shared) {
+        errors.push(`promptId "${p.id}" présent dans "${prev.theme}" et "${bank.theme}"`);
+      } else if (prev.sheet !== sheetKey) {
+        errors.push(`promptId "${p.id}" : feuilles différentes entre "general" et un thème`);
       }
     }
   }
