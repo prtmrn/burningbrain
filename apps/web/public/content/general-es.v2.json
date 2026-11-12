@@ -14538,11 +14538,6 @@
           "aliases": []
         },
         {
-          "answer": "Atormentada",
-          "tier": "t4",
-          "aliases": []
-        },
-        {
           "answer": "Pánico en la escena",
           "tier": "t4",
           "aliases": []
@@ -14555,11 +14550,6 @@
         {
           "answer": "Pero... ¿quién mató a Harry?",
           "tier": "t4",
-          "aliases": []
-        },
-        {
-          "answer": "El enemigo de las rubias",
-          "tier": "t5",
           "aliases": []
         },
         {
@@ -45215,17 +45205,7 @@
           "aliases": []
         },
         {
-          "answer": "King el Incendio",
-          "tier": "t4",
-          "aliases": []
-        },
-        {
           "answer": "Queen",
-          "tier": "t4",
-          "aliases": []
-        },
-        {
-          "answer": "Jack la Sequía",
           "tier": "t4",
           "aliases": []
         },
@@ -46761,11 +46741,6 @@
           "aliases": []
         },
         {
-          "answer": "Hipnosapo",
-          "tier": "t5",
-          "aliases": []
-        },
-        {
           "answer": "Krombopulos Michael",
           "tier": "t5",
           "aliases": []
@@ -47928,11 +47903,6 @@
         },
         {
           "answer": "Patán",
-          "tier": "t4",
-          "aliases": []
-        },
-        {
-          "answer": "Patapez",
           "tier": "t4",
           "aliases": []
         },

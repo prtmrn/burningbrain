@@ -61,7 +61,7 @@ export function AnswerInput({
         data-testid="answer-submit"
         disabled={disabled || value.trim() === ''}
       >
-        Valider
+        {t('answer.submit')}
       </button>
     </form>
   );

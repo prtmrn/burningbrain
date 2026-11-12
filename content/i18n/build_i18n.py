@@ -4,6 +4,7 @@
 # Sortie : content/i18n/banks/general-<lang>.json (theme "general-<lang>", contentVersion 2).
 # Les tiers et le nombre de réponses viennent du FR ; t2 et t6 gardent un seul élément.
 import json, re, unicodedata, glob
+EXCLUDE = json.load(open('es-exclude.json', encoding='utf-8'))
 QUIP = {'t2': "Un piège connu : beaucoup y pensent en premier.", 't6': "Celle-là, on ne l'attendait pas."}
 def norm(s):
     s = unicodedata.normalize('NFD', s.lower()); s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
@@ -24,6 +25,7 @@ for lang in ['en', 'es']:
             used, entries = set(), []
             for e, ans in zip(q['entries'], t['answers']):
                 ans = ans.strip()
+                if lang == 'es' and ans in EXCLUDE.get(q['id'], []): continue
                 if not ans or norm(ans) in used: continue
                 used.add(norm(ans))
                 item = {'answer': ans, 'tier': e['tier'], 'aliases': []}

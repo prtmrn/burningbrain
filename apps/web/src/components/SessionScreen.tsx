@@ -203,7 +203,7 @@ export function SessionScreen({
           />
           {prompt && (
             <PromptCard
-              label={`Prompt ${Math.min(s.roundIndex + 1, roundTotal)} / ${roundTotal}`}
+              label={t('multi.question', { n: Math.min(s.roundIndex + 1, roundTotal), total: roundTotal })}
               text={prompt.text}
             />
           )}

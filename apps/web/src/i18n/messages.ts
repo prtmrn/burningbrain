@@ -184,6 +184,7 @@ export const MESSAGES: Record<string, Entry> = {
   'thermo.aria': { fr: 'Température', en: 'Temperature', es: 'Temperatura' },
   'thermo.value': { fr: '{score} degrés sur {max}', en: '{score} degrees out of {max}', es: '{score} grados de {max}' },
   'answer.placeholder': { fr: 'Ta réponse…', en: 'Your answer…', es: 'Tu respuesta…' },
+  'answer.submit': { fr: 'Valider', en: 'Submit', es: 'Enviar' },
   'answer.aria': { fr: 'Ta réponse', en: 'Your answer', es: 'Tu respuesta' },
   'neurons.aria': { fr: 'Neurones', en: 'Neurons', es: 'Neuronas' },
   // Thèmes
