@@ -1,4 +1,4 @@
-// File: /Users/pierrot/Documents/kimi/tasks/2026-11-08/12-06-12-e5be2c7e/hotbrain/apps/web/src/app/page.tsx
+// File: /Users/pierrot/Documents/kimi/tasks/2026-11-08/12-06-12-e5be2c7e/apps/web/src/app/page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
