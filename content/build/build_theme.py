@@ -8,7 +8,7 @@ for f in sorted(glob.glob('content/build/th[0-9]*.py'), key=lambda x: int(re.sea
     except Exception as e: print('ERREUR', f, e); continue
     for k, v in mod.T.items(): T[k] = v
 plan = json.load(open('content/themes-plan.json', encoding='utf-8'))['prompts']
-# D-30 : fichiers d'extension ext-<préfixe>-<domaine>.py (PROMPTS + T), thème déduit du préfixe.
+# D-40 : fichiers d'extension ext-<préfixe>-<domaine>.py (PROMPTS + T), thème déduit du préfixe.
 PREFIX = {'ent': 'entertainment', 'his': 'history', 'art': 'arts-literature', 'sci': 'science-nature',
           'spo': 'sports-leisure', 'geo': 'geography'}
 SKIP = set(filter(None, os.environ.get('EXT_SKIP', '').split(',')))  # fichiers encore en cours d'écriture
@@ -20,7 +20,7 @@ for f in sorted(glob.glob('content/build/ext-*.py')):
     th = PREFIX[os.path.basename(f).split('-')[1]]
     for k, v in mod.T.items(): T[k] = v
     for q in mod.PROMPTS: plan.append({'id': q['id'], 'theme': th, 'text': q['text']})
-# D-31 : questions retirées (trop pointues)
+# D-41 : questions retirées (trop pointues)
 RETIRED = set(json.load(open('content/retired.json', encoding='utf-8'))['ids'])
 plan = [q for q in plan if q['id'] not in RETIRED]
 def norm(s):

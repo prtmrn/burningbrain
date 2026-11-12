@@ -124,7 +124,7 @@ describe('qualité éditoriale', () => {
       if (bank.contentVersion < 2) continue; // banques v2 : Général et thèmes (D-34)
       for (const [id, sh] of Object.entries(bank.sheets)) {
         if (BELOW_50_ALLOWED[id]) continue;
-        if (sh.contentVersion < 2) continue; // feuilles géographie v1 historiques (D-30)
+        if (sh.contentVersion < 2) continue; // feuilles géographie v1 historiques (D-40)
         expect(sh.entries.length, `${id} : ${sh.entries.length} réponses (min 50)`).toBeGreaterThanOrEqual(50);
       }
     }

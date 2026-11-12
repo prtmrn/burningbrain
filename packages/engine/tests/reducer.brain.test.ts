@@ -165,7 +165,7 @@ describe('reducer brain', () => {
     expect(s.currentAnswers).toHaveLength(1);
   });
 
-  it('D-30 — victoire : le cerveau plein (winScore) termine la partie, gagnée', () => {
+  it('D-40 — victoire : le cerveau plein (winScore) termine la partie, gagnée', () => {
     const { ctx, drive } = setupBrain('art');
     const winCtx = {
       ...ctx,

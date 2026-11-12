@@ -1,7 +1,7 @@
 'use client';
 
 // ─────────────────────────────────────────────────────────────
-// BrainMeter.tsx — D-30 : en mode Brain, un cerveau pixel se remplit de
+// BrainMeter.tsx — D-40 : en mode Brain, un cerveau pixel se remplit de
 // neurones du bas vers le haut. Plein à `goal` neurones : partie gagnée.
 // ─────────────────────────────────────────────────────────────
 import { BRAIN_CELLS, BRAIN_H, BRAIN_W } from '../brain-sprite';

@@ -1,7 +1,7 @@
 'use client';
 
 // ─────────────────────────────────────────────────────────────
-// GameSetupScreen.tsx — D-30 : avant une partie classique, le joueur
+// GameSetupScreen.tsx — D-40 : avant une partie classique, le joueur
 // choisit le nombre de questions et le temps par question.
 // ─────────────────────────────────────────────────────────────
 import { useState } from 'react';

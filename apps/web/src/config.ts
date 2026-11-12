@@ -15,10 +15,10 @@ export const hotbrainConfig: GameConfig = {
   maxAnswerLength: 256,
 };
 
-/** D-30 : le cerveau est plein (partie Brain gagnée) à 500 neurones. */
+/** D-40 : le cerveau est plein (partie Brain gagnée) à 500 neurones. */
 export const BRAIN_GOAL = 500;
 
-/** D-30 : réglages choisis avant une partie classique. */
+/** D-40 : réglages choisis avant une partie classique. */
 export interface GameSetup {
   rounds: number;
   roundSec: number;

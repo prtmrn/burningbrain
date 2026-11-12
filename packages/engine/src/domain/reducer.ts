@@ -361,7 +361,7 @@ function brainReducer(s: BrainDiveState, ev: GameEvent, ctx: ReducerContext): Br
               lastFeedback: { kind: 'accepted', input, score: a.score, at: ev.now },
             };
             ctx.persistCurrentAnswers(s2); // reprise en pleine liste
-            // D-30 : victoire dès que le cerveau est plein (winScore neurones).
+            // D-40 : victoire dès que le cerveau est plein (winScore neurones).
             if (cfg.winScore !== undefined) {
               const total =
                 s2.results.reduce((acc, r) => acc + r.score, 0) +

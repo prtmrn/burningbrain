@@ -651,7 +651,7 @@ details summary { cursor: pointer; margin-top: 0.4rem; }
   .thermo-bulb { width: 40px; height: 40px; }
 }
 
-/* ═════════ D-30 : typo rétro lisible, réglages, jauge Brain, mobile ═════════ */
+/* ═════════ D-40 : typo rétro lisible, réglages, jauge Brain, mobile ═════════ */
 /* Jersey 10 : rétro arcade mais lisible ; on égalise sa hauteur d'œil. */
 h1, h2, button, .thermo-score, .total, .hud .score, .round-pill, .game-bar-title, .lead,
 .brain-label, .float-score, .countdown-num, .brain-meter-label, .choice {

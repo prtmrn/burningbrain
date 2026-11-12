@@ -24,7 +24,7 @@ QUIP = {'t2': "Un piège connu : beaucoup y pensent en premier.", 't6': "Celle-l
 bank = {'theme': 'general', 'contentVersion': 2, 'prompts': [], 'sheets': {}}
 report = []
 order = [x['id'] for x in json.load(open('content/general-v2.plan.json', encoding='utf-8'))['prompts']]
-RETIRED = set(json.load(open('content/retired.json', encoding='utf-8'))['ids'])  # D-31
+RETIRED = set(json.load(open('content/retired.json', encoding='utf-8'))['ids'])  # D-41
 order = [i for i in order if i not in RETIRED]
 for pid in [i for i in order if i in T]:
     tiers = T[pid]

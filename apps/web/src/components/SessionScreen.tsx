@@ -34,7 +34,7 @@ export interface SessionScreenProps {
   themeIcon: string;
   /** Préférence « son coupé » (prefs.muted). */
   muted?: boolean;
-  /** D-30 : réglages de la partie (rounds, temps). */
+  /** D-40 : réglages de la partie (rounds, temps). */
   config?: GameConfig;
   onExit(): void;
 }

@@ -182,7 +182,7 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
   return <SessionGate kv={kv} bank={bank} theme={theme} mode={mode} kind={kind} />;
 }
 
-/** D-30 : la partie classique commence par le choix des réglages. */
+/** D-40 : la partie classique commence par le choix des réglages. */
 function SessionGate(props: { kv: EnumerableKV; bank: LoadedBank; theme: ThemeInfo; mode: GameMode; kind: PlayKindUI }) {
   const { kv, theme, mode, kind } = props;
   const [setup, setSetup] = useState<GameSetup | null>(() =>
