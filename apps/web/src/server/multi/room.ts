@@ -16,6 +16,7 @@ import { configFor } from '../../config';
 import { DEFAULT_PREFERENCES } from '../../state/prefs-store';
 import { getJson, getKv, hgetallJson, setJson, ROOM_TTL_S, type Kv } from './kv';
 import { loadBank } from './bank';
+import { allowedPromptIds } from './pool';
 import { COUNTDOWN_MS, MAX_PLAYERS, makeCode, phaseAt, type RoomPhase } from './phase';
 
 export interface RoomMeta {
@@ -34,6 +35,7 @@ export interface RoomMeta {
 export interface PlayerRec {
   id: string;
   name: string;
+  lang?: string;
 }
 
 export interface AnswerRec {
@@ -98,8 +100,6 @@ export async function createRoom(input: CreateInput): Promise<{ code: string; pl
     }
   }
   if (!code) throw new Error('aucun code libre');
-  const seed = Math.floor(rand() * 4294967296);
-  const promptIds = drawThemed(input.theme, 'hot', bank, [], seed, cfg);
   const playerId = randomId();
   const meta: RoomMeta = {
     code,
@@ -108,13 +108,13 @@ export async function createRoom(input: CreateInput): Promise<{ code: string; pl
     roundSec: input.roundSec,
     previewMs: cfg.modes.hot.previewMs,
     roundMs: cfg.modes.hot.roundMs,
-    promptIds,
+    promptIds: [],
     hostId: playerId,
     createdAt: Date.now(),
     startAt: null,
   };
   await setJson(kv, metaKey(code), meta);
-  await kv.cmd(['HSET', playersKey(code), playerId, JSON.stringify({ id: playerId, name: cleanName(input.name) })]);
+  await kv.cmd(['HSET', playersKey(code), playerId, JSON.stringify({ id: playerId, name: cleanName(input.name), lang: 'fr' })]);
   await kv.cmd(['EXPIRE', playersKey(code), ROOM_TTL_S]);
   await kv.cmd(['EXPIRE', answersKey(code), ROOM_TTL_S]);
   return { code, playerId };
@@ -124,7 +124,7 @@ export function cleanName(name: string): string {
   return name.trim().replace(/\s+/g, ' ').slice(0, 20) || 'Joueur';
 }
 
-export async function joinRoom(code: string, name: string): Promise<{ playerId: string } | { error: string }> {
+export async function joinRoom(code: string, name: string, lang = 'fr'): Promise<{ playerId: string } | { error: string }> {
   const kv = getKv();
   const c = code.toUpperCase();
   const meta = await getMeta(kv, c);
@@ -133,18 +133,28 @@ export async function joinRoom(code: string, name: string): Promise<{ playerId: 
   const count = Number(await kv.cmd(['HLEN', playersKey(c)]));
   if (count >= MAX_PLAYERS) return { error: 'Salon complet (10 joueurs)' };
   const playerId = randomId();
-  await kv.cmd(['HSET', playersKey(c), playerId, JSON.stringify({ id: playerId, name: cleanName(name) })]);
+  await kv.cmd(['HSET', playersKey(c), playerId, JSON.stringify({ id: playerId, name: cleanName(name), lang: lang === 'fr' || lang === 'en' || lang === 'es' ? lang : 'fr' })]);
   return { playerId };
 }
 
-export async function startRoom(code: string, playerId: string): Promise<{ ok: true } | { error: string }> {
+export async function startRoom(code: string, playerId: string, origin: string): Promise<{ ok: true } | { error: string }> {
   const kv = getKv();
   const c = code.toUpperCase();
   const meta = await getMeta(kv, c);
   if (!meta) return { error: 'Salon introuvable' };
   if (meta.hostId !== playerId) return { error: 'Seul l\'hôte peut lancer la partie' };
   if (meta.startAt !== null) return { ok: true };
-  await setJson(kv, metaKey(c), { ...meta, startAt: Date.now() + COUNTDOWN_MS });
+  const players = await getPlayers(kv, c);
+  const langs = players.map((p) => p.lang ?? 'fr');
+  const bank = await loadBank(meta.theme, origin);
+  // Règle : les questions très françaises ne sortent que dans un salon 100 % français.
+  const allowed = new Set(allowedPromptIds(bank.prompts.map((p) => p.id), langs));
+  const pool = { ...bank, prompts: bank.prompts.filter((p) => allowed.has(p.id)) };
+  const cfg = configFor('hot', { rounds: meta.rounds, roundSec: meta.roundSec });
+  if (pool.prompts.length < meta.rounds) return { error: 'Pas assez de questions pour ce salon' };
+  const seed = Math.floor(rand() * 4294967296);
+  const promptIds = drawThemed(meta.theme, 'hot', pool, [], seed, cfg);
+  await setJson(kv, metaKey(c), { ...meta, promptIds, startAt: Date.now() + COUNTDOWN_MS });
   return { ok: true };
 }
 

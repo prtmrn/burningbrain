@@ -1,0 +1,5136 @@
+[
+ {
+  "id": "art-littetr-15",
+  "text": "Nomme un personnage de la littérature de jeunesse étrangère (non française)",
+  "entries": [
+   {
+    "answer": "Alice",
+    "tier": "t1"
+   },
+   {
+    "answer": "Peter Pan",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pinocchio",
+    "tier": "t1"
+   },
+   {
+    "answer": "Heidi",
+    "tier": "t1"
+   },
+   {
+    "answer": "Fifi Brindacier",
+    "tier": "t1"
+   },
+   {
+    "answer": "Winnie l'Ourson",
+    "tier": "t1"
+   },
+   {
+    "answer": "Mowgli",
+    "tier": "t1"
+   },
+   {
+    "answer": "Dorothy",
+    "tier": "t1"
+   },
+   {
+    "answer": "Harry Potter",
+    "tier": "t2"
+   },
+   {
+    "answer": "Crasse-Tignasse",
+    "tier": "t6"
+   },
+   {
+    "answer": "Capitaine Crochet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Clochette",
+    "tier": "t3"
+   },
+   {
+    "answer": "Wendy",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pierre Lapin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paddington",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mary Poppins",
+    "tier": "t3"
+   },
+   {
+    "answer": "L'Épouvantail",
+    "tier": "t3"
+   },
+   {
+    "answer": "Aslan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lucy Pevensie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bilbo Baggins",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hermione Granger",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ron Weasley",
+    "tier": "t3"
+   },
+   {
+    "answer": "Albus Dumbledore",
+    "tier": "t3"
+   },
+   {
+    "answer": "Voldemort",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hagrid",
+    "tier": "t3"
+   },
+   {
+    "answer": "Severus Rogue",
+    "tier": "t3"
+   },
+   {
+    "answer": "Drago Malfoy",
+    "tier": "t3"
+   },
+   {
+    "answer": "Charlie Bucket",
+    "tier": "t3"
+   },
+   {
+    "answer": "Willy Wonka",
+    "tier": "t3"
+   },
+   {
+    "answer": "Matilda",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tom Sawyer",
+    "tier": "t3"
+   },
+   {
+    "answer": "Huckleberry Finn",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jo March",
+    "tier": "t3"
+   },
+   {
+    "answer": "Anne Shirley",
+    "tier": "t3"
+   },
+   {
+    "answer": "Blanche-Neige",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hansel et Gretel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Raiponce",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Petite Sirène",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Vilain Petit Canard",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Soldat de plomb",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Reine des neiges",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Petite Fille aux allumettes",
+    "tier": "t3"
+   },
+   {
+    "answer": "Poucette",
+    "tier": "t3"
+   },
+   {
+    "answer": "Baloo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bagheera",
+    "tier": "t3"
+   },
+   {
+    "answer": "Shere Khan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Geppetto",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jiminy Cricket",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bambi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lapin blanc",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chat du Cheshire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chapelier fou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Reine de Cœur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lièvre de Mars",
+    "tier": "t4"
+   },
+   {
+    "answer": "Humpty Dumpty",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tweedledum",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tweedledee",
+    "tier": "t4"
+   },
+   {
+    "answer": "Porcinet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tigrou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bourriquet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Christopher Robin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Petit Gourou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kaa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Akela",
+    "tier": "t4"
+   },
+   {
+    "answer": "Moumine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rôdeur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mymla",
+    "tier": "t4"
+   },
+   {
+    "answer": "Karlsson sur le toit",
+    "tier": "t4"
+   },
+   {
+    "answer": "Emil de Lönneberga",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nils Holgersson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maya l'abeille",
+    "tier": "t4"
+   },
+   {
+    "answer": "Oui-Oui",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Chat dans le chapeau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Grinch",
+    "tier": "t4"
+   },
+   {
+    "answer": "Horton",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stuart Little",
+    "tier": "t4"
+   },
+   {
+    "answer": "Black Beauty",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lassie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gruffalo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Momo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bastien Balthazar Bux",
+    "tier": "t4"
+   },
+   {
+    "answer": "Atreju",
+    "tier": "t4"
+   },
+   {
+    "answer": "Falkor",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jim Knopf",
+    "tier": "t4"
+   },
+   {
+    "answer": "Max et Moritz",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tom Pouce",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rumpelstilzchen",
+    "tier": "t4"
+   },
+   {
+    "answer": "Charlotte l'araignée",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wilbur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pollyanna",
+    "tier": "t4"
+   },
+   {
+    "answer": "Docteur Dolittle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Susan Pevensie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Edmund Pevensie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Peter Pevensie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Annika",
+    "tier": "t5"
+   },
+   {
+    "answer": "Monsieur Nilsson",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tommy Settergren",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gandalf",
+    "tier": "t5"
+   },
+   {
+    "answer": "Maman Gourou",
+    "tier": "t5"
+   },
+   {
+    "answer": "Coco Lapin",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-littfr-01",
+  "text": "Nomme une fable de Jean de La Fontaine",
+  "entries": [
+   {
+    "answer": "La Cigale et la Fourmi",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Corbeau et le Renard",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Lièvre et la Tortue",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Loup et l'Agneau",
+    "tier": "t1"
+   },
+   {
+    "answer": "La Grenouille qui se veut faire aussi grosse que le Bœuf",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Lion et le Rat",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Rat de ville et le Rat des champs",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Loup et le Chien",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Pouvoir des fables",
+    "tier": "t2"
+   },
+   {
+    "answer": "Daphnis et Alcimadure",
+    "tier": "t6"
+   },
+   {
+    "answer": "Le Chêne et le Roseau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Les Animaux malades de la peste",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Laboureur et ses Enfants",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Laitière et le Pot au lait",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Renard et la Cigogne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Coche et la Mouche",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Mort et le Bûcheron",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Savetier et le Financier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Meunier, son Fils et l'Âne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Lion et le Moucheron",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Colombe et la Fourmi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Renard et le Bouc",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Chat, la Belette et le petit Lapin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Renard et les Raisins",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Loup et la Cigogne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Les Deux Pigeons",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Gland et la Citrouille",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Vieillard et les trois jeunes Hommes",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Lion devenu vieux",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Petit Poisson et le Pêcheur",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Poule aux œufs d'or",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Pot de terre et le Pot de fer",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Héron",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Loup devenu Berger",
+    "tier": "t3"
+   },
+   {
+    "answer": "Conseil tenu par les Rats",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Lion amoureux",
+    "tier": "t3"
+   },
+   {
+    "answer": "Les Grenouilles qui demandent un Roi",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Fille",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Cochet, le Chat et le Souriceau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Rat qui s'est retiré du monde",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Deux Coqs",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Loup et les Bergers",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Renard ayant la queue coupée",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Cerf se voyant dans l'eau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Chartier embourbé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Lion et l'Âne chassant",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Âne chargé d'éponges et l'Âne chargé de sel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Lion et le Chasseur",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Huître et les Plaideurs",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Chat et un vieux Rat",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Frelons et les Mouches à miel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Dragon à plusieurs têtes et le Dragon à plusieurs queues",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Voleurs et l'Âne",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Mort et le Malheureux",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Hirondelle et les petits Oiseaux",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Rat et l'Huître",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Singe et le Dauphin",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Homme et son Image",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Loup, la Chèvre et le Chevreau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Loup, la Mère et l'Enfant",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Œil du Maître",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Alouette et ses Petits, avec le Maître d'un champ",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Bûcheron et Mercure",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Ours et l'Amateur des jardins",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Deux Amis",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Chat et le Renard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Rat et l'Éléphant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Lièvre et les Grenouilles",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Paon se plaignant à Junon",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Chatte métamorphosée en Femme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Lion malade et le Renard",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Avare qui a perdu son trésor",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Tortue et les deux Canards",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Corbeau voulant imiter l'Aigle",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Aigle et l'Escarbot",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Grenouille et le Rat",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Loup et le Renard",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Ivrogne et sa Femme",
+    "tier": "t5"
+   },
+   {
+    "answer": "La Goutte et l'Araignée",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Serpent et la Lime",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Mulet se vantant de sa généalogie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Vieillard et l'Âne",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Poissons et le Cormoran",
+    "tier": "t5"
+   },
+   {
+    "answer": "L'Enfouisseur et son Compère",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Loup et le Chasseur",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Marchand, le Gentilhomme, le Pâtre et le Fils de Roi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Chameau et les Bâtons flottants",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Obsèques de la Lionne",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Cierge",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jupiter et le Métayer",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Berger et le Roi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Juge arbitre, l'Hospitalier et le Solitaire",
+    "tier": "t5"
+   },
+   {
+    "answer": "Philémon et Baucis",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Filles de Minée",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Soleil et les Grenouilles",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Compagnons d'Ulysse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Statuaire et la Statue de Jupiter",
+    "tier": "t5"
+   },
+   {
+    "answer": "La Souris métamorphosée en Fille",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Rieur et les Poissons",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Milan et le Rossignol",
+    "tier": "t5"
+   },
+   {
+    "answer": "L'Âne vêtu de la peau du Lion",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Mal Marié",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tircis et Amarante",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Deux Perroquets, le Roi et son Fils",
+    "tier": "t5"
+   },
+   {
+    "answer": "Démocrite et les Abdéritains",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Paysan du Danube",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Bassa et le Marchand",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Faucon et le Chapon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Cheval s'étant voulu venger du Cerf",
+    "tier": "t5"
+   },
+   {
+    "answer": "La Fortune et le jeune Enfant",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Médecins",
+    "tier": "t5"
+   },
+   {
+    "answer": "L'Âne et le petit Chien",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Combat des Rats et des Belettes",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Jardinier et son Seigneur",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Chien qui lâche sa proie pour l'ombre",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Chat et les deux Moineaux",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Singe et le Léopard",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-littfr-04",
+  "text": "Nomme une œuvre de La Comédie humaine de Balzac",
+  "entries": [
+   {
+    "answer": "Le Père Goriot",
+    "tier": "t1"
+   },
+   {
+    "answer": "Eugénie Grandet",
+    "tier": "t1"
+   },
+   {
+    "answer": "Illusions perdues",
+    "tier": "t1"
+   },
+   {
+    "answer": "La Peau de chagrin",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Lys dans la vallée",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Colonel Chabert",
+    "tier": "t1"
+   },
+   {
+    "answer": "La Cousine Bette",
+    "tier": "t1"
+   },
+   {
+    "answer": "Splendeurs et misères des courtisanes",
+    "tier": "t1"
+   },
+   {
+    "answer": "Physiologie du mariage",
+    "tier": "t2"
+   },
+   {
+    "answer": "Jésus-Christ en Flandre",
+    "tier": "t6"
+   },
+   {
+    "answer": "Le Cousin Pons",
+    "tier": "t3"
+   },
+   {
+    "answer": "César Birotteau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Les Chouans",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Duchesse de Langeais",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Fille aux yeux d'or",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ferragus",
+    "tier": "t3"
+   },
+   {
+    "answer": "Histoire des Treize",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gobseck",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Chef-d'œuvre inconnu",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sarrasine",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Femme de trente ans",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ursule Mirouët",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Rabouilleuse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Médecin de campagne",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Recherche de l'absolu",
+    "tier": "t3"
+   },
+   {
+    "answer": "Louis Lambert",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Curé de Tours",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Maison du chat-qui-pelote",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Bal de Sceaux",
+    "tier": "t3"
+   },
+   {
+    "answer": "Modeste Mignon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Béatrix",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pierrette",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Curé de village",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mémoires de deux jeunes mariées",
+    "tier": "t4"
+   },
+   {
+    "answer": "Albert Savarus",
+    "tier": "t4"
+   },
+   {
+    "answer": "Honorine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Contrat de mariage",
+    "tier": "t4"
+   },
+   {
+    "answer": "Une fille d'Ève",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Maison Nucingen",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Secrets de la princesse de Cadignan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Une ténébreuse affaire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Cabinet des Antiques",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Vieille Fille",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Illustre Gaudissart",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Muse du département",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Employés",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Paysans",
+    "tier": "t4"
+   },
+   {
+    "answer": "Séraphîta",
+    "tier": "t4"
+   },
+   {
+    "answer": "Facino Cane",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Vendetta",
+    "tier": "t4"
+   },
+   {
+    "answer": "Une double famille",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Auberge rouge",
+    "tier": "t4"
+   },
+   {
+    "answer": "Une passion dans le désert",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Élixir de longue vie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Melmoth réconcilié",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Député d'Arcis",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Petits Bourgeois",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Envers de l'histoire contemporaine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sur Catherine de Médicis",
+    "tier": "t4"
+   },
+   {
+    "answer": "Petites misères de la vie conjugale",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Messe de l'athée",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Interdiction",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Paix du ménage",
+    "tier": "t5"
+   },
+   {
+    "answer": "La Bourse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Message",
+    "tier": "t5"
+   },
+   {
+    "answer": "La Grenadière",
+    "tier": "t5"
+   },
+   {
+    "answer": "La Femme abandonnée",
+    "tier": "t5"
+   },
+   {
+    "answer": "Étude de femme",
+    "tier": "t5"
+   },
+   {
+    "answer": "Autre étude de femme",
+    "tier": "t5"
+   },
+   {
+    "answer": "Adieu",
+    "tier": "t5"
+   },
+   {
+    "answer": "El Verdugo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Un drame au bord de la mer",
+    "tier": "t5"
+   },
+   {
+    "answer": "Maître Cornélius",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gambara",
+    "tier": "t5"
+   },
+   {
+    "answer": "Massimilla Doni",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Proscrits",
+    "tier": "t5"
+   },
+   {
+    "answer": "Un épisode sous la Terreur",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pierre Grassou",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Marana",
+    "tier": "t5"
+   },
+   {
+    "answer": "Z. Marcas",
+    "tier": "t5"
+   },
+   {
+    "answer": "Un début dans la vie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Madame Firmiani",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Réquisitionnaire",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Comédiens sans le savoir",
+    "tier": "t5"
+   },
+   {
+    "answer": "Un homme d'affaires",
+    "tier": "t5"
+   },
+   {
+    "answer": "Un prince de la bohème",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gaudissart II",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-littfr-05",
+  "text": "Nomme un personnage de La Comédie humaine de Balzac",
+  "entries": [
+   {
+    "answer": "Eugène de Rastignac",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Père Goriot",
+    "tier": "t1"
+   },
+   {
+    "answer": "Vautrin",
+    "tier": "t1"
+   },
+   {
+    "answer": "Lucien de Rubempré",
+    "tier": "t1"
+   },
+   {
+    "answer": "Eugénie Grandet",
+    "tier": "t1"
+   },
+   {
+    "answer": "Félix Grandet",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Colonel Chabert",
+    "tier": "t1"
+   },
+   {
+    "answer": "Raphaël de Valentin",
+    "tier": "t1"
+   },
+   {
+    "answer": "Lisbeth Fischer",
+    "tier": "t1"
+   },
+   {
+    "answer": "César Birotteau",
+    "tier": "t1"
+   },
+   {
+    "answer": "Frenhofer",
+    "tier": "t2"
+   },
+   {
+    "answer": "Nicolas Poussin",
+    "tier": "t6"
+   },
+   {
+    "answer": "Horace Bianchon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Delphine de Nucingen",
+    "tier": "t3"
+   },
+   {
+    "answer": "Anastasie de Restaud",
+    "tier": "t3"
+   },
+   {
+    "answer": "Baron de Nucingen",
+    "tier": "t3"
+   },
+   {
+    "answer": "Madame Vauquer",
+    "tier": "t3"
+   },
+   {
+    "answer": "Victorine Taillefer",
+    "tier": "t3"
+   },
+   {
+    "answer": "Esther Gobseck",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gobseck",
+    "tier": "t3"
+   },
+   {
+    "answer": "Charles Grandet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nanon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hector Hulot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Adeline Hulot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Valérie Marneffe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Célestin Crevel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sylvain Pons",
+    "tier": "t3"
+   },
+   {
+    "answer": "Schmucke",
+    "tier": "t3"
+   },
+   {
+    "answer": "Derville",
+    "tier": "t3"
+   },
+   {
+    "answer": "Henriette de Mortsauf",
+    "tier": "t3"
+   },
+   {
+    "answer": "Félix de Vandenesse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Louis Lambert",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ursule Mirouët",
+    "tier": "t3"
+   },
+   {
+    "answer": "Balthazar Claës",
+    "tier": "t3"
+   },
+   {
+    "answer": "Henri de Marsay",
+    "tier": "t3"
+   },
+   {
+    "answer": "Daniel d'Arthez",
+    "tier": "t3"
+   },
+   {
+    "answer": "David Séchard",
+    "tier": "t3"
+   },
+   {
+    "answer": "Louise de Bargeton",
+    "tier": "t3"
+   },
+   {
+    "answer": "Claire de Beauséant",
+    "tier": "t3"
+   },
+   {
+    "answer": "Antoinette de Langeais",
+    "tier": "t3"
+   },
+   {
+    "answer": "Armand de Montriveau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Maxime de Trailles",
+    "tier": "t3"
+   },
+   {
+    "answer": "Philippe Bridau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Flore Brazier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Modeste Mignon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Étienne Lousteau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Coralie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Joseph Bridau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean-Jacques Rouget",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ève Chardon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Corentin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peyrade",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sarrasine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Zambinella",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ferragus",
+    "tier": "t4"
+   },
+   {
+    "answer": "Paquita Valdès",
+    "tier": "t4"
+   },
+   {
+    "answer": "Félix Gaudissart",
+    "tier": "t4"
+   },
+   {
+    "answer": "Diane de Maufrigneuse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wenceslas Steinbock",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lady Dudley",
+    "tier": "t4"
+   },
+   {
+    "answer": "Foedora",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pauline Gaudin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Poiret",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mademoiselle Michonneau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Anselme Popinot",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ferdinand du Tillet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean-Jacques Bixiou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Andoche Finot",
+    "tier": "t4"
+   },
+   {
+    "answer": "Benassis",
+    "tier": "t4"
+   },
+   {
+    "answer": "Véronique Graslin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marie de Verneuil",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marquis de Montauran",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pierrette Lorrain",
+    "tier": "t4"
+   },
+   {
+    "answer": "Madame Cibot",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marguerite Claës",
+    "tier": "t4"
+   },
+   {
+    "answer": "Raoul Nathan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Melchior de Canalis",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marche-à-Terre",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rogron",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rémonencq",
+    "tier": "t5"
+   },
+   {
+    "answer": "Fraisier",
+    "tier": "t5"
+   },
+   {
+    "answer": "Camusot",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bibi-Lupin",
+    "tier": "t5"
+   },
+   {
+    "answer": "Louise de Chaulieu",
+    "tier": "t5"
+   },
+   {
+    "answer": "Renée de l'Estorade",
+    "tier": "t5"
+   },
+   {
+    "answer": "Béatrix de Rochefide",
+    "tier": "t5"
+   },
+   {
+    "answer": "Félicité des Touches",
+    "tier": "t5"
+   },
+   {
+    "answer": "Calyste du Guénic",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gillette",
+    "tier": "t5"
+   },
+   {
+    "answer": "Porbus",
+    "tier": "t5"
+   },
+   {
+    "answer": "Victurnien d'Esgrignon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Laurence de Cinq-Cygne",
+    "tier": "t5"
+   },
+   {
+    "answer": "Michu",
+    "tier": "t5"
+   },
+   {
+    "answer": "Facino Cane",
+    "tier": "t5"
+   },
+   {
+    "answer": "Z. Marcas",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-littfr-06",
+  "text": "Nomme un personnage des Rougon-Macquart d'Émile Zola",
+  "entries": [
+   {
+    "answer": "Gervaise Macquart",
+    "tier": "t1"
+   },
+   {
+    "answer": "Nana",
+    "tier": "t1"
+   },
+   {
+    "answer": "Étienne Lantier",
+    "tier": "t1"
+   },
+   {
+    "answer": "Coupeau",
+    "tier": "t1"
+   },
+   {
+    "answer": "Octave Mouret",
+    "tier": "t1"
+   },
+   {
+    "answer": "Claude Lantier",
+    "tier": "t1"
+   },
+   {
+    "answer": "Jacques Lantier",
+    "tier": "t1"
+   },
+   {
+    "answer": "Denise Baudu",
+    "tier": "t1"
+   },
+   {
+    "answer": "Aristide Saccard",
+    "tier": "t1"
+   },
+   {
+    "answer": "Tante Dide",
+    "tier": "t2"
+   },
+   {
+    "answer": "Jésus-Christ",
+    "tier": "t6"
+   },
+   {
+    "answer": "Pascal Rougon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Clotilde Rougon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Eugène Rougon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pierre Rougon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Félicité Rougon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Antoine Macquart",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lisa Macquart",
+    "tier": "t3"
+   },
+   {
+    "answer": "Quenu",
+    "tier": "t3"
+   },
+   {
+    "answer": "Florent",
+    "tier": "t3"
+   },
+   {
+    "answer": "Serge Mouret",
+    "tier": "t3"
+   },
+   {
+    "answer": "Albine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Renée Saccard",
+    "tier": "t3"
+   },
+   {
+    "answer": "Maxime Saccard",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Macquart",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hélène Grandjean",
+    "tier": "t3"
+   },
+   {
+    "answer": "Auguste Lantier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Goujet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Virginie Poisson",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lalie Bijard",
+    "tier": "t3"
+   },
+   {
+    "answer": "Maheu",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Maheude",
+    "tier": "t3"
+   },
+   {
+    "answer": "Catherine Maheu",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bonnemort",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaval",
+    "tier": "t3"
+   },
+   {
+    "answer": "Souvarine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Comte Muffat",
+    "tier": "t3"
+   },
+   {
+    "answer": "Séverine Aubry",
+    "tier": "t3"
+   },
+   {
+    "answer": "Roubaud",
+    "tier": "t3"
+   },
+   {
+    "answer": "Christine Hallegrain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sandoz",
+    "tier": "t3"
+   },
+   {
+    "answer": "Silvère Mouret",
+    "tier": "t3"
+   },
+   {
+    "answer": "Miette",
+    "tier": "t3"
+   },
+   {
+    "answer": "Angélique Marie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pauline Quenu",
+    "tier": "t3"
+   },
+   {
+    "answer": "Désirée Mouret",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jeanne Grandjean",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bijard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Zacharie Maheu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jeanlin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alzire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rasseneur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hennebeau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Négrel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Deneulin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cécile Grégoire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Satin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bordenave",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fontan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Steiner",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fauchery",
+    "tier": "t4"
+   },
+   {
+    "answer": "Georges Hugon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Flore",
+    "tier": "t4"
+   },
+   {
+    "answer": "Misard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Grandmorin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pecqueur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cabuche",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fagerolles",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bongrand",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dubuche",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gundermann",
+    "tier": "t4"
+   },
+   {
+    "answer": "Madame Caroline",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hamelin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Busch",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lazare Chanteau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fouan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Buteau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Françoise Mouche",
+    "tier": "t4"
+   },
+   {
+    "answer": "Félicien d'Hautecœur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bourdoncle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Baudu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Madame Desforges",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marthe Mouret",
+    "tier": "t4"
+   },
+   {
+    "answer": "François Mouret",
+    "tier": "t4"
+   },
+   {
+    "answer": "Abbé Faujas",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maurice Levasseur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gilquin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hubertine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Geneviève Baudu",
+    "tier": "t5"
+   },
+   {
+    "answer": "Colomban",
+    "tier": "t5"
+   },
+   {
+    "answer": "Robineau",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mahoudeau",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sigismond Busch",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lise Fouan",
+    "tier": "t5"
+   },
+   {
+    "answer": "Clorinde Balbi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Delestang",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mademoiselle Saget",
+    "tier": "t5"
+   },
+   {
+    "answer": "La Sarriette",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gavard",
+    "tier": "t5"
+   },
+   {
+    "answer": "Marjolin",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cadine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Muche",
+    "tier": "t5"
+   },
+   {
+    "answer": "Louise Méhudin",
+    "tier": "t5"
+   },
+   {
+    "answer": "Claire Méhudin",
+    "tier": "t5"
+   },
+   {
+    "answer": "Duverdy",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vabre",
+    "tier": "t5"
+   },
+   {
+    "answer": "Berthe Josserand",
+    "tier": "t5"
+   },
+   {
+    "answer": "Madame Josserand",
+    "tier": "t5"
+   },
+   {
+    "answer": "Campardon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Trublot",
+    "tier": "t5"
+   },
+   {
+    "answer": "Abbé Mauduit",
+    "tier": "t5"
+   },
+   {
+    "answer": "Henriette Weiss",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mouche",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-littfr-07",
+  "text": "Nomme un personnage d'un roman de Victor Hugo",
+  "entries": [
+   {
+    "answer": "Jean Valjean",
+    "tier": "t1"
+   },
+   {
+    "answer": "Javert",
+    "tier": "t1"
+   },
+   {
+    "answer": "Cosette",
+    "tier": "t1"
+   },
+   {
+    "answer": "Fantine",
+    "tier": "t1"
+   },
+   {
+    "answer": "Gavroche",
+    "tier": "t1"
+   },
+   {
+    "answer": "Marius Pontmercy",
+    "tier": "t1"
+   },
+   {
+    "answer": "Esmeralda",
+    "tier": "t1"
+   },
+   {
+    "answer": "Quasimodo",
+    "tier": "t1"
+   },
+   {
+    "answer": "Claude Frollo",
+    "tier": "t1"
+   },
+   {
+    "answer": "Thénardier",
+    "tier": "t1"
+   },
+   {
+    "answer": "Louis XI",
+    "tier": "t2"
+   },
+   {
+    "answer": "Homo",
+    "tier": "t6"
+   },
+   {
+    "answer": "Madame Thénardier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Éponine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Azelma",
+    "tier": "t3"
+   },
+   {
+    "answer": "Enjolras",
+    "tier": "t3"
+   },
+   {
+    "answer": "Monseigneur Myriel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fauchelevent",
+    "tier": "t3"
+   },
+   {
+    "answer": "Monsieur Gillenormand",
+    "tier": "t3"
+   },
+   {
+    "answer": "Georges Pontmercy",
+    "tier": "t3"
+   },
+   {
+    "answer": "Phoebus de Châteaupers",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pierre Gringoire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Clopin Trouillefou",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fleur-de-Lys de Gondelaurier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Djali",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gwynplaine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dea",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ursus",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gilliatt",
+    "tier": "t3"
+   },
+   {
+    "answer": "Déruchette",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marquis de Lantenac",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gauvain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cimourdain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Grantaire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jehan Frollo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Paquette la Chantefleurie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Josiane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Barkilphedro",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mess Lethierry",
+    "tier": "t4"
+   },
+   {
+    "answer": "Clubin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ebenezer Caudray",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michelle Fléchard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Combeferre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Courfeyrac",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bahorel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Feuilly",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean Prouvaire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Joly",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bossuet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mabeuf",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tholomyès",
+    "tier": "t4"
+   },
+   {
+    "answer": "Favourite",
+    "tier": "t4"
+   },
+   {
+    "answer": "Montparnasse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Babet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gueulemer",
+    "tier": "t4"
+   },
+   {
+    "answer": "Claquesous",
+    "tier": "t4"
+   },
+   {
+    "answer": "Brujon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Patron-Minette",
+    "tier": "t4"
+   },
+   {
+    "answer": "Champmathieu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Petit-Gervais",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mademoiselle Baptistine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Madame Magloire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Toussaint",
+    "tier": "t4"
+   },
+   {
+    "answer": "Claude Gueux",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bug-Jargal",
+    "tier": "t4"
+   },
+   {
+    "answer": "Han d'Islande",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bamatabois",
+    "tier": "t5"
+   },
+   {
+    "answer": "Magnon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Boulatruelle",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mademoiselle Gillenormand",
+    "tier": "t5"
+   },
+   {
+    "answer": "Théodule Gillenormand",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ordener",
+    "tier": "t5"
+   },
+   {
+    "answer": "Éthel",
+    "tier": "t5"
+   },
+   {
+    "answer": "Schumacker",
+    "tier": "t5"
+   },
+   {
+    "answer": "Léopold d'Auverney",
+    "tier": "t5"
+   },
+   {
+    "answer": "Biassou",
+    "tier": "t5"
+   },
+   {
+    "answer": "Radoub",
+    "tier": "t5"
+   },
+   {
+    "answer": "Halmalo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tellmarch",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hardquanonne",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lord David Dirry-Moir",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-littfr-08",
+  "text": "Nomme un personnage d'un roman d'Alexandre Dumas père",
+  "entries": [
+   {
+    "answer": "D'Artagnan",
+    "tier": "t1"
+   },
+   {
+    "answer": "Athos",
+    "tier": "t1"
+   },
+   {
+    "answer": "Porthos",
+    "tier": "t1"
+   },
+   {
+    "answer": "Aramis",
+    "tier": "t1"
+   },
+   {
+    "answer": "Milady de Winter",
+    "tier": "t1"
+   },
+   {
+    "answer": "Edmond Dantès",
+    "tier": "t1"
+   },
+   {
+    "answer": "Cardinal de Richelieu",
+    "tier": "t1"
+   },
+   {
+    "answer": "Constance Bonacieux",
+    "tier": "t1"
+   },
+   {
+    "answer": "Mazarin",
+    "tier": "t2"
+   },
+   {
+    "answer": "Gorenflot",
+    "tier": "t6"
+   },
+   {
+    "answer": "Comte de Rochefort",
+    "tier": "t3"
+   },
+   {
+    "answer": "Planchet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Grimaud",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mousqueton",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bazin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Monsieur de Tréville",
+    "tier": "t3"
+   },
+   {
+    "answer": "Duc de Buckingham",
+    "tier": "t3"
+   },
+   {
+    "answer": "Anne d'Autriche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Louis XIII",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mordaunt",
+    "tier": "t3"
+   },
+   {
+    "answer": "Raoul de Bragelonne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Louise de La Vallière",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nicolas Fouquet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Colbert",
+    "tier": "t3"
+   },
+   {
+    "answer": "Louis XIV",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mercédès",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fernand Mondego",
+    "tier": "t3"
+   },
+   {
+    "answer": "Danglars",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gérard de Villefort",
+    "tier": "t3"
+   },
+   {
+    "answer": "Caderousse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Abbé Faria",
+    "tier": "t3"
+   },
+   {
+    "answer": "Haydée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Albert de Morcerf",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marguerite de Valois",
+    "tier": "t3"
+   },
+   {
+    "answer": "Henri de Navarre",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Mole",
+    "tier": "t3"
+   },
+   {
+    "answer": "Coconnas",
+    "tier": "t3"
+   },
+   {
+    "answer": "Catherine de Médicis",
+    "tier": "t3"
+   },
+   {
+    "answer": "Charles IX",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chicot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bussy d'Amboise",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lord de Winter",
+    "tier": "t3"
+   },
+   {
+    "answer": "Felton",
+    "tier": "t3"
+   },
+   {
+    "answer": "Monsieur Bonacieux",
+    "tier": "t3"
+   },
+   {
+    "answer": "L'Homme au masque de fer",
+    "tier": "t3"
+   },
+   {
+    "answer": "Franz d'Épinay",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maximilien Morrel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Valentine de Villefort",
+    "tier": "t4"
+   },
+   {
+    "answer": "Noirtier de Villefort",
+    "tier": "t4"
+   },
+   {
+    "answer": "Héloïse de Villefort",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bertuccio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Luigi Vampa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Benedetto",
+    "tier": "t4"
+   },
+   {
+    "answer": "Eugénie Danglars",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pierre Morrel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Louis Dantès",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ketty",
+    "tier": "t4"
+   },
+   {
+    "answer": "Diane de Méridor",
+    "tier": "t4"
+   },
+   {
+    "answer": "Comte de Monsoreau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Henri III",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cornelius van Baerle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Joseph Balsamo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ange Pitou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Andrée de Taverney",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Chevalier de Maison-Rouge",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jacopo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ali",
+    "tier": "t5"
+   },
+   {
+    "answer": "René le Florentin",
+    "tier": "t5"
+   },
+   {
+    "answer": "Maurevel",
+    "tier": "t5"
+   },
+   {
+    "answer": "Henriette de Nevers",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rosa",
+    "tier": "t5"
+   },
+   {
+    "answer": "Philippe",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-littfr-12",
+  "text": "Nomme un écrivain francophone originaire d'Afrique subsaharienne ou de Madagascar",
+  "entries": [
+   {
+    "answer": "Léopold Sédar Senghor",
+    "tier": "t1"
+   },
+   {
+    "answer": "Camara Laye",
+    "tier": "t1"
+   },
+   {
+    "answer": "Mongo Beti",
+    "tier": "t1"
+   },
+   {
+    "answer": "Ahmadou Kourouma",
+    "tier": "t1"
+   },
+   {
+    "answer": "Alain Mabanckou",
+    "tier": "t1"
+   },
+   {
+    "answer": "Mariama Bâ",
+    "tier": "t1"
+   },
+   {
+    "answer": "Cheikh Hamidou Kane",
+    "tier": "t1"
+   },
+   {
+    "answer": "Ousmane Sembène",
+    "tier": "t1"
+   },
+   {
+    "answer": "Birago Diop",
+    "tier": "t1"
+   },
+   {
+    "answer": "Gaël Faye",
+    "tier": "t2"
+   },
+   {
+    "answer": "Jean-Joseph Rabearivelo",
+    "tier": "t6"
+   },
+   {
+    "answer": "Ferdinand Oyono",
+    "tier": "t3"
+   },
+   {
+    "answer": "Aminata Sow Fall",
+    "tier": "t3"
+   },
+   {
+    "answer": "David Diop",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bernard Dadié",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sony Labou Tansi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tchicaya U Tam'si",
+    "tier": "t3"
+   },
+   {
+    "answer": "Henri Lopes",
+    "tier": "t3"
+   },
+   {
+    "answer": "Emmanuel Dongala",
+    "tier": "t3"
+   },
+   {
+    "answer": "Calixthe Beyala",
+    "tier": "t3"
+   },
+   {
+    "answer": "Léonora Miano",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fatou Diome",
+    "tier": "t3"
+   },
+   {
+    "answer": "Boubacar Boris Diop",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mohamed Mbougar Sarr",
+    "tier": "t3"
+   },
+   {
+    "answer": "Yambo Ouologuem",
+    "tier": "t3"
+   },
+   {
+    "answer": "Amadou Hampâté Bâ",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tierno Monénembo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Scholastique Mukasonga",
+    "tier": "t3"
+   },
+   {
+    "answer": "Abdourahman Waberi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Véronique Tadjo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ken Bugul",
+    "tier": "t3"
+   },
+   {
+    "answer": "Djibril Tamsir Niane",
+    "tier": "t3"
+   },
+   {
+    "answer": "Djaïli Amadou Amal",
+    "tier": "t3"
+   },
+   {
+    "answer": "Williams Sassine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean-Marie Adiaffi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Seydou Badian",
+    "tier": "t4"
+   },
+   {
+    "answer": "Massa Makan Diabaté",
+    "tier": "t4"
+   },
+   {
+    "answer": "Olympe Bhêly-Quenum",
+    "tier": "t4"
+   },
+   {
+    "answer": "Paul Hazoumé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean Pliya",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kossi Efoui",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sami Tchak",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean-Luc Raharimanana",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jacques Rabemananjara",
+    "tier": "t4"
+   },
+   {
+    "answer": "Flavien Ranaivo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ousmane Socé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Abdoulaye Sadji",
+    "tier": "t4"
+   },
+   {
+    "answer": "Florent Couao-Zotti",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wilfried N'Sondé",
+    "tier": "t4"
+   },
+   {
+    "answer": "In Koli Jean Bofane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fiston Mwanza Mujila",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hemley Boum",
+    "tier": "t4"
+   },
+   {
+    "answer": "Patrice Nganang",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gaston-Paul Effa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Eugène Ébodé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Werewere Liking",
+    "tier": "t4"
+   },
+   {
+    "answer": "Guillaume Oyônô Mbia",
+    "tier": "t4"
+   },
+   {
+    "answer": "Francis Bebey",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tanella Boni",
+    "tier": "t4"
+   },
+   {
+    "answer": "Moussa Konaté",
+    "tier": "t4"
+   },
+   {
+    "answer": "Koulsy Lamko",
+    "tier": "t4"
+   },
+   {
+    "answer": "Valentin-Yves Mudimbe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Malick Fall",
+    "tier": "t5"
+   },
+   {
+    "answer": "René Philombe",
+    "tier": "t5"
+   },
+   {
+    "answer": "Maurice Bandaman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Aké Loba",
+    "tier": "t5"
+   },
+   {
+    "answer": "Charles Nokan",
+    "tier": "t5"
+   },
+   {
+    "answer": "Monique Ilboudo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nazi Boni",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ibrahima Ly",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nimrod",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sylvain Bemba",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jean Malonga",
+    "tier": "t5"
+   },
+   {
+    "answer": "Guy Menga",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pius Ngandu Nkashama",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-livre-enfants",
+  "text": "Nomme un livre ou une série de livres pour enfants",
+  "entries": [
+   {
+    "answer": "Harry Potter",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Petit Prince",
+    "tier": "t1"
+   },
+   {
+    "answer": "Alice au pays des merveilles",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pinocchio",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Livre de la jungle",
+    "tier": "t1"
+   },
+   {
+    "answer": "Peter Pan",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Club des Cinq",
+    "tier": "t1"
+   },
+   {
+    "answer": "Martine",
+    "tier": "t1"
+   },
+   {
+    "answer": "Oui-Oui",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Hobbit",
+    "tier": "t2"
+   },
+   {
+    "answer": "Le Tigre qui s'invita pour le thé",
+    "tier": "t6"
+   },
+   {
+    "answer": "Winnie l'ourson",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Petit Nicolas",
+    "tier": "t3"
+   },
+   {
+    "answer": "Les Malheurs de Sophie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Charlie et la Chocolaterie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Matilda",
+    "tier": "t3"
+   },
+   {
+    "answer": "Les Chroniques de Narnia",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Magicien d'Oz",
+    "tier": "t3"
+   },
+   {
+    "answer": "Heidi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fifi Brindacier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Vent dans les saules",
+    "tier": "t3"
+   },
+   {
+    "answer": "Où est Charlie ?",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Gruffalo",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Chenille qui fait des trous",
+    "tier": "t3"
+   },
+   {
+    "answer": "Babar",
+    "tier": "t3"
+   },
+   {
+    "answer": "T'choupi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Petit Ours Brun",
+    "tier": "t3"
+   },
+   {
+    "answer": "Monsieur Madame",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pierre Lapin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mary Poppins",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Journal d'un dégonflé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Geronimo Stilton",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chair de poule",
+    "tier": "t3"
+   },
+   {
+    "answer": "Percy Jackson",
+    "tier": "t3"
+   },
+   {
+    "answer": "Max et les Maximonstres",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Chat chapeauté",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Bon Gros Géant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Contes de la rue Broca",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Clan des Sept",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fantômette",
+    "tier": "t4"
+   },
+   {
+    "answer": "Paddington",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Moomins",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Désastreuses Aventures des orphelins Baudelaire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Anne de Green Gables",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Petite Maison dans la prairie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Merveilleux Voyage de Nils Holgersson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Trois Brigands",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Géant de Zéralda",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mini-Loup",
+    "tier": "t4"
+   },
+   {
+    "answer": "Elmer",
+    "tier": "t4"
+   },
+   {
+    "answer": "Captain Underpants",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sans famille",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Tour de la France par deux enfants",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Trois Détectives",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Petit Vampire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Roule Galette",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Petit Ogre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Emil et les détectives",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-mouvement",
+  "text": "Nomme un mouvement artistique",
+  "entries": [
+   {
+    "answer": "Impressionnisme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Cubisme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Surréalisme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pop art",
+    "tier": "t1"
+   },
+   {
+    "answer": "Baroque",
+    "tier": "t1"
+   },
+   {
+    "answer": "Fauvisme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Dadaïsme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Romantisme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Renaissance",
+    "tier": "t1"
+   },
+   {
+    "answer": "Expressionnisme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Art déco",
+    "tier": "t2"
+   },
+   {
+    "answer": "Vorticisme",
+    "tier": "t6"
+   },
+   {
+    "answer": "Réalisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Classicisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Néoclassicisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rococo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Art nouveau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Futurisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Constructivisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Suprématisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bauhaus",
+    "tier": "t3"
+   },
+   {
+    "answer": "De Stijl",
+    "tier": "t3"
+   },
+   {
+    "answer": "Symbolisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pointillisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Post-impressionnisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Néo-impressionnisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Expressionnisme abstrait",
+    "tier": "t3"
+   },
+   {
+    "answer": "Art abstrait",
+    "tier": "t3"
+   },
+   {
+    "answer": "Minimalisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Art conceptuel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Land art",
+    "tier": "t3"
+   },
+   {
+    "answer": "Art cinétique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Op art",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nouveau réalisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hyperréalisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Street art",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gothique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Art roman",
+    "tier": "t3"
+   },
+   {
+    "answer": "Maniérisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Art brut",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fluxus",
+    "tier": "t3"
+   },
+   {
+    "answer": "Art naïf",
+    "tier": "t3"
+   },
+   {
+    "answer": "Préraphaélisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nabis",
+    "tier": "t4"
+   },
+   {
+    "answer": "Orphisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "CoBrA",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arte povera",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lettrisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Situationnisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Néo-expressionnisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Académisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Japonisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "École de Barbizon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Réalisme socialiste",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tachisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Abstraction lyrique",
+    "tier": "t4"
+   },
+   {
+    "answer": "Art informel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Précisionnisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ashcan School",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arts and Crafts",
+    "tier": "t4"
+   },
+   {
+    "answer": "Body art",
+    "tier": "t4"
+   },
+   {
+    "answer": "Figuration libre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Figuration narrative",
+    "tier": "t4"
+   },
+   {
+    "answer": "Néo-plasticisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rayonnisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Der Blaue Reiter",
+    "tier": "t4"
+   },
+   {
+    "answer": "Die Brücke",
+    "tier": "t4"
+   },
+   {
+    "answer": "Purisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Support/Surface",
+    "tier": "t4"
+   },
+   {
+    "answer": "Néo-dada",
+    "tier": "t4"
+   },
+   {
+    "answer": "Art byzantin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Biedermeier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Transavantgarde",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cubo-futurisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Néo-gothique",
+    "tier": "t4"
+   },
+   {
+    "answer": "Harlem Renaissance",
+    "tier": "t5"
+   },
+   {
+    "answer": "Régionalisme américain",
+    "tier": "t5"
+   },
+   {
+    "answer": "Macchiaioli",
+    "tier": "t5"
+   },
+   {
+    "answer": "Art vidéo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Section d'or",
+    "tier": "t5"
+   },
+   {
+    "answer": "Spatialisme",
+    "tier": "t5"
+   },
+   {
+    "answer": "Groupe Zéro",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mouvement Gutai",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hudson River School",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-musee",
+  "text": "Nomme un musée célèbre dans le monde",
+  "entries": [
+   {
+    "answer": "Musée du Louvre",
+    "tier": "t1"
+   },
+   {
+    "answer": "Musée d'Orsay",
+    "tier": "t1"
+   },
+   {
+    "answer": "British Museum",
+    "tier": "t1"
+   },
+   {
+    "answer": "Musée du Prado",
+    "tier": "t1"
+   },
+   {
+    "answer": "MoMA",
+    "tier": "t1"
+   },
+   {
+    "answer": "Metropolitan Museum of Art",
+    "tier": "t1"
+   },
+   {
+    "answer": "Rijksmuseum",
+    "tier": "t1"
+   },
+   {
+    "answer": "Musée de l'Ermitage",
+    "tier": "t1"
+   },
+   {
+    "answer": "Galerie des Offices",
+    "tier": "t1"
+   },
+   {
+    "answer": "Centre Pompidou",
+    "tier": "t2"
+   },
+   {
+    "answer": "Musée Ghibli",
+    "tier": "t6"
+   },
+   {
+    "answer": "Musées du Vatican",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Guggenheim",
+    "tier": "t3"
+   },
+   {
+    "answer": "Guggenheim de Bilbao",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tate Modern",
+    "tier": "t3"
+   },
+   {
+    "answer": "National Gallery",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Van Gogh",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Rodin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée de l'Orangerie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Picasso",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée du quai Branly",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Guimet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Madame Tussauds",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Reina Sofía",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Thyssen-Bornemisza",
+    "tier": "t3"
+   },
+   {
+    "answer": "Smithsonian",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée du Caire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Victoria and Albert Museum",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée d'Histoire naturelle de Londres",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pergamon Museum",
+    "tier": "t3"
+   },
+   {
+    "answer": "Galerie Borghèse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Grévin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée des Beaux-Arts de Boston",
+    "tier": "t3"
+   },
+   {
+    "answer": "Art Institute of Chicago",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Marmottan Monet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée d'Art moderne de la ville de Paris",
+    "tier": "t3"
+   },
+   {
+    "answer": "Petit Palais",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée de Cluny",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée de l'Armée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Carnavalet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tate Britain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mauritshuis",
+    "tier": "t3"
+   },
+   {
+    "answer": "Stedelijk Museum",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kunsthistorisches Museum",
+    "tier": "t3"
+   },
+   {
+    "answer": "Albertina",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée du Belvédère",
+    "tier": "t3"
+   },
+   {
+    "answer": "Palais de Tokyo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mucem",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Fabre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée des Confluences",
+    "tier": "t3"
+   },
+   {
+    "answer": "Louvre Abu Dhabi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musée Pouchkine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Galerie Tretiakov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée Munch",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée Dalí",
+    "tier": "t4"
+   },
+   {
+    "answer": "Museo Egizio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Galerie de l'Académie de Florence",
+    "tier": "t4"
+   },
+   {
+    "answer": "Neues Museum",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alte Pinakothek",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée de l'Acropole",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée archéologique national d'Athènes",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée national du Palais",
+    "tier": "t4"
+   },
+   {
+    "answer": "Getty Center",
+    "tier": "t4"
+   },
+   {
+    "answer": "Field Museum",
+    "tier": "t4"
+   },
+   {
+    "answer": "Whitney Museum",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée juif de Berlin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée Matisse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée Soulages",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée national de Chine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée Fragonard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musée du Bardo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musées du Capitole",
+    "tier": "t5"
+   },
+   {
+    "answer": "Musée Vasa",
+    "tier": "t5"
+   },
+   {
+    "answer": "Musée Picasso de Barcelone",
+    "tier": "t5"
+   },
+   {
+    "answer": "Musée du 11-Septembre",
+    "tier": "t5"
+   },
+   {
+    "answer": "Musée national de Tokyo",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-mythes-01",
+  "text": "Nomme une figure de style (rhétorique)",
+  "entries": [
+   {
+    "answer": "Comparaison",
+    "tier": "t1"
+   },
+   {
+    "answer": "Hyperbole",
+    "tier": "t1"
+   },
+   {
+    "answer": "Antithèse",
+    "tier": "t1"
+   },
+   {
+    "answer": "Personnification",
+    "tier": "t1"
+   },
+   {
+    "answer": "Métonymie",
+    "tier": "t1"
+   },
+   {
+    "answer": "Litote",
+    "tier": "t1"
+   },
+   {
+    "answer": "Allitération",
+    "tier": "t1"
+   },
+   {
+    "answer": "Oxymore",
+    "tier": "t1"
+   },
+   {
+    "answer": "Euphémisme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Métaphore",
+    "tier": "t2"
+   },
+   {
+    "answer": "Adynaton",
+    "tier": "t6"
+   },
+   {
+    "answer": "Ironie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Anaphore",
+    "tier": "t3"
+   },
+   {
+    "answer": "Assonance",
+    "tier": "t3"
+   },
+   {
+    "answer": "Synecdoque",
+    "tier": "t3"
+   },
+   {
+    "answer": "Périphrase",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gradation",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chiasme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paradoxe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Question rhétorique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Accumulation",
+    "tier": "t3"
+   },
+   {
+    "answer": "Énumération",
+    "tier": "t3"
+   },
+   {
+    "answer": "Apostrophe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Prosopopée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Allégorie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Répétition",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pléonasme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Zeugme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hypallage",
+    "tier": "t4"
+   },
+   {
+    "answer": "Parallélisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Asyndète",
+    "tier": "t4"
+   },
+   {
+    "answer": "Polysyndète",
+    "tier": "t4"
+   },
+   {
+    "answer": "Épanorthose",
+    "tier": "t4"
+   },
+   {
+    "answer": "Anadiplose",
+    "tier": "t4"
+   },
+   {
+    "answer": "Épiphore",
+    "tier": "t4"
+   },
+   {
+    "answer": "Antiphrase",
+    "tier": "t4"
+   },
+   {
+    "answer": "Paronomase",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tautologie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ellipse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Anacoluthe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hyperbate",
+    "tier": "t4"
+   },
+   {
+    "answer": "Aposiopèse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Prétérition",
+    "tier": "t4"
+   },
+   {
+    "answer": "Antonomase",
+    "tier": "t4"
+   },
+   {
+    "answer": "Comparaison métaphorique",
+    "tier": "t4"
+   },
+   {
+    "answer": "Exclamation",
+    "tier": "t4"
+   },
+   {
+    "answer": "Syllepse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Métalepse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Catachrèse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Épanalepse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Symploque",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hendiadyn",
+    "tier": "t5"
+   },
+   {
+    "answer": "Isocolon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Paralipse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Anastrophe",
+    "tier": "t5"
+   },
+   {
+    "answer": "Prolepse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Brachylogie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Diaphore",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tmèse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hypotypose",
+    "tier": "t5"
+   },
+   {
+    "answer": "Épiphonème",
+    "tier": "t5"
+   },
+   {
+    "answer": "Polyptote",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chleuasme",
+    "tier": "t5"
+   },
+   {
+    "answer": "Épizeuxe",
+    "tier": "t5"
+   },
+   {
+    "answer": "Antanaclase",
+    "tier": "t5"
+   },
+   {
+    "answer": "Diérèse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Synérèse",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-mythes-03",
+  "text": "Nomme un personnage de la légende du roi Arthur et de la Table ronde",
+  "entries": [
+   {
+    "answer": "Arthur",
+    "tier": "t1"
+   },
+   {
+    "answer": "Lancelot",
+    "tier": "t1"
+   },
+   {
+    "answer": "Guenièvre",
+    "tier": "t1"
+   },
+   {
+    "answer": "Perceval",
+    "tier": "t1"
+   },
+   {
+    "answer": "Morgane",
+    "tier": "t1"
+   },
+   {
+    "answer": "Gauvain",
+    "tier": "t1"
+   },
+   {
+    "answer": "Viviane",
+    "tier": "t1"
+   },
+   {
+    "answer": "Tristan",
+    "tier": "t1"
+   },
+   {
+    "answer": "Iseut",
+    "tier": "t1"
+   },
+   {
+    "answer": "Merlin",
+    "tier": "t2"
+   },
+   {
+    "answer": "Dagonet",
+    "tier": "t6"
+   },
+   {
+    "answer": "Galaad",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mordred",
+    "tier": "t3"
+   },
+   {
+    "answer": "Keu",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bohort",
+    "tier": "t3"
+   },
+   {
+    "answer": "Yvain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bédivère",
+    "tier": "t3"
+   },
+   {
+    "answer": "Uther Pendragon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Léodagan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ygerne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Roi Pêcheur",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marc de Cornouailles",
+    "tier": "t3"
+   },
+   {
+    "answer": "Brangien",
+    "tier": "t3"
+   },
+   {
+    "answer": "Morholt",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pellinore",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lot d'Orcanie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Blanchefleur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Erec",
+    "tier": "t4"
+   },
+   {
+    "answer": "Énide",
+    "tier": "t4"
+   },
+   {
+    "answer": "Calogrenant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Méléagant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Agravain",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gaheris",
+    "tier": "t4"
+   },
+   {
+    "answer": "Palamède",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lamorak",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pellès",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lionel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ban de Bénoïc",
+    "tier": "t4"
+   },
+   {
+    "answer": "Claudas",
+    "tier": "t4"
+   },
+   {
+    "answer": "Girflet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dinadan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sagremor",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gareth",
+    "tier": "t4"
+   },
+   {
+    "answer": "Urien",
+    "tier": "t4"
+   },
+   {
+    "answer": "Elaine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gornemant de Goort",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kahedin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lucan",
+    "tier": "t5"
+   },
+   {
+    "answer": "Yder",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tor",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hoël",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mordrain",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nascien",
+    "tier": "t5"
+   },
+   {
+    "answer": "Joseph d'Arimathie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pelléas",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bademagus",
+    "tier": "t5"
+   },
+   {
+    "answer": "Segwarides",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ségurant",
+    "tier": "t5"
+   },
+   {
+    "answer": "Arnive",
+    "tier": "t5"
+   },
+   {
+    "answer": "Keux d'Estraux",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lucan le Bouteiller",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hector des Mares",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bleoberis",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-mythes-04",
+  "text": "Nomme une créature fantastique du folklore ou de la fantasy (hors mythologie grecque)",
+  "entries": [
+   {
+    "answer": "Licorne",
+    "tier": "t1"
+   },
+   {
+    "answer": "Loup-garou",
+    "tier": "t1"
+   },
+   {
+    "answer": "Fée",
+    "tier": "t1"
+   },
+   {
+    "answer": "Elfe",
+    "tier": "t1"
+   },
+   {
+    "answer": "Troll",
+    "tier": "t1"
+   },
+   {
+    "answer": "Zombie",
+    "tier": "t1"
+   },
+   {
+    "answer": "Fantôme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Sirène",
+    "tier": "t1"
+   },
+   {
+    "answer": "Dragon",
+    "tier": "t1"
+   },
+   {
+    "answer": "Vampire",
+    "tier": "t2"
+   },
+   {
+    "answer": "Dahu",
+    "tier": "t6"
+   },
+   {
+    "answer": "Gobelin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ogre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Géant",
+    "tier": "t3"
+   },
+   {
+    "answer": "Yéti",
+    "tier": "t3"
+   },
+   {
+    "answer": "Golem",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lutin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Farfadet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gnome",
+    "tier": "t3"
+   },
+   {
+    "answer": "Orque",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kraken",
+    "tier": "t3"
+   },
+   {
+    "answer": "Basilic",
+    "tier": "t3"
+   },
+   {
+    "answer": "Phénix",
+    "tier": "t3"
+   },
+   {
+    "answer": "Banshee",
+    "tier": "t3"
+   },
+   {
+    "answer": "Djinn",
+    "tier": "t3"
+   },
+   {
+    "answer": "Momie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gargouille",
+    "tier": "t3"
+   },
+   {
+    "answer": "Succube",
+    "tier": "t3"
+   },
+   {
+    "answer": "Incube",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lépréchaun",
+    "tier": "t3"
+   },
+   {
+    "answer": "Wendigo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ondine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sylphe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Salamandre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hobbit",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ent",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vouivre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tarasque",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chupacabra",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bigfoot",
+    "tier": "t4"
+   },
+   {
+    "answer": "Monstre du Loch Ness",
+    "tier": "t4"
+   },
+   {
+    "answer": "Selkie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kitsune",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tengu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Oni",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kappa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Naga",
+    "tier": "t4"
+   },
+   {
+    "answer": "Garuda",
+    "tier": "t4"
+   },
+   {
+    "answer": "Roc",
+    "tier": "t4"
+   },
+   {
+    "answer": "Simorgh",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ifrit",
+    "tier": "t4"
+   },
+   {
+    "answer": "Goule",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gremlin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Poltergeist",
+    "tier": "t4"
+   },
+   {
+    "answer": "Béhémoth",
+    "tier": "t4"
+   },
+   {
+    "answer": "Léviathan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Korrigan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hippogriffe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cockatrice",
+    "tier": "t4"
+   },
+   {
+    "answer": "Boggart",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dullahan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fenrir",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jörmungandr",
+    "tier": "t5"
+   },
+   {
+    "answer": "Draugr",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jackalope",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bahamut",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pooka",
+    "tier": "t5"
+   },
+   {
+    "answer": "Baku",
+    "tier": "t5"
+   },
+   {
+    "answer": "Yokai",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rusalka",
+    "tier": "t5"
+   },
+   {
+    "answer": "Domovoï",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kobold",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nixe",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tarrasque",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ankou",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mothman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kelpie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Wyrm",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-mythes-10",
+  "text": "Nomme une fête religieuse (toutes religions)",
+  "entries": [
+   {
+    "answer": "Pâques",
+    "tier": "t1"
+   },
+   {
+    "answer": "Ramadan",
+    "tier": "t1"
+   },
+   {
+    "answer": "Hanoukka",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pentecôte",
+    "tier": "t1"
+   },
+   {
+    "answer": "Toussaint",
+    "tier": "t1"
+   },
+   {
+    "answer": "Assomption",
+    "tier": "t1"
+   },
+   {
+    "answer": "Yom Kippour",
+    "tier": "t1"
+   },
+   {
+    "answer": "Épiphanie",
+    "tier": "t1"
+   },
+   {
+    "answer": "Aïd el-Kébir",
+    "tier": "t1"
+   },
+   {
+    "answer": "Aïd el-Fitr",
+    "tier": "t1"
+   },
+   {
+    "answer": "Noël",
+    "tier": "t2"
+   },
+   {
+    "answer": "Jour des Morts",
+    "tier": "t6"
+   },
+   {
+    "answer": "Ascension",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rameaux",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vendredi saint",
+    "tier": "t3"
+   },
+   {
+    "answer": "Carême",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mardi gras",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mercredi des Cendres",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chandeleur",
+    "tier": "t3"
+   },
+   {
+    "answer": "Annonciation",
+    "tier": "t3"
+   },
+   {
+    "answer": "Immaculée Conception",
+    "tier": "t3"
+   },
+   {
+    "answer": "Trinité",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fête-Dieu",
+    "tier": "t3"
+   },
+   {
+    "answer": "Avent",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pessah",
+    "tier": "t3"
+   },
+   {
+    "answer": "Souccot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pourim",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rosh Hashana",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chavouot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Divali",
+    "tier": "t3"
+   },
+   {
+    "answer": "Holi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vesak",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mawlid",
+    "tier": "t3"
+   },
+   {
+    "answer": "Achoura",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nuit du Destin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nativité",
+    "tier": "t3"
+   },
+   {
+    "answer": "Saint-Nicolas",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jeudi saint",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lundi de Pâques",
+    "tier": "t3"
+   },
+   {
+    "answer": "Samedi saint",
+    "tier": "t3"
+   },
+   {
+    "answer": "Shabbat",
+    "tier": "t3"
+   },
+   {
+    "answer": "Navaratri",
+    "tier": "t4"
+   },
+   {
+    "answer": "Janmashtami",
+    "tier": "t4"
+   },
+   {
+    "answer": "Raksha Bandhan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Baisakhi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gurpurab",
+    "tier": "t4"
+   },
+   {
+    "answer": "Théophanie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Transfiguration",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dormition",
+    "tier": "t4"
+   },
+   {
+    "answer": "Christ-Roi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tou Bichvat",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lag Baomer",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tisha Beav",
+    "tier": "t4"
+   },
+   {
+    "answer": "Simhat Torah",
+    "tier": "t4"
+   },
+   {
+    "answer": "Obon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Songkran",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mahashivaratri",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ganesh Chaturthi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Durga Puja",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rath Yatra",
+    "tier": "t4"
+   },
+   {
+    "answer": "Samhain",
+    "tier": "t4"
+   },
+   {
+    "answer": "Beltane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Yule",
+    "tier": "t4"
+   },
+   {
+    "answer": "Imbolc",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ostara",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lughnasadh",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nouvel an musulman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sainte-Lucie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Saint-Jean",
+    "tier": "t4"
+   },
+   {
+    "answer": "Saint-Sylvestre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Magha Puja",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hola Mohalla",
+    "tier": "t4"
+   },
+   {
+    "answer": "Aïd al-Ghadir",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mi-Carême",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rogations",
+    "tier": "t5"
+   },
+   {
+    "answer": "Quasimodo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Présentation au Temple",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sainte-Famille",
+    "tier": "t5"
+   },
+   {
+    "answer": "Baptême du Christ",
+    "tier": "t5"
+   },
+   {
+    "answer": "Exaltation de la Sainte Croix",
+    "tier": "t5"
+   },
+   {
+    "answer": "Saint-Étienne",
+    "tier": "t5"
+   },
+   {
+    "answer": "Saints Innocents",
+    "tier": "t5"
+   },
+   {
+    "answer": "Thaipusam",
+    "tier": "t5"
+   },
+   {
+    "answer": "Onam",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pongal",
+    "tier": "t5"
+   },
+   {
+    "answer": "Asalha Puja",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lailat al-Miraj",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mi-Chaabane",
+    "tier": "t5"
+   },
+   {
+    "answer": "Yom Haatsmaout",
+    "tier": "t5"
+   },
+   {
+    "answer": "Yom Hazikaron",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rosh Hodesh",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pessah Sheni",
+    "tier": "t5"
+   },
+   {
+    "answer": "Shemini Atzeret",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kathina",
+    "tier": "t5"
+   }
+  ]
+ }
+]

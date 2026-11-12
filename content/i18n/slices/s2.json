@@ -1,0 +1,7308 @@
+[
+ {
+  "id": "art-classique-02",
+  "text": "Nomme un compositeur classique italien",
+  "entries": [
+   {
+    "answer": "Vivaldi",
+    "tier": "t1"
+   },
+   {
+    "answer": "Puccini",
+    "tier": "t1"
+   },
+   {
+    "answer": "Rossini",
+    "tier": "t1"
+   },
+   {
+    "answer": "Paganini",
+    "tier": "t1"
+   },
+   {
+    "answer": "Monteverdi",
+    "tier": "t1"
+   },
+   {
+    "answer": "Donizetti",
+    "tier": "t1"
+   },
+   {
+    "answer": "Bellini",
+    "tier": "t1"
+   },
+   {
+    "answer": "Domenico Scarlatti",
+    "tier": "t1"
+   },
+   {
+    "answer": "Verdi",
+    "tier": "t2"
+   },
+   {
+    "answer": "Gesualdo",
+    "tier": "t6"
+   },
+   {
+    "answer": "Albinoni",
+    "tier": "t3"
+   },
+   {
+    "answer": "Corelli",
+    "tier": "t3"
+   },
+   {
+    "answer": "Boccherini",
+    "tier": "t3"
+   },
+   {
+    "answer": "Respighi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mascagni",
+    "tier": "t3"
+   },
+   {
+    "answer": "Leoncavallo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ennio Morricone",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tartini",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pergolesi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Salieri",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cherubini",
+    "tier": "t3"
+   },
+   {
+    "answer": "Clementi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Busoni",
+    "tier": "t3"
+   },
+   {
+    "answer": "Palestrina",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cimarosa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Paisiello",
+    "tier": "t4"
+   },
+   {
+    "answer": "Frescobaldi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gabrieli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alessandro Marcello",
+    "tier": "t4"
+   },
+   {
+    "answer": "Locatelli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Geminiani",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sammartini",
+    "tier": "t4"
+   },
+   {
+    "answer": "Spontini",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ponchielli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Umberto Giordano",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cilea",
+    "tier": "t4"
+   },
+   {
+    "answer": "Luciano Berio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Luigi Nono",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dallapiccola",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nino Rota",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ludovico Einaudi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Allegri",
+    "tier": "t4"
+   },
+   {
+    "answer": "Giulio Caccini",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jacopo Peri",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cavalli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alessandro Stradella",
+    "tier": "t4"
+   },
+   {
+    "answer": "Giuseppe Torelli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arrigo Boito",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alessandro Scarlatti",
+    "tier": "t4"
+   },
+   {
+    "answer": "Porpora",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jommelli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pizzetti",
+    "tier": "t4"
+   },
+   {
+    "answer": "Casella",
+    "tier": "t4"
+   },
+   {
+    "answer": "Malipiero",
+    "tier": "t4"
+   },
+   {
+    "answer": "Veracini",
+    "tier": "t5"
+   },
+   {
+    "answer": "Viotti",
+    "tier": "t5"
+   },
+   {
+    "answer": "Legrenzi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Zandonai",
+    "tier": "t5"
+   },
+   {
+    "answer": "Wolf-Ferrari",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sgambati",
+    "tier": "t5"
+   },
+   {
+    "answer": "Martucci",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nicola Piovani",
+    "tier": "t5"
+   },
+   {
+    "answer": "Giovanni Sollima",
+    "tier": "t5"
+   },
+   {
+    "answer": "Franco Alfano",
+    "tier": "t5"
+   },
+   {
+    "answer": "Niccolò Piccinni",
+    "tier": "t5"
+   },
+   {
+    "answer": "Giovanni Battista Bononcini",
+    "tier": "t5"
+   },
+   {
+    "answer": "Giacomo Carissimi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Emilio de' Cavalieri",
+    "tier": "t5"
+   },
+   {
+    "answer": "Luca Marenzio",
+    "tier": "t5"
+   },
+   {
+    "answer": "Barbara Strozzi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Francesca Caccini",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-03",
+  "text": "Nomme un compositeur classique russe ou d'Europe de l'Est (Pologne, Tchéquie, Hongrie, Roumanie, pays baltes, Ukraine, Caucase...)",
+  "entries": [
+   {
+    "answer": "Chopin",
+    "tier": "t1"
+   },
+   {
+    "answer": "Rachmaninov",
+    "tier": "t1"
+   },
+   {
+    "answer": "Stravinski",
+    "tier": "t1"
+   },
+   {
+    "answer": "Prokofiev",
+    "tier": "t1"
+   },
+   {
+    "answer": "Chostakovitch",
+    "tier": "t1"
+   },
+   {
+    "answer": "Dvořák",
+    "tier": "t1"
+   },
+   {
+    "answer": "Liszt",
+    "tier": "t1"
+   },
+   {
+    "answer": "Moussorgski",
+    "tier": "t1"
+   },
+   {
+    "answer": "Tchaïkovski",
+    "tier": "t2"
+   },
+   {
+    "answer": "Čiurlionis",
+    "tier": "t6"
+   },
+   {
+    "answer": "Rimski-Korsakov",
+    "tier": "t3"
+   },
+   {
+    "answer": "Borodine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Glinka",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bartók",
+    "tier": "t3"
+   },
+   {
+    "answer": "Smetana",
+    "tier": "t3"
+   },
+   {
+    "answer": "Janáček",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kodály",
+    "tier": "t3"
+   },
+   {
+    "answer": "Scriabine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Khatchatourian",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ligeti",
+    "tier": "t3"
+   },
+   {
+    "answer": "Penderecki",
+    "tier": "t3"
+   },
+   {
+    "answer": "Górecki",
+    "tier": "t3"
+   },
+   {
+    "answer": "Martinů",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lutosławski",
+    "tier": "t3"
+   },
+   {
+    "answer": "Szymanowski",
+    "tier": "t3"
+   },
+   {
+    "answer": "Enesco",
+    "tier": "t3"
+   },
+   {
+    "answer": "Glazounov",
+    "tier": "t3"
+   },
+   {
+    "answer": "Balakirev",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cui",
+    "tier": "t4"
+   },
+   {
+    "answer": "Glière",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rubinstein",
+    "tier": "t4"
+   },
+   {
+    "answer": "Taneïev",
+    "tier": "t4"
+   },
+   {
+    "answer": "Medtner",
+    "tier": "t4"
+   },
+   {
+    "answer": "Liadov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arenski",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kabalevski",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chtchedrine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Schnittke",
+    "tier": "t4"
+   },
+   {
+    "answer": "Goubaïdoulina",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dargomyjski",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gretchaninov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pärt",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dohnányi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kurtág",
+    "tier": "t4"
+   },
+   {
+    "answer": "Moniuszko",
+    "tier": "t4"
+   },
+   {
+    "answer": "Paderewski",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wieniawski",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fibich",
+    "tier": "t4"
+   },
+   {
+    "answer": "Suk",
+    "tier": "t4"
+   },
+   {
+    "answer": "Novák",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lehár",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kálmán",
+    "tier": "t4"
+   },
+   {
+    "answer": "Panufnik",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kilar",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bacewicz",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mysliveček",
+    "tier": "t5"
+   },
+   {
+    "answer": "Zelenka",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hubay",
+    "tier": "t5"
+   },
+   {
+    "answer": "Erkel",
+    "tier": "t5"
+   },
+   {
+    "answer": "Goldmark",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vasks",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tüür",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kancheli",
+    "tier": "t5"
+   },
+   {
+    "answer": "Komitas",
+    "tier": "t5"
+   },
+   {
+    "answer": "Silvestrov",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lysenko",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bortnianski",
+    "tier": "t5"
+   },
+   {
+    "answer": "Denisov",
+    "tier": "t5"
+   },
+   {
+    "answer": "Schulhoff",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hans Krása",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pavel Haas",
+    "tier": "t5"
+   },
+   {
+    "answer": "Viktor Ullmann",
+    "tier": "t5"
+   },
+   {
+    "answer": "Weinberg",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mossolov",
+    "tier": "t5"
+   },
+   {
+    "answer": "Miaskovski",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sviridov",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-04",
+  "text": "Nomme un compositeur classique britannique, irlandais ou américain",
+  "entries": [
+   {
+    "answer": "Elgar",
+    "tier": "t1"
+   },
+   {
+    "answer": "Britten",
+    "tier": "t1"
+   },
+   {
+    "answer": "Bernstein",
+    "tier": "t1"
+   },
+   {
+    "answer": "Copland",
+    "tier": "t1"
+   },
+   {
+    "answer": "Purcell",
+    "tier": "t1"
+   },
+   {
+    "answer": "Holst",
+    "tier": "t1"
+   },
+   {
+    "answer": "Vaughan Williams",
+    "tier": "t1"
+   },
+   {
+    "answer": "Philip Glass",
+    "tier": "t1"
+   },
+   {
+    "answer": "Gershwin",
+    "tier": "t2"
+   },
+   {
+    "answer": "Harry Partch",
+    "tier": "t6"
+   },
+   {
+    "answer": "Barber",
+    "tier": "t3"
+   },
+   {
+    "answer": "John Cage",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ives",
+    "tier": "t3"
+   },
+   {
+    "answer": "Steve Reich",
+    "tier": "t3"
+   },
+   {
+    "answer": "John Adams",
+    "tier": "t3"
+   },
+   {
+    "answer": "Walton",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tallis",
+    "tier": "t3"
+   },
+   {
+    "answer": "Byrd",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dowland",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sullivan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Delius",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tippett",
+    "tier": "t3"
+   },
+   {
+    "answer": "Orlando Gibbons",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thomas Morley",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thomas Weelkes",
+    "tier": "t4"
+   },
+   {
+    "answer": "Taverner",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thomas Arne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hubert Parry",
+    "tier": "t4"
+   },
+   {
+    "answer": "Charles Villiers Stanford",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arnold Bax",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gerald Finzi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Warlock",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arthur Bliss",
+    "tier": "t4"
+   },
+   {
+    "answer": "Frank Bridge",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Ireland",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ivor Gurney",
+    "tier": "t4"
+   },
+   {
+    "answer": "Herbert Howells",
+    "tier": "t4"
+   },
+   {
+    "answer": "Malcolm Arnold",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Maxwell Davies",
+    "tier": "t4"
+   },
+   {
+    "answer": "Harrison Birtwistle",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Tavener",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Rutter",
+    "tier": "t4"
+   },
+   {
+    "answer": "Karl Jenkins",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thomas Adès",
+    "tier": "t4"
+   },
+   {
+    "answer": "James MacMillan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mark-Anthony Turnage",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Field",
+    "tier": "t4"
+   },
+   {
+    "answer": "Terry Riley",
+    "tier": "t4"
+   },
+   {
+    "answer": "Elliott Carter",
+    "tier": "t4"
+   },
+   {
+    "answer": "Walter Piston",
+    "tier": "t4"
+   },
+   {
+    "answer": "Howard Hanson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Roy Harris",
+    "tier": "t4"
+   },
+   {
+    "answer": "William Schuman",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Corigliano",
+    "tier": "t4"
+   },
+   {
+    "answer": "Louis Moreau Gottschalk",
+    "tier": "t4"
+   },
+   {
+    "answer": "Edward MacDowell",
+    "tier": "t4"
+   },
+   {
+    "answer": "Amy Beach",
+    "tier": "t4"
+   },
+   {
+    "answer": "Henry Cowell",
+    "tier": "t4"
+   },
+   {
+    "answer": "Morton Feldman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Milton Babbitt",
+    "tier": "t4"
+   },
+   {
+    "answer": "George Crumb",
+    "tier": "t4"
+   },
+   {
+    "answer": "Virgil Thomson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Eric Whitacre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Morten Lauridsen",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Luther Adams",
+    "tier": "t4"
+   },
+   {
+    "answer": "William Grant Still",
+    "tier": "t4"
+   },
+   {
+    "answer": "Samuel Coleridge-Taylor",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ethel Smyth",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rebecca Clarke",
+    "tier": "t4"
+   },
+   {
+    "answer": "William Boyce",
+    "tier": "t5"
+   },
+   {
+    "answer": "John Blow",
+    "tier": "t5"
+   },
+   {
+    "answer": "John Dunstable",
+    "tier": "t5"
+   },
+   {
+    "answer": "Matthew Locke",
+    "tier": "t5"
+   },
+   {
+    "answer": "William Lawes",
+    "tier": "t5"
+   },
+   {
+    "answer": "Roger Quilter",
+    "tier": "t5"
+   },
+   {
+    "answer": "George Butterworth",
+    "tier": "t5"
+   },
+   {
+    "answer": "E. J. Moeran",
+    "tier": "t5"
+   },
+   {
+    "answer": "Eric Coates",
+    "tier": "t5"
+   },
+   {
+    "answer": "Elisabeth Lutyens",
+    "tier": "t5"
+   },
+   {
+    "answer": "Elizabeth Maconchy",
+    "tier": "t5"
+   },
+   {
+    "answer": "Brian Ferneyhough",
+    "tier": "t5"
+   },
+   {
+    "answer": "Oliver Knussen",
+    "tier": "t5"
+   },
+   {
+    "answer": "Charles Wuorinen",
+    "tier": "t5"
+   },
+   {
+    "answer": "Frederic Rzewski",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ruth Crawford Seeger",
+    "tier": "t5"
+   },
+   {
+    "answer": "George Antheil",
+    "tier": "t5"
+   },
+   {
+    "answer": "Roger Sessions",
+    "tier": "t5"
+   },
+   {
+    "answer": "William Bolcom",
+    "tier": "t5"
+   },
+   {
+    "answer": "Florence Price",
+    "tier": "t5"
+   },
+   {
+    "answer": "Aaron Jay Kernis",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jennifer Higdon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ellen Taaffe Zwilich",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ned Rorem",
+    "tier": "t5"
+   },
+   {
+    "answer": "Charles Griffes",
+    "tier": "t5"
+   },
+   {
+    "answer": "George Chadwick",
+    "tier": "t5"
+   },
+   {
+    "answer": "Dudley Buck",
+    "tier": "t5"
+   },
+   {
+    "answer": "Horatio Parker",
+    "tier": "t5"
+   },
+   {
+    "answer": "Arthur Foote",
+    "tier": "t5"
+   },
+   {
+    "answer": "William Billings",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-05",
+  "text": "Nomme un compositeur classique espagnol, portugais, latino-américain ou nordique",
+  "entries": [
+   {
+    "answer": "Sibelius",
+    "tier": "t1"
+   },
+   {
+    "answer": "Falla",
+    "tier": "t1"
+   },
+   {
+    "answer": "Albéniz",
+    "tier": "t1"
+   },
+   {
+    "answer": "Rodrigo",
+    "tier": "t1"
+   },
+   {
+    "answer": "Villa-Lobos",
+    "tier": "t1"
+   },
+   {
+    "answer": "Piazzolla",
+    "tier": "t1"
+   },
+   {
+    "answer": "Nielsen",
+    "tier": "t1"
+   },
+   {
+    "answer": "Granados",
+    "tier": "t1"
+   },
+   {
+    "answer": "Grieg",
+    "tier": "t2"
+   },
+   {
+    "answer": "Agustín Barrios Mangoré",
+    "tier": "t6"
+   },
+   {
+    "answer": "Turina",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sarasate",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tárrega",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mompou",
+    "tier": "t3"
+   },
+   {
+    "answer": "Antonio Soler",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tomás Luis de Victoria",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ginastera",
+    "tier": "t3"
+   },
+   {
+    "answer": "Carlos Chávez",
+    "tier": "t3"
+   },
+   {
+    "answer": "Silvestre Revueltas",
+    "tier": "t3"
+   },
+   {
+    "answer": "Manuel Ponce",
+    "tier": "t3"
+   },
+   {
+    "answer": "Svendsen",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sinding",
+    "tier": "t3"
+   },
+   {
+    "answer": "Berwald",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alfvén",
+    "tier": "t3"
+   },
+   {
+    "answer": "Stenhammar",
+    "tier": "t3"
+   },
+   {
+    "answer": "Halvorsen",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rautavaara",
+    "tier": "t3"
+   },
+   {
+    "answer": "Saariaho",
+    "tier": "t3"
+   },
+   {
+    "answer": "Salonen",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lindberg",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gade",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cristóbal de Morales",
+    "tier": "t4"
+   },
+   {
+    "answer": "Francisco Guerrero",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arriaga",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fernando Sor",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pablo Casals",
+    "tier": "t4"
+   },
+   {
+    "answer": "Federico Moreno Torroba",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ernesto Halffter",
+    "tier": "t4"
+   },
+   {
+    "answer": "Xavier Montsalvatge",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ruperto Chapí",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arturo Márquez",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ernesto Lecuona",
+    "tier": "t4"
+   },
+   {
+    "answer": "Leo Brouwer",
+    "tier": "t4"
+   },
+   {
+    "answer": "Osvaldo Golijov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Carlos Gomes",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alberto Nepomuceno",
+    "tier": "t4"
+   },
+   {
+    "answer": "Camargo Guarnieri",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vagn Holmboe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Per Nørgård",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rued Langgaard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Heise",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lars-Erik Larsson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wilhelm Peterson-Berger",
+    "tier": "t4"
+   },
+   {
+    "answer": "Aulis Sallinen",
+    "tier": "t4"
+   },
+   {
+    "answer": "Leevi Madetoja",
+    "tier": "t4"
+   },
+   {
+    "answer": "Oskar Merikanto",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kalevi Aho",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ola Gjeilo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Anna Thorvaldsdottir",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fartein Valen",
+    "tier": "t4"
+   },
+   {
+    "answer": "Luis de Narváez",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alonso Mudarra",
+    "tier": "t5"
+   },
+   {
+    "answer": "Antonio de Cabezón",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gaspar Sanz",
+    "tier": "t5"
+   },
+   {
+    "answer": "Santiago de Murcia",
+    "tier": "t5"
+   },
+   {
+    "answer": "Carlos Seixas",
+    "tier": "t5"
+   },
+   {
+    "answer": "João Domingos Bomtempo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Luís de Freitas Branco",
+    "tier": "t5"
+   },
+   {
+    "answer": "Francisco Mignone",
+    "tier": "t5"
+   },
+   {
+    "answer": "Julián Carrillo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Blas Galindo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Juan Orrego-Salas",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jón Leifs",
+    "tier": "t5"
+   },
+   {
+    "answer": "Geirr Tveitt",
+    "tier": "t5"
+   },
+   {
+    "answer": "Harald Sæverud",
+    "tier": "t5"
+   },
+   {
+    "answer": "Johan Peter Emilius Hartmann",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ture Rangström",
+    "tier": "t5"
+   },
+   {
+    "answer": "Erkki Melartin",
+    "tier": "t5"
+   },
+   {
+    "answer": "Einar Englund",
+    "tier": "t5"
+   },
+   {
+    "answer": "Joonas Kokkonen",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jacob Gade",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-06",
+  "text": "Nomme un personnage d'opéra",
+  "entries": [
+   {
+    "answer": "Figaro",
+    "tier": "t1"
+   },
+   {
+    "answer": "Don Giovanni",
+    "tier": "t1"
+   },
+   {
+    "answer": "Tosca",
+    "tier": "t1"
+   },
+   {
+    "answer": "Rigoletto",
+    "tier": "t1"
+   },
+   {
+    "answer": "Violetta",
+    "tier": "t1"
+   },
+   {
+    "answer": "Papageno",
+    "tier": "t1"
+   },
+   {
+    "answer": "Madame Butterfly",
+    "tier": "t1"
+   },
+   {
+    "answer": "Aïda",
+    "tier": "t1"
+   },
+   {
+    "answer": "Otello",
+    "tier": "t1"
+   },
+   {
+    "answer": "Mimi",
+    "tier": "t1"
+   },
+   {
+    "answer": "Carmen",
+    "tier": "t2"
+   },
+   {
+    "answer": "Dulcamara",
+    "tier": "t6"
+   },
+   {
+    "answer": "Escamillo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Don José",
+    "tier": "t3"
+   },
+   {
+    "answer": "Micaëla",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rosine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le comte Almaviva",
+    "tier": "t3"
+   },
+   {
+    "answer": "Susanna",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chérubin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Leporello",
+    "tier": "t3"
+   },
+   {
+    "answer": "Donna Anna",
+    "tier": "t3"
+   },
+   {
+    "answer": "Don Ottavio",
+    "tier": "t3"
+   },
+   {
+    "answer": "Donna Elvira",
+    "tier": "t3"
+   },
+   {
+    "answer": "Zerline",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pamina",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tamino",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Reine de la nuit",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sarastro",
+    "tier": "t3"
+   },
+   {
+    "answer": "Scarpia",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cavaradossi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rodolfo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Musetta",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pinkerton",
+    "tier": "t3"
+   },
+   {
+    "answer": "Turandot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Calaf",
+    "tier": "t3"
+   },
+   {
+    "answer": "Liù",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gilda",
+    "tier": "t3"
+   },
+   {
+    "answer": "Radamès",
+    "tier": "t3"
+   },
+   {
+    "answer": "Amneris",
+    "tier": "t3"
+   },
+   {
+    "answer": "Iago",
+    "tier": "t3"
+   },
+   {
+    "answer": "Desdemona",
+    "tier": "t3"
+   },
+   {
+    "answer": "Falstaff",
+    "tier": "t3"
+   },
+   {
+    "answer": "Faust",
+    "tier": "t3"
+   },
+   {
+    "answer": "Méphistophélès",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marguerite",
+    "tier": "t3"
+   },
+   {
+    "answer": "Roméo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Juliette",
+    "tier": "t3"
+   },
+   {
+    "answer": "Orphée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Eurydice",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lohengrin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tristan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Isolde",
+    "tier": "t3"
+   },
+   {
+    "answer": "Siegfried",
+    "tier": "t3"
+   },
+   {
+    "answer": "Brünnhilde",
+    "tier": "t3"
+   },
+   {
+    "answer": "Wotan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Parsifal",
+    "tier": "t3"
+   },
+   {
+    "answer": "Salomé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Manon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Werther",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hänsel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gretel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pelléas",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mélisande",
+    "tier": "t3"
+   },
+   {
+    "answer": "Boris Godounov",
+    "tier": "t3"
+   },
+   {
+    "answer": "Onéguine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Norma",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nabucco",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lucia di Lammermoor",
+    "tier": "t3"
+   },
+   {
+    "answer": "Samson",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dalila",
+    "tier": "t3"
+   },
+   {
+    "answer": "Don Alfonso",
+    "tier": "t4"
+   },
+   {
+    "answer": "Despina",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fiordiligi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dorabella",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ferrando",
+    "tier": "t4"
+   },
+   {
+    "answer": "Guglielmo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Idomeneo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Titus",
+    "tier": "t4"
+   },
+   {
+    "answer": "Médée",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jason",
+    "tier": "t4"
+   },
+   {
+    "answer": "Armide",
+    "tier": "t4"
+   },
+   {
+    "answer": "Didon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Énée",
+    "tier": "t4"
+   },
+   {
+    "answer": "Poppée",
+    "tier": "t4"
+   },
+   {
+    "answer": "Néron",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Grimes",
+    "tier": "t4"
+   },
+   {
+    "answer": "Billy Budd",
+    "tier": "t4"
+   },
+   {
+    "answer": "Porgy",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bess",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wozzeck",
+    "tier": "t4"
+   },
+   {
+    "answer": "Elektra",
+    "tier": "t4"
+   },
+   {
+    "answer": "Octavian",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Maréchale",
+    "tier": "t4"
+   },
+   {
+    "answer": "Don Quichotte",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thaïs",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lakmé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tatiana",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lenski",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rusalka",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hermann",
+    "tier": "t4"
+   },
+   {
+    "answer": "Don Carlos",
+    "tier": "t4"
+   },
+   {
+    "answer": "Philippe II",
+    "tier": "t4"
+   },
+   {
+    "answer": "Élisabeth de Valois",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le marquis de Posa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gianni Schicchi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nedda",
+    "tier": "t4"
+   },
+   {
+    "answer": "Canio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tonio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Santuzza",
+    "tier": "t4"
+   },
+   {
+    "answer": "Turiddu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alfio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Edgardo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nemorino",
+    "tier": "t4"
+   },
+   {
+    "answer": "Adina",
+    "tier": "t4"
+   },
+   {
+    "answer": "Don Pasquale",
+    "tier": "t4"
+   },
+   {
+    "answer": "Norina",
+    "tier": "t4"
+   },
+   {
+    "answer": "Malatesta",
+    "tier": "t4"
+   },
+   {
+    "answer": "Manrico",
+    "tier": "t4"
+   },
+   {
+    "answer": "Azucena",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alfredo Germont",
+    "tier": "t4"
+   },
+   {
+    "answer": "Germont",
+    "tier": "t4"
+   },
+   {
+    "answer": "Elsa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tannhäuser",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sieglinde",
+    "tier": "t4"
+   },
+   {
+    "answer": "Siegmund",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fricka",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alberich",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mime",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hagen",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kundry",
+    "tier": "t4"
+   },
+   {
+    "answer": "Amfortas",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hans Sachs",
+    "tier": "t4"
+   },
+   {
+    "answer": "Senta",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Hollandais volant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Golaud",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pollione",
+    "tier": "t4"
+   },
+   {
+    "answer": "Adalgisa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Leonora",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lady Macbeth",
+    "tier": "t4"
+   },
+   {
+    "answer": "Macbeth",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mefistofele",
+    "tier": "t4"
+   },
+   {
+    "answer": "Des Grieux",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lescaut",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sparafucile",
+    "tier": "t4"
+   },
+   {
+    "answer": "Monostatos",
+    "tier": "t4"
+   },
+   {
+    "answer": "Papagena",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marcello",
+    "tier": "t4"
+   },
+   {
+    "answer": "Schaunard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Colline",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Duc de Mantoue",
+    "tier": "t5"
+   },
+   {
+    "answer": "Maddalena",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ruslan",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lioudmila",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ramfis",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Commandeur",
+    "tier": "t5"
+   },
+   {
+    "answer": "Masetto",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Docteur Bartolo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Basilio",
+    "tier": "t5"
+   },
+   {
+    "answer": "Marcellina",
+    "tier": "t5"
+   },
+   {
+    "answer": "Barbarina",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hoffmann",
+    "tier": "t5"
+   },
+   {
+    "answer": "Olympia",
+    "tier": "t5"
+   },
+   {
+    "answer": "Antonia",
+    "tier": "t5"
+   },
+   {
+    "answer": "Giulietta",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nicklausse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Platée",
+    "tier": "t5"
+   },
+   {
+    "answer": "Castor",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pollux",
+    "tier": "t5"
+   },
+   {
+    "answer": "Iphigénie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alceste",
+    "tier": "t5"
+   },
+   {
+    "answer": "Admète",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hippolyte",
+    "tier": "t5"
+   },
+   {
+    "answer": "Phèdre",
+    "tier": "t5"
+   },
+   {
+    "answer": "Thésée",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ariane",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bacchus",
+    "tier": "t5"
+   },
+   {
+    "answer": "Zerbinetta",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Compositeur",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jenůfa",
+    "tier": "t5"
+   },
+   {
+    "answer": "Katia Kabanova",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lulu",
+    "tier": "t5"
+   },
+   {
+    "answer": "Moïse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Aaron",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tom Rakewell",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gérald",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mireille",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vincent",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mignon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Wilhelm Meister",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hérodiade",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hérode",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sapho",
+    "tier": "t5"
+   },
+   {
+    "answer": "Esclarmonde",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cendrillon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tybalt",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mercutio",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-07",
+  "text": "Nomme un ballet",
+  "entries": [
+   {
+    "answer": "Casse-Noisette",
+    "tier": "t1"
+   },
+   {
+    "answer": "La Belle au bois dormant",
+    "tier": "t1"
+   },
+   {
+    "answer": "Giselle",
+    "tier": "t1"
+   },
+   {
+    "answer": "Coppélia",
+    "tier": "t1"
+   },
+   {
+    "answer": "Roméo et Juliette",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Sacre du printemps",
+    "tier": "t1"
+   },
+   {
+    "answer": "Boléro",
+    "tier": "t1"
+   },
+   {
+    "answer": "L'Oiseau de feu",
+    "tier": "t1"
+   },
+   {
+    "answer": "Don Quichotte",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Lac des cygnes",
+    "tier": "t2"
+   },
+   {
+    "answer": "Billy the Kid",
+    "tier": "t6"
+   },
+   {
+    "answer": "Cendrillon",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Bayadère",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Corsaire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Petrouchka",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sylvia",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Sylphide",
+    "tier": "t3"
+   },
+   {
+    "answer": "Les Sylphides",
+    "tier": "t3"
+   },
+   {
+    "answer": "Daphnis et Chloé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Spartacus",
+    "tier": "t3"
+   },
+   {
+    "answer": "L'Après-midi d'un faune",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Fille mal gardée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Manon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mayerling",
+    "tier": "t3"
+   },
+   {
+    "answer": "Carmen",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paquita",
+    "tier": "t4"
+   },
+   {
+    "answer": "Raymonda",
+    "tier": "t4"
+   },
+   {
+    "answer": "Shéhérazade",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Tricorne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Parade",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jeux",
+    "tier": "t4"
+   },
+   {
+    "answer": "Apollon musagète",
+    "tier": "t4"
+   },
+   {
+    "answer": "Agon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Noces",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pulcinella",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Biches",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jewels",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sérénade",
+    "tier": "t4"
+   },
+   {
+    "answer": "Symphonie en ut",
+    "tier": "t4"
+   },
+   {
+    "answer": "Concerto barocco",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Fils prodigue",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Esmeralda",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ondine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Papillon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Spectre de la rose",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Jeune Homme et la Mort",
+    "tier": "t4"
+   },
+   {
+    "answer": "Notre-Dame de Paris",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Songe d'une nuit d'été",
+    "tier": "t4"
+   },
+   {
+    "answer": "Onéguine",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Dame aux camélias",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Pavillon d'Armide",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Source",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Saisons",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Train bleu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Appalachian Spring",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fancy Free",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rodeo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alice au pays des merveilles",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Rouge et le Noir",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Forains",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Demoiselles de la nuit",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Chant du rossignol",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chout",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Présages",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gayaneh",
+    "tier": "t5"
+   },
+   {
+    "answer": "La Péri",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ma mère l'Oye",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Mariés de la tour Eiffel",
+    "tier": "t5"
+   },
+   {
+    "answer": "La Création du monde",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Bœuf sur le toit",
+    "tier": "t5"
+   },
+   {
+    "answer": "Marguerite et Armand",
+    "tier": "t5"
+   },
+   {
+    "answer": "Symphonic Variations",
+    "tier": "t5"
+   },
+   {
+    "answer": "Façade",
+    "tier": "t5"
+   },
+   {
+    "answer": "Anastasia",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Quatre Tempéraments",
+    "tier": "t5"
+   },
+   {
+    "answer": "Orpheus",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Cheval bossu",
+    "tier": "t5"
+   },
+   {
+    "answer": "La Fille du pharaon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Arlequinade",
+    "tier": "t5"
+   },
+   {
+    "answer": "Napoli",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pas de quatre",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jardin aux lilas",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pillar of Fire",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ivan le Terrible",
+    "tier": "t5"
+   },
+   {
+    "answer": "Études",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Loup",
+    "tier": "t5"
+   },
+   {
+    "answer": "Elite Syncopations",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gloria",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Diable boiteux",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Conservatoire",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Pas d'acier",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-09",
+  "text": "Nomme un dramaturge (auteur de pièces de théâtre), de toute époque et de tout pays",
+  "entries": [
+   {
+    "answer": "Molière",
+    "tier": "t1"
+   },
+   {
+    "answer": "Racine",
+    "tier": "t1"
+   },
+   {
+    "answer": "Corneille",
+    "tier": "t1"
+   },
+   {
+    "answer": "Samuel Beckett",
+    "tier": "t1"
+   },
+   {
+    "answer": "Eugène Ionesco",
+    "tier": "t1"
+   },
+   {
+    "answer": "Bertolt Brecht",
+    "tier": "t1"
+   },
+   {
+    "answer": "Tchekhov",
+    "tier": "t1"
+   },
+   {
+    "answer": "Sophocle",
+    "tier": "t1"
+   },
+   {
+    "answer": "Victor Hugo",
+    "tier": "t1"
+   },
+   {
+    "answer": "William Shakespeare",
+    "tier": "t2"
+   },
+   {
+    "answer": "Hrotsvita de Gandersheim",
+    "tier": "t6"
+   },
+   {
+    "answer": "Marivaux",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alfred de Musset",
+    "tier": "t3"
+   },
+   {
+    "answer": "Beaumarchais",
+    "tier": "t3"
+   },
+   {
+    "answer": "Georges Feydeau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Eugène Labiche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Anouilh",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean-Paul Sartre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Albert Camus",
+    "tier": "t3"
+   },
+   {
+    "answer": "Henrik Ibsen",
+    "tier": "t3"
+   },
+   {
+    "answer": "August Strindberg",
+    "tier": "t3"
+   },
+   {
+    "answer": "Oscar Wilde",
+    "tier": "t3"
+   },
+   {
+    "answer": "George Bernard Shaw",
+    "tier": "t3"
+   },
+   {
+    "answer": "Arthur Miller",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tennessee Williams",
+    "tier": "t3"
+   },
+   {
+    "answer": "Luigi Pirandello",
+    "tier": "t3"
+   },
+   {
+    "answer": "Carlo Goldoni",
+    "tier": "t3"
+   },
+   {
+    "answer": "Federico García Lorca",
+    "tier": "t3"
+   },
+   {
+    "answer": "Eschyle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Euripide",
+    "tier": "t3"
+   },
+   {
+    "answer": "Aristophane",
+    "tier": "t3"
+   },
+   {
+    "answer": "Edmond Rostand",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paul Claudel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Genet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Cocteau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Christopher Marlowe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Goethe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Schiller",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marcel Pagnol",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Giraudoux",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alfred Jarry",
+    "tier": "t3"
+   },
+   {
+    "answer": "Yasmina Reza",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lope de Vega",
+    "tier": "t4"
+   },
+   {
+    "answer": "Calderón",
+    "tier": "t4"
+   },
+   {
+    "answer": "Plaute",
+    "tier": "t4"
+   },
+   {
+    "answer": "Térence",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sénèque",
+    "tier": "t4"
+   },
+   {
+    "answer": "Eugene O'Neill",
+    "tier": "t4"
+   },
+   {
+    "answer": "Harold Pinter",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tom Stoppard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Edward Albee",
+    "tier": "t4"
+   },
+   {
+    "answer": "David Mamet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Friedrich Dürrenmatt",
+    "tier": "t4"
+   },
+   {
+    "answer": "Georg Büchner",
+    "tier": "t4"
+   },
+   {
+    "answer": "Heinrich von Kleist",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gotthold Ephraim Lessing",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nicolas Gogol",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maxime Gorki",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alexandre Ostrovski",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mikhaïl Boulgakov",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Millington Synge",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sacha Guitry",
+    "tier": "t4"
+   },
+   {
+    "answer": "Henry de Montherlant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bernard-Marie Koltès",
+    "tier": "t4"
+   },
+   {
+    "answer": "Joël Pommerat",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wajdi Mouawad",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dario Fo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Eduardo De Filippo",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Osborne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Joe Orton",
+    "tier": "t4"
+   },
+   {
+    "answer": "Noël Coward",
+    "tier": "t4"
+   },
+   {
+    "answer": "J. B. Priestley",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alan Ayckbourn",
+    "tier": "t4"
+   },
+   {
+    "answer": "Richard Brinsley Sheridan",
+    "tier": "t4"
+   },
+   {
+    "answer": "William Congreve",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ben Jonson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thomas Kyd",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Webster",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gerhart Hauptmann",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arthur Schnitzler",
+    "tier": "t4"
+   },
+   {
+    "answer": "Frank Wedekind",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Handke",
+    "tier": "t4"
+   },
+   {
+    "answer": "Václav Havel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sławomir Mrożek",
+    "tier": "t4"
+   },
+   {
+    "answer": "Witold Gombrowicz",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thornton Wilder",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sam Shepard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tony Kushner",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lillian Hellman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Clifford Odets",
+    "tier": "t4"
+   },
+   {
+    "answer": "Neil Simon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Caryl Churchill",
+    "tier": "t4"
+   },
+   {
+    "answer": "David Hare",
+    "tier": "t4"
+   },
+   {
+    "answer": "Edward Bond",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sarah Kane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Martin McDonagh",
+    "tier": "t4"
+   },
+   {
+    "answer": "Brian Friel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Seán O'Casey",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maurice Maeterlinck",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fernando Arrabal",
+    "tier": "t4"
+   },
+   {
+    "answer": "Georges Courteline",
+    "tier": "t4"
+   },
+   {
+    "answer": "Eugène Scribe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Victorien Sardou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Henry Becque",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alexandre Dumas fils",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean-Luc Lagarce",
+    "tier": "t4"
+   },
+   {
+    "answer": "Florian Zeller",
+    "tier": "t4"
+   },
+   {
+    "answer": "Éric-Emmanuel Schmitt",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arthur Adamov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean Tardieu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Armand Salacrou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fernand Crommelynck",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tirso de Molina",
+    "tier": "t4"
+   },
+   {
+    "answer": "Valle-Inclán",
+    "tier": "t5"
+   },
+   {
+    "answer": "Antonio Buero Vallejo",
+    "tier": "t5"
+   },
+   {
+    "answer": "José Zorrilla",
+    "tier": "t5"
+   },
+   {
+    "answer": "José Echegaray",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alejandro Casona",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jean Vauthier",
+    "tier": "t5"
+   },
+   {
+    "answer": "Roland Dubillard",
+    "tier": "t5"
+   },
+   {
+    "answer": "Michel Vinaver",
+    "tier": "t5"
+   },
+   {
+    "answer": "Valère Novarina",
+    "tier": "t5"
+   },
+   {
+    "answer": "Marie NDiaye",
+    "tier": "t5"
+   },
+   {
+    "answer": "Copi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Roger Vitrac",
+    "tier": "t5"
+   },
+   {
+    "answer": "Romain Weingarten",
+    "tier": "t5"
+   },
+   {
+    "answer": "Robert Pinget",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jean Audiberti",
+    "tier": "t5"
+   },
+   {
+    "answer": "René de Obaldia",
+    "tier": "t5"
+   },
+   {
+    "answer": "Marguerite Duras",
+    "tier": "t5"
+   },
+   {
+    "answer": "Michel de Ghelderode",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hugo von Hofmannsthal",
+    "tier": "t5"
+   },
+   {
+    "answer": "Peter Weiss",
+    "tier": "t5"
+   },
+   {
+    "answer": "Heiner Müller",
+    "tier": "t5"
+   },
+   {
+    "answer": "Elfriede Jelinek",
+    "tier": "t5"
+   },
+   {
+    "answer": "Thomas Bernhard",
+    "tier": "t5"
+   },
+   {
+    "answer": "Max Frisch",
+    "tier": "t5"
+   },
+   {
+    "answer": "Franz Xaver Kroetz",
+    "tier": "t5"
+   },
+   {
+    "answer": "Botho Strauss",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ödön von Horváth",
+    "tier": "t5"
+   },
+   {
+    "answer": "Carl Zuckmayer",
+    "tier": "t5"
+   },
+   {
+    "answer": "Georg Kaiser",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ernst Toller",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alexandre Griboïedov",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ivan Tourgueniev",
+    "tier": "t5"
+   },
+   {
+    "answer": "Léon Tolstoï",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alexandre Pouchkine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Evgueni Schwartz",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vladimir Maïakovski",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nikolaï Erdman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Karel Čapek",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stanisław Wyspiański",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stanisław Ignacy Witkiewicz",
+    "tier": "t5"
+   },
+   {
+    "answer": "Terence Rattigan",
+    "tier": "t5"
+   },
+   {
+    "answer": "Harley Granville-Barker",
+    "tier": "t5"
+   },
+   {
+    "answer": "Arnold Wesker",
+    "tier": "t5"
+   },
+   {
+    "answer": "Peter Shaffer",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alan Bennett",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tom Murphy",
+    "tier": "t5"
+   },
+   {
+    "answer": "Conor McPherson",
+    "tier": "t5"
+   },
+   {
+    "answer": "Brendan Behan",
+    "tier": "t5"
+   },
+   {
+    "answer": "August Wilson",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lorraine Hansberry",
+    "tier": "t5"
+   },
+   {
+    "answer": "William Inge",
+    "tier": "t5"
+   },
+   {
+    "answer": "Marsha Norman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Wendy Wasserstein",
+    "tier": "t5"
+   },
+   {
+    "answer": "Suzan-Lori Parks",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tracy Letts",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-10",
+  "text": "Nomme un réalisateur européen non français (cinéma d'auteur ou classique)",
+  "entries": [
+   {
+    "answer": "Ingmar Bergman",
+    "tier": "t1"
+   },
+   {
+    "answer": "Luchino Visconti",
+    "tier": "t1"
+   },
+   {
+    "answer": "Michelangelo Antonioni",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pier Paolo Pasolini",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pedro Almodóvar",
+    "tier": "t1"
+   },
+   {
+    "answer": "Luis Buñuel",
+    "tier": "t1"
+   },
+   {
+    "answer": "Andreï Tarkovski",
+    "tier": "t1"
+   },
+   {
+    "answer": "Wim Wenders",
+    "tier": "t1"
+   },
+   {
+    "answer": "Rainer Werner Fassbinder",
+    "tier": "t1"
+   },
+   {
+    "answer": "Werner Herzog",
+    "tier": "t1"
+   },
+   {
+    "answer": "Federico Fellini",
+    "tier": "t2"
+   },
+   {
+    "answer": "Jan Švankmajer",
+    "tier": "t6"
+   },
+   {
+    "answer": "Bernardo Bertolucci",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sergio Leone",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lars von Trier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Roman Polanski",
+    "tier": "t3"
+   },
+   {
+    "answer": "Roberto Rossellini",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vittorio De Sica",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sergueï Eisenstein",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fritz Lang",
+    "tier": "t3"
+   },
+   {
+    "answer": "Friedrich Wilhelm Murnau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Michael Haneke",
+    "tier": "t3"
+   },
+   {
+    "answer": "Krzysztof Kieślowski",
+    "tier": "t3"
+   },
+   {
+    "answer": "Andrzej Wajda",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ken Loach",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mike Leigh",
+    "tier": "t3"
+   },
+   {
+    "answer": "Peter Greenaway",
+    "tier": "t3"
+   },
+   {
+    "answer": "David Lean",
+    "tier": "t3"
+   },
+   {
+    "answer": "Carol Reed",
+    "tier": "t3"
+   },
+   {
+    "answer": "Carl Theodor Dreyer",
+    "tier": "t3"
+   },
+   {
+    "answer": "Emir Kusturica",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paolo Sorrentino",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nanni Moretti",
+    "tier": "t3"
+   },
+   {
+    "answer": "Giuseppe Tornatore",
+    "tier": "t3"
+   },
+   {
+    "answer": "Frères Dardenne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Aki Kaurismäki",
+    "tier": "t3"
+   },
+   {
+    "answer": "Yórgos Lánthimos",
+    "tier": "t3"
+   },
+   {
+    "answer": "Theo Angelopoulos",
+    "tier": "t3"
+   },
+   {
+    "answer": "Milos Forman",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ruben Östlund",
+    "tier": "t4"
+   },
+   {
+    "answer": "Roy Andersson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thomas Vinterberg",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nicolas Winding Refn",
+    "tier": "t4"
+   },
+   {
+    "answer": "Susanne Bier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lukas Moodysson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Victor Sjöström",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mauritz Stiller",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jan Troell",
+    "tier": "t4"
+   },
+   {
+    "answer": "Béla Tarr",
+    "tier": "t4"
+   },
+   {
+    "answer": "Miklós Jancsó",
+    "tier": "t4"
+   },
+   {
+    "answer": "István Szabó",
+    "tier": "t4"
+   },
+   {
+    "answer": "László Nemes",
+    "tier": "t4"
+   },
+   {
+    "answer": "Robert Wiene",
+    "tier": "t4"
+   },
+   {
+    "answer": "Georg Wilhelm Pabst",
+    "tier": "t4"
+   },
+   {
+    "answer": "Leni Riefenstahl",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ernst Lubitsch",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wolfgang Petersen",
+    "tier": "t4"
+   },
+   {
+    "answer": "Volker Schlöndorff",
+    "tier": "t4"
+   },
+   {
+    "answer": "Margarethe von Trotta",
+    "tier": "t4"
+   },
+   {
+    "answer": "Edgar Reitz",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tom Tykwer",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fatih Akin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Florian Henckel von Donnersmarck",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maren Ade",
+    "tier": "t4"
+   },
+   {
+    "answer": "Christian Petzold",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ulrich Seidl",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dziga Vertov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alexandre Dovjenko",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vsevolod Poudovkine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mikhaïl Kalatozov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sergueï Paradjanov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Andreï Zviaguintsev",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nikita Mikhalkov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Elem Klimov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Manoel de Oliveira",
+    "tier": "t4"
+   },
+   {
+    "answer": "Carlos Saura",
+    "tier": "t4"
+   },
+   {
+    "answer": "Víctor Erice",
+    "tier": "t4"
+   },
+   {
+    "answer": "Juan Antonio Bardem",
+    "tier": "t4"
+   },
+   {
+    "answer": "Luis García Berlanga",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alejandro Amenábar",
+    "tier": "t4"
+   },
+   {
+    "answer": "Álex de la Iglesia",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pedro Costa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alice Rohrwacher",
+    "tier": "t4"
+   },
+   {
+    "answer": "Luca Guadagnino",
+    "tier": "t4"
+   },
+   {
+    "answer": "Matteo Garrone",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marco Bellocchio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ermanno Olmi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Francesco Rosi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dino Risi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mario Monicelli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Luigi Comencini",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ettore Scola",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pietro Germi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Franco Zeffirelli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dario Argento",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mario Bava",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gillo Pontecorvo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lina Wertmüller",
+    "tier": "t4"
+   },
+   {
+    "answer": "Liliana Cavani",
+    "tier": "t4"
+   },
+   {
+    "answer": "Frères Taviani",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ferzan Özpetek",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gabriele Salvatores",
+    "tier": "t4"
+   },
+   {
+    "answer": "Roberto Benigni",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michael Powell",
+    "tier": "t5"
+   },
+   {
+    "answer": "Emeric Pressburger",
+    "tier": "t5"
+   },
+   {
+    "answer": "Danny Boyle",
+    "tier": "t5"
+   },
+   {
+    "answer": "Guy Ritchie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stephen Frears",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lynne Ramsay",
+    "tier": "t5"
+   },
+   {
+    "answer": "Derek Jarman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ken Russell",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lindsay Anderson",
+    "tier": "t5"
+   },
+   {
+    "answer": "John Boorman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alan Parker",
+    "tier": "t5"
+   },
+   {
+    "answer": "Richard Attenborough",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sam Mendes",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stephen Daldry",
+    "tier": "t5"
+   },
+   {
+    "answer": "Steve McQueen",
+    "tier": "t5"
+   },
+   {
+    "answer": "Andrea Arnold",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jerzy Skolimowski",
+    "tier": "t5"
+   },
+   {
+    "answer": "Krzysztof Zanussi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Agnieszka Holland",
+    "tier": "t5"
+   },
+   {
+    "answer": "Paweł Pawlikowski",
+    "tier": "t5"
+   },
+   {
+    "answer": "Wojciech Has",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jiří Menzel",
+    "tier": "t5"
+   },
+   {
+    "answer": "Věra Chytilová",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jan Němec",
+    "tier": "t5"
+   },
+   {
+    "answer": "Karel Zeman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jiří Trnka",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cristian Mungiu",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cristi Puiu",
+    "tier": "t5"
+   },
+   {
+    "answer": "Corneliu Porumboiu",
+    "tier": "t5"
+   },
+   {
+    "answer": "Radu Jude",
+    "tier": "t5"
+   },
+   {
+    "answer": "Dušan Makavejev",
+    "tier": "t5"
+   },
+   {
+    "answer": "Danis Tanović",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jasmila Žbanić",
+    "tier": "t5"
+   },
+   {
+    "answer": "Michael Cacoyannis",
+    "tier": "t5"
+   },
+   {
+    "answer": "Joachim Trier",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bille August",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tomas Alfredson",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bo Widerberg",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vilgot Sjöman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alf Sjöberg",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gustaf Molander",
+    "tier": "t5"
+   },
+   {
+    "answer": "Wolfgang Staudte",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alexander Kluge",
+    "tier": "t5"
+   },
+   {
+    "answer": "Werner Schroeter",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hans-Jürgen Syberberg",
+    "tier": "t5"
+   },
+   {
+    "answer": "Doris Dörrie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sönke Wortmann",
+    "tier": "t5"
+   },
+   {
+    "answer": "Oliver Hirschbiegel",
+    "tier": "t5"
+   },
+   {
+    "answer": "Paolo Virzì",
+    "tier": "t5"
+   },
+   {
+    "answer": "Silvio Soldini",
+    "tier": "t5"
+   },
+   {
+    "answer": "Marco Ferreri",
+    "tier": "t5"
+   },
+   {
+    "answer": "Elio Petri",
+    "tier": "t5"
+   },
+   {
+    "answer": "Valerio Zurlini",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alberto Lattuada",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mario Soldati",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alessandro Blasetti",
+    "tier": "t5"
+   },
+   {
+    "answer": "Giuseppe De Santis",
+    "tier": "t5"
+   },
+   {
+    "answer": "Carlo Lizzani",
+    "tier": "t5"
+   },
+   {
+    "answer": "Florestano Vancini",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-11",
+  "text": "Nomme un réalisateur asiatique (Japon, Chine, Corée, Inde, Iran, Asie du Sud-Est, Proche-Orient...)",
+  "entries": [
+   {
+    "answer": "Hayao Miyazaki",
+    "tier": "t1"
+   },
+   {
+    "answer": "Yasujirō Ozu",
+    "tier": "t1"
+   },
+   {
+    "answer": "Takeshi Kitano",
+    "tier": "t1"
+   },
+   {
+    "answer": "Wong Kar-wai",
+    "tier": "t1"
+   },
+   {
+    "answer": "Bong Joon-ho",
+    "tier": "t1"
+   },
+   {
+    "answer": "Zhang Yimou",
+    "tier": "t1"
+   },
+   {
+    "answer": "John Woo",
+    "tier": "t1"
+   },
+   {
+    "answer": "Ang Lee",
+    "tier": "t1"
+   },
+   {
+    "answer": "Abbas Kiarostami",
+    "tier": "t1"
+   },
+   {
+    "answer": "Park Chan-wook",
+    "tier": "t1"
+   },
+   {
+    "answer": "Akira Kurosawa",
+    "tier": "t2"
+   },
+   {
+    "answer": "Ishirō Honda",
+    "tier": "t6"
+   },
+   {
+    "answer": "Kenji Mizoguchi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mikio Naruse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Masaki Kobayashi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nagisa Oshima",
+    "tier": "t3"
+   },
+   {
+    "answer": "Shōhei Imamura",
+    "tier": "t3"
+   },
+   {
+    "answer": "Isao Takahata",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hirokazu Kore-eda",
+    "tier": "t3"
+   },
+   {
+    "answer": "Takashi Miike",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ryusuke Hamaguchi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kiyoshi Kurosawa",
+    "tier": "t3"
+   },
+   {
+    "answer": "Satoshi Kon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mamoru Oshii",
+    "tier": "t3"
+   },
+   {
+    "answer": "Makoto Shinkai",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mamoru Hosoda",
+    "tier": "t3"
+   },
+   {
+    "answer": "Katsuhiro Otomo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chen Kaige",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tsui Hark",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hou Hsiao-hsien",
+    "tier": "t3"
+   },
+   {
+    "answer": "Edward Yang",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tsai Ming-liang",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jia Zhangke",
+    "tier": "t3"
+   },
+   {
+    "answer": "Stephen Chow",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kim Ki-duk",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lee Chang-dong",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hong Sang-soo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Satyajit Ray",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mira Nair",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jafar Panahi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Asghar Farhadi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mohsen Makhmalbaf",
+    "tier": "t3"
+   },
+   {
+    "answer": "Majid Majidi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Apichatpong Weerasethakul",
+    "tier": "t3"
+   },
+   {
+    "answer": "Karan Johar",
+    "tier": "t3"
+   },
+   {
+    "answer": "Raj Kapoor",
+    "tier": "t3"
+   },
+   {
+    "answer": "Guru Dutt",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hiroshi Teshigahara",
+    "tier": "t4"
+   },
+   {
+    "answer": "Seijun Suzuki",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kinji Fukasaku",
+    "tier": "t4"
+   },
+   {
+    "answer": "Naomi Kawase",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sion Sono",
+    "tier": "t4"
+   },
+   {
+    "answer": "Yōji Yamada",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jūzō Itami",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kon Ichikawa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Keisuke Kinoshita",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tetsuya Nakashima",
+    "tier": "t4"
+   },
+   {
+    "answer": "Shunji Iwai",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hideaki Anno",
+    "tier": "t4"
+   },
+   {
+    "answer": "Takashi Yamazaki",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kōji Fukada",
+    "tier": "t4"
+   },
+   {
+    "answer": "Miwa Nishikawa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Shinya Tsukamoto",
+    "tier": "t4"
+   },
+   {
+    "answer": "Masahiro Shinoda",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hideo Gosha",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sogo Ishii",
+    "tier": "t4"
+   },
+   {
+    "answer": "Shinji Aoyama",
+    "tier": "t4"
+   },
+   {
+    "answer": "Feng Xiaogang",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lou Ye",
+    "tier": "t4"
+   },
+   {
+    "answer": "Johnnie To",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ann Hui",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wang Bing",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bi Gan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chloé Zhao",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tian Zhuangzhuang",
+    "tier": "t4"
+   },
+   {
+    "answer": "Xie Jin",
+    "tier": "t4"
+   },
+   {
+    "answer": "King Hu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ringo Lam",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Chan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Andrew Lau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stanley Kwan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fruit Chan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Im Kwon-taek",
+    "tier": "t4"
+   },
+   {
+    "answer": "Na Hong-jin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kim Jee-woon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Yeon Sang-ho",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ryoo Seung-wan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kim Ki-young",
+    "tier": "t4"
+   },
+   {
+    "answer": "Shin Sang-ok",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kang Je-gyu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hwang Dong-hyuk",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ritwik Ghatak",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mrinal Sen",
+    "tier": "t4"
+   },
+   {
+    "answer": "Shyam Benegal",
+    "tier": "t4"
+   },
+   {
+    "answer": "Deepa Mehta",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ram Gopal Varma",
+    "tier": "t4"
+   },
+   {
+    "answer": "Anurag Kashyap",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mani Ratnam",
+    "tier": "t4"
+   },
+   {
+    "answer": "S. S. Rajamouli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Shekhar Kapur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Adoor Gopalakrishnan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bimal Roy",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mehboob Khan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sanjay Leela Bhansali",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rajkumar Hirani",
+    "tier": "t4"
+   },
+   {
+    "answer": "Zoya Akhtar",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ashutosh Gowariker",
+    "tier": "t4"
+   },
+   {
+    "answer": "Yash Chopra",
+    "tier": "t4"
+   },
+   {
+    "answer": "Aditya Chopra",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vishal Bhardwaj",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dariush Mehrjui",
+    "tier": "t4"
+   },
+   {
+    "answer": "Samira Makhmalbaf",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bahman Ghobadi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rakhshan Bani-Etemad",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mohammad Rasoulof",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pen-ek Ratanaruang",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lav Diaz",
+    "tier": "t5"
+   },
+   {
+    "answer": "Brillante Mendoza",
+    "tier": "t5"
+   },
+   {
+    "answer": "Trần Anh Hùng",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rithy Panh",
+    "tier": "t5"
+   },
+   {
+    "answer": "Eric Khoo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Anthony Chen",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nuri Bilge Ceylan",
+    "tier": "t5"
+   },
+   {
+    "answer": "Yılmaz Güney",
+    "tier": "t5"
+   },
+   {
+    "answer": "Amos Gitai",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ari Folman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nadav Lapid",
+    "tier": "t5"
+   },
+   {
+    "answer": "Joseph Cedar",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nadine Labaki",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ziad Doueiri",
+    "tier": "t5"
+   },
+   {
+    "answer": "Elia Suleiman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hany Abu-Assad",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kaneto Shindo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kihachi Okamoto",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hiroshi Inagaki",
+    "tier": "t5"
+   },
+   {
+    "answer": "Masaaki Yuasa",
+    "tier": "t5"
+   },
+   {
+    "answer": "Yoshiyuki Tomino",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hiromasa Yonebayashi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nobuhiko Obayashi",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-12",
+  "text": "Nomme un film d'Alfred Hitchcock",
+  "entries": [
+   {
+    "answer": "Les Oiseaux",
+    "tier": "t1"
+   },
+   {
+    "answer": "La Mort aux trousses",
+    "tier": "t1"
+   },
+   {
+    "answer": "Fenêtre sur cour",
+    "tier": "t1"
+   },
+   {
+    "answer": "Sueurs froides",
+    "tier": "t1"
+   },
+   {
+    "answer": "Rebecca",
+    "tier": "t1"
+   },
+   {
+    "answer": "Les 39 Marches",
+    "tier": "t1"
+   },
+   {
+    "answer": "L'Inconnu du Nord-Express",
+    "tier": "t1"
+   },
+   {
+    "answer": "La Corde",
+    "tier": "t1"
+   },
+   {
+    "answer": "Psychose",
+    "tier": "t2"
+   },
+   {
+    "answer": "Mr. et Mrs. Smith",
+    "tier": "t6"
+   },
+   {
+    "answer": "Les Enchaînés",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Maison du docteur Edwardes",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le crime était presque parfait",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Main au collet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Soupçons",
+    "tier": "t3"
+   },
+   {
+    "answer": "L'Ombre d'un doute",
+    "tier": "t3"
+   },
+   {
+    "answer": "Une femme disparaît",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pas de printemps pour Marnie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Frenzy",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lifeboat",
+    "tier": "t3"
+   },
+   {
+    "answer": "Correspondant 17",
+    "tier": "t3"
+   },
+   {
+    "answer": "L'Homme qui en savait trop",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Faux Coupable",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Rideau déchiré",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Étau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Complot de famille",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Taverne de la Jamaïque",
+    "tier": "t4"
+   },
+   {
+    "answer": "Agent secret",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jeune et Innocent",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sabotage",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cinquième Colonne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Procès Paradine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Amants du Capricorne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Grand Alibi",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Loi du silence",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mais qui a tué Harry ?",
+    "tier": "t4"
+   },
+   {
+    "answer": "The Lodger",
+    "tier": "t5"
+   },
+   {
+    "answer": "Blackmail",
+    "tier": "t5"
+   },
+   {
+    "answer": "Murder !",
+    "tier": "t5"
+   },
+   {
+    "answer": "The Pleasure Garden",
+    "tier": "t5"
+   },
+   {
+    "answer": "The Mountain Eagle",
+    "tier": "t5"
+   },
+   {
+    "answer": "Downhill",
+    "tier": "t5"
+   },
+   {
+    "answer": "Easy Virtue",
+    "tier": "t5"
+   },
+   {
+    "answer": "The Ring",
+    "tier": "t5"
+   },
+   {
+    "answer": "The Farmer's Wife",
+    "tier": "t5"
+   },
+   {
+    "answer": "Champagne",
+    "tier": "t5"
+   },
+   {
+    "answer": "The Manxman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Juno and the Paycock",
+    "tier": "t5"
+   },
+   {
+    "answer": "The Skin Game",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rich and Strange",
+    "tier": "t5"
+   },
+   {
+    "answer": "Number Seventeen",
+    "tier": "t5"
+   },
+   {
+    "answer": "Waltzes from Vienna",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-13",
+  "text": "Nomme un terme musical italien (tempo, nuance, indication d'exécution)",
+  "entries": [
+   {
+    "answer": "Andante",
+    "tier": "t1"
+   },
+   {
+    "answer": "Adagio",
+    "tier": "t1"
+   },
+   {
+    "answer": "Presto",
+    "tier": "t1"
+   },
+   {
+    "answer": "Forte",
+    "tier": "t1"
+   },
+   {
+    "answer": "Piano",
+    "tier": "t1"
+   },
+   {
+    "answer": "Crescendo",
+    "tier": "t1"
+   },
+   {
+    "answer": "Largo",
+    "tier": "t1"
+   },
+   {
+    "answer": "Vivace",
+    "tier": "t1"
+   },
+   {
+    "answer": "Staccato",
+    "tier": "t1"
+   },
+   {
+    "answer": "Legato",
+    "tier": "t1"
+   },
+   {
+    "answer": "Allegro",
+    "tier": "t2"
+   },
+   {
+    "answer": "Alla turca",
+    "tier": "t6"
+   },
+   {
+    "answer": "Moderato",
+    "tier": "t3"
+   },
+   {
+    "answer": "Allegretto",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lento",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pianissimo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fortissimo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Diminuendo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Decrescendo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pizzicato",
+    "tier": "t3"
+   },
+   {
+    "answer": "Glissando",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vibrato",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tremolo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rallentando",
+    "tier": "t3"
+   },
+   {
+    "answer": "Accelerando",
+    "tier": "t3"
+   },
+   {
+    "answer": "A tempo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dolce",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cantabile",
+    "tier": "t3"
+   },
+   {
+    "answer": "Da capo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Coda",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fermata",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tutti",
+    "tier": "t3"
+   },
+   {
+    "answer": "Solo",
+    "tier": "t3"
+   },
+   {
+    "answer": "A cappella",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rubato",
+    "tier": "t3"
+   },
+   {
+    "answer": "Maestoso",
+    "tier": "t3"
+   },
+   {
+    "answer": "Scherzando",
+    "tier": "t3"
+   },
+   {
+    "answer": "Con brio",
+    "tier": "t3"
+   },
+   {
+    "answer": "Larghetto",
+    "tier": "t4"
+   },
+   {
+    "answer": "Grave",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mezzo-forte",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mezzo-piano",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sforzando",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ritardando",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arco",
+    "tier": "t4"
+   },
+   {
+    "answer": "Con sordino",
+    "tier": "t4"
+   },
+   {
+    "answer": "Espressivo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sostenuto",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tenuto",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marcato",
+    "tier": "t4"
+   },
+   {
+    "answer": "Morendo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Smorzando",
+    "tier": "t4"
+   },
+   {
+    "answer": "Calando",
+    "tier": "t4"
+   },
+   {
+    "answer": "Animato",
+    "tier": "t4"
+   },
+   {
+    "answer": "Agitato",
+    "tier": "t4"
+   },
+   {
+    "answer": "Appassionato",
+    "tier": "t4"
+   },
+   {
+    "answer": "Giocoso",
+    "tier": "t4"
+   },
+   {
+    "answer": "Grazioso",
+    "tier": "t4"
+   },
+   {
+    "answer": "Leggiero",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pesante",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dal segno",
+    "tier": "t4"
+   },
+   {
+    "answer": "Segno",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ostinato",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sotto voce",
+    "tier": "t4"
+   },
+   {
+    "answer": "Divisi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Col legno",
+    "tier": "t4"
+   },
+   {
+    "answer": "Portamento",
+    "tier": "t4"
+   },
+   {
+    "answer": "Assai",
+    "tier": "t4"
+   },
+   {
+    "answer": "Poco",
+    "tier": "t4"
+   },
+   {
+    "answer": "Molto",
+    "tier": "t4"
+   },
+   {
+    "answer": "Più",
+    "tier": "t4"
+   },
+   {
+    "answer": "Meno",
+    "tier": "t4"
+   },
+   {
+    "answer": "Subito",
+    "tier": "t4"
+   },
+   {
+    "answer": "Simile",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tacet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Attacca",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ad libitum",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alla breve",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lacrimoso",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mesto",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pomposo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Risoluto",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lugubre",
+    "tier": "t5"
+   },
+   {
+    "answer": "Misterioso",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stringendo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Allargando",
+    "tier": "t5"
+   },
+   {
+    "answer": "Affrettando",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sempre",
+    "tier": "t5"
+   },
+   {
+    "answer": "Senza",
+    "tier": "t5"
+   },
+   {
+    "answer": "Con fuoco",
+    "tier": "t5"
+   },
+   {
+    "answer": "Con moto",
+    "tier": "t5"
+   },
+   {
+    "answer": "Poco a poco",
+    "tier": "t5"
+   },
+   {
+    "answer": "Perdendosi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Niente",
+    "tier": "t5"
+   },
+   {
+    "answer": "Al fine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Volti subito",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tremolando",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tre corde",
+    "tier": "t5"
+   },
+   {
+    "answer": "Una corda",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sul ponticello",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sul tasto",
+    "tier": "t5"
+   },
+   {
+    "answer": "Spiccato",
+    "tier": "t5"
+   },
+   {
+    "answer": "Martellato",
+    "tier": "t5"
+   },
+   {
+    "answer": "Flautando",
+    "tier": "t5"
+   },
+   {
+    "answer": "Soave",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tranquillo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vigoroso",
+    "tier": "t5"
+   },
+   {
+    "answer": "Furioso",
+    "tier": "t5"
+   },
+   {
+    "answer": "Energico",
+    "tier": "t5"
+   },
+   {
+    "answer": "Brillante",
+    "tier": "t5"
+   },
+   {
+    "answer": "Delicato",
+    "tier": "t5"
+   },
+   {
+    "answer": "Dolente",
+    "tier": "t5"
+   },
+   {
+    "answer": "Doloroso",
+    "tier": "t5"
+   },
+   {
+    "answer": "Amoroso",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alla marcia",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tempo giusto",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tempo primo",
+    "tier": "t5"
+   },
+   {
+    "answer": "L'istesso tempo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ossia",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ritenuto",
+    "tier": "t5"
+   },
+   {
+    "answer": "Segue",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sciolto",
+    "tier": "t5"
+   },
+   {
+    "answer": "Slargando",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stentato",
+    "tier": "t5"
+   },
+   {
+    "answer": "Strepitoso",
+    "tier": "t5"
+   },
+   {
+    "answer": "Teneramente",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-14",
+  "text": "Nomme un compositeur de musique de film",
+  "entries": [
+   {
+    "answer": "Ennio Morricone",
+    "tier": "t1"
+   },
+   {
+    "answer": "Hans Zimmer",
+    "tier": "t1"
+   },
+   {
+    "answer": "John Barry",
+    "tier": "t1"
+   },
+   {
+    "answer": "Howard Shore",
+    "tier": "t1"
+   },
+   {
+    "answer": "James Horner",
+    "tier": "t1"
+   },
+   {
+    "answer": "Nino Rota",
+    "tier": "t1"
+   },
+   {
+    "answer": "Michel Legrand",
+    "tier": "t1"
+   },
+   {
+    "answer": "Alexandre Desplat",
+    "tier": "t1"
+   },
+   {
+    "answer": "John Williams",
+    "tier": "t2"
+   },
+   {
+    "answer": "Isaac Hayes",
+    "tier": "t6"
+   },
+   {
+    "answer": "Jerry Goldsmith",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bernard Herrmann",
+    "tier": "t3"
+   },
+   {
+    "answer": "Georges Delerue",
+    "tier": "t3"
+   },
+   {
+    "answer": "Philippe Sarde",
+    "tier": "t3"
+   },
+   {
+    "answer": "Maurice Jarre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vladimir Cosma",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gabriel Yared",
+    "tier": "t3"
+   },
+   {
+    "answer": "Angelo Badalamenti",
+    "tier": "t3"
+   },
+   {
+    "answer": "Danny Elfman",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alan Silvestri",
+    "tier": "t3"
+   },
+   {
+    "answer": "Thomas Newman",
+    "tier": "t3"
+   },
+   {
+    "answer": "Michael Giacchino",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alan Menken",
+    "tier": "t3"
+   },
+   {
+    "answer": "Randy Newman",
+    "tier": "t3"
+   },
+   {
+    "answer": "Henry Mancini",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vangelis",
+    "tier": "t3"
+   },
+   {
+    "answer": "Joe Hisaishi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ryuichi Sakamoto",
+    "tier": "t3"
+   },
+   {
+    "answer": "Éric Serra",
+    "tier": "t3"
+   },
+   {
+    "answer": "Yann Tiersen",
+    "tier": "t3"
+   },
+   {
+    "answer": "Francis Lai",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bruno Coulais",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lalo Schifrin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Quincy Jones",
+    "tier": "t3"
+   },
+   {
+    "answer": "Elmer Bernstein",
+    "tier": "t4"
+   },
+   {
+    "answer": "Max Steiner",
+    "tier": "t4"
+   },
+   {
+    "answer": "Erich Wolfgang Korngold",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dimitri Tiomkin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alex North",
+    "tier": "t4"
+   },
+   {
+    "answer": "Miklós Rózsa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Franz Waxman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Victor Young",
+    "tier": "t4"
+   },
+   {
+    "answer": "David Raksin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alfred Newman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dave Grusin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Giorgio Moroder",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mark Isham",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rachel Portman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Craig Armstrong",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dario Marianelli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michael Nyman",
+    "tier": "t4"
+   },
+   {
+    "answer": "James Newton Howard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michael Kamen",
+    "tier": "t4"
+   },
+   {
+    "answer": "Basil Poledouris",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bill Conti",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Powell",
+    "tier": "t4"
+   },
+   {
+    "answer": "Harry Gregson-Williams",
+    "tier": "t4"
+   },
+   {
+    "answer": "Klaus Badelt",
+    "tier": "t4"
+   },
+   {
+    "answer": "Patrick Doyle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Carter Burwell",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mychael Danna",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marco Beltrami",
+    "tier": "t4"
+   },
+   {
+    "answer": "Henry Jackman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ramin Djawadi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ludwig Göransson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hildur Guðnadóttir",
+    "tier": "t4"
+   },
+   {
+    "answer": "Antoine Duhamel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Armando Trovajoli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Riz Ortolani",
+    "tier": "t4"
+   },
+   {
+    "answer": "Luis Bacalov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Piero Piccioni",
+    "tier": "t4"
+   },
+   {
+    "answer": "Toru Takemitsu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Akira Ifukube",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ludovic Bource",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cliff Martinez",
+    "tier": "t4"
+   },
+   {
+    "answer": "Burt Bacharach",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jerry Fielding",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bear McCreary",
+    "tier": "t4"
+   },
+   {
+    "answer": "Christophe Beck",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean Wiener",
+    "tier": "t5"
+   },
+   {
+    "answer": "Maurice Jaubert",
+    "tier": "t5"
+   },
+   {
+    "answer": "Joseph Kosma",
+    "tier": "t5"
+   },
+   {
+    "answer": "Paul Misraki",
+    "tier": "t5"
+   },
+   {
+    "answer": "Georges Auric",
+    "tier": "t5"
+   },
+   {
+    "answer": "Arthur Honegger",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jean-Claude Petit",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stelvio Cipriani",
+    "tier": "t5"
+   },
+   {
+    "answer": "Carlo Rustichelli",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alessandro Cicognini",
+    "tier": "t5"
+   },
+   {
+    "answer": "Roman Vlad",
+    "tier": "t5"
+   },
+   {
+    "answer": "Richard Rodney Bennett",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ron Goodwin",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stanley Myers",
+    "tier": "t5"
+   },
+   {
+    "answer": "George Fenton",
+    "tier": "t5"
+   },
+   {
+    "answer": "Anne Dudley",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jóhann Jóhannsson",
+    "tier": "t5"
+   },
+   {
+    "answer": "Clint Mansell",
+    "tier": "t5"
+   },
+   {
+    "answer": "Steve Jablonsky",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tyler Bates",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alexandre Azaria",
+    "tier": "t5"
+   },
+   {
+    "answer": "Harold Faltermeyer",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vince Guaraldi",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-15",
+  "text": "Nomme une forme ou un genre de musique classique (symphonie, sonate, fugue...)",
+  "entries": [
+   {
+    "answer": "Sonate",
+    "tier": "t1"
+   },
+   {
+    "answer": "Concerto",
+    "tier": "t1"
+   },
+   {
+    "answer": "Fugue",
+    "tier": "t1"
+   },
+   {
+    "answer": "Valse",
+    "tier": "t1"
+   },
+   {
+    "answer": "Opéra",
+    "tier": "t1"
+   },
+   {
+    "answer": "Requiem",
+    "tier": "t1"
+   },
+   {
+    "answer": "Messe",
+    "tier": "t1"
+   },
+   {
+    "answer": "Quatuor à cordes",
+    "tier": "t1"
+   },
+   {
+    "answer": "Prélude",
+    "tier": "t1"
+   },
+   {
+    "answer": "Nocturne",
+    "tier": "t1"
+   },
+   {
+    "answer": "Symphonie",
+    "tier": "t2"
+   },
+   {
+    "answer": "Quodlibet",
+    "tier": "t6"
+   },
+   {
+    "answer": "Étude",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ballade",
+    "tier": "t3"
+   },
+   {
+    "answer": "Scherzo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rhapsodie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fantaisie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Toccata",
+    "tier": "t3"
+   },
+   {
+    "answer": "Variations",
+    "tier": "t3"
+   },
+   {
+    "answer": "Oratorio",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cantate",
+    "tier": "t3"
+   },
+   {
+    "answer": "Motet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ouverture",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lied",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mélodie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Aria",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sérénade",
+    "tier": "t3"
+   },
+   {
+    "answer": "Suite",
+    "tier": "t3"
+   },
+   {
+    "answer": "Trio",
+    "tier": "t3"
+   },
+   {
+    "answer": "Quintette",
+    "tier": "t3"
+   },
+   {
+    "answer": "Polonaise",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mazurka",
+    "tier": "t3"
+   },
+   {
+    "answer": "Impromptu",
+    "tier": "t3"
+   },
+   {
+    "answer": "Berceuse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Menuet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gigue",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sarabande",
+    "tier": "t3"
+   },
+   {
+    "answer": "Canon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Concerto grosso",
+    "tier": "t3"
+   },
+   {
+    "answer": "Poème symphonique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Opéra-comique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Opérette",
+    "tier": "t3"
+   },
+   {
+    "answer": "Passacaille",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaconne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Madrigal",
+    "tier": "t4"
+   },
+   {
+    "answer": "Divertimento",
+    "tier": "t4"
+   },
+   {
+    "answer": "Barcarolle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Humoresque",
+    "tier": "t4"
+   },
+   {
+    "answer": "Intermezzo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Partita",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rondo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Allemande",
+    "tier": "t4"
+   },
+   {
+    "answer": "Courante",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bourrée",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gavotte",
+    "tier": "t4"
+   },
+   {
+    "answer": "Passepied",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rigaudon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pavane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gaillarde",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tombeau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stabat Mater",
+    "tier": "t4"
+   },
+   {
+    "answer": "Magnificat",
+    "tier": "t4"
+   },
+   {
+    "answer": "Te Deum",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hymne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Choral",
+    "tier": "t4"
+   },
+   {
+    "answer": "Plain-chant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ricercare",
+    "tier": "t4"
+   },
+   {
+    "answer": "Caprice",
+    "tier": "t4"
+   },
+   {
+    "answer": "Capriccio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Polka",
+    "tier": "t4"
+   },
+   {
+    "answer": "Galop",
+    "tier": "t4"
+   },
+   {
+    "answer": "Habanera",
+    "tier": "t4"
+   },
+   {
+    "answer": "Séguedille",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fandango",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jota",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tarentelle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Siciliano",
+    "tier": "t4"
+   },
+   {
+    "answer": "Forlane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Récitatif",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bagatelle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Quatuor avec piano",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sextuor",
+    "tier": "t4"
+   },
+   {
+    "answer": "Septuor",
+    "tier": "t4"
+   },
+   {
+    "answer": "Octuor",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nonette",
+    "tier": "t4"
+   },
+   {
+    "answer": "Symphonie concertante",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sinfonia",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lamento",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pastorale",
+    "tier": "t4"
+   },
+   {
+    "answer": "Romance",
+    "tier": "t4"
+   },
+   {
+    "answer": "Élégie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marche funèbre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Musette",
+    "tier": "t4"
+   },
+   {
+    "answer": "Loure",
+    "tier": "t4"
+   },
+   {
+    "answer": "Organum",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tiento",
+    "tier": "t5"
+   },
+   {
+    "answer": "Contredanse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ländler",
+    "tier": "t5"
+   },
+   {
+    "answer": "Csárdás",
+    "tier": "t5"
+   },
+   {
+    "answer": "Passamezzo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Saltarello",
+    "tier": "t5"
+   },
+   {
+    "answer": "Villanelle",
+    "tier": "t5"
+   },
+   {
+    "answer": "Frottola",
+    "tier": "t5"
+   },
+   {
+    "answer": "Conductus",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hoquet",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lauda",
+    "tier": "t5"
+   },
+   {
+    "answer": "Anthem",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kyrie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cantique",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chorale prélude",
+    "tier": "t5"
+   },
+   {
+    "answer": "Danse macabre",
+    "tier": "t5"
+   },
+   {
+    "answer": "Scène lyrique",
+    "tier": "t5"
+   },
+   {
+    "answer": "Drame lyrique",
+    "tier": "t5"
+   },
+   {
+    "answer": "Grand opéra",
+    "tier": "t5"
+   },
+   {
+    "answer": "Opera buffa",
+    "tier": "t5"
+   },
+   {
+    "answer": "Opera seria",
+    "tier": "t5"
+   },
+   {
+    "answer": "Singspiel",
+    "tier": "t5"
+   },
+   {
+    "answer": "Zarzuela",
+    "tier": "t5"
+   },
+   {
+    "answer": "Masque",
+    "tier": "t5"
+   },
+   {
+    "answer": "Semi-opéra",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mélodrame",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tragédie lyrique",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ballet d'action",
+    "tier": "t5"
+   },
+   {
+    "answer": "Opéra de chambre",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-dramaturge",
+  "text": "Nomme un dramaturge",
+  "entries": [
+   {
+    "answer": "Molière",
+    "tier": "t1"
+   },
+   {
+    "answer": "William Shakespeare",
+    "tier": "t1"
+   },
+   {
+    "answer": "Jean Racine",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pierre Corneille",
+    "tier": "t1"
+   },
+   {
+    "answer": "Samuel Beckett",
+    "tier": "t1"
+   },
+   {
+    "answer": "Eugène Ionesco",
+    "tier": "t1"
+   },
+   {
+    "answer": "Sophocle",
+    "tier": "t1"
+   },
+   {
+    "answer": "Bertolt Brecht",
+    "tier": "t1"
+   },
+   {
+    "answer": "Anton Tchekhov",
+    "tier": "t1"
+   },
+   {
+    "answer": "Eschyle",
+    "tier": "t1"
+   },
+   {
+    "answer": "Beaumarchais",
+    "tier": "t2"
+   },
+   {
+    "answer": "Voltaire",
+    "tier": "t6"
+   },
+   {
+    "answer": "Euripide",
+    "tier": "t3"
+   },
+   {
+    "answer": "Aristophane",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marivaux",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alfred de Musset",
+    "tier": "t3"
+   },
+   {
+    "answer": "Victor Hugo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Edmond Rostand",
+    "tier": "t3"
+   },
+   {
+    "answer": "Georges Feydeau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Eugène Labiche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Anouilh",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Giraudoux",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paul Claudel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Genet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean-Paul Sartre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Albert Camus",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Cocteau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Henrik Ibsen",
+    "tier": "t3"
+   },
+   {
+    "answer": "August Strindberg",
+    "tier": "t3"
+   },
+   {
+    "answer": "Johann Wolfgang von Goethe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Friedrich Schiller",
+    "tier": "t3"
+   },
+   {
+    "answer": "Luigi Pirandello",
+    "tier": "t3"
+   },
+   {
+    "answer": "Carlo Goldoni",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lope de Vega",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pedro Calderón de la Barca",
+    "tier": "t3"
+   },
+   {
+    "answer": "Federico García Lorca",
+    "tier": "t3"
+   },
+   {
+    "answer": "Arthur Miller",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tennessee Williams",
+    "tier": "t3"
+   },
+   {
+    "answer": "Eugene O'Neill",
+    "tier": "t3"
+   },
+   {
+    "answer": "Edward Albee",
+    "tier": "t3"
+   },
+   {
+    "answer": "Harold Pinter",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tom Stoppard",
+    "tier": "t3"
+   },
+   {
+    "answer": "Oscar Wilde",
+    "tier": "t3"
+   },
+   {
+    "answer": "George Bernard Shaw",
+    "tier": "t3"
+   },
+   {
+    "answer": "Christopher Marlowe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ben Jonson",
+    "tier": "t3"
+   },
+   {
+    "answer": "Noël Coward",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sacha Guitry",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marcel Pagnol",
+    "tier": "t3"
+   },
+   {
+    "answer": "Georges Courteline",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alfred Jarry",
+    "tier": "t3"
+   },
+   {
+    "answer": "Yasmina Reza",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dario Fo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Plaute",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sénèque",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nikolaï Gogol",
+    "tier": "t3"
+   },
+   {
+    "answer": "Maxime Gorki",
+    "tier": "t3"
+   },
+   {
+    "answer": "Friedrich Dürrenmatt",
+    "tier": "t3"
+   },
+   {
+    "answer": "Georg Büchner",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gotthold Ephraim Lessing",
+    "tier": "t3"
+   },
+   {
+    "answer": "Térence",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mikhaïl Boulgakov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Václav Havel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Witold Gombrowicz",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sławomir Mrożek",
+    "tier": "t4"
+   },
+   {
+    "answer": "Max Frisch",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Handke",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thomas Bernhard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Elfriede Jelinek",
+    "tier": "t4"
+   },
+   {
+    "answer": "Frank Wedekind",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gerhart Hauptmann",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arthur Schnitzler",
+    "tier": "t4"
+   },
+   {
+    "answer": "Heiner Müller",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bernard-Marie Koltès",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wajdi Mouawad",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean-Luc Lagarce",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michel Vinaver",
+    "tier": "t4"
+   },
+   {
+    "answer": "Joël Pommerat",
+    "tier": "t4"
+   },
+   {
+    "answer": "Florian Zeller",
+    "tier": "t4"
+   },
+   {
+    "answer": "Éric-Emmanuel Schmitt",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arthur Adamov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fernando Arrabal",
+    "tier": "t4"
+   },
+   {
+    "answer": "Henry de Montherlant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maurice Maeterlinck",
+    "tier": "t4"
+   },
+   {
+    "answer": "Eugène Scribe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Victorien Sardou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alexandre Dumas fils",
+    "tier": "t4"
+   },
+   {
+    "answer": "Émile Augier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean-François Regnard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Prosper Jolyot de Crébillon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean Rotrou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Robert Garnier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thomas Corneille",
+    "tier": "t4"
+   },
+   {
+    "answer": "Richard Brinsley Sheridan",
+    "tier": "t4"
+   },
+   {
+    "answer": "William Congreve",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Millington Synge",
+    "tier": "t4"
+   },
+   {
+    "answer": "Seán O'Casey",
+    "tier": "t4"
+   },
+   {
+    "answer": "James Matthew Barrie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alan Ayckbourn",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Osborne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Shaffer",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michael Frayn",
+    "tier": "t4"
+   },
+   {
+    "answer": "David Mamet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Neil Simon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sam Shepard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thornton Wilder",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lillian Hellman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Clifford Odets",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tony Kushner",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wole Soyinka",
+    "tier": "t4"
+   },
+   {
+    "answer": "Aimé Césaire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Athol Fugard",
+    "tier": "t4"
+   },
+   {
+    "answer": "August Wilson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lorraine Hansberry",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tirso de Molina",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alexandre Ostrovski",
+    "tier": "t4"
+   },
+   {
+    "answer": "Eduardo De Filippo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean Tardieu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Armand Salacrou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tristan Bernard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Caryl Churchill",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arnold Wesker",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean-Claude Grumberg",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ödön von Horváth",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Weiss",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stanisław Wyspiański",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stanisław Ignacy Witkiewicz",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kalidasa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dancourt",
+    "tier": "t5"
+   },
+   {
+    "answer": "Michel-Jean Sedaine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Eugène Brieux",
+    "tier": "t5"
+   },
+   {
+    "answer": "François de Curel",
+    "tier": "t5"
+   },
+   {
+    "answer": "Henry Becque",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jules Romains",
+    "tier": "t5"
+   },
+   {
+    "answer": "Marcel Achard",
+    "tier": "t5"
+   },
+   {
+    "answer": "Fabrice Melquiot",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jean-Michel Ribes",
+    "tier": "t5"
+   },
+   {
+    "answer": "René de Obaldia",
+    "tier": "t5"
+   },
+   {
+    "answer": "Roland Dubillard",
+    "tier": "t5"
+   },
+   {
+    "answer": "Georges Schehadé",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tadeusz Różewicz",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alexandre Griboïedov",
+    "tier": "t5"
+   },
+   {
+    "answer": "Nikolaï Evreïnov",
+    "tier": "t5"
+   },
+   {
+    "answer": "Leonid Andreïev",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mikhaïl Lermontov",
+    "tier": "t5"
+   },
+   {
+    "answer": "Heinrich von Kleist",
+    "tier": "t5"
+   },
+   {
+    "answer": "Botho Strauss",
+    "tier": "t5"
+   },
+   {
+    "answer": "Franz Xaver Kroetz",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ferdinand Raimund",
+    "tier": "t5"
+   },
+   {
+    "answer": "Johann Nestroy",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hugo von Hofmannsthal",
+    "tier": "t5"
+   },
+   {
+    "answer": "Georg Kaiser",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ernst Toller",
+    "tier": "t5"
+   },
+   {
+    "answer": "Carl Zuckmayer",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ramón del Valle-Inclán",
+    "tier": "t5"
+   },
+   {
+    "answer": "Antonio Buero Vallejo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alejandro Casona",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jacinto Benavente",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gil Vicente",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ruzante",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vittorio Alfieri",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ugo Betti",
+    "tier": "t5"
+   },
+   {
+    "answer": "Thomas Kyd",
+    "tier": "t5"
+   },
+   {
+    "answer": "John Webster",
+    "tier": "t5"
+   },
+   {
+    "answer": "John Ford",
+    "tier": "t5"
+   },
+   {
+    "answer": "Thomas Middleton",
+    "tier": "t5"
+   },
+   {
+    "answer": "Francis Beaumont",
+    "tier": "t5"
+   },
+   {
+    "answer": "John Fletcher",
+    "tier": "t5"
+   },
+   {
+    "answer": "Oliver Goldsmith",
+    "tier": "t5"
+   },
+   {
+    "answer": "John Galsworthy",
+    "tier": "t5"
+   },
+   {
+    "answer": "T. S. Eliot",
+    "tier": "t5"
+   },
+   {
+    "answer": "Terence Rattigan",
+    "tier": "t5"
+   },
+   {
+    "answer": "Joe Orton",
+    "tier": "t5"
+   },
+   {
+    "answer": "Edward Bond",
+    "tier": "t5"
+   },
+   {
+    "answer": "Brian Friel",
+    "tier": "t5"
+   },
+   {
+    "answer": "Martin McDonagh",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sarah Kane",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mark Ravenhill",
+    "tier": "t5"
+   },
+   {
+    "answer": "David Hare",
+    "tier": "t5"
+   },
+   {
+    "answer": "Arthur Kopit",
+    "tier": "t5"
+   },
+   {
+    "answer": "William Inge",
+    "tier": "t5"
+   },
+   {
+    "answer": "Robert Sherwood",
+    "tier": "t5"
+   },
+   {
+    "answer": "Marsha Norman",
+    "tier": "t5"
+   },
+   {
+    "answer": "Wendy Wasserstein",
+    "tier": "t5"
+   },
+   {
+    "answer": "Suzan-Lori Parks",
+    "tier": "t5"
+   },
+   {
+    "answer": "Zeami",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chikamatsu Monzaemon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Yukio Mishima",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rabindranath Tagore",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-ecrivain-uk",
+  "text": "Nomme un écrivain britannique",
+  "entries": [
+   {
+    "answer": "William Shakespeare",
+    "tier": "t1"
+   },
+   {
+    "answer": "Charles Dickens",
+    "tier": "t1"
+   },
+   {
+    "answer": "J. K. Rowling",
+    "tier": "t1"
+   },
+   {
+    "answer": "George Orwell",
+    "tier": "t1"
+   },
+   {
+    "answer": "Agatha Christie",
+    "tier": "t1"
+   },
+   {
+    "answer": "Jane Austen",
+    "tier": "t1"
+   },
+   {
+    "answer": "J. R. R. Tolkien",
+    "tier": "t1"
+   },
+   {
+    "answer": "Roald Dahl",
+    "tier": "t1"
+   },
+   {
+    "answer": "Lewis Carroll",
+    "tier": "t1"
+   },
+   {
+    "answer": "Arthur Conan Doyle",
+    "tier": "t1"
+   },
+   {
+    "answer": "Rudyard Kipling",
+    "tier": "t2"
+   },
+   {
+    "answer": "Jerome K. Jerome",
+    "tier": "t6"
+   },
+   {
+    "answer": "Virginia Woolf",
+    "tier": "t3"
+   },
+   {
+    "answer": "Daniel Defoe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Charlotte Brontë",
+    "tier": "t3"
+   },
+   {
+    "answer": "Emily Brontë",
+    "tier": "t3"
+   },
+   {
+    "answer": "Anne Brontë",
+    "tier": "t3"
+   },
+   {
+    "answer": "Thomas Hardy",
+    "tier": "t3"
+   },
+   {
+    "answer": "George Eliot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Robert Louis Stevenson",
+    "tier": "t3"
+   },
+   {
+    "answer": "H. G. Wells",
+    "tier": "t3"
+   },
+   {
+    "answer": "Aldous Huxley",
+    "tier": "t3"
+   },
+   {
+    "answer": "D. H. Lawrence",
+    "tier": "t3"
+   },
+   {
+    "answer": "Graham Greene",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ian Fleming",
+    "tier": "t3"
+   },
+   {
+    "answer": "John le Carré",
+    "tier": "t3"
+   },
+   {
+    "answer": "Terry Pratchett",
+    "tier": "t3"
+   },
+   {
+    "answer": "Neil Gaiman",
+    "tier": "t3"
+   },
+   {
+    "answer": "Douglas Adams",
+    "tier": "t3"
+   },
+   {
+    "answer": "Enid Blyton",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mary Shelley",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lord Byron",
+    "tier": "t3"
+   },
+   {
+    "answer": "John Milton",
+    "tier": "t3"
+   },
+   {
+    "answer": "Geoffrey Chaucer",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ian McEwan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Evelyn Waugh",
+    "tier": "t3"
+   },
+   {
+    "answer": "E. M. Forster",
+    "tier": "t3"
+   },
+   {
+    "answer": "P. G. Wodehouse",
+    "tier": "t3"
+   },
+   {
+    "answer": "William Golding",
+    "tier": "t3"
+   },
+   {
+    "answer": "Joseph Conrad",
+    "tier": "t3"
+   },
+   {
+    "answer": "Wilkie Collins",
+    "tier": "t4"
+   },
+   {
+    "answer": "Anthony Trollope",
+    "tier": "t4"
+   },
+   {
+    "answer": "William Makepeace Thackeray",
+    "tier": "t4"
+   },
+   {
+    "answer": "Elizabeth Gaskell",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sir Walter Scott",
+    "tier": "t4"
+   },
+   {
+    "answer": "Henry Fielding",
+    "tier": "t4"
+   },
+   {
+    "answer": "Samuel Richardson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Samuel Johnson",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Bunyan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alexander Pope",
+    "tier": "t4"
+   },
+   {
+    "answer": "Somerset Maugham",
+    "tier": "t4"
+   },
+   {
+    "answer": "Daphne du Maurier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dorothy L. Sayers",
+    "tier": "t4"
+   },
+   {
+    "answer": "A. A. Milne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kenneth Grahame",
+    "tier": "t4"
+   },
+   {
+    "answer": "J. M. Barrie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Beatrix Potter",
+    "tier": "t4"
+   },
+   {
+    "answer": "Salman Rushdie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kazuo Ishiguro",
+    "tier": "t4"
+   },
+   {
+    "answer": "Julian Barnes",
+    "tier": "t4"
+   },
+   {
+    "answer": "Martin Amis",
+    "tier": "t4"
+   },
+   {
+    "answer": "Zadie Smith",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hilary Mantel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Philip Pullman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nick Hornby",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ken Follett",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jeffrey Archer",
+    "tier": "t4"
+   },
+   {
+    "answer": "Anthony Burgess",
+    "tier": "t4"
+   },
+   {
+    "answer": "Doris Lessing",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arthur C. Clarke",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Wyndham",
+    "tier": "t4"
+   },
+   {
+    "answer": "G. K. Chesterton",
+    "tier": "t4"
+   },
+   {
+    "answer": "Christopher Marlowe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ben Jonson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Edmund Spenser",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thomas More",
+    "tier": "t4"
+   },
+   {
+    "answer": "Francis Bacon",
+    "tier": "t4"
+   },
+   {
+    "answer": "William Wordsworth",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alfred Tennyson",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Keats",
+    "tier": "t4"
+   },
+   {
+    "answer": "Muriel Spark",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Fowles",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ruth Rendell",
+    "tier": "t4"
+   },
+   {
+    "answer": "P. D. James",
+    "tier": "t4"
+   },
+   {
+    "answer": "Colin Dexter",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ian Rankin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Irvine Welsh",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michael Morpurgo",
+    "tier": "t4"
+   },
+   {
+    "answer": "David Walliams",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stephen Fry",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hanif Kureishi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sarah Waters",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mark Haddon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sir Henry Rider Haggard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Charles Kingsley",
+    "tier": "t4"
+   },
+   {
+    "answer": "Edward Lear",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dylan Thomas",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ted Hughes",
+    "tier": "t4"
+   },
+   {
+    "answer": "Philip Larkin",
+    "tier": "t4"
+   },
+   {
+    "answer": "W. H. Auden",
+    "tier": "t4"
+   },
+   {
+    "answer": "Robert Graves",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ford Madox Ford",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lawrence Durrell",
+    "tier": "t5"
+   },
+   {
+    "answer": "Malcolm Lowry",
+    "tier": "t5"
+   },
+   {
+    "answer": "J. G. Ballard",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mervyn Peake",
+    "tier": "t5"
+   },
+   {
+    "answer": "Arthur Ransome",
+    "tier": "t5"
+   },
+   {
+    "answer": "Richard Adams",
+    "tier": "t5"
+   },
+   {
+    "answer": "Georgette Heyer",
+    "tier": "t5"
+   },
+   {
+    "answer": "Catherine Cookson",
+    "tier": "t5"
+   },
+   {
+    "answer": "Baroness Orczy",
+    "tier": "t5"
+   },
+   {
+    "answer": "Edgar Wallace",
+    "tier": "t5"
+   },
+   {
+    "answer": "George MacDonald",
+    "tier": "t5"
+   },
+   {
+    "answer": "Thomas Hughes",
+    "tier": "t5"
+   },
+   {
+    "answer": "Thomas Malory",
+    "tier": "t5"
+   },
+   {
+    "answer": "Siegfried Sassoon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Wilfred Owen",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rupert Brooke",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bernardine Evaristo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ali Smith",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alexander McCall Smith",
+    "tier": "t5"
+   },
+   {
+    "answer": "Brian Aldiss",
+    "tier": "t5"
+   },
+   {
+    "answer": "Michael Moorcock",
+    "tier": "t5"
+   },
+   {
+    "answer": "Christopher Priest",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jacqueline Wilson",
+    "tier": "t5"
+   },
+   {
+    "answer": "Barbara Cartland",
+    "tier": "t5"
+   }
+  ]
+ }
+]

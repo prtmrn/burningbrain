@@ -8,6 +8,6 @@ export async function POST(req: Request, { params }: { params: Promise<{ code: s
   const { code } = await params;
   const body = (await req.json().catch(() => ({}))) as { playerId?: unknown };
   const playerId = typeof body.playerId === 'string' ? body.playerId : '';
-  const out = await startRoom(code, playerId);
+  const out = await startRoom(code, playerId, new URL(req.url).origin);
   return Response.json(out, { status: 'error' in out ? 400 : 200 });
 }

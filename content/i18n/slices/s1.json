@@ -1,0 +1,6700 @@
+[
+ {
+  "id": "art-archi-01",
+  "text": "Nomme un couturier ou un créateur de mode (personne)",
+  "entries": [
+   {
+    "answer": "Christian Dior",
+    "tier": "t1"
+   },
+   {
+    "answer": "Yves Saint Laurent",
+    "tier": "t1"
+   },
+   {
+    "answer": "Jean Paul Gaultier",
+    "tier": "t1"
+   },
+   {
+    "answer": "Karl Lagerfeld",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pierre Cardin",
+    "tier": "t1"
+   },
+   {
+    "answer": "Hubert de Givenchy",
+    "tier": "t1"
+   },
+   {
+    "answer": "Giorgio Armani",
+    "tier": "t1"
+   },
+   {
+    "answer": "Gianni Versace",
+    "tier": "t1"
+   },
+   {
+    "answer": "Coco Chanel",
+    "tier": "t2"
+   },
+   {
+    "answer": "Rudi Gernreich",
+    "tier": "t6"
+   },
+   {
+    "answer": "Ralph Lauren",
+    "tier": "t3"
+   },
+   {
+    "answer": "Christian Lacroix",
+    "tier": "t3"
+   },
+   {
+    "answer": "Thierry Mugler",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paco Rabanne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kenzo Takada",
+    "tier": "t3"
+   },
+   {
+    "answer": "Valentino Garavani",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dolce et Gabbana",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tom Ford",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vivienne Westwood",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alexander McQueen",
+    "tier": "t3"
+   },
+   {
+    "answer": "Calvin Klein",
+    "tier": "t3"
+   },
+   {
+    "answer": "Issey Miyake",
+    "tier": "t3"
+   },
+   {
+    "answer": "Yohji Yamamoto",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sonia Rykiel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Emanuel Ungaro",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cristóbal Balenciaga",
+    "tier": "t3"
+   },
+   {
+    "answer": "Elsa Schiaparelli",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jeanne Lanvin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paul Poiret",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pierre Balmain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Stella McCartney",
+    "tier": "t3"
+   },
+   {
+    "answer": "John Galliano",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marc Jacobs",
+    "tier": "t3"
+   },
+   {
+    "answer": "Donatella Versace",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tommy Hilfiger",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hugo Boss",
+    "tier": "t3"
+   },
+   {
+    "answer": "Miuccia Prada",
+    "tier": "t3"
+   },
+   {
+    "answer": "Azzedine Alaïa",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hedi Slimane",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nina Ricci",
+    "tier": "t3"
+   },
+   {
+    "answer": "Madeleine Vionnet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Agnès b.",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Patou",
+    "tier": "t3"
+   },
+   {
+    "answer": "Roberto Cavalli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Salvatore Ferragamo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Guccio Gucci",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gianfranco Ferré",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alber Elbaz",
+    "tier": "t4"
+   },
+   {
+    "answer": "Olivier Rousteing",
+    "tier": "t4"
+   },
+   {
+    "answer": "Simon Porte Jacquemus",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nicolas Ghesquière",
+    "tier": "t4"
+   },
+   {
+    "answer": "Riccardo Tisci",
+    "tier": "t4"
+   },
+   {
+    "answer": "Raf Simons",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rei Kawakubo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Martin Margiela",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dries Van Noten",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ann Demeulemeester",
+    "tier": "t4"
+   },
+   {
+    "answer": "Diane von Fürstenberg",
+    "tier": "t4"
+   },
+   {
+    "answer": "Carolina Herrera",
+    "tier": "t4"
+   },
+   {
+    "answer": "Oscar de la Renta",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vera Wang",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michael Kors",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mary Quant",
+    "tier": "t4"
+   },
+   {
+    "answer": "André Courrèges",
+    "tier": "t4"
+   },
+   {
+    "answer": "Charles Frederick Worth",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jacques Doucet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mariano Fortuny",
+    "tier": "t4"
+   },
+   {
+    "answer": "Madame Grès",
+    "tier": "t4"
+   },
+   {
+    "answer": "Guy Laroche",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jil Sander",
+    "tier": "t4"
+   },
+   {
+    "answer": "Christian Louboutin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Donna Karan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean-Charles de Castelbajac",
+    "tier": "t4"
+   },
+   {
+    "answer": "Louis Féraud",
+    "tier": "t4"
+   },
+   {
+    "answer": "Halston",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jacques Fath",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marcel Rochas",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lucien Lelong",
+    "tier": "t4"
+   },
+   {
+    "answer": "Anna Sui",
+    "tier": "t4"
+   },
+   {
+    "answer": "Betsey Johnson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Zac Posen",
+    "tier": "t4"
+   },
+   {
+    "answer": "Walter Van Beirendonck",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jean-Louis Scherrer",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jean Dessès",
+    "tier": "t5"
+   },
+   {
+    "answer": "Emilio Pucci",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ottavio Missoni",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rick Owens",
+    "tier": "t5"
+   },
+   {
+    "answer": "Haider Ackermann",
+    "tier": "t5"
+   },
+   {
+    "answer": "Alexander Wang",
+    "tier": "t5"
+   },
+   {
+    "answer": "Virgil Abloh",
+    "tier": "t5"
+   },
+   {
+    "answer": "Demna Gvasalia",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pierpaolo Piccioli",
+    "tier": "t5"
+   },
+   {
+    "answer": "Maria Grazia Chiuri",
+    "tier": "t5"
+   },
+   {
+    "answer": "Phoebe Philo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Julien Macdonald",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hussein Chalayan",
+    "tier": "t5"
+   },
+   {
+    "answer": "Christian Siriano",
+    "tier": "t5"
+   },
+   {
+    "answer": "Isabel Marant",
+    "tier": "t5"
+   },
+   {
+    "answer": "Thierry Hermès",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-02",
+  "text": "Nomme une marque ou une maison de mode",
+  "entries": [
+   {
+    "answer": "Chanel",
+    "tier": "t1"
+   },
+   {
+    "answer": "Dior",
+    "tier": "t1"
+   },
+   {
+    "answer": "Hermès",
+    "tier": "t1"
+   },
+   {
+    "answer": "Gucci",
+    "tier": "t1"
+   },
+   {
+    "answer": "Prada",
+    "tier": "t1"
+   },
+   {
+    "answer": "Yves Saint Laurent",
+    "tier": "t1"
+   },
+   {
+    "answer": "Versace",
+    "tier": "t1"
+   },
+   {
+    "answer": "Givenchy",
+    "tier": "t1"
+   },
+   {
+    "answer": "Louis Vuitton",
+    "tier": "t2"
+   },
+   {
+    "answer": "Bonpoint",
+    "tier": "t6"
+   },
+   {
+    "answer": "Balenciaga",
+    "tier": "t3"
+   },
+   {
+    "answer": "Armani",
+    "tier": "t3"
+   },
+   {
+    "answer": "Burberry",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fendi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lacoste",
+    "tier": "t3"
+   },
+   {
+    "answer": "Céline",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lanvin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Valentino",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dolce & Gabbana",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hugo Boss",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ralph Lauren",
+    "tier": "t3"
+   },
+   {
+    "answer": "Calvin Klein",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tommy Hilfiger",
+    "tier": "t3"
+   },
+   {
+    "answer": "Zara",
+    "tier": "t3"
+   },
+   {
+    "answer": "H&M",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kenzo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jean Paul Gaultier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chloé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Balmain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Moschino",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bottega Veneta",
+    "tier": "t3"
+   },
+   {
+    "answer": "Longchamp",
+    "tier": "t3"
+   },
+   {
+    "answer": "Max Mara",
+    "tier": "t3"
+   },
+   {
+    "answer": "Diesel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Levi's",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vivienne Westwood",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alexander McQueen",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paco Rabanne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Isabel Marant",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sandro",
+    "tier": "t3"
+   },
+   {
+    "answer": "Maje",
+    "tier": "t3"
+   },
+   {
+    "answer": "Agnès b.",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sonia Rykiel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lancel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Goyard",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mango",
+    "tier": "t3"
+   },
+   {
+    "answer": "Uniqlo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kookaï",
+    "tier": "t3"
+   },
+   {
+    "answer": "Petit Bateau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Repetto",
+    "tier": "t3"
+   },
+   {
+    "answer": "Comme des Garçons",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jacquemus",
+    "tier": "t4"
+   },
+   {
+    "answer": "Courrèges",
+    "tier": "t4"
+   },
+   {
+    "answer": "Schiaparelli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nina Ricci",
+    "tier": "t4"
+   },
+   {
+    "answer": "Guy Laroche",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rochas",
+    "tier": "t4"
+   },
+   {
+    "answer": "Emilio Pucci",
+    "tier": "t4"
+   },
+   {
+    "answer": "Missoni",
+    "tier": "t4"
+   },
+   {
+    "answer": "Etro",
+    "tier": "t4"
+   },
+   {
+    "answer": "Loro Piana",
+    "tier": "t4"
+   },
+   {
+    "answer": "Brunello Cucinelli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ermenegildo Zegna",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tod's",
+    "tier": "t4"
+   },
+   {
+    "answer": "Miu Miu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marni",
+    "tier": "t4"
+   },
+   {
+    "answer": "Roberto Cavalli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Trussardi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Furla",
+    "tier": "t4"
+   },
+   {
+    "answer": "Coach",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michael Kors",
+    "tier": "t4"
+   },
+   {
+    "answer": "Marc Jacobs",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tom Ford",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stella McCartney",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mulberry",
+    "tier": "t4"
+   },
+   {
+    "answer": "Paul Smith",
+    "tier": "t4"
+   },
+   {
+    "answer": "Barbour",
+    "tier": "t4"
+   },
+   {
+    "answer": "Aquascutum",
+    "tier": "t4"
+   },
+   {
+    "answer": "Loewe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Issey Miyake",
+    "tier": "t4"
+   },
+   {
+    "answer": "Yohji Yamamoto",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maison Margiela",
+    "tier": "t4"
+   },
+   {
+    "answer": "Off-White",
+    "tier": "t4"
+   },
+   {
+    "answer": "Supreme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Berluti",
+    "tier": "t4"
+   },
+   {
+    "answer": "Carven",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jil Sander",
+    "tier": "t4"
+   },
+   {
+    "answer": "Acne Studios",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ba&sh",
+    "tier": "t4"
+   },
+   {
+    "answer": "Claudie Pierlot",
+    "tier": "t4"
+   },
+   {
+    "answer": "Naf Naf",
+    "tier": "t4"
+   },
+   {
+    "answer": "Morgan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Celio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Eden Park",
+    "tier": "t4"
+   },
+   {
+    "answer": "The Kooples",
+    "tier": "t4"
+   },
+   {
+    "answer": "Zadig & Voltaire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gerard Darel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Springfield",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bershka",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pull&Bear",
+    "tier": "t4"
+   },
+   {
+    "answer": "Massimo Dutti",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stradivarius",
+    "tier": "t4"
+   },
+   {
+    "answer": "Benetton",
+    "tier": "t4"
+   },
+   {
+    "answer": "Guess",
+    "tier": "t4"
+   },
+   {
+    "answer": "Superdry",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gap",
+    "tier": "t4"
+   },
+   {
+    "answer": "Abercrombie & Fitch",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ted Baker",
+    "tier": "t4"
+   },
+   {
+    "answer": "Esprit",
+    "tier": "t4"
+   },
+   {
+    "answer": "Desigual",
+    "tier": "t4"
+   },
+   {
+    "answer": "Camaïeu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Promod",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kiabi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cache Cache",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maison Kitsuné",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vetements",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stone Island",
+    "tier": "t5"
+   },
+   {
+    "answer": "Moncler",
+    "tier": "t5"
+   },
+   {
+    "answer": "Canada Goose",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hackett",
+    "tier": "t5"
+   },
+   {
+    "answer": "Delvaux",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bally",
+    "tier": "t5"
+   },
+   {
+    "answer": "Fred Perry",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pringle of Scotland",
+    "tier": "t5"
+   },
+   {
+    "answer": "Dsquared2",
+    "tier": "t5"
+   },
+   {
+    "answer": "Brioni",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kiton",
+    "tier": "t5"
+   },
+   {
+    "answer": "Canali",
+    "tier": "t5"
+   },
+   {
+    "answer": "Belstaff",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ami Paris",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sézane",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rouje",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vanessa Bruno",
+    "tier": "t5"
+   },
+   {
+    "answer": "A.P.C.",
+    "tier": "t5"
+   },
+   {
+    "answer": "Maison Michel",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-03",
+  "text": "Nomme un style ou un courant d'architecture",
+  "entries": [
+   {
+    "answer": "Roman",
+    "tier": "t1"
+   },
+   {
+    "answer": "Baroque",
+    "tier": "t1"
+   },
+   {
+    "answer": "Renaissance",
+    "tier": "t1"
+   },
+   {
+    "answer": "Art nouveau",
+    "tier": "t1"
+   },
+   {
+    "answer": "Art déco",
+    "tier": "t1"
+   },
+   {
+    "answer": "Néoclassique",
+    "tier": "t1"
+   },
+   {
+    "answer": "Brutalisme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Moderne",
+    "tier": "t1"
+   },
+   {
+    "answer": "Gothique",
+    "tier": "t2"
+   },
+   {
+    "answer": "Googie",
+    "tier": "t6"
+   },
+   {
+    "answer": "Rococo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Byzantin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Néogothique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Haussmannien",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bauhaus",
+    "tier": "t3"
+   },
+   {
+    "answer": "Postmoderne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Contemporain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Antique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Grec",
+    "tier": "t3"
+   },
+   {
+    "answer": "Romain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Égyptien",
+    "tier": "t3"
+   },
+   {
+    "answer": "Style international",
+    "tier": "t3"
+   },
+   {
+    "answer": "Déconstructivisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "High-tech",
+    "tier": "t3"
+   },
+   {
+    "answer": "Futurisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Constructivisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Expressionnisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fonctionnalisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mudéjar",
+    "tier": "t3"
+   },
+   {
+    "answer": "Arts and Crafts",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tudor",
+    "tier": "t3"
+   },
+   {
+    "answer": "Classique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Victorien",
+    "tier": "t3"
+   },
+   {
+    "answer": "Empire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Minimalisme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mauresque",
+    "tier": "t3"
+   },
+   {
+    "answer": "Palladianisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Georgien",
+    "tier": "t4"
+   },
+   {
+    "answer": "Édouardien",
+    "tier": "t4"
+   },
+   {
+    "answer": "Second Empire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Plateresque",
+    "tier": "t4"
+   },
+   {
+    "answer": "Manuélin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Churrigueresque",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gothique flamboyant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gothique rayonnant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gothique perpendiculaire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Carolingien",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ottonien",
+    "tier": "t4"
+   },
+   {
+    "answer": "Islamique",
+    "tier": "t4"
+   },
+   {
+    "answer": "Moghol",
+    "tier": "t4"
+   },
+   {
+    "answer": "Colonial",
+    "tier": "t4"
+   },
+   {
+    "answer": "Néo-Renaissance",
+    "tier": "t4"
+   },
+   {
+    "answer": "Néo-byzantin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Néo-roman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Éclectisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sécession viennoise",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jugendstil",
+    "tier": "t4"
+   },
+   {
+    "answer": "Modernisme catalan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Style paquebot",
+    "tier": "t4"
+   },
+   {
+    "answer": "Métabolisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Architecture organique",
+    "tier": "t4"
+   },
+   {
+    "answer": "Prairie School",
+    "tier": "t4"
+   },
+   {
+    "answer": "De Stijl",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rationalisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Néoplasticisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Beaux-Arts",
+    "tier": "t4"
+   },
+   {
+    "answer": "Régionalisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Durable",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bioclimatique",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vernaculaire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Paramétrisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Style Queen Anne",
+    "tier": "t5"
+   },
+   {
+    "answer": "Néo-Tudor",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pueblo Revival",
+    "tier": "t5"
+   },
+   {
+    "answer": "Style Mission",
+    "tier": "t5"
+   },
+   {
+    "answer": "Réalisme socialiste",
+    "tier": "t5"
+   },
+   {
+    "answer": "Néo-mudéjar",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cistercien",
+    "tier": "t5"
+   },
+   {
+    "answer": "Néo-égyptien",
+    "tier": "t5"
+   },
+   {
+    "answer": "Style Louis XIII",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gothique primitif",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gothique lancéolé",
+    "tier": "t5"
+   },
+   {
+    "answer": "Roman lombard",
+    "tier": "t5"
+   },
+   {
+    "answer": "Style Régence",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-06",
+  "text": "Nomme un élément d'architecture d'un bâtiment (partie ou structure)",
+  "entries": [
+   {
+    "answer": "Fenêtre",
+    "tier": "t1"
+   },
+   {
+    "answer": "Porte",
+    "tier": "t1"
+   },
+   {
+    "answer": "Toit",
+    "tier": "t1"
+   },
+   {
+    "answer": "Mur",
+    "tier": "t1"
+   },
+   {
+    "answer": "Escalier",
+    "tier": "t1"
+   },
+   {
+    "answer": "Voûte",
+    "tier": "t1"
+   },
+   {
+    "answer": "Arche",
+    "tier": "t1"
+   },
+   {
+    "answer": "Balcon",
+    "tier": "t1"
+   },
+   {
+    "answer": "Colonne",
+    "tier": "t2"
+   },
+   {
+    "answer": "Trompe",
+    "tier": "t6"
+   },
+   {
+    "answer": "Pilier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fronton",
+    "tier": "t3"
+   },
+   {
+    "answer": "Coupole",
+    "tier": "t3"
+   },
+   {
+    "answer": "Clocher",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tour",
+    "tier": "t3"
+   },
+   {
+    "answer": "Arc-boutant",
+    "tier": "t3"
+   },
+   {
+    "answer": "Contrefort",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gargouille",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chapiteau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fondations",
+    "tier": "t3"
+   },
+   {
+    "answer": "Terrasse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cheminée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Plafond",
+    "tier": "t3"
+   },
+   {
+    "answer": "Corniche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Porche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Portail",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nef",
+    "tier": "t3"
+   },
+   {
+    "answer": "Transept",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chœur",
+    "tier": "t3"
+   },
+   {
+    "answer": "Abside",
+    "tier": "t3"
+   },
+   {
+    "answer": "Crypte",
+    "tier": "t3"
+   },
+   {
+    "answer": "Déambulatoire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rosace",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vitrail",
+    "tier": "t3"
+   },
+   {
+    "answer": "Flèche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pinacle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Clef de voûte",
+    "tier": "t3"
+   },
+   {
+    "answer": "Arcade",
+    "tier": "t3"
+   },
+   {
+    "answer": "Frise",
+    "tier": "t3"
+   },
+   {
+    "answer": "Entablement",
+    "tier": "t3"
+   },
+   {
+    "answer": "Architrave",
+    "tier": "t3"
+   },
+   {
+    "answer": "Balustrade",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mansarde",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lucarne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Charpente",
+    "tier": "t3"
+   },
+   {
+    "answer": "Poutre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Linteau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Soubassement",
+    "tier": "t3"
+   },
+   {
+    "answer": "Piédestal",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cloître",
+    "tier": "t3"
+   },
+   {
+    "answer": "Narthex",
+    "tier": "t3"
+   },
+   {
+    "answer": "Triforium",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tympan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Archivolte",
+    "tier": "t3"
+   },
+   {
+    "answer": "Meurtrière",
+    "tier": "t3"
+   },
+   {
+    "answer": "Créneau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mâchicoulis",
+    "tier": "t3"
+   },
+   {
+    "answer": "Donjon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pont-levis",
+    "tier": "t3"
+   },
+   {
+    "answer": "Douve",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pilastre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fût",
+    "tier": "t3"
+   },
+   {
+    "answer": "Volute",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cariatide",
+    "tier": "t3"
+   },
+   {
+    "answer": "Atlante",
+    "tier": "t3"
+   },
+   {
+    "answer": "Oculus",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lanterne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Loggia",
+    "tier": "t3"
+   },
+   {
+    "answer": "Véranda",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pergola",
+    "tier": "t3"
+   },
+   {
+    "answer": "Auvent",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marquise",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gouttière",
+    "tier": "t3"
+   },
+   {
+    "answer": "Faîtage",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pignon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Plein cintre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ogive",
+    "tier": "t3"
+   },
+   {
+    "answer": "Encorbellement",
+    "tier": "t3"
+   },
+   {
+    "answer": "Échauguette",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chemin de ronde",
+    "tier": "t3"
+   },
+   {
+    "answer": "Poterne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Herse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Colonnade",
+    "tier": "t3"
+   },
+   {
+    "answer": "Péristyle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Portique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Atrium",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cour",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bossage",
+    "tier": "t4"
+   },
+   {
+    "answer": "Acrotère",
+    "tier": "t4"
+   },
+   {
+    "answer": "Métope",
+    "tier": "t4"
+   },
+   {
+    "answer": "Triglyphe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Voussure",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cul-de-lampe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Modillon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Console",
+    "tier": "t4"
+   },
+   {
+    "answer": "Corbeau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Barbacane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Impluvium",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chéneau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Solive",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chevron",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ferme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tirant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cintre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Belvédère",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cage d'escalier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rampe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Garde-corps",
+    "tier": "t4"
+   },
+   {
+    "answer": "Parapet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Appui de fenêtre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Allège",
+    "tier": "t4"
+   },
+   {
+    "answer": "Trumeau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jambage",
+    "tier": "t4"
+   },
+   {
+    "answer": "Piédroit",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ébrasement",
+    "tier": "t4"
+   },
+   {
+    "answer": "Imposte",
+    "tier": "t4"
+   },
+   {
+    "answer": "Claustra",
+    "tier": "t4"
+   },
+   {
+    "answer": "Moucharabieh",
+    "tier": "t4"
+   },
+   {
+    "answer": "Abat-son",
+    "tier": "t4"
+   },
+   {
+    "answer": "Beffroi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Campanile",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lanterneau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chambranle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Larmier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Plinthe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Socle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stylobate",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tambour",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pendentif",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arc doubleau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Formeret",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nervure",
+    "tier": "t4"
+   },
+   {
+    "answer": "Croisée d'ogives",
+    "tier": "t4"
+   },
+   {
+    "answer": "Remplage",
+    "tier": "t4"
+   },
+   {
+    "answer": "Meneau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Crochet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fleuron",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rampant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Noue",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arêtier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Égout",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sablière",
+    "tier": "t4"
+   },
+   {
+    "answer": "Entrait",
+    "tier": "t4"
+   },
+   {
+    "answer": "Poinçon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Panne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chevêtre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pilotis",
+    "tier": "t4"
+   },
+   {
+    "answer": "Radier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Abaque",
+    "tier": "t5"
+   },
+   {
+    "answer": "Échine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gorgerin",
+    "tier": "t5"
+   },
+   {
+    "answer": "Astragale",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tailloir",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cimaise",
+    "tier": "t5"
+   },
+   {
+    "answer": "Denticule",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mutule",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gouttes",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rudenture",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cannelure",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-07",
+  "text": "Nomme une sculpture ou un monument sculpté célèbre (œuvre)",
+  "entries": [
+   {
+    "answer": "Le Penseur",
+    "tier": "t1"
+   },
+   {
+    "answer": "David de Michel-Ange",
+    "tier": "t1"
+   },
+   {
+    "answer": "Vénus de Milo",
+    "tier": "t1"
+   },
+   {
+    "answer": "Victoire de Samothrace",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pietà",
+    "tier": "t1"
+   },
+   {
+    "answer": "Le Baiser",
+    "tier": "t1"
+   },
+   {
+    "answer": "Moïse de Michel-Ange",
+    "tier": "t1"
+   },
+   {
+    "answer": "Discobole",
+    "tier": "t1"
+   },
+   {
+    "answer": "Statue de la Liberté",
+    "tier": "t2"
+   },
+   {
+    "answer": "Manneken-Pis",
+    "tier": "t6"
+   },
+   {
+    "answer": "Les Bourgeois de Calais",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Porte de l'Enfer",
+    "tier": "t3"
+   },
+   {
+    "answer": "Laocoon",
+    "tier": "t3"
+   },
+   {
+    "answer": "L'Homme qui marche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Grand Sphinx de Gizeh",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mont Rushmore",
+    "tier": "t3"
+   },
+   {
+    "answer": "Christ rédempteur",
+    "tier": "t3"
+   },
+   {
+    "answer": "Apollon du Belvédère",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vénus de Willendorf",
+    "tier": "t3"
+   },
+   {
+    "answer": "L'Extase de sainte Thérèse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Apollon et Daphné",
+    "tier": "t3"
+   },
+   {
+    "answer": "L'Enlèvement de Proserpine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fontaine de Trevi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fontaine des Quatre-Fleuves",
+    "tier": "t3"
+   },
+   {
+    "answer": "La Valse",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Âge mûr",
+    "tier": "t4"
+   },
+   {
+    "answer": "Persée avec la tête de Méduse",
+    "tier": "t4"
+   },
+   {
+    "answer": "David de Donatello",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gattamelata",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ève de Rodin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Monument à Balzac",
+    "tier": "t4"
+   },
+   {
+    "answer": "Les Trois Grâces",
+    "tier": "t4"
+   },
+   {
+    "answer": "Psyché ranimée par le baiser de l'Amour",
+    "tier": "t4"
+   },
+   {
+    "answer": "Guerriers de Riace",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tireur d'épine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Aurige de Delphes",
+    "tier": "t4"
+   },
+   {
+    "answer": "Galate mourant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vénus de Médicis",
+    "tier": "t4"
+   },
+   {
+    "answer": "Buste de Néfertiti",
+    "tier": "t4"
+   },
+   {
+    "answer": "Armée de terre cuite",
+    "tier": "t4"
+   },
+   {
+    "answer": "Grand Bouddha de Kamakura",
+    "tier": "t4"
+   },
+   {
+    "answer": "Moaï",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lion de Belfort",
+    "tier": "t4"
+   },
+   {
+    "answer": "La Petite Sirène",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Départ des volontaires de 1792",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chevaux de Marly",
+    "tier": "t4"
+   },
+   {
+    "answer": "Petite Danseuse de quatorze ans",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cloud Gate",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Balloon Dog",
+    "tier": "t4"
+   },
+   {
+    "answer": "Colonne sans fin",
+    "tier": "t4"
+   },
+   {
+    "answer": "L'Oiseau dans l'espace",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mademoiselle Pogany",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fontaine de Duchamp",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Cavalier de bronze",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dame d'Elche",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dame de Brassempouy",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vénus de Lespugue",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vénus de Cnide",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vénus d'Arles",
+    "tier": "t4"
+   },
+   {
+    "answer": "Le Scribe accroupi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Têtes olmèques",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bouddhas de Bamiyan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pauline Borghèse en Vénus victorieuse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mercure volant",
+    "tier": "t5"
+   },
+   {
+    "answer": "L'Enlèvement des Sabines",
+    "tier": "t5"
+   },
+   {
+    "answer": "Porte du Paradis",
+    "tier": "t5"
+   },
+   {
+    "answer": "Le Grand Bouddha de Leshan",
+    "tier": "t5"
+   },
+   {
+    "answer": "Statue de l'Unité",
+    "tier": "t5"
+   },
+   {
+    "answer": "Colosse de Rhodes",
+    "tier": "t5"
+   },
+   {
+    "answer": "Zeus d'Artémision",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kouros d'Anavyssos",
+    "tier": "t5"
+   },
+   {
+    "answer": "Frises du Parthénon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Autel de Pergame",
+    "tier": "t5"
+   },
+   {
+    "answer": "Vénus accroupie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hermès de Praxitèle",
+    "tier": "t5"
+   },
+   {
+    "answer": "Doryphore",
+    "tier": "t5"
+   },
+   {
+    "answer": "Diadumène",
+    "tier": "t5"
+   },
+   {
+    "answer": "Amazone blessée",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Trois Ombres",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sakountala",
+    "tier": "t5"
+   },
+   {
+    "answer": "Les Causeurs",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cheval de Marc Aurèle",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-09",
+  "text": "Nomme un matériau de construction",
+  "entries": [
+   {
+    "answer": "Béton",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pierre",
+    "tier": "t1"
+   },
+   {
+    "answer": "Bois",
+    "tier": "t1"
+   },
+   {
+    "answer": "Acier",
+    "tier": "t1"
+   },
+   {
+    "answer": "Verre",
+    "tier": "t1"
+   },
+   {
+    "answer": "Ciment",
+    "tier": "t1"
+   },
+   {
+    "answer": "Tuile",
+    "tier": "t1"
+   },
+   {
+    "answer": "Brique",
+    "tier": "t2"
+   },
+   {
+    "answer": "Glace",
+    "tier": "t6"
+   },
+   {
+    "answer": "Ardoise",
+    "tier": "t3"
+   },
+   {
+    "answer": "Plâtre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mortier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sable",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaux",
+    "tier": "t3"
+   },
+   {
+    "answer": "Granit",
+    "tier": "t3"
+   },
+   {
+    "answer": "Marbre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Calcaire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Grès",
+    "tier": "t3"
+   },
+   {
+    "answer": "Béton armé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Parpaing",
+    "tier": "t3"
+   },
+   {
+    "answer": "Torchis",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pisé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Adobe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaume",
+    "tier": "t3"
+   },
+   {
+    "answer": "Zinc",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cuivre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Plomb",
+    "tier": "t3"
+   },
+   {
+    "answer": "Aluminium",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fer",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fonte",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gravier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Argile",
+    "tier": "t3"
+   },
+   {
+    "answer": "Terre cuite",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pierre de taille",
+    "tier": "t3"
+   },
+   {
+    "answer": "Meulière",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tuffeau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Schiste",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lauze",
+    "tier": "t3"
+   },
+   {
+    "answer": "Moellon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Inox",
+    "tier": "t3"
+   },
+   {
+    "answer": "Stuc",
+    "tier": "t3"
+   },
+   {
+    "answer": "Enduit",
+    "tier": "t3"
+   },
+   {
+    "answer": "Crépi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Laine de verre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Laine de roche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Polystyrène",
+    "tier": "t3"
+   },
+   {
+    "answer": "Liège",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paille",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bambou",
+    "tier": "t3"
+   },
+   {
+    "answer": "Contreplaqué",
+    "tier": "t3"
+   },
+   {
+    "answer": "Plaque de plâtre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fibrociment",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bitume",
+    "tier": "t3"
+   },
+   {
+    "answer": "Asphalte",
+    "tier": "t3"
+   },
+   {
+    "answer": "Macadam",
+    "tier": "t3"
+   },
+   {
+    "answer": "Travertin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Basalte",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bardeau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lambris",
+    "tier": "t3"
+   },
+   {
+    "answer": "Carrelage",
+    "tier": "t3"
+   },
+   {
+    "answer": "Faïence",
+    "tier": "t3"
+   },
+   {
+    "answer": "Béton cellulaire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Verre trempé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Verre feuilleté",
+    "tier": "t4"
+   },
+   {
+    "answer": "Brique réfractaire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Béton précontraint",
+    "tier": "t4"
+   },
+   {
+    "answer": "Béton de chanvre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Béton ciré",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pierre ponce",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gypse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Grès cérame",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lamellé-collé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bois lamellé-croisé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bauge",
+    "tier": "t4"
+   },
+   {
+    "answer": "Terre crue",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pavé de verre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Titane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Acier Corten",
+    "tier": "t4"
+   },
+   {
+    "answer": "Polycarbonate",
+    "tier": "t4"
+   },
+   {
+    "answer": "PVC",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pouzzolane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tuf",
+    "tier": "t4"
+   },
+   {
+    "answer": "Albâtre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Béton fibré",
+    "tier": "t4"
+   },
+   {
+    "answer": "Panneau OSB",
+    "tier": "t4"
+   },
+   {
+    "answer": "MDF",
+    "tier": "t4"
+   },
+   {
+    "answer": "Aggloméré de bois",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mousse polyuréthane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Isolant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Laine de bois",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ouate de cellulose",
+    "tier": "t4"
+   },
+   {
+    "answer": "Béton bitumineux",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pierre reconstituée",
+    "tier": "t4"
+   },
+   {
+    "answer": "Brique crue",
+    "tier": "t4"
+   },
+   {
+    "answer": "Brique creuse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Brique pleine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cob",
+    "tier": "t5"
+   },
+   {
+    "answer": "ETFE",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mycélium",
+    "tier": "t5"
+   },
+   {
+    "answer": "Verre dichroïque",
+    "tier": "t5"
+   },
+   {
+    "answer": "Béton translucide",
+    "tier": "t5"
+   },
+   {
+    "answer": "Béton autoplaçant",
+    "tier": "t5"
+   },
+   {
+    "answer": "Pierre sèche",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-10",
+  "text": "Nomme un meuble ou un type de meuble",
+  "entries": [
+   {
+    "answer": "Table",
+    "tier": "t1"
+   },
+   {
+    "answer": "Lit",
+    "tier": "t1"
+   },
+   {
+    "answer": "Armoire",
+    "tier": "t1"
+   },
+   {
+    "answer": "Commode",
+    "tier": "t1"
+   },
+   {
+    "answer": "Bureau",
+    "tier": "t1"
+   },
+   {
+    "answer": "Canapé",
+    "tier": "t1"
+   },
+   {
+    "answer": "Fauteuil",
+    "tier": "t1"
+   },
+   {
+    "answer": "Chaise",
+    "tier": "t2"
+   },
+   {
+    "answer": "Prie-Dieu",
+    "tier": "t6"
+   },
+   {
+    "answer": "Buffet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bibliothèque",
+    "tier": "t3"
+   },
+   {
+    "answer": "Étagère",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tabouret",
+    "tier": "t3"
+   },
+   {
+    "answer": "Banc",
+    "tier": "t3"
+   },
+   {
+    "answer": "Table de chevet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Table basse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Console",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vaisselier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Secrétaire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Coiffeuse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Penderie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Placard",
+    "tier": "t3"
+   },
+   {
+    "answer": "Meuble TV",
+    "tier": "t3"
+   },
+   {
+    "answer": "Canapé-lit",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lit superposé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Berceau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bahut",
+    "tier": "t3"
+   },
+   {
+    "answer": "Coffre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Malle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Desserte",
+    "tier": "t3"
+   },
+   {
+    "answer": "Guéridon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pouf",
+    "tier": "t3"
+   },
+   {
+    "answer": "Banquette",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chiffonnier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Semainier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaise longue",
+    "tier": "t3"
+   },
+   {
+    "answer": "Transat",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rocking-chair",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bergère",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fauteuil club",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaise haute",
+    "tier": "t3"
+   },
+   {
+    "answer": "Divan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Méridienne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ottomane",
+    "tier": "t3"
+   },
+   {
+    "answer": "Causeuse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Psyché",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cabinet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bonheur-du-jour",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dressoir",
+    "tier": "t3"
+   },
+   {
+    "answer": "Crédence",
+    "tier": "t3"
+   },
+   {
+    "answer": "Table à manger",
+    "tier": "t3"
+   },
+   {
+    "answer": "Table à rallonge",
+    "tier": "t3"
+   },
+   {
+    "answer": "Valet de nuit",
+    "tier": "t3"
+   },
+   {
+    "answer": "Porte-manteau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lit à baldaquin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Canapé d'angle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fauteuil Voltaire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fauteuil crapaud",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paravent",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hamac",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lit bateau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chesterfield",
+    "tier": "t4"
+   },
+   {
+    "answer": "Duchesse brisée",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chaise Windsor",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lit de repos",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pupitre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Écritoire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cartonnier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Porte-parapluie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Étagère d'angle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Table de jeu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Table de billard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lit gigogne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lit clos",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lit pliant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Table pliante",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chaise pliante",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chaise de bureau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chaise de bar",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tabouret de bar",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chaise berçante",
+    "tier": "t4"
+   },
+   {
+    "answer": "Table de ferme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Table roulante",
+    "tier": "t4"
+   },
+   {
+    "answer": "Étagère murale",
+    "tier": "t4"
+   },
+   {
+    "answer": "Meuble à chaussures",
+    "tier": "t4"
+   },
+   {
+    "answer": "Meuble de salle de bains",
+    "tier": "t4"
+   },
+   {
+    "answer": "Meuble sous-évier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bout de canapé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fauteuil de bureau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fauteuil relax",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fauteuil roulant",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chiffonnière",
+    "tier": "t4"
+   },
+   {
+    "answer": "Table console",
+    "tier": "t4"
+   },
+   {
+    "answer": "Table de toilette",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tabouret de piano",
+    "tier": "t4"
+   },
+   {
+    "answer": "Banc de piano",
+    "tier": "t4"
+   },
+   {
+    "answer": "Banquette-lit",
+    "tier": "t4"
+   },
+   {
+    "answer": "Futon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Matelas",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sommier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Buffet bas",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chaise à bascule",
+    "tier": "t4"
+   },
+   {
+    "answer": "Meuble d'appoint",
+    "tier": "t4"
+   },
+   {
+    "answer": "Table d'appoint",
+    "tier": "t4"
+   },
+   {
+    "answer": "Secrétaire à abattant",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lit en alcôve",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chaise à porteurs",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stalle",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lutrin",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cabinet de curiosités",
+    "tier": "t5"
+   },
+   {
+    "answer": "Table d'architecte",
+    "tier": "t5"
+   },
+   {
+    "answer": "Table de tapissier",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tabouret curule",
+    "tier": "t5"
+   },
+   {
+    "answer": "Fauteuil Louis XV",
+    "tier": "t5"
+   },
+   {
+    "answer": "Fauteuil Louis XVI",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chaise Louis XIII",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chaise Louis-Philippe",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chaise Thonet",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chaise Tulipe",
+    "tier": "t5"
+   },
+   {
+    "answer": "Fauteuil Eames",
+    "tier": "t5"
+   },
+   {
+    "answer": "Fauteuil Egg",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chaise Barcelona",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chaise Panton",
+    "tier": "t5"
+   },
+   {
+    "answer": "Fauteuil Wassily",
+    "tier": "t5"
+   },
+   {
+    "answer": "Fauteuil LC2",
+    "tier": "t5"
+   },
+   {
+    "answer": "Fauteuil Ball",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-11",
+  "text": "Nomme un type de chapeau ou de couvre-chef",
+  "entries": [
+   {
+    "answer": "Chapeau melon",
+    "tier": "t1"
+   },
+   {
+    "answer": "Casquette",
+    "tier": "t1"
+   },
+   {
+    "answer": "Bonnet",
+    "tier": "t1"
+   },
+   {
+    "answer": "Panama",
+    "tier": "t1"
+   },
+   {
+    "answer": "Haut-de-forme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Fedora",
+    "tier": "t1"
+   },
+   {
+    "answer": "Chapeau de paille",
+    "tier": "t1"
+   },
+   {
+    "answer": "Chapeau de cowboy",
+    "tier": "t1"
+   },
+   {
+    "answer": "Béret",
+    "tier": "t2"
+   },
+   {
+    "answer": "Hennin",
+    "tier": "t6"
+   },
+   {
+    "answer": "Canotier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cloche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sombrero",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fez",
+    "tier": "t3"
+   },
+   {
+    "answer": "Turban",
+    "tier": "t3"
+   },
+   {
+    "answer": "Képi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bob",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chapeau pointu",
+    "tier": "t3"
+   },
+   {
+    "answer": "Toque",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bicorne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tricorne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mitre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chapka",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kippa",
+    "tier": "t3"
+   },
+   {
+    "answer": "Calot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bibi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Capeline",
+    "tier": "t3"
+   },
+   {
+    "answer": "Borsalino",
+    "tier": "t3"
+   },
+   {
+    "answer": "Trilby",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pork pie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chapeau de sorcière",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chapeau tyrolien",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mortier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Casquette gavroche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Casquette de baseball",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chapeau de brousse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chapeau chinois",
+    "tier": "t4"
+   },
+   {
+    "answer": "Shako",
+    "tier": "t4"
+   },
+   {
+    "answer": "Colback",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bonnet à poil",
+    "tier": "t4"
+   },
+   {
+    "answer": "Busby",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chapeau pilulier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fascinateur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chapeau andalou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Akubra",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bonnet phrygien",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bonnet d'âne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bonnet de nuit",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bonnet de Père Noël",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chullo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tuque",
+    "tier": "t4"
+   },
+   {
+    "answer": "Coiffe bretonne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Casque colonial",
+    "tier": "t4"
+   },
+   {
+    "answer": "Deerstalker",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pamela",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gibus",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chapeau de soleil",
+    "tier": "t4"
+   },
+   {
+    "answer": "Zucchetto",
+    "tier": "t5"
+   },
+   {
+    "answer": "Camauro",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tiare",
+    "tier": "t5"
+   },
+   {
+    "answer": "Taqiyah",
+    "tier": "t5"
+   },
+   {
+    "answer": "Papakha",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kokochnik",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chaperon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Coiffe bigoudène",
+    "tier": "t5"
+   },
+   {
+    "answer": "Snapback",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chapeau mou",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bonnet de ski",
+    "tier": "t5"
+   },
+   {
+    "answer": "Toque de chef",
+    "tier": "t5"
+   },
+   {
+    "answer": "Toque universitaire",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kufi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bonnet de laine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bonnet de bain",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chapeau de plage",
+    "tier": "t5"
+   },
+   {
+    "answer": "Barrette",
+    "tier": "t5"
+   },
+   {
+    "answer": "Béret basque",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chapeau de feutre",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cagoule",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-12",
+  "text": "Nomme un tissu ou une étoffe",
+  "entries": [
+   {
+    "answer": "Soie",
+    "tier": "t1"
+   },
+   {
+    "answer": "Laine",
+    "tier": "t1"
+   },
+   {
+    "answer": "Lin",
+    "tier": "t1"
+   },
+   {
+    "answer": "Velours",
+    "tier": "t1"
+   },
+   {
+    "answer": "Jean",
+    "tier": "t1"
+   },
+   {
+    "answer": "Satin",
+    "tier": "t1"
+   },
+   {
+    "answer": "Polyester",
+    "tier": "t1"
+   },
+   {
+    "answer": "Cachemire",
+    "tier": "t1"
+   },
+   {
+    "answer": "Coton",
+    "tier": "t2"
+   },
+   {
+    "answer": "Byssus",
+    "tier": "t6"
+   },
+   {
+    "answer": "Tweed",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dentelle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Flanelle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mousseline",
+    "tier": "t3"
+   },
+   {
+    "answer": "Taffetas",
+    "tier": "t3"
+   },
+   {
+    "answer": "Organza",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tulle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nylon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Viscose",
+    "tier": "t3"
+   },
+   {
+    "answer": "Élasthanne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jersey",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gabardine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Popeline",
+    "tier": "t3"
+   },
+   {
+    "answer": "Toile",
+    "tier": "t3"
+   },
+   {
+    "answer": "Velours côtelé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cretonne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Madras",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vichy",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tartan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Damas",
+    "tier": "t3"
+   },
+   {
+    "answer": "Brocart",
+    "tier": "t3"
+   },
+   {
+    "answer": "Moire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Crêpe",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lamé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Polaire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Acrylique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chanvre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jute",
+    "tier": "t3"
+   },
+   {
+    "answer": "Coutil",
+    "tier": "t3"
+   },
+   {
+    "answer": "Éponge",
+    "tier": "t3"
+   },
+   {
+    "answer": "Feutre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alcantara",
+    "tier": "t3"
+   },
+   {
+    "answer": "Serge",
+    "tier": "t3"
+   },
+   {
+    "answer": "Drap",
+    "tier": "t3"
+   },
+   {
+    "answer": "Percale",
+    "tier": "t3"
+   },
+   {
+    "answer": "Batiste",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mérinos",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alpaga",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mohair",
+    "tier": "t3"
+   },
+   {
+    "answer": "Angora",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bouclé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chenille",
+    "tier": "t3"
+   },
+   {
+    "answer": "Panne de velours",
+    "tier": "t3"
+   },
+   {
+    "answer": "Toile cirée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Microfibre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Voile",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gaze",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cheviotte",
+    "tier": "t4"
+   },
+   {
+    "answer": "Shantung",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pongé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Surah",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bengaline",
+    "tier": "t4"
+   },
+   {
+    "answer": "Faille",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ottoman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gros-grain",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cloqué",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gaufré",
+    "tier": "t4"
+   },
+   {
+    "answer": "Guipure",
+    "tier": "t4"
+   },
+   {
+    "answer": "Calicot",
+    "tier": "t4"
+   },
+   {
+    "answer": "Futaine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nankin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pilou",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bazin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Wax",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kente",
+    "tier": "t4"
+   },
+   {
+    "answer": "Liberty",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pied-de-poule",
+    "tier": "t4"
+   },
+   {
+    "answer": "Prince-de-Galles",
+    "tier": "t4"
+   },
+   {
+    "answer": "Madapolam",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cordura",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gore-Tex",
+    "tier": "t4"
+   },
+   {
+    "answer": "Néoprène",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mousseline de soie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Étamine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lampas",
+    "tier": "t4"
+   },
+   {
+    "answer": "Toile de Jouy",
+    "tier": "t4"
+   },
+   {
+    "answer": "Indienne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Toile de jute",
+    "tier": "t4"
+   },
+   {
+    "answer": "Toile de lin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tarlatane",
+    "tier": "t4"
+   },
+   {
+    "answer": "Crépon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lyocell",
+    "tier": "t4"
+   },
+   {
+    "answer": "Modal",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cupro",
+    "tier": "t4"
+   },
+   {
+    "answer": "Acétate",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rayonne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Barathéa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lainage",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tussah",
+    "tier": "t4"
+   },
+   {
+    "answer": "Satin duchesse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Crêpe de Chine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Crêpe georgette",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cotonnade",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lustrine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ratine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Molleton",
+    "tier": "t4"
+   },
+   {
+    "answer": "Piqué",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tricot",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maille",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nid d'abeille",
+    "tier": "t4"
+   },
+   {
+    "answer": "Velours de soie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Satin de soie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pékin",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tiretaine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bure",
+    "tier": "t5"
+   },
+   {
+    "answer": "Camelot",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cambrai",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mousseline de laine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Barège",
+    "tier": "t5"
+   },
+   {
+    "answer": "Organdi",
+    "tier": "t5"
+   },
+   {
+    "answer": "Linon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tussor",
+    "tier": "t5"
+   },
+   {
+    "answer": "Foulard",
+    "tier": "t5"
+   },
+   {
+    "answer": "Rep",
+    "tier": "t5"
+   },
+   {
+    "answer": "Droguet",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bouracan",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cadis",
+    "tier": "t5"
+   },
+   {
+    "answer": "Siamoise",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gros de Tours",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-13",
+  "text": "Nomme un type de chaussure",
+  "entries": [
+   {
+    "answer": "Botte",
+    "tier": "t1"
+   },
+   {
+    "answer": "Sandale",
+    "tier": "t1"
+   },
+   {
+    "answer": "Escarpin",
+    "tier": "t1"
+   },
+   {
+    "answer": "Mocassin",
+    "tier": "t1"
+   },
+   {
+    "answer": "Tong",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pantoufle",
+    "tier": "t1"
+   },
+   {
+    "answer": "Ballerine",
+    "tier": "t1"
+   },
+   {
+    "answer": "Basket",
+    "tier": "t2"
+   },
+   {
+    "answer": "Chopine",
+    "tier": "t6"
+   },
+   {
+    "answer": "Derby",
+    "tier": "t3"
+   },
+   {
+    "answer": "Richelieu",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bottine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Santiag",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sabot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Espadrille",
+    "tier": "t3"
+   },
+   {
+    "answer": "Claquette",
+    "tier": "t3"
+   },
+   {
+    "answer": "Brodequin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rangers",
+    "tier": "t3"
+   },
+   {
+    "answer": "Moon boot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Crocs",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cuissarde",
+    "tier": "t3"
+   },
+   {
+    "answer": "Botte de pluie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaussure de foot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mule",
+    "tier": "t3"
+   },
+   {
+    "answer": "Salomé",
+    "tier": "t3"
+   },
+   {
+    "answer": "Spartiate",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chelsea boot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Desert boot",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ugg",
+    "tier": "t3"
+   },
+   {
+    "answer": "Boots",
+    "tier": "t3"
+   },
+   {
+    "answer": "Compensée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaussure à plateforme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Botte de moto",
+    "tier": "t3"
+   },
+   {
+    "answer": "Charentaise",
+    "tier": "t3"
+   },
+   {
+    "answer": "Savate",
+    "tier": "t3"
+   },
+   {
+    "answer": "Slip-on",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bottillon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chausson de danse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pointes",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaussure de randonnée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaussure de course",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaussure de ski",
+    "tier": "t3"
+   },
+   {
+    "answer": "Patins",
+    "tier": "t3"
+   },
+   {
+    "answer": "Nu-pieds",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaussure de bowling",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaussure de golf",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaussure de sécurité",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaussure de montagne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tennis",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chaussure bateau",
+    "tier": "t4"
+   },
+   {
+    "answer": "Creepers",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dr. Martens",
+    "tier": "t4"
+   },
+   {
+    "answer": "Babies",
+    "tier": "t4"
+   },
+   {
+    "answer": "Oxford",
+    "tier": "t4"
+   },
+   {
+    "answer": "Brogue",
+    "tier": "t4"
+   },
+   {
+    "answer": "Geta",
+    "tier": "t4"
+   },
+   {
+    "answer": "Zori",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tabi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Babouche",
+    "tier": "t4"
+   },
+   {
+    "answer": "Galoche",
+    "tier": "t4"
+   },
+   {
+    "answer": "Socque",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bottes de neige",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bottes de cavalier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cothurne",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sabot suédois",
+    "tier": "t4"
+   },
+   {
+    "answer": "Slingback",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peep toe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chaussure de trail",
+    "tier": "t4"
+   },
+   {
+    "answer": "Chaussure de claquettes",
+    "tier": "t4"
+   },
+   {
+    "answer": "Poulaine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sandalette",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chaussure de rugby",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-14",
+  "text": "Nomme un terme ou un élément de photographie (technique ou matériel)",
+  "entries": [
+   {
+    "answer": "Flash",
+    "tier": "t1"
+   },
+   {
+    "answer": "Zoom",
+    "tier": "t1"
+   },
+   {
+    "answer": "Pellicule",
+    "tier": "t1"
+   },
+   {
+    "answer": "Trépied",
+    "tier": "t1"
+   },
+   {
+    "answer": "Appareil photo",
+    "tier": "t1"
+   },
+   {
+    "answer": "Focale",
+    "tier": "t1"
+   },
+   {
+    "answer": "Diaphragme",
+    "tier": "t1"
+   },
+   {
+    "answer": "Objectif",
+    "tier": "t2"
+   },
+   {
+    "answer": "Camera obscura",
+    "tier": "t6"
+   },
+   {
+    "answer": "Obturateur",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vitesse d'obturation",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sensibilité ISO",
+    "tier": "t3"
+   },
+   {
+    "answer": "Profondeur de champ",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cadrage",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mise au point",
+    "tier": "t3"
+   },
+   {
+    "answer": "Exposition",
+    "tier": "t3"
+   },
+   {
+    "answer": "Surexposition",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sous-exposition",
+    "tier": "t3"
+   },
+   {
+    "answer": "Flou",
+    "tier": "t3"
+   },
+   {
+    "answer": "Netteté",
+    "tier": "t3"
+   },
+   {
+    "answer": "Négatif",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tirage",
+    "tier": "t3"
+   },
+   {
+    "answer": "Argentique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Numérique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Reflex",
+    "tier": "t3"
+   },
+   {
+    "answer": "Boîtier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Viseur",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pixel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Résolution",
+    "tier": "t3"
+   },
+   {
+    "answer": "Contre-jour",
+    "tier": "t3"
+   },
+   {
+    "answer": "Portrait",
+    "tier": "t3"
+   },
+   {
+    "answer": "Paysage",
+    "tier": "t3"
+   },
+   {
+    "answer": "Panoramique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Noir et blanc",
+    "tier": "t3"
+   },
+   {
+    "answer": "Sépia",
+    "tier": "t3"
+   },
+   {
+    "answer": "Développement",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chambre noire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bokeh",
+    "tier": "t3"
+   },
+   {
+    "answer": "Grain",
+    "tier": "t3"
+   },
+   {
+    "answer": "Retouche",
+    "tier": "t3"
+   },
+   {
+    "answer": "RAW",
+    "tier": "t3"
+   },
+   {
+    "answer": "JPEG",
+    "tier": "t3"
+   },
+   {
+    "answer": "Carte mémoire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Autofocus",
+    "tier": "t3"
+   },
+   {
+    "answer": "Balance des blancs",
+    "tier": "t3"
+   },
+   {
+    "answer": "Histogramme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Posemètre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pare-soleil",
+    "tier": "t3"
+   },
+   {
+    "answer": "Filtre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Filtre polarisant",
+    "tier": "t3"
+   },
+   {
+    "answer": "Téléobjectif",
+    "tier": "t3"
+   },
+   {
+    "answer": "Grand-angle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Fisheye",
+    "tier": "t3"
+   },
+   {
+    "answer": "Macro",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pose longue",
+    "tier": "t3"
+   },
+   {
+    "answer": "Rafale",
+    "tier": "t3"
+   },
+   {
+    "answer": "Retardateur",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mode manuel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Priorité ouverture",
+    "tier": "t3"
+   },
+   {
+    "answer": "Selfie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bracketing",
+    "tier": "t4"
+   },
+   {
+    "answer": "HDR",
+    "tier": "t4"
+   },
+   {
+    "answer": "Règle des tiers",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nombre guide",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hyperfocale",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bague d'adaptation",
+    "tier": "t4"
+   },
+   {
+    "answer": "Soufflet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pentaprisme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Miroir",
+    "tier": "t4"
+   },
+   {
+    "answer": "Capteur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Plein format",
+    "tier": "t4"
+   },
+   {
+    "answer": "APS-C",
+    "tier": "t4"
+   },
+   {
+    "answer": "Moyen format",
+    "tier": "t4"
+   },
+   {
+    "answer": "Grand format",
+    "tier": "t4"
+   },
+   {
+    "answer": "Daguerréotype",
+    "tier": "t4"
+   },
+   {
+    "answer": "Calotype",
+    "tier": "t4"
+   },
+   {
+    "answer": "Collodion",
+    "tier": "t4"
+   },
+   {
+    "answer": "Polaroid",
+    "tier": "t4"
+   },
+   {
+    "answer": "Instantané",
+    "tier": "t4"
+   },
+   {
+    "answer": "Diapositive",
+    "tier": "t4"
+   },
+   {
+    "answer": "Planche contact",
+    "tier": "t4"
+   },
+   {
+    "answer": "Agrandisseur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bain d'arrêt",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fixateur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Solarisation",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cyanotype",
+    "tier": "t4"
+   },
+   {
+    "answer": "Photogramme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Heure bleue",
+    "tier": "t4"
+   },
+   {
+    "answer": "Heure dorée",
+    "tier": "t4"
+   },
+   {
+    "answer": "Light painting",
+    "tier": "t4"
+   },
+   {
+    "answer": "Time-lapse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stabilisation",
+    "tier": "t4"
+   },
+   {
+    "answer": "Vignetage",
+    "tier": "t4"
+   },
+   {
+    "answer": "Aberration chromatique",
+    "tier": "t4"
+   },
+   {
+    "answer": "Diffraction",
+    "tier": "t4"
+   },
+   {
+    "answer": "Réflecteur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Boîte à lumière",
+    "tier": "t4"
+   },
+   {
+    "answer": "Parapluie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fond",
+    "tier": "t4"
+   },
+   {
+    "answer": "Studio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cellule",
+    "tier": "t4"
+   },
+   {
+    "answer": "Télécommande",
+    "tier": "t4"
+   },
+   {
+    "answer": "Déclencheur",
+    "tier": "t4"
+   },
+   {
+    "answer": "Griffe flash",
+    "tier": "t4"
+   },
+   {
+    "answer": "Batterie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mode priorité vitesse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Compensation d'exposition",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sténopé",
+    "tier": "t4"
+   },
+   {
+    "answer": "Luminosité",
+    "tier": "t4"
+   },
+   {
+    "answer": "Contraste",
+    "tier": "t4"
+   },
+   {
+    "answer": "Saturation",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mise au point manuelle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Écran LCD",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bague de mise au point",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bague de zoom",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cercle de confusion",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tirage albuminé",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tirage au charbon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gomme bichromatée",
+    "tier": "t5"
+   },
+   {
+    "answer": "Platinotype",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ambrotype",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ferrotype",
+    "tier": "t5"
+   },
+   {
+    "answer": "Autochrome",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chronophotographie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stéréoscope",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lentille de Fresnel",
+    "tier": "t5"
+   },
+   {
+    "answer": "Moiré",
+    "tier": "t5"
+   },
+   {
+    "answer": "Aberration sphérique",
+    "tier": "t5"
+   },
+   {
+    "answer": "Distorsion",
+    "tier": "t5"
+   },
+   {
+    "answer": "Coma",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-archi-15",
+  "text": "Nomme un type de bâtiment ou d'édifice",
+  "entries": [
+   {
+    "answer": "Immeuble",
+    "tier": "t1"
+   },
+   {
+    "answer": "Église",
+    "tier": "t1"
+   },
+   {
+    "answer": "École",
+    "tier": "t1"
+   },
+   {
+    "answer": "Hôpital",
+    "tier": "t1"
+   },
+   {
+    "answer": "Gare",
+    "tier": "t1"
+   },
+   {
+    "answer": "Château",
+    "tier": "t1"
+   },
+   {
+    "answer": "Musée",
+    "tier": "t1"
+   },
+   {
+    "answer": "Maison",
+    "tier": "t2"
+   },
+   {
+    "answer": "Igloo",
+    "tier": "t6"
+   },
+   {
+    "answer": "Cathédrale",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mairie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Théâtre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cinéma",
+    "tier": "t3"
+   },
+   {
+    "answer": "Stade",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bibliothèque",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gymnase",
+    "tier": "t3"
+   },
+   {
+    "answer": "Piscine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Usine",
+    "tier": "t3"
+   },
+   {
+    "answer": "Entrepôt",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hangar",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ferme",
+    "tier": "t3"
+   },
+   {
+    "answer": "Grange",
+    "tier": "t3"
+   },
+   {
+    "answer": "Étable",
+    "tier": "t3"
+   },
+   {
+    "answer": "Écurie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Garage",
+    "tier": "t3"
+   },
+   {
+    "answer": "Villa",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pavillon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chalet",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bungalow",
+    "tier": "t3"
+   },
+   {
+    "answer": "Cabane",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gratte-ciel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Phare",
+    "tier": "t3"
+   },
+   {
+    "answer": "Moulin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Prison",
+    "tier": "t3"
+   },
+   {
+    "answer": "Caserne",
+    "tier": "t3"
+   },
+   {
+    "answer": "Commissariat",
+    "tier": "t3"
+   },
+   {
+    "answer": "Palais de justice",
+    "tier": "t3"
+   },
+   {
+    "answer": "Banque",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hôtel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Auberge",
+    "tier": "t3"
+   },
+   {
+    "answer": "Restaurant",
+    "tier": "t3"
+   },
+   {
+    "answer": "Supermarché",
+    "tier": "t3"
+   },
+   {
+    "answer": "Centre commercial",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mosquée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Synagogue",
+    "tier": "t3"
+   },
+   {
+    "answer": "Temple",
+    "tier": "t3"
+   },
+   {
+    "answer": "Monastère",
+    "tier": "t3"
+   },
+   {
+    "answer": "Abbaye",
+    "tier": "t3"
+   },
+   {
+    "answer": "Couvent",
+    "tier": "t3"
+   },
+   {
+    "answer": "Chapelle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Basilique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pagode",
+    "tier": "t3"
+   },
+   {
+    "answer": "Palais",
+    "tier": "t3"
+   },
+   {
+    "answer": "Manoir",
+    "tier": "t3"
+   },
+   {
+    "answer": "Forteresse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Citadelle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Observatoire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Planétarium",
+    "tier": "t3"
+   },
+   {
+    "answer": "Aéroport",
+    "tier": "t3"
+   },
+   {
+    "answer": "Opéra",
+    "tier": "t3"
+   },
+   {
+    "answer": "Salle de concert",
+    "tier": "t3"
+   },
+   {
+    "answer": "Casino",
+    "tier": "t3"
+   },
+   {
+    "answer": "Patinoire",
+    "tier": "t3"
+   },
+   {
+    "answer": "Université",
+    "tier": "t3"
+   },
+   {
+    "answer": "Lycée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Collège",
+    "tier": "t3"
+   },
+   {
+    "answer": "Crèche",
+    "tier": "t3"
+   },
+   {
+    "answer": "Clinique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Maison de retraite",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mausolée",
+    "tier": "t3"
+   },
+   {
+    "answer": "Serre",
+    "tier": "t3"
+   },
+   {
+    "answer": "Silo",
+    "tier": "t3"
+   },
+   {
+    "answer": "Château d'eau",
+    "tier": "t3"
+   },
+   {
+    "answer": "Centrale électrique",
+    "tier": "t3"
+   },
+   {
+    "answer": "Brasserie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Halle",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bourse",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bureau de poste",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kiosque",
+    "tier": "t3"
+   },
+   {
+    "answer": "Orangerie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pigeonnier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bergerie",
+    "tier": "t3"
+   },
+   {
+    "answer": "Poulailler",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hutte",
+    "tier": "t3"
+   },
+   {
+    "answer": "Case",
+    "tier": "t3"
+   },
+   {
+    "answer": "Yourte",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hôtel particulier",
+    "tier": "t3"
+   },
+   {
+    "answer": "HLM",
+    "tier": "t3"
+   },
+   {
+    "answer": "Prieuré",
+    "tier": "t4"
+   },
+   {
+    "answer": "Orphelinat",
+    "tier": "t4"
+   },
+   {
+    "answer": "Crématorium",
+    "tier": "t4"
+   },
+   {
+    "answer": "Morgue",
+    "tier": "t4"
+   },
+   {
+    "answer": "Minoterie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Distillerie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Raffinerie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Palais des congrès",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tour de contrôle",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gare routière",
+    "tier": "t4"
+   },
+   {
+    "answer": "Parking",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maison de maître",
+    "tier": "t4"
+   },
+   {
+    "answer": "Barre d'immeuble",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tour d'habitation",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stupa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ziggourat",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pyramide",
+    "tier": "t4"
+   },
+   {
+    "answer": "Amphithéâtre",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arène",
+    "tier": "t4"
+   },
+   {
+    "answer": "Thermes",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cirque",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mastaba",
+    "tier": "t4"
+   },
+   {
+    "answer": "Beffroi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Donjon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Tour de guet",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sanatorium",
+    "tier": "t4"
+   },
+   {
+    "answer": "Abattoir",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lavoir",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dispensaire",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maternité",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pavillon de chasse",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gloriette",
+    "tier": "t4"
+   },
+   {
+    "answer": "Belvédère",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mazet",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cabanon",
+    "tier": "t5"
+   },
+   {
+    "answer": "Borie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Capitelle",
+    "tier": "t5"
+   },
+   {
+    "answer": "Trullo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hórreo",
+    "tier": "t5"
+   },
+   {
+    "answer": "Tulou",
+    "tier": "t5"
+   },
+   {
+    "answer": "Kiva",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ksar",
+    "tier": "t5"
+   },
+   {
+    "answer": "Riad",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hacienda",
+    "tier": "t5"
+   },
+   {
+    "answer": "Datcha",
+    "tier": "t5"
+   },
+   {
+    "answer": "Isba",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hammam",
+    "tier": "t5"
+   },
+   {
+    "answer": "Caravansérail",
+    "tier": "t5"
+   },
+   {
+    "answer": "Mégaron",
+    "tier": "t5"
+   },
+   {
+    "answer": "Phalanstère",
+    "tier": "t5"
+   },
+   {
+    "answer": "Béguinage",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hospice",
+    "tier": "t5"
+   },
+   {
+    "answer": "Léproserie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Commanderie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Baptistère",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chartreuse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Oratoire",
+    "tier": "t5"
+   },
+   {
+    "answer": "Presbytère",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-architecte",
+  "text": "Nomme un architecte célèbre",
+  "entries": [
+   {
+    "answer": "Le Corbusier",
+    "tier": "t1"
+   },
+   {
+    "answer": "Frank Lloyd Wright",
+    "tier": "t1"
+   },
+   {
+    "answer": "Antoni Gaudí",
+    "tier": "t1"
+   },
+   {
+    "answer": "Ludwig Mies van der Rohe",
+    "tier": "t1"
+   },
+   {
+    "answer": "Walter Gropius",
+    "tier": "t1"
+   },
+   {
+    "answer": "Oscar Niemeyer",
+    "tier": "t1"
+   },
+   {
+    "answer": "Renzo Piano",
+    "tier": "t1"
+   },
+   {
+    "answer": "Norman Foster",
+    "tier": "t1"
+   },
+   {
+    "answer": "Zaha Hadid",
+    "tier": "t1"
+   },
+   {
+    "answer": "Frank Gehry",
+    "tier": "t1"
+   },
+   {
+    "answer": "I. M. Pei",
+    "tier": "t1"
+   },
+   {
+    "answer": "Jean Nouvel",
+    "tier": "t1"
+   },
+   {
+    "answer": "Michel-Ange",
+    "tier": "t2"
+   },
+   {
+    "answer": "Thomas Jefferson",
+    "tier": "t6"
+   },
+   {
+    "answer": "Rem Koolhaas",
+    "tier": "t3"
+   },
+   {
+    "answer": "Tadao Ando",
+    "tier": "t3"
+   },
+   {
+    "answer": "Santiago Calatrava",
+    "tier": "t3"
+   },
+   {
+    "answer": "Richard Rogers",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jørn Utzon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alvar Aalto",
+    "tier": "t3"
+   },
+   {
+    "answer": "Louis Kahn",
+    "tier": "t3"
+   },
+   {
+    "answer": "Philip Johnson",
+    "tier": "t3"
+   },
+   {
+    "answer": "Eero Saarinen",
+    "tier": "t3"
+   },
+   {
+    "answer": "Louis Sullivan",
+    "tier": "t3"
+   },
+   {
+    "answer": "Daniel Libeskind",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kenzo Tange",
+    "tier": "t3"
+   },
+   {
+    "answer": "Shigeru Ban",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kengo Kuma",
+    "tier": "t3"
+   },
+   {
+    "answer": "Christian de Portzamparc",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dominique Perrault",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ricardo Bofill",
+    "tier": "t3"
+   },
+   {
+    "answer": "Auguste Perret",
+    "tier": "t3"
+   },
+   {
+    "answer": "Hector Guimard",
+    "tier": "t3"
+   },
+   {
+    "answer": "Victor Horta",
+    "tier": "t3"
+   },
+   {
+    "answer": "Eugène Viollet-le-Duc",
+    "tier": "t3"
+   },
+   {
+    "answer": "Charles Garnier",
+    "tier": "t3"
+   },
+   {
+    "answer": "Louis Le Vau",
+    "tier": "t3"
+   },
+   {
+    "answer": "François Mansart",
+    "tier": "t3"
+   },
+   {
+    "answer": "Jules Hardouin-Mansart",
+    "tier": "t3"
+   },
+   {
+    "answer": "Filippo Brunelleschi",
+    "tier": "t3"
+   },
+   {
+    "answer": "Andrea Palladio",
+    "tier": "t3"
+   },
+   {
+    "answer": "Donato Bramante",
+    "tier": "t3"
+   },
+   {
+    "answer": "Leon Battista Alberti",
+    "tier": "t3"
+   },
+   {
+    "answer": "Francesco Borromini",
+    "tier": "t3"
+   },
+   {
+    "answer": "Le Bernin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Christopher Wren",
+    "tier": "t3"
+   },
+   {
+    "answer": "Inigo Jones",
+    "tier": "t3"
+   },
+   {
+    "answer": "Charles Rennie Mackintosh",
+    "tier": "t3"
+   },
+   {
+    "answer": "Otto Wagner",
+    "tier": "t3"
+   },
+   {
+    "answer": "Adolf Loos",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gerrit Rietveld",
+    "tier": "t3"
+   },
+   {
+    "answer": "Karl Friedrich Schinkel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vitruve",
+    "tier": "t3"
+   },
+   {
+    "answer": "Raphaël",
+    "tier": "t3"
+   },
+   {
+    "answer": "Herzog & de Meuron",
+    "tier": "t3"
+   },
+   {
+    "answer": "Peter Zumthor",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bjarke Ingels",
+    "tier": "t3"
+   },
+   {
+    "answer": "Claude Nicolas Ledoux",
+    "tier": "t4"
+   },
+   {
+    "answer": "Étienne-Louis Boullée",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ange-Jacques Gabriel",
+    "tier": "t4"
+   },
+   {
+    "answer": "Philibert Delorme",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pierre Lescot",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jacques-Germain Soufflot",
+    "tier": "t4"
+   },
+   {
+    "answer": "Henri Labrouste",
+    "tier": "t4"
+   },
+   {
+    "answer": "Victor Baltard",
+    "tier": "t4"
+   },
+   {
+    "answer": "Paul Andreu",
+    "tier": "t4"
+   },
+   {
+    "answer": "Claude Parent",
+    "tier": "t4"
+   },
+   {
+    "answer": "Robert Mallet-Stevens",
+    "tier": "t4"
+   },
+   {
+    "answer": "Henri Sauvage",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Nash",
+    "tier": "t4"
+   },
+   {
+    "answer": "Robert Adam",
+    "tier": "t4"
+   },
+   {
+    "answer": "Nicholas Hawksmoor",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Vanbrugh",
+    "tier": "t4"
+   },
+   {
+    "answer": "Joseph Paxton",
+    "tier": "t4"
+   },
+   {
+    "answer": "Josef Hoffmann",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Behrens",
+    "tier": "t4"
+   },
+   {
+    "answer": "Erich Mendelsohn",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hans Scharoun",
+    "tier": "t4"
+   },
+   {
+    "answer": "Frei Otto",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gottfried Semper",
+    "tier": "t4"
+   },
+   {
+    "answer": "Aldo Rossi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Carlo Scarpa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gio Ponti",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pier Luigi Nervi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lina Bo Bardi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Luis Barragán",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lúcio Costa",
+    "tier": "t4"
+   },
+   {
+    "answer": "Álvaro Siza",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rafael Moneo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Mario Botta",
+    "tier": "t4"
+   },
+   {
+    "answer": "Richard Neutra",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rudolph Schindler",
+    "tier": "t4"
+   },
+   {
+    "answer": "Julia Morgan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Minoru Yamasaki",
+    "tier": "t4"
+   },
+   {
+    "answer": "Daniel Burnham",
+    "tier": "t4"
+   },
+   {
+    "answer": "Henry Hobson Richardson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Cass Gilbert",
+    "tier": "t4"
+   },
+   {
+    "answer": "Moshe Safdie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fumihiko Maki",
+    "tier": "t4"
+   },
+   {
+    "answer": "Toyo Ito",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kazuyo Sejima",
+    "tier": "t4"
+   },
+   {
+    "answer": "Steven Holl",
+    "tier": "t4"
+   },
+   {
+    "answer": "Richard Meier",
+    "tier": "t4"
+   },
+   {
+    "answer": "Robert Venturi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michael Graves",
+    "tier": "t4"
+   },
+   {
+    "answer": "César Pelli",
+    "tier": "t4"
+   },
+   {
+    "answer": "Helmut Jahn",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter Eisenman",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bernard Tschumi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Arne Jacobsen",
+    "tier": "t4"
+   },
+   {
+    "answer": "David Adjaye",
+    "tier": "t4"
+   },
+   {
+    "answer": "Francis Kéré",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jacques Ignace Hittorff",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean Chalgrin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Louis Visconti",
+    "tier": "t4"
+   },
+   {
+    "answer": "Josep Puig i Cadafalch",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lluís Domènech i Montaner",
+    "tier": "t4"
+   },
+   {
+    "answer": "Sverre Fehn",
+    "tier": "t5"
+   },
+   {
+    "answer": "Henning Larsen",
+    "tier": "t5"
+   },
+   {
+    "answer": "Paulo Mendes da Rocha",
+    "tier": "t5"
+   },
+   {
+    "answer": "Eduardo Souto de Moura",
+    "tier": "t5"
+   },
+   {
+    "answer": "J.J.P. Oud",
+    "tier": "t5"
+   },
+   {
+    "answer": "Buckminster Fuller",
+    "tier": "t5"
+   },
+   {
+    "answer": "Paul Abadie",
+    "tier": "t5"
+   },
+   {
+    "answer": "Antonio Sant'Elia",
+    "tier": "t5"
+   },
+   {
+    "answer": "Gunnar Asplund",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ralph Erskine",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sigurd Lewerentz",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-auteur-sf",
+  "text": "Nomme un auteur de science-fiction",
+  "entries": [
+   {
+    "answer": "Isaac Asimov",
+    "tier": "t1"
+   },
+   {
+    "answer": "Jules Verne",
+    "tier": "t1"
+   },
+   {
+    "answer": "H. G. Wells",
+    "tier": "t1"
+   },
+   {
+    "answer": "Philip K. Dick",
+    "tier": "t1"
+   },
+   {
+    "answer": "Arthur C. Clarke",
+    "tier": "t1"
+   },
+   {
+    "answer": "Ray Bradbury",
+    "tier": "t1"
+   },
+   {
+    "answer": "Frank Herbert",
+    "tier": "t1"
+   },
+   {
+    "answer": "Robert Heinlein",
+    "tier": "t1"
+   },
+   {
+    "answer": "Ursula K. Le Guin",
+    "tier": "t1"
+   },
+   {
+    "answer": "Douglas Adams",
+    "tier": "t1"
+   },
+   {
+    "answer": "Mary Shelley",
+    "tier": "t2"
+   },
+   {
+    "answer": "Cyrano de Bergerac",
+    "tier": "t6"
+   },
+   {
+    "answer": "William Gibson",
+    "tier": "t3"
+   },
+   {
+    "answer": "Stanislas Lem",
+    "tier": "t3"
+   },
+   {
+    "answer": "Orson Scott Card",
+    "tier": "t3"
+   },
+   {
+    "answer": "Dan Simmons",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pierre Boulle",
+    "tier": "t3"
+   },
+   {
+    "answer": "René Barjavel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Stefan Wul",
+    "tier": "t3"
+   },
+   {
+    "answer": "Larry Niven",
+    "tier": "t3"
+   },
+   {
+    "answer": "Poul Anderson",
+    "tier": "t3"
+   },
+   {
+    "answer": "A. E. van Vogt",
+    "tier": "t3"
+   },
+   {
+    "answer": "Theodore Sturgeon",
+    "tier": "t3"
+   },
+   {
+    "answer": "Alfred Bester",
+    "tier": "t3"
+   },
+   {
+    "answer": "Harlan Ellison",
+    "tier": "t3"
+   },
+   {
+    "answer": "Roger Zelazny",
+    "tier": "t3"
+   },
+   {
+    "answer": "Octavia Butler",
+    "tier": "t3"
+   },
+   {
+    "answer": "Neal Stephenson",
+    "tier": "t3"
+   },
+   {
+    "answer": "Iain M. Banks",
+    "tier": "t3"
+   },
+   {
+    "answer": "Liu Cixin",
+    "tier": "t3"
+   },
+   {
+    "answer": "Ted Chiang",
+    "tier": "t3"
+   },
+   {
+    "answer": "Andy Weir",
+    "tier": "t3"
+   },
+   {
+    "answer": "Arkadi Strougatski",
+    "tier": "t3"
+   },
+   {
+    "answer": "Boris Strougatski",
+    "tier": "t3"
+   },
+   {
+    "answer": "John Wyndham",
+    "tier": "t3"
+   },
+   {
+    "answer": "J. G. Ballard",
+    "tier": "t3"
+   },
+   {
+    "answer": "Brian Aldiss",
+    "tier": "t3"
+   },
+   {
+    "answer": "Michael Crichton",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kurt Vonnegut",
+    "tier": "t3"
+   },
+   {
+    "answer": "Joe Haldeman",
+    "tier": "t3"
+   },
+   {
+    "answer": "Vernor Vinge",
+    "tier": "t3"
+   },
+   {
+    "answer": "Olaf Stapledon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Karel Čapek",
+    "tier": "t4"
+   },
+   {
+    "answer": "Evgueni Zamiatine",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alexandre Beliaev",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ivan Efremov",
+    "tier": "t4"
+   },
+   {
+    "answer": "Clifford D. Simak",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fredric Brown",
+    "tier": "t4"
+   },
+   {
+    "answer": "Robert Silverberg",
+    "tier": "t4"
+   },
+   {
+    "answer": "Frederik Pohl",
+    "tier": "t4"
+   },
+   {
+    "answer": "Harry Harrison",
+    "tier": "t4"
+   },
+   {
+    "answer": "Philip José Farmer",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jack Vance",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gene Wolfe",
+    "tier": "t4"
+   },
+   {
+    "answer": "Walter M. Miller Jr.",
+    "tier": "t4"
+   },
+   {
+    "answer": "Samuel R. Delany",
+    "tier": "t4"
+   },
+   {
+    "answer": "Joanna Russ",
+    "tier": "t4"
+   },
+   {
+    "answer": "James Tiptree Jr.",
+    "tier": "t4"
+   },
+   {
+    "answer": "Connie Willis",
+    "tier": "t4"
+   },
+   {
+    "answer": "David Brin",
+    "tier": "t4"
+   },
+   {
+    "answer": "Greg Bear",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gregory Benford",
+    "tier": "t4"
+   },
+   {
+    "answer": "Greg Egan",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bruce Sterling",
+    "tier": "t4"
+   },
+   {
+    "answer": "Kim Stanley Robinson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Peter F. Hamilton",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alastair Reynolds",
+    "tier": "t4"
+   },
+   {
+    "answer": "Ann Leckie",
+    "tier": "t4"
+   },
+   {
+    "answer": "Lois McMaster Bujold",
+    "tier": "t4"
+   },
+   {
+    "answer": "John Scalzi",
+    "tier": "t4"
+   },
+   {
+    "answer": "Becky Chambers",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hugo Gernsback",
+    "tier": "t4"
+   },
+   {
+    "answer": "Edgar Rice Burroughs",
+    "tier": "t4"
+   },
+   {
+    "answer": "E. E. Smith",
+    "tier": "t4"
+   },
+   {
+    "answer": "Edmond Hamilton",
+    "tier": "t4"
+   },
+   {
+    "answer": "Murray Leinster",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jack Williamson",
+    "tier": "t4"
+   },
+   {
+    "answer": "Robert Sheckley",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michael Moorcock",
+    "tier": "t4"
+   },
+   {
+    "answer": "Christopher Priest",
+    "tier": "t4"
+   },
+   {
+    "answer": "Rosny aîné",
+    "tier": "t4"
+   },
+   {
+    "answer": "Gérard Klein",
+    "tier": "t4"
+   },
+   {
+    "answer": "Jean-Pierre Andrevon",
+    "tier": "t4"
+   },
+   {
+    "answer": "Pierre Bordage",
+    "tier": "t4"
+   },
+   {
+    "answer": "Serge Brussolo",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alain Damasio",
+    "tier": "t4"
+   },
+   {
+    "answer": "Maurice G. Dantec",
+    "tier": "t4"
+   },
+   {
+    "answer": "Bernard Werber",
+    "tier": "t4"
+   },
+   {
+    "answer": "Dmitri Gloukhovski",
+    "tier": "t4"
+   },
+   {
+    "answer": "Camille Flammarion",
+    "tier": "t5"
+   },
+   {
+    "answer": "Albert Robida",
+    "tier": "t5"
+   },
+   {
+    "answer": "Villiers de l'Isle-Adam",
+    "tier": "t5"
+   },
+   {
+    "answer": "Jacques Spitz",
+    "tier": "t5"
+   },
+   {
+    "answer": "Philippe Curval",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ayerdhal",
+    "tier": "t5"
+   },
+   {
+    "answer": "Michel Jeury",
+    "tier": "t5"
+   },
+   {
+    "answer": "Francis Carsac",
+    "tier": "t5"
+   },
+   {
+    "answer": "Sakyo Komatsu",
+    "tier": "t5"
+   },
+   {
+    "answer": "Adrian Tchaikovsky",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hugh Howey",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ernest Cline",
+    "tier": "t5"
+   },
+   {
+    "answer": "Blake Crouch",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cordwainer Smith",
+    "tier": "t5"
+   },
+   {
+    "answer": "C. J. Cherryh",
+    "tier": "t5"
+   },
+   {
+    "answer": "Cyril M. Kornbluth",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hal Clement",
+    "tier": "t5"
+   },
+   {
+    "answer": "Lester del Rey",
+    "tier": "t5"
+   },
+   {
+    "answer": "Algis Budrys",
+    "tier": "t5"
+   },
+   {
+    "answer": "Norman Spinrad",
+    "tier": "t5"
+   },
+   {
+    "answer": "John Brunner",
+    "tier": "t5"
+   },
+   {
+    "answer": "Keith Roberts",
+    "tier": "t5"
+   },
+   {
+    "answer": "Christopher Anvil",
+    "tier": "t5"
+   },
+   {
+    "answer": "Stanley G. Weinbaum",
+    "tier": "t5"
+   },
+   {
+    "answer": "Chad Oliver",
+    "tier": "t5"
+   }
+  ]
+ },
+ {
+  "id": "art-classique-01",
+  "text": "Nomme un compositeur classique allemand ou autrichien",
+  "entries": [
+   {
+    "answer": "Beethoven",
+    "tier": "t1"
+   },
+   {
+    "answer": "Bach",
+    "tier": "t1"
+   },
+   {
+    "answer": "Schubert",
+    "tier": "t1"
+   },
+   {
+    "answer": "Wagner",
+    "tier": "t1"
+   },
+   {
+    "answer": "Brahms",
+    "tier": "t1"
+   },
+   {
+    "answer": "Haydn",
+    "tier": "t1"
+   },
+   {
+    "answer": "Schumann",
+    "tier": "t1"
+   },
+   {
+    "answer": "Haendel",
+    "tier": "t1"
+   },
+   {
+    "answer": "Mozart",
+    "tier": "t2"
+   },
+   {
+    "answer": "Hildegard von Bingen",
+    "tier": "t6"
+   },
+   {
+    "answer": "Mendelssohn",
+    "tier": "t3"
+   },
+   {
+    "answer": "Mahler",
+    "tier": "t3"
+   },
+   {
+    "answer": "Richard Strauss",
+    "tier": "t3"
+   },
+   {
+    "answer": "Johann Strauss",
+    "tier": "t3"
+   },
+   {
+    "answer": "Weber",
+    "tier": "t3"
+   },
+   {
+    "answer": "Bruckner",
+    "tier": "t3"
+   },
+   {
+    "answer": "Telemann",
+    "tier": "t3"
+   },
+   {
+    "answer": "Orff",
+    "tier": "t3"
+   },
+   {
+    "answer": "Schoenberg",
+    "tier": "t3"
+   },
+   {
+    "answer": "Pachelbel",
+    "tier": "t3"
+   },
+   {
+    "answer": "Gluck",
+    "tier": "t3"
+   },
+   {
+    "answer": "Kurt Weill",
+    "tier": "t4"
+   },
+   {
+    "answer": "Max Bruch",
+    "tier": "t4"
+   },
+   {
+    "answer": "Alban Berg",
+    "tier": "t4"
+   },
+   {
+    "answer": "Anton Webern",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hindemith",
+    "tier": "t4"
+   },
+   {
+    "answer": "Humperdinck",
+    "tier": "t4"
+   },
+   {
+    "answer": "Buxtehude",
+    "tier": "t4"
+   },
+   {
+    "answer": "Heinrich Schütz",
+    "tier": "t4"
+   },
+   {
+    "answer": "Clara Schumann",
+    "tier": "t4"
+   },
+   {
+    "answer": "Fanny Mendelssohn",
+    "tier": "t4"
+   },
+   {
+    "answer": "Max Reger",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hugo Wolf",
+    "tier": "t4"
+   },
+   {
+    "answer": "Zemlinsky",
+    "tier": "t4"
+   },
+   {
+    "answer": "Korngold",
+    "tier": "t4"
+   },
+   {
+    "answer": "Stockhausen",
+    "tier": "t4"
+   },
+   {
+    "answer": "Hans Werner Henze",
+    "tier": "t4"
+   },
+   {
+    "answer": "Carl Philipp Emanuel Bach",
+    "tier": "t4"
+   },
+   {
+    "answer": "Johann Christian Bach",
+    "tier": "t4"
+   },
+   {
+    "answer": "Carl Czerny",
+    "tier": "t4"
+   },
+   {
+    "answer": "Josef Strauss",
+    "tier": "t4"
+   },
+   {
+    "answer": "Michael Praetorius",
+    "tier": "t4"
+   },
+   {
+    "answer": "Johann Strauss père",
+    "tier": "t4"
+   },
+   {
+    "answer": "Biber",
+    "tier": "t5"
+   },
+   {
+    "answer": "Johann Joseph Fux",
+    "tier": "t5"
+   },
+   {
+    "answer": "Johann Jakob Froberger",
+    "tier": "t5"
+   },
+   {
+    "answer": "Johann Adolph Hasse",
+    "tier": "t5"
+   },
+   {
+    "answer": "Johann Joachim Quantz",
+    "tier": "t5"
+   },
+   {
+    "answer": "Carl Ditters von Dittersdorf",
+    "tier": "t5"
+   },
+   {
+    "answer": "Leopold Mozart",
+    "tier": "t5"
+   },
+   {
+    "answer": "Louis Spohr",
+    "tier": "t5"
+   },
+   {
+    "answer": "Albert Lortzing",
+    "tier": "t5"
+   },
+   {
+    "answer": "Friedrich von Flotow",
+    "tier": "t5"
+   },
+   {
+    "answer": "Otto Nicolai",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hans Pfitzner",
+    "tier": "t5"
+   },
+   {
+    "answer": "Hanns Eisler",
+    "tier": "t5"
+   },
+   {
+    "answer": "Wolfgang Rihm",
+    "tier": "t5"
+   },
+   {
+    "answer": "Bernd Alois Zimmermann",
+    "tier": "t5"
+   },
+   {
+    "answer": "Franz Schreker",
+    "tier": "t5"
+   },
+   {
+    "answer": "Carl Millöcker",
+    "tier": "t5"
+   },
+   {
+    "answer": "Heinrich Marschner",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ferdinand Ries",
+    "tier": "t5"
+   },
+   {
+    "answer": "Johann Friedrich Fasch",
+    "tier": "t5"
+   },
+   {
+    "answer": "Georg Muffat",
+    "tier": "t5"
+   },
+   {
+    "answer": "Ludwig Senfl",
+    "tier": "t5"
+   },
+   {
+    "answer": "Wilhelm Friedemann Bach",
+    "tier": "t5"
+   }
+  ]
+ }
+]
