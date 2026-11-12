@@ -48,11 +48,17 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
     <>
       <Embers heat={0.55} />
       <main className="home" data-testid="home">
-        <BrainStage heat={0.6} showLabel={false} />
-        <h1 className="logo">
-          BOILING<span>BRAIN</span>
-        </h1>
-        <p className="tagline">Le quiz qui fait bouillir ton cerveau.</p>
+        <div className="home-hero">
+          <BrainStage heat={0.6} showLabel={false} />
+          <h1 className="logo">
+            BOILING<span>BRAIN</span>
+          </h1>
+          <p className="tagline">Le quiz qui fait bouillir ton cerveau.</p>
+          <p style={{ marginTop: '0.6rem' }}>
+            <StreakBadge streak={stats.currentStreak} />
+          </p>
+          <p className="muted" data-testid="reset-line">{resetLabel(nowWall)}</p>
+        </div>
 
         <section className="mode-cards">
           <article className="mode-card hot">
@@ -98,10 +104,6 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
           </Link>
         </div>
 
-        <p style={{ marginTop: '1.2rem' }}>
-          <StreakBadge streak={stats.currentStreak} />
-        </p>
-        <p className="muted" data-testid="reset-line">{resetLabel(nowWall)}</p>
       </main>
     </>
   );
