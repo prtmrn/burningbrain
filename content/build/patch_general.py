@@ -23,5 +23,18 @@ for pid, spec in PATCH.items():
         if norm(ans) in used: continue
         entries.append({'answer': ans, 'tier': spec['tier'], 'aliases': []})
         used.add(norm(ans)); added += 1
+# Synchronisation : une question partagée avec un thème reprend la feuille du thème (source de vérité).
+import glob, os
+synced = 0
+for tp in sorted(glob.glob('content/banks/*.json')):
+    name = os.path.basename(tp)[:-5]
+    if name == 'general': continue
+    tb = json.load(open(tp, encoding='utf-8'))
+    for pr in tb['prompts']:
+        if pr['id'] in bank['sheets'] and len(tb['sheets'][pr['id']]['entries']) >= 50:
+            if bank['sheets'][pr['id']]['entries'] != tb['sheets'][pr['id']]['entries']:
+                bank['sheets'][pr['id']]['entries'] = tb['sheets'][pr['id']]['entries']
+                synced += 1
 json.dump(bank, open(path, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+print('feuilles synchronisées depuis les thèmes :', synced)
 print('réponses ajoutées :', added)

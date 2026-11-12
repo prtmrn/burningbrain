@@ -20452,21 +20452,6 @@
       "contentVersion": 2,
       "entries": [
         {
-          "answer": "Zinédine Zidane",
-          "tier": "t1",
-          "aliases": [
-            "Zidane",
-            "Zizou"
-          ]
-        },
-        {
-          "answer": "Kylian Mbappé",
-          "tier": "t1",
-          "aliases": [
-            "Mbappé"
-          ]
-        },
-        {
           "answer": "Lionel Messi",
           "tier": "t1",
           "aliases": [
@@ -20474,22 +20459,10 @@
           ]
         },
         {
-          "answer": "Pelé",
-          "tier": "t1",
-          "aliases": []
-        },
-        {
-          "answer": "Diego Maradona",
+          "answer": "Kylian Mbappé",
           "tier": "t1",
           "aliases": [
-            "Maradona"
-          ]
-        },
-        {
-          "answer": "Antoine Griezmann",
-          "tier": "t1",
-          "aliases": [
-            "Griezmann"
+            "Mbappé"
           ]
         },
         {
@@ -20501,403 +20474,153 @@
           ]
         },
         {
-          "answer": "Didier Deschamps",
+          "answer": "Zinedine Zidane",
           "tier": "t1",
           "aliases": [
-            "Deschamps"
+            "Zidane",
+            "Zizou"
           ]
         },
         {
-          "answer": "Hugo Lloris",
+          "answer": "Diego Maradona",
           "tier": "t1",
           "aliases": [
-            "Lloris"
+            "Maradona"
           ]
         },
         {
-          "answer": "Kaká",
-          "tier": "t2",
-          "aliases": [],
-          "quip": "Un piège connu : beaucoup y pensent en premier."
-        },
-        {
-          "answer": "Lionel Charbonnier",
-          "tier": "t6",
+          "answer": "Pelé",
+          "tier": "t1",
           "aliases": [
-            "Charbonnier"
-          ],
-          "quip": "Celle-là, on ne l'attendait pas."
-        },
-        {
-          "answer": "Thierry Henry",
-          "tier": "t3",
-          "aliases": [
-            "Henry"
+            "Edson Arantes do Nascimento"
           ]
         },
         {
-          "answer": "Fabien Barthez",
-          "tier": "t3",
-          "aliases": [
-            "Barthez"
-          ]
-        },
-        {
-          "answer": "Lilian Thuram",
-          "tier": "t3",
-          "aliases": [
-            "Thuram"
-          ]
-        },
-        {
-          "answer": "Marcel Desailly",
-          "tier": "t3",
-          "aliases": [
-            "Desailly"
-          ]
-        },
-        {
-          "answer": "Laurent Blanc",
-          "tier": "t3",
+          "answer": "Garrincha",
+          "tier": "t1",
           "aliases": []
-        },
-        {
-          "answer": "Bixente Lizarazu",
-          "tier": "t3",
-          "aliases": [
-            "Lizarazu"
-          ]
-        },
-        {
-          "answer": "Emmanuel Petit",
-          "tier": "t3",
-          "aliases": [
-            "Petit"
-          ]
-        },
-        {
-          "answer": "Youri Djorkaeff",
-          "tier": "t3",
-          "aliases": [
-            "Djorkaeff"
-          ]
-        },
-        {
-          "answer": "Christophe Dugarry",
-          "tier": "t3",
-          "aliases": [
-            "Dugarry"
-          ]
-        },
-        {
-          "answer": "David Trezeguet",
-          "tier": "t3",
-          "aliases": [
-            "Trezeguet"
-          ]
-        },
-        {
-          "answer": "Robert Pirès",
-          "tier": "t3",
-          "aliases": [
-            "Pirès"
-          ]
-        },
-        {
-          "answer": "Patrick Vieira",
-          "tier": "t3",
-          "aliases": [
-            "Vieira"
-          ]
-        },
-        {
-          "answer": "Paul Pogba",
-          "tier": "t3",
-          "aliases": [
-            "Pogba"
-          ]
-        },
-        {
-          "answer": "Raphaël Varane",
-          "tier": "t3",
-          "aliases": [
-            "Varane"
-          ]
-        },
-        {
-          "answer": "N'Golo Kanté",
-          "tier": "t3",
-          "aliases": [
-            "Kanté"
-          ]
-        },
-        {
-          "answer": "Olivier Giroud",
-          "tier": "t3",
-          "aliases": [
-            "Giroud"
-          ]
-        },
-        {
-          "answer": "Benjamin Pavard",
-          "tier": "t3",
-          "aliases": [
-            "Pavard"
-          ]
-        },
-        {
-          "answer": "Samuel Umtiti",
-          "tier": "t3",
-          "aliases": [
-            "Umtiti"
-          ]
-        },
-        {
-          "answer": "Blaise Matuidi",
-          "tier": "t3",
-          "aliases": [
-            "Matuidi"
-          ]
-        },
-        {
-          "answer": "Ousmane Dembélé",
-          "tier": "t3",
-          "aliases": [
-            "Dembélé"
-          ]
-        },
-        {
-          "answer": "Andrés Iniesta",
-          "tier": "t3",
-          "aliases": [
-            "Iniesta"
-          ]
-        },
-        {
-          "answer": "Xavi",
-          "tier": "t3",
-          "aliases": [
-            "Xavi Hernández"
-          ]
-        },
-        {
-          "answer": "Iker Casillas",
-          "tier": "t3",
-          "aliases": [
-            "Casillas"
-          ]
-        },
-        {
-          "answer": "Sergio Ramos",
-          "tier": "t3",
-          "aliases": []
-        },
-        {
-          "answer": "Carles Puyol",
-          "tier": "t3",
-          "aliases": [
-            "Puyol"
-          ]
-        },
-        {
-          "answer": "Gerard Piqué",
-          "tier": "t3",
-          "aliases": [
-            "Piqué"
-          ]
-        },
-        {
-          "answer": "David Villa",
-          "tier": "t3",
-          "aliases": []
-        },
-        {
-          "answer": "Fernando Torres",
-          "tier": "t3",
-          "aliases": []
-        },
-        {
-          "answer": "Xabi Alonso",
-          "tier": "t3",
-          "aliases": []
-        },
-        {
-          "answer": "Sergio Busquets",
-          "tier": "t3",
-          "aliases": [
-            "Busquets"
-          ]
-        },
-        {
-          "answer": "Cesc Fàbregas",
-          "tier": "t3",
-          "aliases": [
-            "Fàbregas"
-          ]
-        },
-        {
-          "answer": "Gianluigi Buffon",
-          "tier": "t3",
-          "aliases": [
-            "Buffon"
-          ]
-        },
-        {
-          "answer": "Fabio Cannavaro",
-          "tier": "t3",
-          "aliases": [
-            "Cannavaro"
-          ]
-        },
-        {
-          "answer": "Andrea Pirlo",
-          "tier": "t3",
-          "aliases": [
-            "Pirlo"
-          ]
-        },
-        {
-          "answer": "Francesco Totti",
-          "tier": "t3",
-          "aliases": [
-            "Totti"
-          ]
-        },
-        {
-          "answer": "Alessandro Del Piero",
-          "tier": "t3",
-          "aliases": [
-            "Del Piero"
-          ]
-        },
-        {
-          "answer": "Gennaro Gattuso",
-          "tier": "t3",
-          "aliases": [
-            "Gattuso"
-          ]
-        },
-        {
-          "answer": "Marco Materazzi",
-          "tier": "t3",
-          "aliases": [
-            "Materazzi"
-          ]
-        },
-        {
-          "answer": "Manuel Neuer",
-          "tier": "t3",
-          "aliases": [
-            "Neuer"
-          ]
-        },
-        {
-          "answer": "Thomas Müller",
-          "tier": "t3",
-          "aliases": []
-        },
-        {
-          "answer": "Miroslav Klose",
-          "tier": "t3",
-          "aliases": [
-            "Klose"
-          ]
-        },
-        {
-          "answer": "Philipp Lahm",
-          "tier": "t3",
-          "aliases": [
-            "Lahm"
-          ]
-        },
-        {
-          "answer": "Bastian Schweinsteiger",
-          "tier": "t3",
-          "aliases": [
-            "Schweinsteiger"
-          ]
-        },
-        {
-          "answer": "Toni Kroos",
-          "tier": "t3",
-          "aliases": [
-            "Kroos"
-          ]
-        },
-        {
-          "answer": "Mario Götze",
-          "tier": "t3",
-          "aliases": [
-            "Götze"
-          ]
-        },
-        {
-          "answer": "Mesut Özil",
-          "tier": "t3",
-          "aliases": [
-            "Özil"
-          ]
         },
         {
           "answer": "Ronaldinho",
-          "tier": "t3",
-          "aliases": []
-        },
-        {
-          "answer": "Rivaldo",
-          "tier": "t3",
-          "aliases": []
-        },
-        {
-          "answer": "Roberto Carlos",
-          "tier": "t3",
-          "aliases": []
-        },
-        {
-          "answer": "Cafu",
-          "tier": "t3",
-          "aliases": []
-        },
-        {
-          "answer": "Romário",
-          "tier": "t3",
-          "aliases": []
-        },
-        {
-          "answer": "Franz Beckenbauer",
-          "tier": "t3",
+          "tier": "t2",
           "aliases": [
-            "Beckenbauer"
-          ]
+            "Ronaldinho Gaúcho"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
-          "answer": "Gerd Müller",
+          "answer": "Frank Mill",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Franco Armani",
           "tier": "t3",
           "aliases": []
         },
         {
-          "answer": "Lothar Matthäus",
+          "answer": "Juan Foyth",
           "tier": "t3",
-          "aliases": [
-            "Matthäus"
-          ]
+          "aliases": []
         },
         {
-          "answer": "Emiliano Martínez",
+          "answer": "Nicolás Tagliafico",
           "tier": "t3",
-          "aliases": [
-            "Dibu Martínez"
-          ]
+          "aliases": []
+        },
+        {
+          "answer": "Gonzalo Montiel",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Leandro Paredes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Germán Pezzella",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Rodrigo De Paul",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Marcos Acuña",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Julián Álvarez",
+          "tier": "t3",
+          "aliases": []
         },
         {
           "answer": "Ángel Di María",
           "tier": "t3",
-          "aliases": [
-            "Di María"
-          ]
+          "aliases": []
         },
         {
-          "answer": "Julián Álvarez",
+          "answer": "Gerónimo Rulli",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cristian Romero",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Exequiel Palacios",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ángel Correa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Thiago Almada",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Papu Gómez",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guido Rodríguez",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nicolás Otamendi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alexis Mac Allister",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Paulo Dybala",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lautaro Martínez",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Emiliano Martínez",
           "tier": "t3",
           "aliases": []
         },
@@ -20907,143 +20630,1113 @@
           "aliases": []
         },
         {
-          "answer": "Alexis Mac Allister",
+          "answer": "Lisandro Martínez",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nahuel Molina",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hugo Lloris",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Benjamin Pavard",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Presnel Kimpembe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Raphaël Varane",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Samuel Umtiti",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Paul Pogba",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Antoine Griezmann",
           "tier": "t3",
           "aliases": [
-            "Mac Allister"
+            "Griezmann"
           ]
         },
         {
-          "answer": "Mario Kempes",
+          "answer": "Thomas Lemar",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Olivier Giroud",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ousmane Dembélé",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Corentin Tolisso",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "N'Golo Kanté",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Blaise Matuidi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Steven Nzonzi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Steve Mandanda",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Adil Rami",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nabil Fekir",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Djibril Sidibé",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Florian Thauvin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lucas Hernandez",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Benjamin Mendy",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alphonse Areola",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Gianluigi Buffon",
           "tier": "t3",
           "aliases": [
-            "Kempes"
+            "Buffon"
           ]
         },
         {
-          "answer": "Paolo Rossi",
+          "answer": "Cristian Zaccardo",
           "tier": "t3",
           "aliases": []
         },
         {
-          "answer": "Dino Zoff",
+          "answer": "Fabio Grosso",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Daniele De Rossi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fabio Cannavaro",
           "tier": "t3",
           "aliases": [
-            "Zoff"
+            "Cannavaro"
           ]
         },
         {
-          "answer": "Bobby Moore",
+          "answer": "Andrea Barzagli",
           "tier": "t3",
           "aliases": []
         },
         {
-          "answer": "Bobby Charlton",
+          "answer": "Alessandro Del Piero",
           "tier": "t3",
           "aliases": []
         },
         {
-          "answer": "Geoff Hurst",
+          "answer": "Gennaro Gattuso",
           "tier": "t3",
           "aliases": []
         },
         {
-          "answer": "Garrincha",
+          "answer": "Luca Toni",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Francesco Totti",
+          "tier": "t3",
+          "aliases": [
+            "Totti"
+          ]
+        },
+        {
+          "answer": "Alberto Gilardino",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Angelo Peruzzi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alessandro Nesta",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Marco Amelia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vincenzo Iaquinta",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mauro Camoranesi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Simone Barone",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Filippo Inzaghi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Gianluca Zambrotta",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Simone Perrotta",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Andrea Pirlo",
+          "tier": "t3",
+          "aliases": [
+            "Pirlo"
+          ]
+        },
+        {
+          "answer": "Massimo Oddo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Marco Materazzi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Marcos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cafu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lúcio",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Roque Júnior",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Edmílson",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Roberto Carlos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ricardinho",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Gilberto Silva",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Rivaldo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dida",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Juliano Belletti",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ânderson Polga",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kléberson",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Júnior",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Denílson",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vampeta",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Juninho Paulista",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Edílson",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Luizão",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Rogério Ceni",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kaká",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bernard Lama",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vincent Candela",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bixente Lizarazu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Patrick Vieira",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Laurent Blanc",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Youri Djorkaeff",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Didier Deschamps",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Marcel Desailly",
+          "tier": "t3",
+          "aliases": [
+            "Desailly"
+          ]
+        },
+        {
+          "answer": "Stéphane Guivarc'h",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Robert Pires",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Thierry Henry",
+          "tier": "t3",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Bernard Diomède",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alain Boghossian",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lilian Thuram",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fabien Barthez",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Emmanuel Petit",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Frank Leboeuf",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Christian Karembeu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "David Trezeguet",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Christophe Dugarry",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lionel Charbonnier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cláudio Taffarel",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jorginho",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ricardo Rocha",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ronaldão",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mauro Silva",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Branco",
           "tier": "t3",
           "aliases": []
         },
         {
           "answer": "Bebeto",
-          "tier": "t4",
+          "tier": "t3",
           "aliases": []
         },
         {
           "answer": "Dunga",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zinho",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Raí",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Romário",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zetti",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Aldair",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Márcio Santos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Leonardo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mazinho",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Paulo Sérgio",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Müller",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Viola",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Gilmar Rinaldi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bodo Illgner",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Stefan Reuter",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Andreas Brehme",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jürgen Kohler",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Klaus Augenthaler",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guido Buchwald",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pierre Littbarski",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Thomas Häßler",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rudi Völler",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lothar Matthäus",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Raimond Aumann",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Karl-Heinz Riedle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Thomas Berthold",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Uwe Bein",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Paul Steiner",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Andreas Möller",
           "tier": "t4",
           "aliases": []
         },
         {
           "answer": "Jürgen Klinsmann",
           "tier": "t4",
-          "aliases": [
-            "Klinsmann"
-          ]
+          "aliases": []
         },
         {
-          "answer": "Andreas Brehme",
+          "answer": "Hans Pflügler",
           "tier": "t4",
-          "aliases": [
-            "Brehme"
-          ]
+          "aliases": []
         },
         {
-          "answer": "Rudi Völler",
+          "answer": "Olaf Thon",
           "tier": "t4",
-          "aliases": [
-            "Völler"
-          ]
+          "aliases": []
         },
         {
-          "answer": "Rodrigo De Paul",
+          "answer": "Günter Hermann",
           "tier": "t4",
-          "aliases": [
-            "De Paul"
-          ]
+          "aliases": []
         },
         {
-          "answer": "Lautaro Martínez",
+          "answer": "Andreas Köpke",
           "tier": "t4",
-          "aliases": [
-            "Lautaro"
-          ]
+          "aliases": []
         },
         {
-          "answer": "Paulo Dybala",
+          "answer": "Sergio Almirón",
           "tier": "t4",
-          "aliases": [
-            "Dybala"
-          ]
+          "aliases": []
+        },
+        {
+          "answer": "Sergio Batista",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ricardo Bochini",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Claudio Borghi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "José Luis Brown",
+          "tier": "t4",
+          "aliases": []
         },
         {
           "answer": "Daniel Passarella",
           "tier": "t4",
-          "aliases": [
-            "Passarella"
-          ]
-        },
-        {
-          "answer": "Jorge Valdano",
-          "tier": "t4",
-          "aliases": [
-            "Valdano"
-          ]
+          "aliases": []
         },
         {
           "answer": "Jorge Burruchaga",
           "tier": "t4",
-          "aliases": [
-            "Burruchaga"
-          ]
+          "aliases": []
+        },
+        {
+          "answer": "Néstor Clausen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "José Luis Cuciuffo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jorge Valdano",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Héctor Enrique",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Oscar Garré",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ricardo Giusti",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Luis Islas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Julio Olarticoechea",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pedro Pasculli",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nery Pumpido",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Oscar Ruggeri",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Carlos Tapia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Marcelo Trobbiani",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Héctor Zelada",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dino Zoff",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Franco Baresi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Giuseppe Bergomi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Antonio Cabrini",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fulvio Collovati",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Claudio Gentile",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gaetano Scirea",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pietro Vierchowod",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Giancarlo Antognoni",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Giuseppe Dossena",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Giampiero Marini",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ivano Bordon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gabriele Oriali",
+          "tier": "t4",
+          "aliases": []
         },
         {
           "answer": "Marco Tardelli",
           "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Franco Causio",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bruno Conti",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Daniele Massaro",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Alessandro Altobelli",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Francesco Graziani",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Paolo Rossi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Franco Selvaggi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Giovanni Galli",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Norberto Alonso",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Osvaldo Ardiles",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Héctor Baley",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Daniel Bertoni",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ubaldo Fillol",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Américo Gallego",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Luis Galván",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rubén Galván",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "René Houseman",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mario Kempes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Daniel Killer",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Omar Larrosa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ricardo La Volpe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Leopoldo Luque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jorge Olguín",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Oscar Ortiz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Miguel Oviedo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rubén Pagnanini",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Alberto Tarantini",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "José Daniel Valencia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ricardo Villa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sepp Maier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Berti Vogts",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Paul Breitner",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hans-Georg Schwarzenbeck",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Franz Beckenbauer",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Horst-Dieter Höttges",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Herbert Wimmer",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bernhard Cullmann",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jürgen Grabowski",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Günter Netzer",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jupp Heynckes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wolfgang Overath",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gerd Müller",
+          "tier": "t4",
           "aliases": [
-            "Tardelli"
+            "Gerd Muller"
           ]
         },
         {
-          "answer": "Gordon Banks",
+          "answer": "Uli Hoeneß",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Jairzinho",
+          "answer": "Heinz Flohe",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Rivelino",
+          "answer": "Rainer Bonhof",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bernd Hölzenbein",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dieter Herzog",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jupp Kapellmann",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Helmut Kremers",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Norbert Nigbur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wolfgang Kleff",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Félix",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Brito",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Piazza",
           "tier": "t4",
           "aliases": []
         },
@@ -21053,29 +21746,202 @@
           "aliases": []
         },
         {
+          "answer": "Clodoaldo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Marco Antônio",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jairzinho",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gérson",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
           "answer": "Tostão",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Didi",
+          "answer": "Rivellino",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Vavá",
+          "answer": "Ado",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Mário Zagallo",
+          "answer": "Roberto Miranda",
           "tier": "t4",
-          "aliases": [
-            "Zagallo"
-          ]
+          "aliases": []
         },
         {
-          "answer": "Nílton Santos",
+          "answer": "Baldocchi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fontana",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Everaldo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Joel Camargo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Paulo Cézar Caju",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Edu",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dario",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zé Maria",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Leão",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gordon Banks",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "George Cohen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ray Wilson",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nobby Stiles",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jack Charlton",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bobby Moore",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Alan Ball",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jimmy Greaves",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bobby Charlton",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Geoff Hurst",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "John Connelly",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ron Springett",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Peter Bonetti",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jimmy Armfield",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gerry Byrne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Martin Peters",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ron Flowers",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Norman Hunter",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Terry Paine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ian Callaghan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Roger Hunt",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "George Eastham",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gilmar",
           "tier": "t4",
           "aliases": []
         },
@@ -21085,225 +21951,334 @@
           "aliases": []
         },
         {
-          "answer": "Lúcio",
+          "answer": "Mauro Ramos",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Gilberto Silva",
+          "answer": "Zito",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Kléberson",
+          "answer": "Zózimo",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Edmílson",
+          "answer": "Nílton Santos",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Marcos",
+          "answer": "Didi",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Per Mertesacker",
-          "tier": "t4",
-          "aliases": [
-            "Mertesacker"
-          ]
-        },
-        {
-          "answer": "Benedikt Höwedes",
-          "tier": "t4",
-          "aliases": [
-            "Höwedes"
-          ]
-        },
-        {
-          "answer": "André Schürrle",
-          "tier": "t4",
-          "aliases": [
-            "Schürrle"
-          ]
-        },
-        {
-          "answer": "Sami Khedira",
-          "tier": "t4",
-          "aliases": [
-            "Khedira"
-          ]
-        },
-        {
-          "answer": "Jérôme Boateng",
+          "answer": "Coutinho",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Mats Hummels",
-          "tier": "t4",
-          "aliases": [
-            "Hummels"
-          ]
-        },
-        {
-          "answer": "Víctor Valdés",
+          "answer": "Pepe",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Pepe Reina",
+          "answer": "Jair Marinho",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Stéphane Guivarc'h",
-          "tier": "t4",
-          "aliases": [
-            "Guivarc'h"
-          ]
-        },
-        {
-          "answer": "Alain Boghossian",
-          "tier": "t4",
-          "aliases": [
-            "Boghossian"
-          ]
-        },
-        {
-          "answer": "Bernard Diomède",
-          "tier": "t4",
-          "aliases": [
-            "Diomède"
-          ]
-        },
-        {
-          "answer": "Frank Leboeuf",
-          "tier": "t4",
-          "aliases": [
-            "Leboeuf"
-          ]
-        },
-        {
-          "answer": "Christian Karembeu",
-          "tier": "t4",
-          "aliases": [
-            "Karembeu"
-          ]
-        },
-        {
-          "answer": "Vincent Candela",
-          "tier": "t4",
-          "aliases": [
-            "Candela"
-          ]
-        },
-        {
-          "answer": "Bernard Lama",
+          "answer": "Hilderaldo Bellini",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Adil Rami",
+          "answer": "Jurandir",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Steve Mandanda",
-          "tier": "t4",
-          "aliases": [
-            "Mandanda"
-          ]
-        },
-        {
-          "answer": "Alphonse Areola",
-          "tier": "t4",
-          "aliases": [
-            "Areola"
-          ]
-        },
-        {
-          "answer": "Thomas Lemar",
-          "tier": "t4",
-          "aliases": [
-            "Lemar"
-          ]
-        },
-        {
-          "answer": "Florian Thauvin",
-          "tier": "t4",
-          "aliases": [
-            "Thauvin"
-          ]
-        },
-        {
-          "answer": "Nabil Fekir",
-          "tier": "t4",
-          "aliases": [
-            "Fekir"
-          ]
-        },
-        {
-          "answer": "Corentin Tolisso",
-          "tier": "t4",
-          "aliases": [
-            "Tolisso"
-          ]
-        },
-        {
-          "answer": "Presnel Kimpembe",
-          "tier": "t4",
-          "aliases": [
-            "Kimpembe"
-          ]
-        },
-        {
-          "answer": "Djibril Sidibé",
-          "tier": "t4",
-          "aliases": [
-            "Sidibé"
-          ]
-        },
-        {
-          "answer": "Lucas Hernandez",
+          "answer": "Altair",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Benjamin Mendy",
+          "answer": "Zequinha",
           "tier": "t4",
           "aliases": []
         },
         {
-          "answer": "Steven N'Zonzi",
+          "answer": "Mengálvio",
           "tier": "t4",
-          "aliases": [
-            "N'Zonzi"
-          ]
+          "aliases": []
         },
         {
-          "answer": "Christoph Kramer",
+          "answer": "Jair da Costa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Vavá",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Amarildo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mário Zagallo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Castilho",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dino Sani",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Oreco",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Moacir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "De Sordi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Orlando",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Joel Antônio Martins",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "José Altafini",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Toni Turek",
           "tier": "t5",
-          "aliases": [
-            "Kramer"
-          ]
+          "aliases": []
+        },
+        {
+          "answer": "Fritz Laband",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Werner Kohlmeyer",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hans Bauer",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Herbert Erhardt",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Horst Eckel",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Josef Posipal",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Karl Mai",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Paul Mebus",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Werner Liebrich",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Karl-Heinz Metzner",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Helmut Rahn",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Max Morlock",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bernhard Klodt",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ottmar Walter",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Fritz Walter",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Richard Herrmann",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ulrich Biesinger",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Alfred Pfaff",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hans Schäfer",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Heinz Kubsch",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Heinz Kwiatkowski",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Julio César Britos",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Juan Burgueño",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Schubert Gambetta",
+          "tier": "t5",
+          "aliases": []
         },
         {
           "answer": "Alcides Ghiggia",
           "tier": "t5",
-          "aliases": [
-            "Ghiggia"
-          ]
+          "aliases": []
+        },
+        {
+          "answer": "Juan Carlos González",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Matías González",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "William Martínez",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Roque Máspoli",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Oscar Míguez",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Rubén Morán",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Washington Ortuño",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Aníbal Paz",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Julio Pérez",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Rodolfo Pini",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Luis Rijo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Víctor Rodríguez Andrade",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Carlos Romero",
+          "tier": "t5",
+          "aliases": []
         },
         {
           "answer": "Juan Alberto Schiaffino",
           "tier": "t5",
-          "aliases": [
-            "Schiaffino"
-          ]
+          "aliases": []
+        },
+        {
+          "answer": "Eusebio Tejera",
+          "tier": "t5",
+          "aliases": []
         },
         {
           "answer": "Obdulio Varela",
@@ -21311,18 +22286,324 @@
           "aliases": []
         },
         {
+          "answer": "Ernesto Vidal",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Héctor Vilches",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Michele Andreolo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sergio Bertoni",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Amedeo Biavati",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Carlo Ceresoli",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bruno Chizzo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gino Colaussi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Aldo Donati",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Giovanni Ferrari",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pietro Ferraris",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Alfredo Foni",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mario Genta",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ugo Locatelli",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guido Masetti",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Giuseppe Meazza",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Eraldo Monzeglio",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Aldo Olivieri",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Renato Olmi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Piero Pasinati",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mario Perazzolo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Silvio Piola",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pietro Rava",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pietro Serantoni",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Luigi Allemandi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pietro Arcari",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Luigi Bertolini",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Felice Borel",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Umberto Caligaris",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Armando Castellazzi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Giuseppe Cavanna",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gianpiero Combi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Attilio Demaria",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Attilio Ferraris",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Enrique Guaita",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Anfilogino Guarisi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Luis Monti",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Raimundo Orsi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mario Pizziolo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Virginio Rosetta",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Angelo Schiavio",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mario Varglien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "José Leandro Andrade",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Peregrino Anselmo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Enrique Ballestrero",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Juan Carlos Calvo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Miguel Capuccini",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Héctor Castro",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pedro Cea",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pablo Dorado",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lorenzo Fernández",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Álvaro Gestido",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Santos Iriarte",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ernesto Mascheroni",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ángel Melogno",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
           "answer": "José Nasazzi",
           "tier": "t5",
-          "aliases": [
-            "Nasazzi"
-          ]
+          "aliases": []
+        },
+        {
+          "answer": "Pedro Petrone",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Conduelo Píriz",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Emilio Recoba",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Carlos Riolfo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Zoilo Saldombide",
+          "tier": "t5",
+          "aliases": []
         },
         {
           "answer": "Héctor Scarone",
           "tier": "t5",
-          "aliases": [
-            "Scarone"
-          ]
+          "aliases": []
+        },
+        {
+          "answer": "Domingo Tejera",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Santos Urdinarán",
+          "tier": "t5",
+          "aliases": []
         }
       ]
     },
