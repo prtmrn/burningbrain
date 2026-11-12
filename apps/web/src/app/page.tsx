@@ -89,12 +89,14 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
           </article>
         </section>
 
-        <Link href="/themes" data-testid="choose-theme" className="multi-cta">
-          <button type="button" className="big secondary multi-big">🎭 Choisir un thème</button>
-        </Link>
-        <Link href="/multi" data-testid="multi-link" className="multi-cta">
-          <button type="button" className="big multi-big">👥 Multijoueur en ligne</button>
-        </Link>
+        <div className="home-actions">
+          <Link href="/themes" data-testid="choose-theme">
+            <button type="button" className="big secondary multi-big">🎭 Choisir un thème</button>
+          </Link>
+          <Link href="/multi" data-testid="multi-link">
+            <button type="button" className="big multi-big">👥 Multijoueur en ligne</button>
+          </Link>
+        </div>
 
         <p style={{ marginTop: '1.2rem' }}>
           <StreakBadge streak={stats.currentStreak} />
