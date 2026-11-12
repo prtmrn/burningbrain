@@ -60,6 +60,7 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
           <p className="muted" data-testid="reset-line">{resetLabel(nowWall)}</p>
         </div>
 
+        <div className="home-side">
         <section className="mode-cards">
           <article className="mode-card hot">
             <h2>🔥 Boiling</h2>
@@ -102,6 +103,7 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
           <Link href="/multi" data-testid="multi-link">
             <button type="button" className="big multi-big">👥 Multijoueur en ligne</button>
           </Link>
+        </div>
         </div>
 
       </main>
