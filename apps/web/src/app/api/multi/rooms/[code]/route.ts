@@ -1,6 +1,6 @@
 // GET /api/multi/rooms/[code]?player=ID — état du salon (phase, classement).
 import { getKv } from '../../../../../server/multi/kv';
-import { getAnswers, getMeta, getPlayers, rankingOf } from '../../../../../server/multi/room';
+import { getAnswers, getMeta, getPlayers, rankingOf, resolveFlags } from '../../../../../server/multi/room';
 import { loadBank } from '../../../../../server/multi/bank';
 import { phaseAt } from '../../../../../server/multi/phase';
 
@@ -19,6 +19,8 @@ export async function GET(req: Request, { params }: { params: Promise<{ code: st
   const phase = phaseAt(meta, now);
   const players = await getPlayers(kv, code);
   const answers = await getAnswers(kv, code);
+  const flags = await resolveFlags(kv, code, meta, players, answers, now);
+  const finalAnswers = await getAnswers(kv, code);
   const viewerLang = players.find((p) => p.id === playerId)?.lang ?? 'fr';
   const bank = await loadBank(meta.theme, url.origin, viewerLang);
 
@@ -63,15 +65,19 @@ export async function GET(req: Request, { params }: { params: Promise<{ code: st
     mode: meta.mode === 'brain' ? 'brain' : 'hot',
     brainGoal: meta.brainGoal ?? 500,
     showScores: meta.showScores === true,
-    winnerId: meta.winnerId ?? null,
-    myAnswers: answers
+    goalFirstId: meta.goalFirstId ?? null,
+    bonusUsedBy: meta.bonusUsedBy ?? null,
+    bonusUntil: meta.bonusUntil ?? null,
+    winnerId: phase.kind === 'done' ? rankingOf(players, finalAnswers)[0]?.playerId ?? null : null,
+    flags: flags.map((f) => ({ id: f.id, round: f.round, playerId: f.playerId, name: f.name, input: f.input, status: f.status, yes: Object.values(f.votes).filter(Boolean).length, no: Object.values(f.votes).filter((v) => !v).length, myVote: f.votes[playerId] ?? null, mine: f.playerId === playerId })),
+    myAnswers: finalAnswers
       .filter((x) => x.playerId === playerId)
       .map((x) => ({ round: x.round, answer: x.answer, tier: x.tier, score: x.score }))
       .sort((x, y) => x.round - y.round),
     ranking:
       meta.mode === 'brain' && meta.showScores !== true && phase.kind !== 'done'
-        ? rankingOf(players, answers).filter((r) => r.playerId === playerId)
-        : rankingOf(players, answers),
+        ? rankingOf(players, finalAnswers).filter((r) => r.playerId === playerId)
+        : rankingOf(players, finalAnswers),
     current,
     mine,
     reveal,

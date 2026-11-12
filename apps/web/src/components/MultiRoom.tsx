@@ -39,6 +39,10 @@ interface RoomState {
   showScores?: boolean;
   winnerId?: string | null;
   myAnswers?: { round: number; answer: string; tier: string; score: number }[];
+  goalFirstId?: string | null;
+  bonusUsedBy?: string | null;
+  bonusUntil?: number | null;
+  flags?: { id: string; round: number; playerId: string; name: string; input: string; status: 'open' | 'accepted' | 'refused'; yes: number; no: number; myVote: boolean | null; mine: boolean }[];
 }
 
 interface Verdict {
@@ -81,6 +85,7 @@ export function MultiRoom({ code }: { code: string }) {
   const [joinName, setJoinName] = useState('');
   const [draft, setDraft] = useState('');
   const [verdict, setVerdict] = useState<Verdict | null>(null);
+  const [lastRejected, setLastRejected] = useState<string | null>(null);
 
   useEffect(() => {
     setMe(loadMulti(C));
@@ -171,7 +176,30 @@ export function MultiRoom({ code }: { code: string }) {
     });
     const v = (await r.json()) as Omit<Verdict, 'round'>;
     setVerdict({ ...v, round });
+    setLastRejected(v.kind === 'rejected' ? draft : null);
     if (v.kind === 'accept') setDraft('');
+  }
+
+  async function postJson(url: string, body: unknown): Promise<boolean> {
+    const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+    const j = (await r.json()) as { error?: string };
+    if (!r.ok) setError(errorText(j.error, lang) ?? j.error ?? t('multi.error.join'));
+    return r.ok;
+  }
+
+  async function flagRejected(): Promise<void> {
+    if (!me || !lastRejected) return;
+    if (await postJson(`/api/multi/rooms/${C}/flag`, { playerId: me.playerId, input: lastRejected })) setLastRejected(null);
+  }
+
+  async function voteFlag(id: string, accept: boolean): Promise<void> {
+    if (!me) return;
+    await postJson(`/api/multi/rooms/${C}/flags/${encodeURIComponent(id)}/vote`, { playerId: me.playerId, accept });
+  }
+
+  async function activateBonus(): Promise<void> {
+    if (!me) return;
+    await postJson(`/api/multi/rooms/${C}/bonus`, { playerId: me.playerId });
   }
 
   const themeName = (id: string): string => THEME_NAMES[id]?.[lang] ?? id;
@@ -337,6 +365,42 @@ export function MultiRoom({ code }: { code: string }) {
             )}
           </section>
         )}
+
+        {(() => {
+          const firstName = state.goalFirstId ? state.players.find((p) => p.id === state.goalFirstId)?.name ?? '' : '';
+          const bonusLeft = state.bonusUntil ? Math.max(0, Math.ceil((state.bonusUntil - serverNow) / 1000)) : 0;
+          const bonusOpen = state.goalFirstId === me.playerId && !state.bonusUsedBy && phase.kind !== 'done' && phase.kind !== 'lobby';
+          return (
+            <div className="multi-extras">
+              {firstName && <p className="muted" data-testid="multi-first">{t('multi.first', { name: firstName })}</p>}
+              {bonusOpen && (
+                <button type="button" className="big secondary" onClick={activateBonus} data-testid="multi-bonus">{t('multi.bonus')}</button>
+              )}
+              {state.bonusUsedBy && bonusLeft > 0 && <p className="lead" data-testid="multi-bonus-active">{t('multi.bonus.active', { s: bonusLeft })}</p>}
+              {lastRejected && phase.kind === 'answering' && (
+                <button type="button" className="secondary" onClick={flagRejected} data-testid="multi-flag">{t('multi.flag')}</button>
+              )}
+              {state.flags && state.flags.length > 0 && (
+                <section data-testid="multi-flags" className="flags">
+                  {state.flags.map((f) => (
+                    <div key={f.id} className="flag-row">
+                      <span>{t('multi.flag.review', { input: f.input, name: f.name })}</span>{' '}
+                      {f.status === 'open' && !f.mine && f.myVote === null && (
+                        <>
+                          <button type="button" onClick={() => voteFlag(f.id, true)}>{t('multi.flag.accept')}</button>{' '}
+                          <button type="button" className="secondary" onClick={() => voteFlag(f.id, false)}>{t('multi.flag.refuse')}</button>
+                        </>
+                      )}
+                      {f.status === 'open' && (f.mine || f.myVote !== null) && <em>{t('multi.flag.open')} · ✔ {f.yes} ✖ {f.no}</em>}
+                      {f.status === 'accepted' && <strong>{t('multi.flag.accepted')}</strong>}
+                      {f.status === 'refused' && <em>{t('multi.flag.refused')}</em>}
+                    </div>
+                  ))}
+                </section>
+              )}
+            </div>
+          );
+        })()}
 
         {phase.kind === 'done' && (
           <section data-testid="multi-done">
