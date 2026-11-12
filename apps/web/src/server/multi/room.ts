@@ -1,0 +1,223 @@
+// ─────────────────────────────────────────────────────────────
+// server/multi/room.ts — salons multijoueurs (synchrones, 10 joueurs max).
+// Règles : une réponse acceptée par question et par joueur (la première
+// compte, la rareté rapporte les points) ; classement = somme des points.
+// Stockage : une clé méta (écrite une fois au départ), une table des joueurs
+// et une table des réponses (HSETNX → pas de double réponse en course).
+// ─────────────────────────────────────────────────────────────
+import {
+  MAX_ANSWER_LENGTH,
+  TIER_POINTS,
+  drawThemed,
+  validateAnswer,
+  type TierId,
+} from '@hotbrain/engine';
+import { configFor } from '../../config';
+import { DEFAULT_PREFERENCES } from '../../state/prefs-store';
+import { getJson, getKv, hgetallJson, setJson, ROOM_TTL_S, type Kv } from './kv';
+import { loadBank } from './bank';
+import { COUNTDOWN_MS, MAX_PLAYERS, makeCode, phaseAt, type RoomPhase } from './phase';
+
+export interface RoomMeta {
+  code: string;
+  theme: string;
+  rounds: number;
+  roundSec: number;
+  previewMs: number;
+  roundMs: number;
+  promptIds: string[];
+  hostId: string;
+  createdAt: number;
+  startAt: number | null;
+}
+
+export interface PlayerRec {
+  id: string;
+  name: string;
+}
+
+export interface AnswerRec {
+  round: number;
+  playerId: string;
+  input: string;
+  answer: string;
+  tier: TierId;
+  score: number;
+  at: number;
+}
+
+export type Verdict =
+  | { kind: 'accept'; answer: string; tier: TierId; score: number }
+  | { kind: 'already' }
+  | { kind: 'rejected' }
+  | { kind: 'none' }
+  | { kind: 'late' }
+  | { kind: 'waiting' }
+  | { kind: 'ended' }
+  | { kind: 'unknown' };
+
+const metaKey = (code: string): string => `mp:room:${code}`;
+const playersKey = (code: string): string => `mp:room:${code}:players`;
+const answersKey = (code: string): string => `mp:room:${code}:answers`;
+
+function randomId(): string {
+  const a = new Uint32Array(2);
+  crypto.getRandomValues(a);
+  return `${a[0]!.toString(36)}${a[1]!.toString(36)}`;
+}
+
+function rand(): number {
+  const a = new Uint32Array(1);
+  crypto.getRandomValues(a);
+  return a[0]! / 4294967296;
+}
+
+export async function getMeta(kv: Kv, code: string): Promise<RoomMeta | null> {
+  return getJson<RoomMeta>(kv, metaKey(code.toUpperCase()));
+}
+
+export interface CreateInput {
+  name: string;
+  theme: string;
+  rounds: number;
+  roundSec: number;
+  origin: string;
+}
+
+export async function createRoom(input: CreateInput): Promise<{ code: string; playerId: string }> {
+  const kv = getKv();
+  const bank = await loadBank(input.theme, input.origin);
+  const cfg = configFor('hot', { rounds: input.rounds, roundSec: input.roundSec });
+  if (bank.prompts.length < input.rounds) throw new Error('banque trop petite pour ce nombre de questions');
+  let code = '';
+  for (let i = 0; i < 6; i++) {
+    const c = makeCode(rand);
+    if (!(await getMeta(kv, c))) {
+      code = c;
+      break;
+    }
+  }
+  if (!code) throw new Error('aucun code libre');
+  const seed = Math.floor(rand() * 4294967296);
+  const promptIds = drawThemed(input.theme, 'hot', bank, [], seed, cfg);
+  const playerId = randomId();
+  const meta: RoomMeta = {
+    code,
+    theme: input.theme,
+    rounds: input.rounds,
+    roundSec: input.roundSec,
+    previewMs: cfg.modes.hot.previewMs,
+    roundMs: cfg.modes.hot.roundMs,
+    promptIds,
+    hostId: playerId,
+    createdAt: Date.now(),
+    startAt: null,
+  };
+  await setJson(kv, metaKey(code), meta);
+  await kv.cmd(['HSET', playersKey(code), playerId, JSON.stringify({ id: playerId, name: cleanName(input.name) })]);
+  await kv.cmd(['EXPIRE', playersKey(code), ROOM_TTL_S]);
+  await kv.cmd(['EXPIRE', answersKey(code), ROOM_TTL_S]);
+  return { code, playerId };
+}
+
+export function cleanName(name: string): string {
+  return name.trim().replace(/\s+/g, ' ').slice(0, 20) || 'Joueur';
+}
+
+export async function joinRoom(code: string, name: string): Promise<{ playerId: string } | { error: string }> {
+  const kv = getKv();
+  const c = code.toUpperCase();
+  const meta = await getMeta(kv, c);
+  if (!meta) return { error: 'Salon introuvable' };
+  if (meta.startAt !== null) return { error: 'La partie a déjà commencé' };
+  const count = Number(await kv.cmd(['HLEN', playersKey(c)]));
+  if (count >= MAX_PLAYERS) return { error: 'Salon complet (10 joueurs)' };
+  const playerId = randomId();
+  await kv.cmd(['HSET', playersKey(c), playerId, JSON.stringify({ id: playerId, name: cleanName(name) })]);
+  return { playerId };
+}
+
+export async function startRoom(code: string, playerId: string): Promise<{ ok: true } | { error: string }> {
+  const kv = getKv();
+  const c = code.toUpperCase();
+  const meta = await getMeta(kv, c);
+  if (!meta) return { error: 'Salon introuvable' };
+  if (meta.hostId !== playerId) return { error: 'Seul l\'hôte peut lancer la partie' };
+  if (meta.startAt !== null) return { ok: true };
+  await setJson(kv, metaKey(c), { ...meta, startAt: Date.now() + COUNTDOWN_MS });
+  return { ok: true };
+}
+
+export async function getPlayers(kv: Kv, code: string): Promise<PlayerRec[]> {
+  const all = await hgetallJson<PlayerRec>(kv, playersKey(code));
+  return Object.values(all);
+}
+
+export async function getAnswers(kv: Kv, code: string): Promise<AnswerRec[]> {
+  return Object.values(await hgetallJson<AnswerRec>(kv, answersKey(code)));
+}
+
+export async function submitAnswer(
+  code: string,
+  playerId: string,
+  input: string,
+  origin: string,
+): Promise<Verdict> {
+  const kv = getKv();
+  const c = code.toUpperCase();
+  const meta = await getMeta(kv, c);
+  if (!meta) return { kind: 'unknown' };
+  const players = await getPlayers(kv, c);
+  if (!players.some((p) => p.id === playerId)) return { kind: 'unknown' };
+  const now = Date.now();
+  const phase: RoomPhase = phaseAt(meta, now);
+  if (phase.kind === 'lobby' || phase.kind === 'countdown') return { kind: 'waiting' };
+  if (phase.kind === 'done') return { kind: 'ended' };
+  if (phase.kind !== 'answering') return { kind: 'late' };
+  if (now > phase.endsAt) return { kind: 'late' };
+
+  const field = `${phase.round}:${playerId}`;
+  const existing = await kv.cmd(['HGET', answersKey(c), field]);
+  if (typeof existing === 'string') return { kind: 'already' };
+
+  const bank = await loadBank(meta.theme, origin);
+  const promptId = meta.promptIds[phase.round] as string;
+  const sheet = bank.sheets.get(promptId);
+  const index = bank.indexes.get(promptId);
+  if (!sheet) return { kind: 'rejected' };
+  const v = validateAnswer(input, sheet, DEFAULT_PREFERENCES, index, MAX_ANSWER_LENGTH);
+  if (v.kind === 'none') return { kind: 'none' };
+  if (v.kind !== 'accept') return { kind: 'rejected' };
+
+  const rec: AnswerRec = {
+    round: phase.round,
+    playerId,
+    input: input.slice(0, MAX_ANSWER_LENGTH),
+    answer: v.entry.answer,
+    tier: v.entry.tier,
+    score: TIER_POINTS[v.entry.tier],
+    at: now,
+  };
+  const stored = await kv.cmd(['HSETNX', answersKey(c), field, JSON.stringify(rec)]);
+  if (stored !== 1) return { kind: 'already' };
+  return { kind: 'accept', answer: rec.answer, tier: rec.tier, score: rec.score };
+}
+
+export interface RankRow {
+  playerId: string;
+  name: string;
+  score: number;
+  answers: number;
+}
+
+export function rankingOf(players: PlayerRec[], answers: AnswerRec[]): RankRow[] {
+  const rows = new Map<string, RankRow>();
+  for (const p of players) rows.set(p.id, { playerId: p.id, name: p.name, score: 0, answers: 0 });
+  for (const a of answers) {
+    const r = rows.get(a.playerId);
+    if (!r) continue;
+    r.score += a.score;
+    r.answers += 1;
+  }
+  return [...rows.values()].sort((x, y) => y.score - x.score || x.name.localeCompare(y.name));
+}
