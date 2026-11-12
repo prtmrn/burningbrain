@@ -328,6 +328,81 @@
       "text": "Nomme une commune française dont le nom commence par « Saint- » ou « Sainte- »"
     },
     {
+      "id": "geo-monde-01",
+      "theme": "geography",
+      "text": "Nomme une monnaie nationale ou une devise utilisée dans le monde"
+    },
+    {
+      "id": "geo-monde-02",
+      "theme": "geography",
+      "text": "Nomme une langue parlée dans le monde"
+    },
+    {
+      "id": "geo-monde-03",
+      "theme": "geography",
+      "text": "Nomme un État ou un territoire des États-Unis"
+    },
+    {
+      "id": "geo-monde-04",
+      "theme": "geography",
+      "text": "Nomme une ville des États-Unis"
+    },
+    {
+      "id": "geo-monde-05",
+      "theme": "geography",
+      "text": "Nomme un pays ou un territoire d'Asie"
+    },
+    {
+      "id": "geo-monde-06",
+      "theme": "geography",
+      "text": "Nomme une nationalité (nom d'habitant d'un pays)"
+    },
+    {
+      "id": "geo-monde-07",
+      "theme": "geography",
+      "text": "Nomme une organisation internationale (sigle ou nom complet)"
+    },
+    {
+      "id": "geo-monde-08",
+      "theme": "geography",
+      "text": "Nomme un peuple autochtone d'Amérique du Nord"
+    },
+    {
+      "id": "geo-monde-09",
+      "theme": "geography",
+      "text": "Nomme une capitale d'un pays d'Asie"
+    },
+    {
+      "id": "geo-monde-10",
+      "theme": "geography",
+      "text": "Nomme une ville de Belgique"
+    },
+    {
+      "id": "geo-monde-11",
+      "theme": "geography",
+      "text": "Nomme une ville de Suisse"
+    },
+    {
+      "id": "geo-monde-12",
+      "theme": "geography",
+      "text": "Nomme une ville du Maroc"
+    },
+    {
+      "id": "geo-monde-13",
+      "theme": "geography",
+      "text": "Nomme une ville du Portugal"
+    },
+    {
+      "id": "geo-monde-14",
+      "theme": "geography",
+      "text": "Nomme une ville de Turquie"
+    },
+    {
+      "id": "geo-monde-15",
+      "theme": "geography",
+      "text": "Nomme une ville de Pologne"
+    },
+    {
       "id": "geo-reliefs-01",
       "theme": "geography",
       "text": "Nomme une île de l'océan Pacifique"
@@ -21634,6 +21709,8251 @@
         },
         {
           "answer": "Sainte-Luce-sur-Loire",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-01": {
+      "promptId": "geo-monde-01",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Euro",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Livre sterling",
+          "tier": "t1",
+          "aliases": [
+            "livre",
+            "GBP"
+          ]
+        },
+        {
+          "answer": "Yen",
+          "tier": "t1",
+          "aliases": [
+            "JPY"
+          ]
+        },
+        {
+          "answer": "Franc suisse",
+          "tier": "t1",
+          "aliases": [
+            "CHF"
+          ]
+        },
+        {
+          "answer": "Yuan",
+          "tier": "t1",
+          "aliases": [
+            "renminbi",
+            "RMB"
+          ]
+        },
+        {
+          "answer": "Rouble",
+          "tier": "t1",
+          "aliases": [
+            "ruble",
+            "rouble russe"
+          ]
+        },
+        {
+          "answer": "Roupie indienne",
+          "tier": "t1",
+          "aliases": [
+            "INR"
+          ]
+        },
+        {
+          "answer": "Dollar",
+          "tier": "t2",
+          "aliases": [
+            "dollar américain",
+            "USD"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Pa'anga",
+          "tier": "t6",
+          "aliases": [
+            "pa'anga tongan"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Dollar canadien",
+          "tier": "t3",
+          "aliases": [
+            "CAD"
+          ]
+        },
+        {
+          "answer": "Dollar australien",
+          "tier": "t3",
+          "aliases": [
+            "AUD"
+          ]
+        },
+        {
+          "answer": "Peso mexicain",
+          "tier": "t3",
+          "aliases": [
+            "peso"
+          ]
+        },
+        {
+          "answer": "Real",
+          "tier": "t3",
+          "aliases": [
+            "real brésilien",
+            "BRL"
+          ]
+        },
+        {
+          "answer": "Won sud-coréen",
+          "tier": "t3",
+          "aliases": [
+            "won"
+          ]
+        },
+        {
+          "answer": "Couronne suédoise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Couronne norvégienne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Couronne danoise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zloty",
+          "tier": "t3",
+          "aliases": [
+            "złoty polonais"
+          ]
+        },
+        {
+          "answer": "Livre turque",
+          "tier": "t3",
+          "aliases": [
+            "lire turque"
+          ]
+        },
+        {
+          "answer": "Dirham marocain",
+          "tier": "t3",
+          "aliases": [
+            "MAD"
+          ]
+        },
+        {
+          "answer": "Rand",
+          "tier": "t3",
+          "aliases": [
+            "rand sud-africain"
+          ]
+        },
+        {
+          "answer": "Dollar néo-zélandais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Franc CFA",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Shekel",
+          "tier": "t3",
+          "aliases": [
+            "nouveau shekel",
+            "shekel israélien"
+          ]
+        },
+        {
+          "answer": "Baht",
+          "tier": "t3",
+          "aliases": [
+            "baht thaïlandais"
+          ]
+        },
+        {
+          "answer": "Livre égyptienne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Naira",
+          "tier": "t3",
+          "aliases": [
+            "naira nigérian"
+          ]
+        },
+        {
+          "answer": "Peso argentin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Peso chilien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Peso colombien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Peso philippin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dinar algérien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dinar tunisien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dinar koweïtien",
+          "tier": "t4",
+          "aliases": [
+            "dinar du Koweït"
+          ]
+        },
+        {
+          "answer": "Dinar irakien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dinar jordanien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dinar bahreïni",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dinar serbe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dinar libyen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dirham des Émirats arabes unis",
+          "tier": "t4",
+          "aliases": [
+            "dirham émirati",
+            "AED"
+          ]
+        },
+        {
+          "answer": "Riyal saoudien",
+          "tier": "t4",
+          "aliases": [
+            "riyal"
+          ]
+        },
+        {
+          "answer": "Riyal qatari",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Riyal omanais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rial iranien",
+          "tier": "t4",
+          "aliases": [
+            "riyal iranien"
+          ]
+        },
+        {
+          "answer": "Rupiah",
+          "tier": "t4",
+          "aliases": [
+            "roupie indonésienne"
+          ]
+        },
+        {
+          "answer": "Ringgit",
+          "tier": "t4",
+          "aliases": [
+            "ringgit malaisien"
+          ]
+        },
+        {
+          "answer": "Dong",
+          "tier": "t4",
+          "aliases": [
+            "dông vietnamien"
+          ]
+        },
+        {
+          "answer": "Dollar de Singapour",
+          "tier": "t4",
+          "aliases": [
+            "dollar singapourien"
+          ]
+        },
+        {
+          "answer": "Dollar de Hong Kong",
+          "tier": "t4",
+          "aliases": [
+            "dollar hongkongais"
+          ]
+        },
+        {
+          "answer": "Nouveau dollar de Taïwan",
+          "tier": "t4",
+          "aliases": [
+            "dollar taïwanais"
+          ]
+        },
+        {
+          "answer": "Forint",
+          "tier": "t4",
+          "aliases": [
+            "forint hongrois"
+          ]
+        },
+        {
+          "answer": "Couronne tchèque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Leu roumain",
+          "tier": "t4",
+          "aliases": [
+            "leu"
+          ]
+        },
+        {
+          "answer": "Lev bulgare",
+          "tier": "t4",
+          "aliases": [
+            "lev"
+          ]
+        },
+        {
+          "answer": "Hryvnia",
+          "tier": "t4",
+          "aliases": [
+            "hryvnia ukrainienne"
+          ]
+        },
+        {
+          "answer": "Shilling kényan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Shilling tanzanien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Shilling ougandais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Birr éthiopien",
+          "tier": "t4",
+          "aliases": [
+            "birr"
+          ]
+        },
+        {
+          "answer": "Cedi",
+          "tier": "t4",
+          "aliases": [
+            "cedi ghanéen"
+          ]
+        },
+        {
+          "answer": "Kwacha zambien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pula",
+          "tier": "t4",
+          "aliases": [
+            "pula botswanais"
+          ]
+        },
+        {
+          "answer": "Livre libanaise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Livre syrienne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Taka bangladais",
+          "tier": "t4",
+          "aliases": [
+            "taka"
+          ]
+        },
+        {
+          "answer": "Roupie pakistanaise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Roupie népalaise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Roupie sri-lankaise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Afghani",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kyat",
+          "tier": "t4",
+          "aliases": [
+            "kyat birman"
+          ]
+        },
+        {
+          "answer": "Riel",
+          "tier": "t4",
+          "aliases": [
+            "riel cambodgien"
+          ]
+        },
+        {
+          "answer": "Kip",
+          "tier": "t4",
+          "aliases": [
+            "kip laotien"
+          ]
+        },
+        {
+          "answer": "Tenge",
+          "tier": "t4",
+          "aliases": [
+            "tenge kazakh"
+          ]
+        },
+        {
+          "answer": "Sum ouzbek",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lari",
+          "tier": "t4",
+          "aliases": [
+            "lari géorgien"
+          ]
+        },
+        {
+          "answer": "Dram arménien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Manat azerbaïdjanais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guarani",
+          "tier": "t4",
+          "aliases": [
+            "guarani paraguayen"
+          ]
+        },
+        {
+          "answer": "Sol péruvien",
+          "tier": "t4",
+          "aliases": [
+            "nuevo sol"
+          ]
+        },
+        {
+          "answer": "Boliviano",
+          "tier": "t4",
+          "aliases": [
+            "boliviano bolivien"
+          ]
+        },
+        {
+          "answer": "Quetzal",
+          "tier": "t4",
+          "aliases": [
+            "quetzal guatémaltèque"
+          ]
+        },
+        {
+          "answer": "Lempira",
+          "tier": "t4",
+          "aliases": [
+            "lempira hondurien"
+          ]
+        },
+        {
+          "answer": "Colón costaricien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gourde",
+          "tier": "t4",
+          "aliases": [
+            "gourde haïtienne"
+          ]
+        },
+        {
+          "answer": "Peso cubain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Peso dominicain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dollar jamaïcain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dollar de Trinité-et-Tobago",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dollar fidjien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Couronne islandaise",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Franc CFP",
+          "tier": "t4",
+          "aliases": [
+            "franc pacifique"
+          ]
+        },
+        {
+          "answer": "Peso uruguayen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tugrik",
+          "tier": "t4",
+          "aliases": [
+            "tögrög mongol"
+          ]
+        },
+        {
+          "answer": "Ariary",
+          "tier": "t5",
+          "aliases": [
+            "ariary malgache"
+          ]
+        },
+        {
+          "answer": "Dalasi",
+          "tier": "t5",
+          "aliases": [
+            "dalasi gambien"
+          ]
+        },
+        {
+          "answer": "Leone",
+          "tier": "t5",
+          "aliases": [
+            "leone sierra-léonais"
+          ]
+        },
+        {
+          "answer": "Dollar libérien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Franc guinéen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Franc rwandais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Franc burundais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Franc congolais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Franc comorien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Franc djiboutien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Nakfa",
+          "tier": "t5",
+          "aliases": [
+            "nakfa érythréen"
+          ]
+        },
+        {
+          "answer": "Ouguiya",
+          "tier": "t5",
+          "aliases": [
+            "ouguiya mauritanien"
+          ]
+        },
+        {
+          "answer": "Metical",
+          "tier": "t5",
+          "aliases": [
+            "metical mozambicain"
+          ]
+        },
+        {
+          "answer": "Kwanza",
+          "tier": "t5",
+          "aliases": [
+            "kwanza angolais"
+          ]
+        },
+        {
+          "answer": "Loti",
+          "tier": "t5",
+          "aliases": [
+            "loti lesothan"
+          ]
+        },
+        {
+          "answer": "Lilangeni",
+          "tier": "t5",
+          "aliases": [
+            "lilangeni swazi"
+          ]
+        },
+        {
+          "answer": "Dollar namibien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Roupie mauricienne",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Roupie seychelloise",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Escudo capverdien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dobra",
+          "tier": "t5",
+          "aliases": [
+            "dobra santoméen"
+          ]
+        },
+        {
+          "answer": "Rufiyaa",
+          "tier": "t5",
+          "aliases": [
+            "rufiyaa maldivienne"
+          ]
+        },
+        {
+          "answer": "Vatu",
+          "tier": "t5",
+          "aliases": [
+            "vatu vanuatais"
+          ]
+        },
+        {
+          "answer": "Tala",
+          "tier": "t5",
+          "aliases": [
+            "tala samoan"
+          ]
+        },
+        {
+          "answer": "Kina",
+          "tier": "t5",
+          "aliases": [
+            "kina papou-néo-guinéen"
+          ]
+        },
+        {
+          "answer": "Córdoba nicaraguayen",
+          "tier": "t5",
+          "aliases": [
+            "córdoba"
+          ]
+        },
+        {
+          "answer": "Balboa",
+          "tier": "t5",
+          "aliases": [
+            "balboa panaméen"
+          ]
+        },
+        {
+          "answer": "Dollar des Caraïbes orientales",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dollar bélizien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dollar bahaméen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dollar barbadien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dollar guyanien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dollar surinamien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dollar de Brunei",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dollar des Îles Salomon",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bolivar vénézuélien",
+          "tier": "t5",
+          "aliases": [
+            "bolívar"
+          ]
+        },
+        {
+          "answer": "Livre sud-soudanaise",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Livre soudanaise",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dinar macédonien",
+          "tier": "t5",
+          "aliases": [
+            "denar macédonien"
+          ]
+        },
+        {
+          "answer": "Lek albanais",
+          "tier": "t5",
+          "aliases": [
+            "lek"
+          ]
+        },
+        {
+          "answer": "Rouble biélorusse",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Leu moldave",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-02": {
+      "promptId": "geo-monde-02",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Espagnol",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Français",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Allemand",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Italien",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Portugais",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Mandarin",
+          "tier": "t1",
+          "aliases": [
+            "chinois",
+            "chinois mandarin"
+          ]
+        },
+        {
+          "answer": "Arabe",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Russe",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Japonais",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Anglais",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Esperanto",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Hindi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Coréen",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Néerlandais",
+          "tier": "t3",
+          "aliases": [
+            "hollandais"
+          ]
+        },
+        {
+          "answer": "Turc",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Polonais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Grec",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Suédois",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hébreu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Persan",
+          "tier": "t3",
+          "aliases": [
+            "farsi"
+          ]
+        },
+        {
+          "answer": "Swahili",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vietnamien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Thaï",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Catalan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bengali",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ukrainien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tchèque",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Norvégien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Danois",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Finnois",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hongrois",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Roumain",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cantonais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Breton",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Basque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Corse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Occitan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gallois",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Irlandais",
+          "tier": "t4",
+          "aliases": [
+            "gaélique irlandais",
+            "gaélique"
+          ]
+        },
+        {
+          "answer": "Gaélique écossais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Islandais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bulgare",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Serbe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Croate",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Slovaque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Slovène",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lituanien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Letton",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Estonien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Albanais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Macédonien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Biélorusse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Géorgien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Arménien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ourdou",
+          "tier": "t4",
+          "aliases": [
+            "urdu"
+          ]
+        },
+        {
+          "answer": "Pendjabi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tamoul",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Télougou",
+          "tier": "t4",
+          "aliases": [
+            "telugu"
+          ]
+        },
+        {
+          "answer": "Marathi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gujarati",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Malais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Indonésien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tagalog",
+          "tier": "t4",
+          "aliases": [
+            "filipino"
+          ]
+        },
+        {
+          "answer": "Birman",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Khmer",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lao",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mongol",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kazakh",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ouzbek",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pachto",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kurde",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Amharique",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Haoussa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Yoruba",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zoulou",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Afrikaans",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wolof",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lingala",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Malgache",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Créole haïtien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Maltais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Luxembourgeois",
+          "tier": "t4",
+          "aliases": [
+            "letzebuergesch"
+          ]
+        },
+        {
+          "answer": "Frison",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Yiddish",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Romani",
+          "tier": "t4",
+          "aliases": [
+            "romanès"
+          ]
+        },
+        {
+          "answer": "Quechua",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guarani",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nahuatl",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Maori",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Aymara",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Inuktitut",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cri",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Navajo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hawaïen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Samoan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tongien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tahitien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Fidjien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bambara",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Peul",
+          "tier": "t5",
+          "aliases": [
+            "fulfulde"
+          ]
+        },
+        {
+          "answer": "Somali",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tigrigna",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Xhosa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sesotho",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Shona",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kinyarwanda",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kirundi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tswana",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cingalais",
+          "tier": "t5",
+          "aliases": [
+            "singhalais"
+          ]
+        },
+        {
+          "answer": "Népalais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tibétain",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ouïghour",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tadjik",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Turkmène",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kirghiz",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Azéri",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Féroïen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Same",
+          "tier": "t5",
+          "aliases": [
+            "lapon"
+          ]
+        },
+        {
+          "answer": "Cornique",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mannois",
+          "tier": "t5",
+          "aliases": [
+            "manx"
+          ]
+        },
+        {
+          "answer": "Romanche",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Judéo-espagnol",
+          "tier": "t5",
+          "aliases": [
+            "ladino"
+          ]
+        },
+        {
+          "answer": "Sarde",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Frioulan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Alsacien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tchétchène",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kannada",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Malayalam",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Oriya",
+          "tier": "t5",
+          "aliases": [
+            "odia"
+          ]
+        },
+        {
+          "answer": "Assamais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sindhi",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cachemiri",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Wu",
+          "tier": "t5",
+          "aliases": [
+            "shanghaïen"
+          ]
+        },
+        {
+          "answer": "Hakka",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hmong",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Javanais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Soundanais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cebuano",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bichelamar",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sango",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kikongo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Akan",
+          "tier": "t5",
+          "aliases": [
+            "twi"
+          ]
+        },
+        {
+          "answer": "Igbo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Oromo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tamazight",
+          "tier": "t5",
+          "aliases": [
+            "berbère"
+          ]
+        },
+        {
+          "answer": "Kabyle",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tchouvache",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tatar",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bachkir",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ossète",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Abkhaze",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kalmouk",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Yakoute",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hokkien",
+          "tier": "t5",
+          "aliases": [
+            "minnan"
+          ]
+        }
+      ]
+    },
+    "geo-monde-03": {
+      "promptId": "geo-monde-03",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Texas",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Floride",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "New York",
+          "tier": "t1",
+          "aliases": [
+            "État de New York"
+          ]
+        },
+        {
+          "answer": "Hawaï",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Alaska",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Nevada",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Louisiane",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Géorgie",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Arizona",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Californie",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Rhode Island",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Illinois",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Michigan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ohio",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pennsylvanie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Massachusetts",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Colorado",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Utah",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Oregon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Virginie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Caroline du Nord",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Caroline du Sud",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tennessee",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kentucky",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alabama",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mississippi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Missouri",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Washington",
+          "tier": "t3",
+          "aliases": [
+            "État de Washington"
+          ]
+        },
+        {
+          "answer": "Nouveau-Mexique",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Indiana",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Wisconsin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Minnesota",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "New Jersey",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Oklahoma",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Montana",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Maine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Idaho",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Connecticut",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kansas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nebraska",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Iowa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dakota du Nord",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dakota du Sud",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wyoming",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Arkansas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Virginie-Occidentale",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Maryland",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Delaware",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "New Hampshire",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Vermont",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Washington D.C.",
+          "tier": "t4",
+          "aliases": [
+            "district de Columbia",
+            "Washington DC"
+          ]
+        },
+        {
+          "answer": "Porto Rico",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Guam",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Samoa américaines",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Îles Vierges américaines",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Îles Mariannes du Nord",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-04": {
+      "promptId": "geo-monde-04",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Los Angeles",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Chicago",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Miami",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Las Vegas",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "San Francisco",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Washington D.C.",
+          "tier": "t1",
+          "aliases": [
+            "Washington",
+            "Washington DC"
+          ]
+        },
+        {
+          "answer": "Boston",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Houston",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "La Nouvelle-Orléans",
+          "tier": "t1",
+          "aliases": [
+            "New Orleans"
+          ]
+        },
+        {
+          "answer": "New York",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Roswell",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Philadelphie",
+          "tier": "t3",
+          "aliases": [
+            "Philadelphia"
+          ]
+        },
+        {
+          "answer": "Dallas",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "San Diego",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Seattle",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Atlanta",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Denver",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Detroit",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Phoenix",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Orlando",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Austin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "San Antonio",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Portland",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Honolulu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Baltimore",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Minneapolis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Louis",
+          "tier": "t3",
+          "aliases": [
+            "St. Louis",
+            "Saint Louis"
+          ]
+        },
+        {
+          "answer": "Pittsburgh",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cleveland",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nashville",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Memphis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Salt Lake City",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "San José",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Oakland",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sacramento",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tampa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Charlotte",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kansas City",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Indianapolis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Columbus",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cincinnati",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Milwaukee",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Albuquerque",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tucson",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jacksonville",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fort Worth",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "El Paso",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Oklahoma City",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Louisville",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Raleigh",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Richmond",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Buffalo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Santa Fe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Boise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Omaha",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hollywood",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Beverly Hills",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Anchorage",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Juneau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fairbanks",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Savannah",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Charleston",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Santa Barbara",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Santa Monica",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Palo Alto",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pasadena",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Long Beach",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Anaheim",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fresno",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Reno",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tulsa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Little Rock",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Baton Rouge",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Birmingham",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mobile",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Montgomery",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Atlantic City",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Newark",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Providence",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hartford",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "New Haven",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Albany",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rochester",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Syracuse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cambridge",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Salem",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Burlington",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Madison",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Des Moines",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lincoln",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wichita",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Topeka",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lexington",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jackson",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Knoxville",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chattanooga",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Greensboro",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Durham",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Norfolk",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Virginia Beach",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Annapolis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dover",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cheyenne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Billings",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Spokane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tacoma",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bismarck",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pierre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sioux Falls",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fargo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Colorado Springs",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Aspen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Boulder",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Scottsdale",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tempe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Key West",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Palm Beach",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tallahassee",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fort Lauderdale",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Corpus Christi",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Galveston",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dearborn",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ann Arbor",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Akron",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Toledo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dayton",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Malibu",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Napa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sedona",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Flagstaff",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tombstone",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Deadwood",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Plymouth",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Concord",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Montpelier",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Augusta",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Olympia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Carson City",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Helena",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Santa Cruz",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lancaster",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gettysburg",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cooperstown",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Palm Springs",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Santa Rosa",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Eugene",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bellevue",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Everett",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-05": {
+      "promptId": "geo-monde-05",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Japon",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Inde",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Thaïlande",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Vietnam",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Corée du Sud",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Indonésie",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Philippines",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Malaisie",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Singapour",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Chine",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Bhoutan",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Corée du Nord",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pakistan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bangladesh",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sri Lanka",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Népal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cambodge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Laos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Birmanie",
+          "tier": "t3",
+          "aliases": [
+            "Myanmar"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Irak",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Syrie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Liban",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Israël",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jordanie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Arabie saoudite",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Émirats arabes unis",
+          "tier": "t3",
+          "aliases": [
+            "EAU"
+          ]
+        },
+        {
+          "answer": "Turquie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Afghanistan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kazakhstan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mongolie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Taïwan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Qatar",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Koweït",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Yémen",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Oman",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Brunei",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Timor oriental",
+          "tier": "t4",
+          "aliases": [
+            "Timor-Leste"
+          ]
+        },
+        {
+          "answer": "Maldives",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bahreïn",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Géorgie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Arménie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Azerbaïdjan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ouzbékistan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Turkménistan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kirghizistan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tadjikistan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chypre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Palestine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hong Kong",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Macao",
+          "tier": "t4",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-06": {
+      "promptId": "geo-monde-06",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Allemand",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Italien",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Espagnol",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Anglais",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Américain",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Belge",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Suisse",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Portugais",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Canadien",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Japonais",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Français",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Andorran",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Chinois",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Russe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Brésilien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mexicain",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Argentin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Australien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Marocain",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Algérien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tunisien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sénégalais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Irlandais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Néerlandais",
+          "tier": "t3",
+          "aliases": [
+            "Hollandais"
+          ]
+        },
+        {
+          "answer": "Suédois",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Norvégien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Danois",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Finlandais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Polonais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Grec",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Turc",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Égyptien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Indien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Coréen",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vietnamien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Thaïlandais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Autrichien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Israélien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Libanais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cubain",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Colombien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chilien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Péruvien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vénézuélien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sud-Africain",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nigérian",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ivoirien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Camerounais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Congolais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Haïtien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hongrois",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tchèque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Slovaque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Roumain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bulgare",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Serbe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Croate",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Slovène",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bosniaque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ukrainien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Biélorusse",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lituanien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Letton",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Estonien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Islandais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Luxembourgeois",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Maltais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chypriote",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Albanais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Macédonien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Monégasque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Iranien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Irakien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Syrien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Saoudien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jordanien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Afghan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pakistanais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bangladais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sri-Lankais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Népalais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Indonésien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Philippin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Malaisien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Singapourien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cambodgien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Birman",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mongol",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kazakh",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ouzbek",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Géorgien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Arménien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Azerbaïdjanais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Néo-Zélandais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Équatorien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bolivien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Uruguayen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Paraguayen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Costaricien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Panaméen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guatémaltèque",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dominicain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jamaïcain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Éthiopien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kényan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tanzanien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ougandais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ghanéen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Malien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Burkinabé",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guinéen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nigérien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tchadien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gabonais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Malgache",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mozambicain",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zimbabwéen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Angolais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Libyen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Soudanais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Somalien",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rwandais",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bhoutanais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Maldivien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Brunéien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Timorais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Laotien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Turkmène",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kirghize",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tadjik",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Fidjien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Samoan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tongien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Burundais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Érythréen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Djiboutien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mauritanien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Béninois",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Togolais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sierra-Léonais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Libérien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gambien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Namibien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Botswanais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Zambien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Nicaraguayen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hondurien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Salvadorien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bélizien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Surinamien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bahaméen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Barbadien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Liechtensteinois",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Marinais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Moldave",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kosovar",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Monténégrin",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Yéménite",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Omanais",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Qatari",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Koweïtien",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bahreïni",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Émirati",
+          "tier": "t5",
+          "aliases": [
+            "émirien"
+          ]
+        }
+      ]
+    },
+    "geo-monde-07": {
+      "promptId": "geo-monde-07",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "OTAN",
+          "tier": "t1",
+          "aliases": [
+            "NATO",
+            "Organisation du traité de l'Atlantique nord"
+          ]
+        },
+        {
+          "answer": "Union européenne",
+          "tier": "t1",
+          "aliases": [
+            "UE"
+          ]
+        },
+        {
+          "answer": "UNESCO",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "OMS",
+          "tier": "t1",
+          "aliases": [
+            "Organisation mondiale de la santé"
+          ]
+        },
+        {
+          "answer": "FMI",
+          "tier": "t1",
+          "aliases": [
+            "Fonds monétaire international"
+          ]
+        },
+        {
+          "answer": "Banque mondiale",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "OMC",
+          "tier": "t1",
+          "aliases": [
+            "Organisation mondiale du commerce"
+          ]
+        },
+        {
+          "answer": "UNICEF",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "OPEP",
+          "tier": "t1",
+          "aliases": [
+            "OPEC"
+          ]
+        },
+        {
+          "answer": "ONU",
+          "tier": "t2",
+          "aliases": [
+            "Organisation des Nations unies",
+            "Nations unies"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "CERN",
+          "tier": "t6",
+          "aliases": [
+            "Organisation européenne pour la recherche nucléaire"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Croix-Rouge",
+          "tier": "t3",
+          "aliases": [
+            "Comité international de la Croix-Rouge",
+            "CICR"
+          ]
+        },
+        {
+          "answer": "G7",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "G20",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Union africaine",
+          "tier": "t3",
+          "aliases": [
+            "UA"
+          ]
+        },
+        {
+          "answer": "Ligue arabe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ASEAN",
+          "tier": "t3",
+          "aliases": [
+            "ANASE",
+            "Association des nations de l'Asie du Sud-Est"
+          ]
+        },
+        {
+          "answer": "FAO",
+          "tier": "t3",
+          "aliases": [
+            "Organisation des Nations unies pour l'alimentation et l'agriculture"
+          ]
+        },
+        {
+          "answer": "OIT",
+          "tier": "t3",
+          "aliases": [
+            "Organisation internationale du travail"
+          ]
+        },
+        {
+          "answer": "AIEA",
+          "tier": "t3",
+          "aliases": [
+            "Agence internationale de l'énergie atomique"
+          ]
+        },
+        {
+          "answer": "OCDE",
+          "tier": "t3",
+          "aliases": [
+            "Organisation de coopération et de développement économiques"
+          ]
+        },
+        {
+          "answer": "Interpol",
+          "tier": "t3",
+          "aliases": [
+            "OIPC"
+          ]
+        },
+        {
+          "answer": "CIO",
+          "tier": "t3",
+          "aliases": [
+            "Comité international olympique"
+          ]
+        },
+        {
+          "answer": "FIFA",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Conseil de l'Europe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Médecins sans frontières",
+          "tier": "t3",
+          "aliases": [
+            "MSF"
+          ]
+        },
+        {
+          "answer": "Amnesty International",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Greenpeace",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "WWF",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Commonwealth",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "OSCE",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "OEA",
+          "tier": "t4",
+          "aliases": [
+            "Organisation des États américains"
+          ]
+        },
+        {
+          "answer": "Mercosur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ALENA",
+          "tier": "t4",
+          "aliases": [
+            "NAFTA"
+          ]
+        },
+        {
+          "answer": "CEDEAO",
+          "tier": "t4",
+          "aliases": [
+            "ECOWAS"
+          ]
+        },
+        {
+          "answer": "SADC",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Francophonie",
+          "tier": "t4",
+          "aliases": [
+            "OIF",
+            "Organisation internationale de la Francophonie"
+          ]
+        },
+        {
+          "answer": "OCI",
+          "tier": "t4",
+          "aliases": [
+            "Organisation de la coopération islamique"
+          ]
+        },
+        {
+          "answer": "CCG",
+          "tier": "t4",
+          "aliases": [
+            "Conseil de coopération du Golfe"
+          ]
+        },
+        {
+          "answer": "BRICS",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "APEC",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "CIJ",
+          "tier": "t4",
+          "aliases": [
+            "Cour internationale de justice"
+          ]
+        },
+        {
+          "answer": "CPI",
+          "tier": "t4",
+          "aliases": [
+            "Cour pénale internationale"
+          ]
+        },
+        {
+          "answer": "OMPI",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "OACI",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "UIT",
+          "tier": "t4",
+          "aliases": [
+            "Union internationale des télécommunications"
+          ]
+        },
+        {
+          "answer": "UPU",
+          "tier": "t4",
+          "aliases": [
+            "Union postale universelle"
+          ]
+        },
+        {
+          "answer": "OMM",
+          "tier": "t4",
+          "aliases": [
+            "Organisation météorologique mondiale"
+          ]
+        },
+        {
+          "answer": "OMT",
+          "tier": "t4",
+          "aliases": [
+            "Organisation mondiale du tourisme"
+          ]
+        },
+        {
+          "answer": "HCR",
+          "tier": "t4",
+          "aliases": [
+            "Haut-Commissariat des Nations unies pour les réfugiés"
+          ]
+        },
+        {
+          "answer": "PAM",
+          "tier": "t4",
+          "aliases": [
+            "Programme alimentaire mondial"
+          ]
+        },
+        {
+          "answer": "PNUD",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "PNUE",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "BCE",
+          "tier": "t4",
+          "aliases": [
+            "Banque centrale européenne"
+          ]
+        },
+        {
+          "answer": "BERD",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "BAD",
+          "tier": "t4",
+          "aliases": [
+            "Banque africaine de développement"
+          ]
+        },
+        {
+          "answer": "Banque asiatique de développement",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "BRI",
+          "tier": "t4",
+          "aliases": [
+            "Banque des règlements internationaux"
+          ]
+        },
+        {
+          "answer": "AELE",
+          "tier": "t4",
+          "aliases": [
+            "Association européenne de libre-échange"
+          ]
+        },
+        {
+          "answer": "Benelux",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Union du Maghreb arabe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "CARICOM",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "OCS",
+          "tier": "t4",
+          "aliases": [
+            "Organisation de coopération de Shanghai"
+          ]
+        },
+        {
+          "answer": "CEI",
+          "tier": "t4",
+          "aliases": [
+            "Communauté des États indépendants"
+          ]
+        },
+        {
+          "answer": "UEMOA",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "CEMAC",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Oxfam",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Human Rights Watch",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Reporters sans frontières",
+          "tier": "t4",
+          "aliases": [
+            "RSF"
+          ]
+        },
+        {
+          "answer": "UEFA",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "ESA",
+          "tier": "t4",
+          "aliases": [
+            "Agence spatiale européenne"
+          ]
+        },
+        {
+          "answer": "UNASUR",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Communauté andine",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "OIM",
+          "tier": "t5",
+          "aliases": [
+            "Organisation internationale pour les migrations"
+          ]
+        },
+        {
+          "answer": "ONUSIDA",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "FIDA",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "ONUDI",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "UNRWA",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "UIP",
+          "tier": "t5",
+          "aliases": [
+            "Union interparlementaire"
+          ]
+        },
+        {
+          "answer": "OIAC",
+          "tier": "t5",
+          "aliases": [
+            "Organisation pour l'interdiction des armes chimiques"
+          ]
+        },
+        {
+          "answer": "UICN",
+          "tier": "t5",
+          "aliases": [
+            "Union internationale pour la conservation de la nature"
+          ]
+        },
+        {
+          "answer": "Europol",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Eurojust",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Frontex",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Union économique eurasiatique",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Commission baleinière internationale",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Organisation hydrographique internationale",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "FIBA",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Organisation mondiale des douanes",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-08": {
+      "promptId": "geo-monde-08",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Apaches",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Cherokees",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Navajos",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Cheyennes",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Comanches",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Iroquois",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Hurons",
+          "tier": "t1",
+          "aliases": [
+            "Wendat"
+          ]
+        },
+        {
+          "answer": "Inuits",
+          "tier": "t1",
+          "aliases": [
+            "Inuit",
+            "Esquimaux"
+          ]
+        },
+        {
+          "answer": "Mohawks",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Sioux",
+          "tier": "t2",
+          "aliases": [
+            "Lakota",
+            "Dakota"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Beothuks",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Algonquins",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cris",
+          "tier": "t3",
+          "aliases": [
+            "Cree"
+          ]
+        },
+        {
+          "answer": "Pieds-Noirs",
+          "tier": "t3",
+          "aliases": [
+            "Blackfoot"
+          ]
+        },
+        {
+          "answer": "Mohicans",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Séminoles",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Crows",
+          "tier": "t3",
+          "aliases": [
+            "Corbeaux"
+          ]
+        },
+        {
+          "answer": "Ojibwés",
+          "tier": "t3",
+          "aliases": [
+            "Chippewas",
+            "Ojibwa",
+            "Anishinaabe"
+          ]
+        },
+        {
+          "answer": "Shoshones",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hopis",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pawnees",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pueblos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nez-Percés",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mi'kmaq",
+          "tier": "t3",
+          "aliases": [
+            "Micmacs"
+          ]
+        },
+        {
+          "answer": "Innus",
+          "tier": "t3",
+          "aliases": [
+            "Montagnais"
+          ]
+        },
+        {
+          "answer": "Choctaws",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chickasaws",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Creeks",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Oneidas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Onondagas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cayugas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Senecas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tuscaroras",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kiowas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Arapahos",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mandans",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Osages",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Omahas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Utes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Paiutes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chinooks",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Haïdas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tlingits",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Shawnees",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Delawares",
+          "tier": "t4",
+          "aliases": [
+            "Lenapes"
+          ]
+        },
+        {
+          "answer": "Miamis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wampanoags",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Abénaquis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Malécites",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Métis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dénés",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Aléoutes",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Yupiks",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pimas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zunis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Yakamas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ottawas",
+          "tier": "t4",
+          "aliases": [
+            "Outaouais"
+          ]
+        },
+        {
+          "answer": "Potawatomis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Winnebagos",
+          "tier": "t4",
+          "aliases": [
+            "Ho-Chunk"
+          ]
+        },
+        {
+          "answer": "Menominees",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sauks",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Renards",
+          "tier": "t4",
+          "aliases": [
+            "Meskwakis"
+          ]
+        },
+        {
+          "answer": "Natchez",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Catawbas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Powhatans",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nootkas",
+          "tier": "t5",
+          "aliases": [
+            "Nuu-chah-nulth"
+          ]
+        },
+        {
+          "answer": "Kwakiutl",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Salish",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gwich'in",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Inuvialuits",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Assiniboines",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gros-Ventres",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lumbees",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pomos",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Miwoks",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ohlones",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Chumash",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Yuroks",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Klamaths",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Modocs",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tohono O'odham",
+          "tier": "t5",
+          "aliases": [
+            "Papagos"
+          ]
+        },
+        {
+          "answer": "Kickapoos",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Naskapis",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Susquehannocks",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Hidatsas",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Arikaras",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Wichitas",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Makahs",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mohaves",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Quapaws",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Narragansetts",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pequots",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Piegans",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sarcis",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-09": {
+      "promptId": "geo-monde-09",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Tokyo",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Séoul",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Bangkok",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "New Delhi",
+          "tier": "t1",
+          "aliases": [
+            "Delhi"
+          ]
+        },
+        {
+          "answer": "Hanoï",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Jakarta",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Manille",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Téhéran",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Bagdad",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Damas",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Pékin",
+          "tier": "t2",
+          "aliases": [
+            "Beijing"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Naypyidaw",
+          "tier": "t6",
+          "aliases": [
+            "Nay Pyi Taw"
+          ],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Kuala Lumpur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Singapour",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Islamabad",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dacca",
+          "tier": "t3",
+          "aliases": [
+            "Dhaka"
+          ]
+        },
+        {
+          "answer": "Katmandou",
+          "tier": "t3",
+          "aliases": [
+            "Kathmandu"
+          ]
+        },
+        {
+          "answer": "Kaboul",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Beyrouth",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Jérusalem",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Amman",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Riyad",
+          "tier": "t3",
+          "aliases": [
+            "Riyadh"
+          ]
+        },
+        {
+          "answer": "Ankara",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pyongyang",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Taipei",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Phnom Penh",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vientiane",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Doha",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Abou Dhabi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Oulan-Bator",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tachkent",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bakou",
+          "tier": "t3",
+          "aliases": [
+            "Baku"
+          ]
+        },
+        {
+          "answer": "Tbilissi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Erevan",
+          "tier": "t3",
+          "aliases": [
+            "Yerevan"
+          ]
+        },
+        {
+          "answer": "Colombo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Thimphou",
+          "tier": "t4",
+          "aliases": [
+            "Thimphu"
+          ]
+        },
+        {
+          "answer": "Malé",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sanaa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mascate",
+          "tier": "t4",
+          "aliases": [
+            "Muscat"
+          ]
+        },
+        {
+          "answer": "Koweït",
+          "tier": "t4",
+          "aliases": [
+            "Koweït City"
+          ]
+        },
+        {
+          "answer": "Manama",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Astana",
+          "tier": "t4",
+          "aliases": [
+            "Noursoultan"
+          ]
+        },
+        {
+          "answer": "Achgabat",
+          "tier": "t4",
+          "aliases": [
+            "Ashgabat"
+          ]
+        },
+        {
+          "answer": "Bichkek",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Douchanbé",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nicosie",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bandar Seri Begawan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dili",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Putrajaya",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sri Jayawardenepura Kotte",
+          "tier": "t5",
+          "aliases": [
+            "Kotte"
+          ]
+        }
+      ]
+    },
+    "geo-monde-10": {
+      "promptId": "geo-monde-10",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Anvers",
+          "tier": "t1",
+          "aliases": [
+            "Antwerpen"
+          ]
+        },
+        {
+          "answer": "Liège",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Gand",
+          "tier": "t1",
+          "aliases": [
+            "Gent"
+          ]
+        },
+        {
+          "answer": "Bruges",
+          "tier": "t1",
+          "aliases": [
+            "Brugge"
+          ]
+        },
+        {
+          "answer": "Charleroi",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Namur",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Bruxelles",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Mol",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Louvain",
+          "tier": "t3",
+          "aliases": [
+            "Leuven"
+          ]
+        },
+        {
+          "answer": "Mons",
+          "tier": "t3",
+          "aliases": [
+            "Bergen"
+          ]
+        },
+        {
+          "answer": "Ostende",
+          "tier": "t3",
+          "aliases": [
+            "Oostende"
+          ]
+        },
+        {
+          "answer": "Tournai",
+          "tier": "t3",
+          "aliases": [
+            "Doornik"
+          ]
+        },
+        {
+          "answer": "Malines",
+          "tier": "t3",
+          "aliases": [
+            "Mechelen"
+          ]
+        },
+        {
+          "answer": "Waterloo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dinant",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Spa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Wavre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Arlon",
+          "tier": "t3",
+          "aliases": [
+            "Aarlen"
+          ]
+        },
+        {
+          "answer": "Hasselt",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Courtrai",
+          "tier": "t3",
+          "aliases": [
+            "Kortrijk"
+          ]
+        },
+        {
+          "answer": "Verviers",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bastogne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ypres",
+          "tier": "t3",
+          "aliases": [
+            "Ieper"
+          ]
+        },
+        {
+          "answer": "La Louvière",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Louvain-la-Neuve",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ottignies",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nivelles",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Huy",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Seraing",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Genk",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mouscron",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Eupen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Knokke",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Blankenberge",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "La Panne",
+          "tier": "t4",
+          "aliases": [
+            "De Panne"
+          ]
+        },
+        {
+          "answer": "Zeebrugge",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Alost",
+          "tier": "t4",
+          "aliases": [
+            "Aalst"
+          ]
+        },
+        {
+          "answer": "Termonde",
+          "tier": "t4",
+          "aliases": [
+            "Dendermonde"
+          ]
+        },
+        {
+          "answer": "Turnhout",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lierre",
+          "tier": "t4",
+          "aliases": [
+            "Lier"
+          ]
+        },
+        {
+          "answer": "Roulers",
+          "tier": "t4",
+          "aliases": [
+            "Roeselare"
+          ]
+        },
+        {
+          "answer": "Saint-Nicolas",
+          "tier": "t4",
+          "aliases": [
+            "Sint-Niklaas"
+          ]
+        },
+        {
+          "answer": "Tongres",
+          "tier": "t4",
+          "aliases": [
+            "Tongeren"
+          ]
+        },
+        {
+          "answer": "Binche",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chimay",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ath",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Herstal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bouillon",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Durbuy",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Vilvoorde",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Trond",
+          "tier": "t4",
+          "aliases": [
+            "Sint-Truiden"
+          ]
+        },
+        {
+          "answer": "Diest",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Marche-en-Famenne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Stavelot",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Malmedy",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tubize",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Soignies",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Braine-l'Alleud",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Genappe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hal",
+          "tier": "t4",
+          "aliases": [
+            "Halle"
+          ]
+        },
+        {
+          "answer": "Ixelles",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Schaerbeek",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Anderlecht",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Uccle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Molenbeek-Saint-Jean",
+          "tier": "t4",
+          "aliases": [
+            "Molenbeek"
+          ]
+        },
+        {
+          "answer": "Saint-Gilles",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Etterbeek",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Laeken",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Visé",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gembloux",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Couvin",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tervuren",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Zaventem",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lommel",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Geel",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Aarschot",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tirlemont",
+          "tier": "t5",
+          "aliases": [
+            "Tienen"
+          ]
+        },
+        {
+          "answer": "Ninove",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Audenarde",
+          "tier": "t5",
+          "aliases": [
+            "Oudenaarde"
+          ]
+        },
+        {
+          "answer": "Menin",
+          "tier": "t5",
+          "aliases": [
+            "Menen"
+          ]
+        },
+        {
+          "answer": "Poperinge",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Nieuport",
+          "tier": "t5",
+          "aliases": [
+            "Nieuwpoort"
+          ]
+        },
+        {
+          "answer": "Furnes",
+          "tier": "t5",
+          "aliases": [
+            "Veurne"
+          ]
+        },
+        {
+          "answer": "Dixmude",
+          "tier": "t5",
+          "aliases": [
+            "Diksmuide"
+          ]
+        },
+        {
+          "answer": "Rochefort",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "La Roche-en-Ardenne",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Houffalize",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Vielsalm",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Libramont",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Neufchâteau",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Florenville",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-11": {
+      "promptId": "geo-monde-11",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Zurich",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Berne",
+          "tier": "t1",
+          "aliases": [
+            "Bern"
+          ]
+        },
+        {
+          "answer": "Lausanne",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Bâle",
+          "tier": "t1",
+          "aliases": [
+            "Basel"
+          ]
+        },
+        {
+          "answer": "Lucerne",
+          "tier": "t1",
+          "aliases": [
+            "Luzern"
+          ]
+        },
+        {
+          "answer": "Lugano",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Neuchâtel",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Fribourg",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Sion",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Genève",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Gruyères",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Saint-Gall",
+          "tier": "t3",
+          "aliases": [
+            "St. Gallen"
+          ]
+        },
+        {
+          "answer": "Winterthour",
+          "tier": "t3",
+          "aliases": [
+            "Winterthur"
+          ]
+        },
+        {
+          "answer": "Montreux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vevey",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zoug",
+          "tier": "t3",
+          "aliases": [
+            "Zug"
+          ]
+        },
+        {
+          "answer": "Coire",
+          "tier": "t3",
+          "aliases": [
+            "Chur"
+          ]
+        },
+        {
+          "answer": "Bienne",
+          "tier": "t3",
+          "aliases": [
+            "Biel"
+          ]
+        },
+        {
+          "answer": "Soleure",
+          "tier": "t3",
+          "aliases": [
+            "Solothurn"
+          ]
+        },
+        {
+          "answer": "Thoune",
+          "tier": "t3",
+          "aliases": [
+            "Thun"
+          ]
+        },
+        {
+          "answer": "Interlaken",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zermatt",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Davos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Saint-Moritz",
+          "tier": "t3",
+          "aliases": [
+            "St. Moritz"
+          ]
+        },
+        {
+          "answer": "Locarno",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bellinzone",
+          "tier": "t3",
+          "aliases": [
+            "Bellinzona"
+          ]
+        },
+        {
+          "answer": "Yverdon-les-Bains",
+          "tier": "t3",
+          "aliases": [
+            "Yverdon"
+          ]
+        },
+        {
+          "answer": "Nyon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Morges",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "La Chaux-de-Fonds",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Schaffhouse",
+          "tier": "t3",
+          "aliases": [
+            "Schaffhausen"
+          ]
+        },
+        {
+          "answer": "Aarau",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Martigny",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Gstaad",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Verbier",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Delémont",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Porrentruy",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Le Locle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bulle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Morat",
+          "tier": "t4",
+          "aliases": [
+            "Murten"
+          ]
+        },
+        {
+          "answer": "Estavayer-le-Lac",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Payerne",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Vallorbe",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Aigle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Monthey",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sierre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Brigue",
+          "tier": "t4",
+          "aliases": [
+            "Brig"
+          ]
+        },
+        {
+          "answer": "Viège",
+          "tier": "t4",
+          "aliases": [
+            "Visp"
+          ]
+        },
+        {
+          "answer": "Crans-Montana",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Leysin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Meiringen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lauterbrunnen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grindelwald",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wengen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mürren",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kandersteg",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Adelboden",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wil",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Frauenfeld",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Glaris",
+          "tier": "t4",
+          "aliases": [
+            "Glarus"
+          ]
+        },
+        {
+          "answer": "Altdorf",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Schwytz",
+          "tier": "t4",
+          "aliases": [
+            "Schwyz"
+          ]
+        },
+        {
+          "answer": "Stans",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sarnen",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Liestal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Herisau",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Appenzell",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Baden",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Olten",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zofingue",
+          "tier": "t4",
+          "aliases": [
+            "Zofingen"
+          ]
+        },
+        {
+          "answer": "Langenthal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Berthoud",
+          "tier": "t4",
+          "aliases": [
+            "Burgdorf"
+          ]
+        },
+        {
+          "answer": "Köniz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kloten",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Uster",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dübendorf",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rapperswil",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Einsiedeln",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Arosa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Klosters",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pontresina",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ascona",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mendrisio",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chiasso",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rolle",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Coppet",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Carouge",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Vernier",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lancy",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wettingen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Emmen",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Loèche",
+          "tier": "t5",
+          "aliases": [
+            "Leuk"
+          ]
+        },
+        {
+          "answer": "Saas-Fee",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Andermatt",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Engelberg",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Flims",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Laax",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lenzerheide",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Samedan",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Scuol",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bad Ragaz",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Nendaz",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Champéry",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Les Diablerets",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Château-d'Œx",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Romont",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Avenches",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Grandson",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Orbe",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cossonay",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Lutry",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Cully",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-12": {
+      "promptId": "geo-monde-12",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Marrakech",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Rabat",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Fès",
+          "tier": "t1",
+          "aliases": [
+            "Fez"
+          ]
+        },
+        {
+          "answer": "Tanger",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Agadir",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Meknès",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Casablanca",
+          "tier": "t2",
+          "aliases": [],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Ifrane",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Essaouira",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Oujda",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tétouan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ouarzazate",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chefchaouen",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kénitra",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Salé",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "El Jadida",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Safi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nador",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Laâyoune",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dakhla",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mohammédia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Béni Mellal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Al Hoceïma",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Larache",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Taza",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Khouribga",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Settat",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Errachidia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Asilah",
+          "tier": "t3",
+          "aliases": [
+            "Assilah"
+          ]
+        },
+        {
+          "answer": "Taroudant",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tiznit",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guelmim",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Merzouga",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Azrou",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Berkane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Khémisset",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Taourirt",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Témara",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sidi Slimane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sidi Kacem",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ksar el-Kébir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fnideq",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "M'diq",
+          "tier": "t4",
+          "aliases": [
+            "Mdiq"
+          ]
+        },
+        {
+          "answer": "Martil",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ouazzane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Midelt",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zagora",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tinghir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Imlil",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Oualidia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Skhirat",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Berrechid",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Azemmour",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Youssoufia",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Khénifra",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sefrou",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Moulay Idriss",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ben Guerir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Taghazout",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sidi Ifni",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tan-Tan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Smara",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Boujdour",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Figuig",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guercif",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Oued Zem",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fquih Ben Salah",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kelaat Sraghna",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sidi Bennour",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Boumalne Dadès",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Missour",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Aït Benhaddou",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Rissani",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kasba Tadla",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Taounate",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Chichaoua",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Demnate",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Imouzzer",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Tafraoute",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Sidi Bouzid",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Mehdia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bouznika",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Dar Bouazza",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Nouaceur",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-13": {
+      "promptId": "geo-monde-13",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Porto",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Faro",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Coimbra",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Braga",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Funchal",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Sintra",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Albufeira",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Lisbonne",
+          "tier": "t2",
+          "aliases": [
+            "Lisboa"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Sagres",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Cascais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Évora",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Aveiro",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Guimarães",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fátima",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lagos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Setúbal",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Viseu",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ponta Delgada",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Óbidos",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nazaré",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tomar",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Portimão",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tavira",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Estoril",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Leiria",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vila Nova de Gaia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Amadora",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Almada",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Viana do Castelo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bragança",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vilamoura",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Loulé",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Santarém",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Beja",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Portalegre",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Castelo Branco",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Guarda",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Vila Real",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chaves",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Barcelos",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Peniche",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Matosinhos",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Olhão",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Elvas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mafra",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Amarante",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lamego",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Póvoa de Varzim",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Espinho",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Angra do Heroísmo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Horta",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Monsaraz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Marvão",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Castelo de Vide",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Silves",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lagoa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Monchique",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sines",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Alcobaça",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Batalha",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ericeira",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Queluz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Oeiras",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Odivelas",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Seixal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Barreiro",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Moita",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Montijo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Covilhã",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Fundão",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pombal",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Figueira da Foz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Caldas da Rainha",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Torres Vedras",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mirandela",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Peso da Régua",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pinhão",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ponte de Lima",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Valença",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Monção",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Caminha",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Câmara de Lobos",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Machico",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Santana",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Porto Santo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ribeira Grande",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Vila Franca do Campo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ílhavo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Vizela",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Fafe",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Famalicão",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Paredes",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Gondomar",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Maia",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Valongo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Santa Maria da Feira",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ovar",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-14": {
+      "promptId": "geo-monde-14",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Ankara",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Izmir",
+          "tier": "t1",
+          "aliases": [
+            "Smyrne"
+          ]
+        },
+        {
+          "answer": "Antalya",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Bodrum",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Marmaris",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Bursa",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Konya",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Adana",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Istanbul",
+          "tier": "t2",
+          "aliases": [
+            "Constantinople"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Kaş",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Gaziantep",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kayseri",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mersin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Trabzon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fethiye",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Alanya",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kuşadası",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Çanakkale",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Edirne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Eskişehir",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Diyarbakır",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Samsun",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Van",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Erzurum",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Malatya",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sivas",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Denizli",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Antioche",
+          "tier": "t3",
+          "aliases": [
+            "Antakya",
+            "Hatay"
+          ]
+        },
+        {
+          "answer": "Şanlıurfa",
+          "tier": "t3",
+          "aliases": [
+            "Urfa"
+          ]
+        },
+        {
+          "answer": "Mardin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kahramanmaraş",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Manisa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Balıkesir",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Izmit",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Adapazarı",
+          "tier": "t3",
+          "aliases": [
+            "Sakarya"
+          ]
+        },
+        {
+          "answer": "Göreme",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ürgüp",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nevşehir",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Side",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dalyan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Çeşme",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ayvalık",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Aydın",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Muğla",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Afyonkarahisar",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kütahya",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tokat",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Amasya",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ordu",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Giresun",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rize",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sinop",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zonguldak",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bolu",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Çorum",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Yalova",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Selçuk",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bergama",
+          "tier": "t4",
+          "aliases": [
+            "Pergame"
+          ]
+        },
+        {
+          "answer": "Iskenderun",
+          "tier": "t4",
+          "aliases": [
+            "Alexandrette"
+          ]
+        },
+        {
+          "answer": "Tarse",
+          "tier": "t4",
+          "aliases": [
+            "Tarsus"
+          ]
+        },
+        {
+          "answer": "Kars",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Erzincan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Elazığ",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Batman",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hakkari",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ağrı",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bitlis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tunceli",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Yozgat",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kırşehir",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Aksaray",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Niğde",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Karaman",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Isparta",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Burdur",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Uşak",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kırklareli",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tekirdağ",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bilecik",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Düzce",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Karabük",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bartın",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kastamonu",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Çankırı",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kırıkkale",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Osmaniye",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Adıyaman",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kilis",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gümüşhane",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Bayburt",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Artvin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ardahan",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Iğdır",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Şırnak",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Siirt",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Muş",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Bingöl",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pamukkale",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Safranbolu",
+          "tier": "t5",
+          "aliases": []
+        }
+      ]
+    },
+    "geo-monde-15": {
+      "promptId": "geo-monde-15",
+      "contentVersion": 2,
+      "entries": [
+        {
+          "answer": "Cracovie",
+          "tier": "t1",
+          "aliases": [
+            "Kraków"
+          ]
+        },
+        {
+          "answer": "Gdańsk",
+          "tier": "t1",
+          "aliases": [
+            "Dantzig"
+          ]
+        },
+        {
+          "answer": "Wrocław",
+          "tier": "t1",
+          "aliases": [
+            "Breslau"
+          ]
+        },
+        {
+          "answer": "Poznań",
+          "tier": "t1",
+          "aliases": [
+            "Posen"
+          ]
+        },
+        {
+          "answer": "Łódź",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Katowice",
+          "tier": "t1",
+          "aliases": []
+        },
+        {
+          "answer": "Oświęcim",
+          "tier": "t1",
+          "aliases": [
+            "Auschwitz"
+          ]
+        },
+        {
+          "answer": "Varsovie",
+          "tier": "t2",
+          "aliases": [
+            "Warszawa"
+          ],
+          "quip": "Un piège connu : beaucoup y pensent en premier."
+        },
+        {
+          "answer": "Wieliczka",
+          "tier": "t6",
+          "aliases": [],
+          "quip": "Celle-là, on ne l'attendait pas."
+        },
+        {
+          "answer": "Szczecin",
+          "tier": "t3",
+          "aliases": [
+            "Stettin"
+          ]
+        },
+        {
+          "answer": "Lublin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bydgoszcz",
+          "tier": "t3",
+          "aliases": [
+            "Bromberg"
+          ]
+        },
+        {
+          "answer": "Toruń",
+          "tier": "t3",
+          "aliases": [
+            "Thorn"
+          ]
+        },
+        {
+          "answer": "Białystok",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Gdynia",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Częstochowa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zakopane",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sopot",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Rzeszów",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kielce",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Olsztyn",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Opole",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Gliwice",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Radom",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Płock",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Malbork",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zamość",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Przemyśl",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bielsko-Biała",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zielona Góra",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Kalisz",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sosnowiec",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bytom",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Rybnik",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ruda Śląska",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tychy",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gorzów Wielkopolski",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Elbląg",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wałbrzych",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Włocławek",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tarnów",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chorzów",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Koszalin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Legnica",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Grudziądz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Słupsk",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nowy Sącz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Lubin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Piła",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Konin",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Inowrocław",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zabrze",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Dąbrowa Górnicza",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jaworzno",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jastrzębie-Zdrój",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mysłowice",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Siedlce",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Piotrków Trybunalski",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Pabianice",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tomaszów Mazowiecki",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Stalowa Wola",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mielec",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Krosno",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sanok",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Łomża",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Suwałki",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ełk",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Giżycko",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Mikołajki",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kołobrzeg",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Świnoujście",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ustka",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Hel",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Łeba",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wejherowo",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Gniezno",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Leszno",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Ostrów Wielkopolski",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Jelenia Góra",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Świdnica",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kłodzko",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nysa",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Racibórz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Cieszyn",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Żywiec",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Wadowice",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Nowy Targ",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Tarnowskie Góry",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Sandomierz",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Kazimierz Dolny",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Chełm",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Biała Podlaska",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zgorzelec",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Frombork",
+          "tier": "t4",
+          "aliases": []
+        },
+        {
+          "answer": "Zduńska Wola",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Ostrowiec Świętokrzyski",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Kartuzy",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Pruszków",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Legionowo",
+          "tier": "t5",
+          "aliases": []
+        },
+        {
+          "answer": "Otwock",
           "tier": "t5",
           "aliases": []
         }
