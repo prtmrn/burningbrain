@@ -19,7 +19,8 @@ export async function GET(req: Request, { params }: { params: Promise<{ code: st
   const phase = phaseAt(meta, now);
   const players = await getPlayers(kv, code);
   const answers = await getAnswers(kv, code);
-  const bank = await loadBank(meta.theme, url.origin);
+  const viewerLang = players.find((p) => p.id === playerId)?.lang ?? 'fr';
+  const bank = await loadBank(meta.theme, url.origin, viewerLang);
 
   const promptOf = (round: number): string => {
     const id = meta.promptIds[round];

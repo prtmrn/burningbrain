@@ -15,6 +15,7 @@ const here = dirname(fileURLToPath(import.meta.url));
 const webRoot = join(here, '..');
 const repoRoot = join(webRoot, '..', '..');
 const srcDir = join(repoRoot, 'content', 'banks');
+const i18nDir = join(repoRoot, 'content', 'i18n', 'banks'); // banques traduites (EN, ES) : hors validateur FR
 const outDir = join(webRoot, 'public', 'content');
 
 if (!existsSync(srcDir)) {
@@ -24,9 +25,12 @@ if (!existsSync(srcDir)) {
 mkdirSync(outDir, { recursive: true });
 
 let count = 0;
-for (const file of readdirSync(srcDir)) {
-  if (!file.endsWith('.json')) continue;
-  const src = join(srcDir, file);
+const files = [
+  ...readdirSync(srcDir).filter((f) => f.endsWith('.json')).map((f) => join(srcDir, f)),
+  ...(existsSync(i18nDir) ? readdirSync(i18nDir).filter((f) => f.endsWith('.json')).map((f) => join(i18nDir, f)) : []),
+];
+for (const src of files) {
+  const file = src.split('/').pop();
   const raw = JSON.parse(readFileSync(src, 'utf8'));
   if (typeof raw.theme !== 'string' || !Number.isInteger(raw.contentVersion)) {
     console.error(`✗ ${file} : theme/contentVersion invalides`);

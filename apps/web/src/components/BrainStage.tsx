@@ -7,6 +7,9 @@
 // toutes lettres (jamais la couleur seule).
 // ─────────────────────────────────────────────────────────────
 import { BRAIN_CELLS, BRAIN_H, BRAIN_W } from '../brain-sprite';
+import { useT } from '../i18n';
+
+const HEAT_KEY: Record<string, string> = { 'Calme': 'heat.calm', 'Ça chauffe': 'heat.warm', 'Ébullition': 'heat.boil', 'Fusion': 'heat.fusion' };
 
 export function heatLabel(heat: number): string {
   if (heat < 0.2) return 'Calme';
@@ -74,6 +77,7 @@ export interface BrainStageProps {
 }
 
 export function BrainStage({ heat, gain, showLabel = true }: BrainStageProps) {
+  const [t] = useT();
   const h = Math.max(0, Math.min(1, heat));
   const label = heatLabel(h);
   const bubbles = 3 + Math.round(h * 12);
@@ -85,7 +89,7 @@ export function BrainStage({ heat, gain, showLabel = true }: BrainStageProps) {
         viewBox={`0 0 ${SW} ${SH}`}
         shapeRendering="crispEdges"
         role="img"
-        aria-label={`Cerveau : ${label}`}
+        aria-label={t('brain.stage.aria', { label: t(HEAT_KEY[label] ?? 'heat.calm') })}
       >
         <g className="brain-body">
           {BRAIN_CELLS.map((c) => (
@@ -132,7 +136,7 @@ export function BrainStage({ heat, gain, showLabel = true }: BrainStageProps) {
       )}
       {showLabel && (
         <p className="brain-label" data-testid="brain-label">
-          {label}
+          {t(HEAT_KEY[label] ?? 'heat.calm')}
         </p>
       )}
     </div>

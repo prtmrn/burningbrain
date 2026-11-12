@@ -3,6 +3,7 @@
 // CONTENU APPLICATIF — jamais dans l'engine (D-08, spec §A.3 règle 2).
 // ─────────────────────────────────────────────────────────────
 import type { Completion, TierId } from '@hotbrain/engine';
+import { translate, type Lang } from './i18n';
 import tierLabelsJson from '../content/tiers.labels.fr.json';
 import milestonesJson from '../content/milestones.v1.json';
 import verdictsJson from '../content/verdicts.fr.json';
@@ -66,9 +67,11 @@ const SHARE_ZONES: Record<TierId, string> = {
 
 export function buildShareText(
   completion: Completion,
-  opts: { dayLabel: string; themeLabel: string; percentileText?: string },
+  opts: { dayLabel: string; themeLabel: string; percentileText?: string; lang?: Lang },
 ): string {
-  const head = `🔥 BoilingBrain · ${opts.dayLabel} · ${completion.mode === 'hot' ? 'Boiling' : 'Brain'} · ${opts.themeLabel}`;
+  const lang: Lang = opts.lang ?? 'fr';
+  const modeName = translate(completion.mode === 'hot' ? 'mode.boiling' : 'mode.brain', lang);
+  const head = `🔥 ${translate('share.title', lang)} · ${opts.dayLabel} · ${modeName} · ${opts.themeLabel}`;
   if (completion.mode === 'hot') {
     const row = completion.tiers
       .map((t) => (t === 'miss' ? '⚪' : SHARE_ZONES[t]))
@@ -79,7 +82,7 @@ export function buildShareText(
   }
   const lines = [
     head,
-    `${completion.totals.answersAccepted} réponses · ${completion.score} °C / ${completion.ceiling} °C`,
+    translate('share.answers', lang, { n: completion.totals.answersAccepted, score: completion.score, ceiling: completion.ceiling }),
   ];
   if (opts.percentileText) lines.push(opts.percentileText);
   return lines.join('\n');

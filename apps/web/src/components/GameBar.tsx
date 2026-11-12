@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import type { ReactNode } from 'react';
 import { PixelIcon } from './PixelIcon';
+import { LanguageSwitch } from './LanguageSwitch';
 
 export interface GameBarProps {
   icon?: string;
@@ -14,18 +15,21 @@ export interface GameBarProps {
   onToggleSound?: () => void;
 }
 
+import { useT } from '../i18n';
+
 export function GameBar({ icon, title, subtitle, right, soundOff, onToggleSound }: GameBarProps) {
+  const [t] = useT();
   const router = useRouter();
   return (
-    <nav className="game-bar" data-testid="chrome" aria-label="Navigation du jeu">
+    <nav className="game-bar" data-testid="chrome" aria-label={t('bar.nav')}>
       <div className="game-bar-left">
-        <Link href="/" className="pixel-btn" aria-label="Accueil" data-testid="nav-home">
+        <Link href="/" className="pixel-btn" aria-label={t('bar.home')} data-testid="nav-home">
           <PixelIcon name="home" />
         </Link>
         <button
           type="button"
           className="pixel-btn"
-          aria-label="Retour"
+          aria-label={t('bar.back')}
           data-testid="nav-back"
           onClick={() => (window.history.length > 1 ? router.back() : router.push('/'))}
         >
@@ -38,13 +42,14 @@ export function GameBar({ icon, title, subtitle, right, soundOff, onToggleSound 
         {subtitle && <span className="game-bar-sub">{subtitle}</span>}
       </div>
       <div className="game-bar-right">
+        <LanguageSwitch />
         {right}
         {onToggleSound && (
           <button
             type="button"
             className="pixel-btn"
             onClick={onToggleSound}
-            aria-label={soundOff ? 'Activer le son' : 'Couper le son'}
+            aria-label={soundOff ? t('bar.sound.on') : t('bar.sound.off')}
             data-testid="sound-toggle"
           >
             <PixelIcon name={soundOff ? 'soundOff' : 'soundOn'} />

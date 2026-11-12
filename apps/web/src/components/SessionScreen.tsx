@@ -15,6 +15,7 @@ import { playFusion, playMiss, playTier } from '../sound';
 import { useSoundPref } from '../hooks/useSoundPref';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
+import { useT } from '../i18n';
 import { HeatBar } from './HeatBar';
 import { Thermometer } from './Thermometer';
 import { PromptCard } from './PromptCard';
@@ -67,6 +68,7 @@ export function SessionScreen({
   config = hotbrainConfig,
   onExit,
 }: SessionScreenProps) {
+  const [t] = useT();
   const s = session.state as HotDiveState | null;
   const phase = s?.phase;
   const resultCount = s?.results.length ?? 0;
@@ -114,12 +116,12 @@ export function SessionScreen({
   if (s.pausedAt !== undefined) {
     return (
       <>
-        <GameBar icon={themeIcon} title={`Boiling · ${themeLabel}`} subtitle={dayLabel} />
+        <GameBar icon={themeIcon} title={`${t('mode.boiling')} · ${themeLabel}`} subtitle={dayLabel} />
         <main className="summary panel-screen" data-testid="paused">
-          <h1>Pause</h1>
-          <p>Le chrono est arrêté tant que tu n'es pas revenu.</p>
+          <h1>{t('pause.title')}</h1>
+          <p>{t('pause.body')}</p>
           <button type="button" autoFocus onClick={session.resumePlay} data-testid="resume-button">
-            Reprendre
+            {t('pause.resume')}
           </button>
         </main>
       </>
@@ -130,17 +132,16 @@ export function SessionScreen({
   if (phase === 'intro') {
     return (
       <>
-        <GameBar icon={themeIcon} title={`Boiling · ${themeLabel}`} subtitle={dayLabel} />
+        <GameBar icon={themeIcon} title={`${t('mode.boiling')} · ${themeLabel}`} subtitle={dayLabel} />
         <Embers heat={0.15} />
         <main className="summary panel-screen" data-testid="intro">
-          <h1>🔥 Mode Boiling</h1>
-          <p className="lead">{cfg.rounds} questions · {cfg.roundMs / 1000} secondes chacune · une seule réponse.</p>
+          <h1>{t('intro.boiling.title')}</h1>
+          <p className="lead">{t('intro.boiling.lead', { n: cfg.rounds, s: cfg.roundMs / 1000 })}</p>
           <p>
-            Ta première idée vaut peu de degrés : vise la réponse que presque personne ne
-            tentera. Si tu sèches, réessaie autant que tu veux avant la fin du chrono.
+            {t('intro.boiling.body')}
           </p>
           <button type="button" className="big" autoFocus onClick={session.startSession} data-testid="start-button">
-            Commencer la montée
+            {t('intro.boiling.start')}
           </button>
         </main>
       </>
@@ -172,7 +173,7 @@ export function SessionScreen({
     <>
       <GameBar
         icon={themeIcon}
-        title={`Boiling · ${themeLabel}`}
+        title={`${t('mode.boiling')} · ${themeLabel}`}
         subtitle={dayLabel}
         right={
           <span className="round-pill">
@@ -213,7 +214,7 @@ export function SessionScreen({
                 remainingMs={(s.previewEndsAt ?? 0) - session.now}
                 totalMs={cfg.previewMs}
               />
-              <p className="muted">Le mercure monte… prépare ta réponse.</p>
+              <p className="muted">{t('preview.boiling')}</p>
             </div>
           )}
 
@@ -248,13 +249,13 @@ export function SessionScreen({
                   <p className="feedback-answer">
                     {lastResult.viaCorrection ? (
                       <>
-                        Ta réponse : <s className="muted">{lastResult.rawAnswer}</s>{' '}
-                        <span data-testid="autocorrected">corrigée en</span>{' '}
+                        {t('feedback.yourAnswer')} <s className="muted">{lastResult.rawAnswer}</s>{' '}
+                        <span data-testid="autocorrected">{t('feedback.correctedTo')}</span>{' '}
                         <strong>{lastResult.answer}</strong>
                       </>
                     ) : (
                       <>
-                        Ta réponse : <strong>{lastResult.answer}</strong>
+                        {t('feedback.yourAnswer')} <strong>{lastResult.answer}</strong>
                       </>
                     )}
                   </p>
@@ -262,7 +263,7 @@ export function SessionScreen({
                 </>
               ) : (
                 <p data-testid="miss-note">
-                  ⚪ Temps écoulé — 0 °C pour ce prompt.
+                  {t('feedback.miss')}
                 </p>
               )}
               <button
@@ -271,16 +272,16 @@ export function SessionScreen({
                 onClick={session.ackFeedback}
                 data-testid="continue-button"
               >
-                Continuer
+                {t('feedback.continue')}
               </button>
               <p className="muted">
-                (suite automatique dans {Math.round(T_FEEDBACK / 1_000)} s)
+                {t('feedback.auto', { n: Math.round(T_FEEDBACK / 1_000) })}
               </p>
             </div>
           )}
         </div>
 
-        <Thermometer score={score} max={700} milestones={MILESTONES} riseMs={riseMs} />
+        <Thermometer score={score} max={700} milestones={MILESTONES.map((m, i) => ({ ...m, label: t(`ms.${i}`) }))} riseMs={riseMs} />
       </div>
     </>
   );

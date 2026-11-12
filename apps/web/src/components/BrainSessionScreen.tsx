@@ -18,6 +18,7 @@ import { CountdownBar } from './CountdownBar';
 import { BrainMeter } from './BrainMeter';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
+import { useT } from '../i18n';
 
 export interface BrainSessionScreenProps {
   session: DiveSession;
@@ -44,6 +45,7 @@ export function BrainSessionScreen({
   config = hotbrainConfig,
   onExit,
 }: BrainSessionScreenProps) {
+  const [t] = useT();
   const s = session.state as BrainDiveState | null;
   const [soundOff, toggleSound] = useSoundPref(muted);
   const phase = s?.phase;
@@ -72,7 +74,7 @@ export function BrainSessionScreen({
 
   if (!s) return null;
   const cfg = config.modes.brain;
-  const title = `Brain · ${themeLabel}`;
+  const title = `${t('mode.brain')} · ${themeLabel}`;
   const bar = (
     <GameBar
       icon={themeIcon}
@@ -95,10 +97,10 @@ export function BrainSessionScreen({
       <>
         {bar}
         <main className="summary panel-screen" data-testid="paused">
-          <h1>Pause</h1>
-          <p>Le chrono est arrêté tant que tu n'es pas revenu.</p>
+          <h1>{t('pause.title')}</h1>
+          <p>{t('pause.body')}</p>
           <button type="button" autoFocus onClick={session.resumePlay} data-testid="resume-button">
-            Reprendre
+            {t('pause.resume')}
           </button>
         </main>
       </>
@@ -111,16 +113,15 @@ export function BrainSessionScreen({
         {bar}
         <Embers heat={0.15} />
         <main className="summary panel-screen" data-testid="intro">
-          <h1>🧠 Mode Brain</h1>
+          <h1>{t('intro.brain.title')}</h1>
           <p className="lead">
-            {cfg.rounds} questions · {cfg.roundMs / 1000} secondes chacune · un maximum de réponses.
+            {t('intro.brain.lead', { n: cfg.rounds, s: cfg.roundMs / 1000 })}
           </p>
           <p>
-            Enchaîne les réponses : chacune rapporte des neurones selon sa rareté, les doublons
-            sont ignorés. Remplis ton cerveau : <strong>{goal} neurones</strong> et la partie est gagnée.
+            {t('intro.brain.body', { goal })}
           </p>
           <button type="button" className="big" autoFocus onClick={session.startSession} data-testid="start-button">
-            Commencer
+            {t('intro.brain.start')}
           </button>
         </main>
       </>
@@ -140,11 +141,11 @@ export function BrainSessionScreen({
         <Embers heat={Math.min(1, banked / goal)} />
         <main className="summary" data-testid="brain-summary">
           <h1 className={`brain-verdict${won ? ' won' : ''}`} data-testid="brain-verdict">
-            {won ? '🧠 Cerveau plein ! Partie gagnée' : 'Cerveau pas encore plein…'}
+            {won ? t('brain.won') : t('brain.notyet')}
           </h1>
           <BrainMeter value={banked} goal={goal} />
           <p className="lead">
-            {found} réponses trouvées · {ceiling > 0 ? Math.round((100 * banked) / ceiling) : 0} % des neurones possibles
+            {t('brain.summary.stats', { found, pct: ceiling > 0 ? Math.round((100 * banked) / ceiling) : 0 })}
           </p>
           {s.results.map((r) => {
             const sheet = bank.sheets.get(r.promptId);
@@ -154,7 +155,7 @@ export function BrainSessionScreen({
               <article className="round-row" key={r.promptId}>
                 <div className="round-head">
                   <strong>{r.promptText}</strong>
-                  <span className="tier-points">+{r.score} neurones</span>
+                  <span className="tier-points">+{r.score} {t('brain.summary.stats.unit')}</span>
                 </div>
                 <div className="sheet-reveal">
                   {r.answersGiven.map((a) => (
@@ -162,11 +163,11 @@ export function BrainSessionScreen({
                       {TIER_ICONS[a.tier]} {a.answer}
                     </span>
                   ))}
-                  {r.answersGiven.length === 0 && <span className="muted">Aucune réponse</span>}
+                  {r.answersGiven.length === 0 && <span className="muted">{t('brain.summary.none')}</span>}
                 </div>
                 {missed.length > 0 && (
                   <details>
-                    <summary className="muted">Voir les {missed.length} réponses manquées</summary>
+                    <summary className="muted">{t('brain.summary.missed', { n: missed.length })}</summary>
                     <div className="sheet-reveal">
                       {TIER_ORDER.flatMap((t) =>
                         missed
@@ -211,8 +212,8 @@ export function BrainSessionScreen({
       <div className="session brain-session" data-testid="session-root">
         <div className="session-main">
           <div className="hud">
-            <span className="score" data-testid="hud-score">{total} / {goal} neurones</span>
-            <span className="muted">{s.currentAnswers.length} trouvée{s.currentAnswers.length > 1 ? 's' : ''}</span>
+            <span className="score" data-testid="hud-score">{t('brain.hud', { total, goal })}</span>
+            <span className="muted">{t('multi.found.count', { n: s.currentAnswers.length, s: s.currentAnswers.length > 1 ? 's' : '' })}</span>
           </div>
           <BrainMeter
             value={total}
@@ -220,13 +221,13 @@ export function BrainSessionScreen({
             gain={fb && fb.kind === 'accepted' && fb.score ? { points: fb.score, key: fb.at } : undefined}
           />
           {prompt && (
-            <PromptCard label={`Question ${Math.min(s.roundIndex + 1, cfg.rounds)} / ${cfg.rounds}`} text={prompt.text} />
+            <PromptCard label={t('multi.question', { n: Math.min(s.roundIndex + 1, cfg.rounds), total: cfg.rounds })} text={prompt.text} />
           )}
 
           {phase === 'preview' && (
             <div data-testid="preview">
               <CountdownBar remainingMs={(s.previewEndsAt ?? 0) - session.now} totalMs={cfg.previewMs} />
-              <p className="muted">Prépare-toi à tout sortir…</p>
+              <p className="muted">{t('preview.brain')}</p>
             </div>
           )}
 
@@ -240,17 +241,17 @@ export function BrainSessionScreen({
                   maxLength={config.maxAnswerLength}
                   onChange={session.editDraft}
                   onSubmit={session.submit}
-                  placeholder="Tape une réponse, Entrée, et continue…"
+                  placeholder={t('brain.placeholder')}
                 />
               </div>
               {showFb && fb && (
                 <div className={`feedback ${fb.kind}`} role="status" data-testid={`listing-${fb.kind}`}>
-                  {fb.kind === 'accepted' && <>✔ « {fb.input} » +{fb.score} neurones</>}
-                  {fb.kind === 'duplicate' && <>Déjà compté : « {fb.input} »</>}
-                  {fb.kind === 'rejected' && <>« {fb.input} » n'est pas reconnu</>}
+                  {fb.kind === 'accepted' && <>{t('feedback.accepted.neurons', { input: fb.input, n: fb.score ?? 0 })}</>}
+                  {fb.kind === 'duplicate' && <>{t('feedback.duplicate', { input: fb.input })}</>}
+                  {fb.kind === 'rejected' && <>{t('feedback.notrecognised', { input: fb.input })}</>}
                   {fb.kind === 'correction' && (
                     <>
-                      Tu voulais dire <strong>{fb.to}</strong> ?{' '}
+                      {t('feedback.correction.ask')} <strong>{fb.to}</strong> ?{' '}
                       <button type="button" onClick={session.applyCorrection} data-testid="apply-correction">
                         Oui
                       </button>
@@ -258,7 +259,7 @@ export function BrainSessionScreen({
                   )}
                 </div>
               )}
-              <div className="found-list" aria-label="Réponses trouvées">
+              <div className="found-list" aria-label={t('brain.found.aria')}>
                 {[...s.currentAnswers].reverse().map((a) => (
                   <span key={a.answer} className="sheet-chip yours" title={TIER_LABELS[a.tier]}>
                     {TIER_ICONS[a.tier]} {a.answer} <em>+{a.score}</em>
@@ -267,7 +268,7 @@ export function BrainSessionScreen({
               </div>
               <p>
                 <button type="button" className="secondary" onClick={session.abandonRound} data-testid="next-question">
-                  Question suivante ▸
+                  {t('brain.next')}
                 </button>
               </p>
             </div>

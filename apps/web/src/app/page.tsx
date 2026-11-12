@@ -16,6 +16,8 @@ import { StreakBadge } from '../components/StreakBadge';
 import { BrainStage } from '../components/BrainStage';
 import { Embers } from '../components/Embers';
 import { resetLabel } from '../components/GamePlay';
+import { useT } from '../i18n';
+import { LanguageSwitch } from '../components/LanguageSwitch';
 
 export default function HomePage() {
   const [mounted, setMounted] = useState(false);
@@ -36,6 +38,7 @@ export default function HomePage() {
 }
 
 function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
+  const [t, lang] = useT();
   usePrefs(kv);
   const nowWall = Date.now();
   const today = dateLoc(nowWall, hotbrainConfig.timezone);
@@ -53,55 +56,56 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
           <h1 className="logo">
             BOILING<span>BRAIN</span>
           </h1>
-          <p className="tagline">Le quiz qui fait bouillir ton cerveau.</p>
+          <p className="tagline">{t('home.tagline')}</p>
           <p style={{ marginTop: '0.6rem' }}>
             <StreakBadge streak={stats.currentStreak} />
           </p>
-          <p className="muted" data-testid="reset-line">{resetLabel(nowWall)}</p>
+          <p className="muted" data-testid="reset-line">{resetLabel(nowWall, lang)}</p>
+          <LanguageSwitch />
         </div>
 
         <div className="home-side">
         <section className="mode-cards">
           <article className="mode-card hot">
             <h2>🔥 Boiling</h2>
-            <p>Une seule réponse par question : plus elle est rare, plus ton cerveau brûle.</p>
+            <p>{t('home.boiling.desc')}</p>
             {hotStatus === 'played' ? (
               <button type="button" className="big" disabled data-testid="play-hot-disabled">
-                Partie du jour jouée
+                {t('home.daily.played')}
               </button>
             ) : (
               <Link href="/boiling/daily" data-testid="play-hot">
-                <button type="button" className="big">▶ Partie du jour · Jour {day}</button>
+                <button type="button" className="big">{t('home.daily', { day })}</button>
               </Link>
             )}
             <Link href="/boiling/play" data-testid="play-hot-unlimited">
-              <button type="button" className="big secondary">Partie Classique</button>
+              <button type="button" className="big secondary">{t('home.classic')}</button>
             </Link>
           </article>
           <article className="mode-card brain">
             <h2>🧠 Brain</h2>
-            <p>Donne un maximum de réponses et remplis ton cerveau : 500 neurones, c'est gagné.</p>
+            <p>{t('home.brain.desc')}</p>
             {brainStatus === 'played' ? (
               <button type="button" className="big" disabled data-testid="play-brain-disabled">
-                Partie du jour jouée
+                {t('home.daily.played')}
               </button>
             ) : (
               <Link href="/brain/daily" data-testid="play-brain">
-                <button type="button" className="big">▶ Partie du jour · Jour {day}</button>
+                <button type="button" className="big">{t('home.daily', { day })}</button>
               </Link>
             )}
             <Link href="/brain/play" data-testid="play-brain-unlimited">
-              <button type="button" className="big secondary">Partie Classique</button>
+              <button type="button" className="big secondary">{t('home.classic')}</button>
             </Link>
           </article>
         </section>
 
         <div className="home-actions">
           <Link href="/themes" data-testid="choose-theme">
-            <button type="button" className="big secondary multi-big">🎭 Choisir un thème</button>
+            <button type="button" className="big secondary multi-big">{t('home.themes')}</button>
           </Link>
           <Link href="/multi" data-testid="multi-link">
-            <button type="button" className="big multi-big">👥 Multijoueur en ligne</button>
+            <button type="button" className="big multi-big">{t('home.multi')}</button>
           </Link>
         </div>
         </div>

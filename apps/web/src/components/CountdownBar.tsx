@@ -8,7 +8,10 @@ export interface CountdownBarProps {
   urgentBelowMs?: number;
 }
 
+import { useT } from '../i18n';
+
 export function CountdownBar({ remainingMs, totalMs, urgentBelowMs = 5_000 }: CountdownBarProps) {
+  const [t] = useT();
   const clamped = Math.max(0, Math.min(totalMs, remainingMs));
   const pct = (clamped / totalMs) * 100;
   return (
@@ -16,7 +19,7 @@ export function CountdownBar({ remainingMs, totalMs, urgentBelowMs = 5_000 }: Co
     <div
       className={`countdown${clamped <= urgentBelowMs ? ' urgent' : ''}`}
       role="progressbar"
-      aria-label="Temps restant"
+      aria-label={t('countdown.aria')}
       aria-valuemin={0}
       aria-valuemax={Math.round(totalMs / 1_000)}
       aria-valuenow={Math.ceil(clamped / 1_000)}

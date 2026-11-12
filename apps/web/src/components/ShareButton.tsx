@@ -1,5 +1,7 @@
 'use client';
 
+import { useT } from '../i18n';
+
 // ─────────────────────────────────────────────────────────────
 // ShareButton.tsx — copie de la thermo-colonne anti-spoiler (§C.4)
 // ─────────────────────────────────────────────────────────────
@@ -10,6 +12,7 @@ export interface ShareButtonProps {
 }
 
 export function ShareButton({ text }: ShareButtonProps) {
+  const [t] = useT();
   const [copied, setCopied] = useState(false);
 
   const copy = async (): Promise<void> => {
@@ -30,7 +33,7 @@ export function ShareButton({ text }: ShareButtonProps) {
 
   return (
     <button type="button" onClick={copy} data-testid="share-button">
-      {copied ? 'Copié ✓' : 'Partager mon score'}
+      {copied ? t('share.copied') : t('share.button')}
     </button>
   );
 }

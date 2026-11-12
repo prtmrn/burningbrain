@@ -26,5 +26,13 @@
   "sports-leisure": {
     "contentVersion": 2,
     "prompts": 103
+  },
+  "general-en": {
+    "contentVersion": 2,
+    "prompts": 100
+  },
+  "general-es": {
+    "contentVersion": 2,
+    "prompts": 100
   }
 }

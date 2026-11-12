@@ -8,7 +8,8 @@
 // ─────────────────────────────────────────────────────────────
 import type { AnswerSheet, HotCompletion, TierId } from '@hotbrain/engine';
 import { BrainStage } from './BrainStage';
-import { TIER_ICONS, TIER_LABELS, buildShareText, verdictFor } from '../content';
+import { TIER_ICONS, buildShareText, verdictFor } from '../content';
+import { useT, useLang } from '../i18n';
 import { TierBadge } from './TierBadge';
 import { ShareButton } from './ShareButton';
 import { StreakBadge } from './StreakBadge';
@@ -36,8 +37,10 @@ export function SummaryScreen({
   percentileText,
   onExit,
 }: SummaryScreenProps) {
+  const [t, lang] = useT();
   const verdict = verdictFor(completion.score);
   const shareText = buildShareText(completion, {
+    lang,
     dayLabel,
     themeLabel,
     ...(percentileText !== undefined ? { percentileText } : {}),
@@ -47,21 +50,21 @@ export function SummaryScreen({
     <main className="summary" data-testid="summary">
       <header>
         <BrainStage heat={Math.min(1, completion.score / 700)} />
-        <p className="muted" style={{ marginTop: '2.2rem' }}>Le mercure est monté à…</p>
+        <p className="muted" style={{ marginTop: '2.2rem' }}>{t('summary.reached')}</p>
         <p className="total" data-testid="summary-score">
           {completion.score} °C
         </p>
         <p className="verdict-title" data-testid="summary-verdict">
-          {TIER_ICONS[verdict.tier]} {verdict.title}
+          {TIER_ICONS[verdict.tier]} {t(`verdict.${verdict.tier}.title`)}
         </p>
-        <p className="verdict-phrase">{verdict.phrase}</p>
+        <p className="verdict-phrase">{t(`verdict.${verdict.tier}.phrase`)}</p>
         {percentileText !== undefined && (
           <p data-testid="summary-percentile">{percentileText}</p>
         )}
         <StreakBadge streak={streak} />
       </header>
 
-      <section aria-label="Récapitulatif des rounds">
+      <section aria-label={t('summary.rounds.aria')}>
         {completion.results.map((r, i) => {
           const sheet = sheets.get(r.promptId);
           const tierLabel = r.tier;
@@ -72,22 +75,22 @@ export function SummaryScreen({
                   <strong>{r.promptText}</strong>
                   <div className="muted">
                     {r.answer !== null
-                      ? `Ta réponse : ${r.answer}`
+                      ? t('summary.yours', { answer: r.answer ?? '' })
                       : r.rawAnswer
-                        ? `Temps écoulé (« ${r.rawAnswer} » ne comptait pas)`
-                        : 'Temps écoulé'}
+                        ? t('summary.timeout.raw', { raw: r.rawAnswer })
+                        : t('summary.timeout')}
                   </div>
                 </div>
                 {tierLabel !== null ? (
                   <TierBadge tier={tierLabel} points={r.score} />
                 ) : (
-                  <span aria-label="Round manqué">⚪ 0 °C</span>
+                  <span aria-label={t('summary.missed.aria')}>⚪ 0 °C</span>
                 )}
               </div>
               {sheet && (
                 <details className="reveal-toggle" data-testid={`reveal-${i}`}>
                   <summary>Voir les {sheet.entries.length} réponses possibles</summary>
-                <div className="sheet-reveal" aria-label="Réponses acceptées">
+                <div className="sheet-reveal" aria-label={t('summary.accepted.aria')}>
                   {TIER_ORDER.map((tier) =>
                     sheet.entries
                       .filter((e) => e.tier === tier)
@@ -95,7 +98,7 @@ export function SummaryScreen({
                         <span
                           key={e.answer}
                           className={`sheet-chip${e.answer === r.answer ? ' yours' : ''}`}
-                          title={`${TIER_LABELS[tier]} — ${tier.toUpperCase()}`}
+                          title={`${t(`tier.${tier}`)} — ${tier.toUpperCase()}`}
                         >
                           {TIER_ICONS[tier]} {e.answer}
                         </span>
@@ -112,7 +115,7 @@ export function SummaryScreen({
       <footer style={{ display: 'flex', gap: '0.8rem', marginTop: '1.2rem' }}>
         <ShareButton text={shareText} />
         <button type="button" className="secondary" onClick={onExit} data-testid="exit-summary">
-          Retour à l'accueil
+          {t('summary.home')}
         </button>
       </footer>
       <pre data-testid="share-text" style={{ display: 'none' }}>

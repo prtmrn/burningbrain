@@ -866,3 +866,10 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
   .home-actions { grid-template-columns: 1fr; gap: 0.6rem; margin-top: 0.8rem; }
   .home-actions .big { min-height: 3.2rem; font-size: 1.1rem; width: 100%; white-space: normal; }
 }
+
+/* Sélecteur de langue */
+.lang-switch { display: inline-flex; gap: 0.25rem; }
+.lang-btn { padding: 0.2rem 0.5rem; font-size: 0.8rem; min-width: 0; box-shadow: none; border-width: 2px; background: #2a1a44; color: var(--text); }
+.lang-btn.on { background: var(--theme-accent, #ff6a1a); color: #061018; }
+/* Sélecteur de langue dans la barre : compact sur téléphone */
+@media (max-width: 720px) { .game-bar .lang-btn { padding: 0.15rem 0.35rem; font-size: 0.7rem; } }

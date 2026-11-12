@@ -80,6 +80,7 @@ export async function getMeta(kv: Kv, code: string): Promise<RoomMeta | null> {
 
 export interface CreateInput {
   name: string;
+  lang: string;
   theme: string;
   rounds: number;
   roundSec: number;
@@ -88,6 +89,7 @@ export interface CreateInput {
 
 export async function createRoom(input: CreateInput): Promise<{ code: string; playerId: string }> {
   const kv = getKv();
+  if (input.lang !== 'fr' && input.theme !== 'general') throw new Error('Ce thème n\'est pas disponible dans cette langue');
   const bank = await loadBank(input.theme, input.origin);
   const cfg = configFor('hot', { rounds: input.rounds, roundSec: input.roundSec });
   if (bank.prompts.length < input.rounds) throw new Error('banque trop petite pour ce nombre de questions');
@@ -114,7 +116,7 @@ export async function createRoom(input: CreateInput): Promise<{ code: string; pl
     startAt: null,
   };
   await setJson(kv, metaKey(code), meta);
-  await kv.cmd(['HSET', playersKey(code), playerId, JSON.stringify({ id: playerId, name: cleanName(input.name), lang: 'fr' })]);
+  await kv.cmd(['HSET', playersKey(code), playerId, JSON.stringify({ id: playerId, name: cleanName(input.name), lang: input.lang })]);
   await kv.cmd(['EXPIRE', playersKey(code), ROOM_TTL_S]);
   await kv.cmd(['EXPIRE', answersKey(code), ROOM_TTL_S]);
   return { code, playerId };
@@ -130,6 +132,7 @@ export async function joinRoom(code: string, name: string, lang = 'fr'): Promise
   const meta = await getMeta(kv, c);
   if (!meta) return { error: 'Salon introuvable' };
   if (meta.startAt !== null) return { error: 'La partie a déjà commencé' };
+  if (lang !== 'fr' && meta.theme !== 'general') return { error: 'Ce salon n\'est pas disponible dans cette langue' };
   const count = Number(await kv.cmd(['HLEN', playersKey(c)]));
   if (count >= MAX_PLAYERS) return { error: 'Salon complet (10 joueurs)' };
   const playerId = randomId();
@@ -178,7 +181,8 @@ export async function submitAnswer(
   const meta = await getMeta(kv, c);
   if (!meta) return { kind: 'unknown' };
   const players = await getPlayers(kv, c);
-  if (!players.some((p) => p.id === playerId)) return { kind: 'unknown' };
+  const player = players.find((p) => p.id === playerId);
+  if (!player) return { kind: 'unknown' };
   const now = Date.now();
   const phase: RoomPhase = phaseAt(meta, now);
   if (phase.kind === 'lobby' || phase.kind === 'countdown') return { kind: 'waiting' };
@@ -190,7 +194,7 @@ export async function submitAnswer(
   const existing = await kv.cmd(['HGET', answersKey(c), field]);
   if (typeof existing === 'string') return { kind: 'already' };
 
-  const bank = await loadBank(meta.theme, origin);
+  const bank = await loadBank(meta.theme, origin, player.lang ?? 'fr');
   const promptId = meta.promptIds[phase.round] as string;
   const sheet = bank.sheets.get(promptId);
   const index = bank.indexes.get(promptId);

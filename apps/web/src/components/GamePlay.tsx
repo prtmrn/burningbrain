@@ -21,6 +21,9 @@ import {
   type SessionMeta,
 } from '@hotbrain/engine';
 import { hotbrainConfig, configFor, type GameSetup } from '../config';
+import { translate, useT, type Lang } from '../i18n';
+
+const themeName = (id: string, lang: Lang): string => translate(`theme.${id}`, lang);
 import { GameSetupScreen } from './GameSetupScreen';
 import type { GameConfig } from '@hotbrain/engine';
 import { createLocalStorageKV, type EnumerableKV } from '../state/local-storage-kv';
@@ -84,26 +87,28 @@ function forgetPlaySeed(kv: EnumerableKV, mode: GameMode, theme: string): void {
   }
 }
 
-export function resetLabel(nowWall: number): string {
+export function resetLabel(nowWall: number, lang: Lang = 'fr'): string {
   const ms = nextResetMs(nowWall, hotbrainConfig) - nowWall;
   const h = Math.floor(ms / 3_600_000);
   const m = Math.ceil((ms % 3_600_000) / 60_000);
-  return `Prochain reset dans ${h} h ${m} min.`;
+  return translate('reset.next', lang, { h, m });
 }
 
 export function GamePlay(props: { theme: ThemeInfo; mode: GameMode; kind: PlayKindUI }) {
+  const [t, lang] = useT();
   const [mounted, setMounted] = useState(false);
   useEffect(() => setMounted(true), []);
   if (!mounted)
     return (
       <main className="summary">
-        <p className="muted">Le cerveau chauffe…</p>
+        <p className="muted">{t('loading')}</p>
       </main>
     );
   return <GamePlayClient {...props} />;
 }
 
 function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMode; kind: PlayKindUI }) {
+  const [t, lang] = useT();
   const kv = useMemo(() => createLocalStorageKV(window.localStorage), []);
   usePrefs(kv);
   const [bank, setBank] = useState<LoadedBank | null>(null);
@@ -125,16 +130,18 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
         return r.json() as Promise<Record<string, { contentVersion: number }>>;
       })
       .then((m) => {
-        const v = m[theme.id]?.contentVersion;
-        if (v === undefined) throw new Error(`Le thème « ${theme.label} » n'est pas encore disponible.`);
-        return fetch(`/content/${theme.id}.v${v}.json`);
+        const key = lang === 'fr' ? theme.id : `${theme.id}-${lang}`;
+        const v = m[key]?.contentVersion;
+        if (v === undefined) throw new Error('theme-notyet');
+        return fetch(`/content/${key}.v${v}.json`);
       })
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         return r.json();
       })
       .then((j: unknown) => {
-        if (on) setBank(assembleBank(j, theme.id));
+        // La banque traduite garde les mêmes ids : on rétablit le nom du thème pour le moteur.
+        if (on) setBank({ ...assembleBank(j, lang === 'fr' ? theme.id : `${theme.id}-${lang}`), theme: theme.id });
       })
       .catch((e: unknown) => {
         if (on) setError(e instanceof Error ? e.message : String(e));
@@ -142,15 +149,15 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
     return () => {
       on = false;
     };
-  }, [theme.id, theme.label]);
+  }, [theme.id, lang]);
 
-  const modeLabel = mode === 'hot' ? 'Boiling' : 'Brain';
+  const modeLabel = mode === 'hot' ? t('mode.boiling') : t('mode.brain');
   if (error || !bank) {
     return (
       <>
-        <GameBar icon={theme.icon} title={`${modeLabel} · ${theme.label}`} />
+        <GameBar icon={theme.icon} title={`${modeLabel} · ${themeName(theme.id, lang)}`} />
         <main className="summary panel-screen">
-          <p>{error ?? 'Le cerveau chauffe…'}</p>
+          <p>{error === 'theme-notyet' ? t('theme.notyet', { label: themeName(theme.id, lang) }) : (error ?? t('loading'))}</p>
         </main>
       </>
     );
@@ -162,16 +169,16 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
     if (dailyStatus(kv, mode, theme.id, today, hotbrainConfig) === 'played') {
       return (
         <>
-          <GameBar icon={theme.icon} title={`${modeLabel} · ${theme.label}`} subtitle="Partie du jour" />
+          <GameBar icon={theme.icon} title={`${modeLabel} · ${themeName(theme.id, lang)}`} subtitle={t('session.daily')} />
           <Embers heat={0.2} />
           <main className="summary panel-screen" data-testid="daily-played">
-            <h1>Déjà jouée aujourd'hui</h1>
-            <p>Tu as déjà joué la partie du jour en mode {modeLabel}.</p>
-            <p data-testid="reset-countdown">{resetLabel(nowWall)}</p>
-            <p>Meilleure température : {getStats(kv, today).bestScore} °C</p>
+            <h1>{t('daily.played.title.short')}</h1>
+            <p>{t('daily.played.body', { mode: modeLabel })}</p>
+            <p data-testid="reset-countdown">{resetLabel(nowWall, lang)}</p>
+            <p>{t('daily.best', { score: getStats(kv, today).bestScore })}</p>
             <p>
               <a href={mode === 'hot' ? '/boiling/play' : '/brain/play'}>
-                <button type="button" className="big">Partie Classique</button>
+                <button type="button" className="big">{t('home.classic')}</button>
               </a>
             </p>
           </main>
@@ -184,6 +191,7 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
 
 /** D-40 : la partie classique commence par le choix des réglages. */
 function SessionGate(props: { kv: EnumerableKV; bank: LoadedBank; theme: ThemeInfo; mode: GameMode; kind: PlayKindUI }) {
+  const [, gateLang] = useT();
   const { kv, theme, mode, kind } = props;
   const [setup, setSetup] = useState<GameSetup | null>(() =>
     kind === 'unlimited' ? (readPlaySeed(kv, mode, theme.id).setup ?? null) : null,
@@ -193,7 +201,7 @@ function SessionGate(props: { kv: EnumerableKV; bank: LoadedBank; theme: ThemeIn
     return (
       <GameSetupScreen
         mode={mode}
-        themeLabel={theme.label}
+        themeLabel={themeName(theme.id, gateLang)}
         themeIcon={theme.icon}
         onStart={(s) => {
           savePlaySetup(kv, mode, theme.id, s);
@@ -220,6 +228,7 @@ function Session({
   kind: PlayKindUI;
   config: GameConfig;
 }) {
+  const [t, lang] = useT();
   const router = useRouter();
   const nowWall = useMemo(() => Date.now(), []);
   const today = dateLoc(nowWall, hotbrainConfig.timezone);
@@ -270,7 +279,7 @@ function Session({
   );
   const clocks = useMemo(browserClocks, []);
   const session = useDiveSession({ kv, clocks, mode, meta, content });
-  const dayLabel = kind === 'daily' ? `Jour ${day}` : 'Partie Classique';
+  const dayLabel = kind === 'daily' ? t('session.day', { day }) : t('session.classic');
   const exit = (): void => {
     if (kind === 'unlimited') forgetPlaySeed(kv, mode, theme.id);
     router.push('/');
@@ -283,7 +292,7 @@ function Session({
       promptIds={promptIds}
       streak={getStats(kv, today).currentStreak}
       dayLabel={dayLabel}
-      themeLabel={theme.label}
+      themeLabel={themeName(theme.id, lang)}
       themeIcon={theme.icon}
       muted={prefs.muted}
       config={config}
@@ -294,7 +303,7 @@ function Session({
       session={session}
       bank={bank}
       promptIds={promptIds}
-      themeLabel={theme.label}
+      themeLabel={themeName(theme.id, lang)}
       themeIcon={theme.icon}
       dayLabel={dayLabel}
       muted={prefs.muted}

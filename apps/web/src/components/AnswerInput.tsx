@@ -5,6 +5,7 @@
 // désactivé hors phase 'answering' (verrou UI, spec §A.6).
 // ─────────────────────────────────────────────────────────────
 import { useEffect, useRef } from 'react';
+import { useT } from '../i18n';
 
 export interface AnswerInputProps {
   value: string;
@@ -21,8 +22,9 @@ export function AnswerInput({
   maxLength,
   onChange,
   onSubmit,
-  placeholder = 'Ta réponse…',
+  placeholder,
 }: AnswerInputProps) {
+  const [t] = useT();
   const ref = useRef<HTMLInputElement>(null);
 
   // Autofocus dès que la saisie devient possible
@@ -42,12 +44,12 @@ export function AnswerInput({
         ref={ref}
         type="text"
         role="textbox"
-        aria-label="Ta réponse"
+        aria-label={t('answer.aria')}
         data-testid="answer-input"
         value={value}
         disabled={disabled}
         maxLength={maxLength}
-        placeholder={placeholder}
+        placeholder={placeholder ?? t('answer.placeholder')}
         autoComplete="off"
         autoCorrect="off"
         spellCheck={false}

@@ -5,12 +5,14 @@
 // dès que sa banque est publiée (manifest) ; sinon « bientôt ».
 // ─────────────────────────────────────────────────────────────
 import Link from 'next/link';
+import { useT } from '../../i18n';
 import { useEffect, useState } from 'react';
 import { THEMES } from '../../themes';
 import { GameBar } from '../../components/GameBar';
 import { Embers } from '../../components/Embers';
 
 export default function ThemesPage() {
+  const [tr, lang] = useT();
   const [available, setAvailable] = useState<Record<string, number> | null>(null);
 
   useEffect(() => {
@@ -31,14 +33,15 @@ export default function ThemesPage() {
 
   return (
     <>
-      <GameBar title="Choisir un thème" />
+      <GameBar title={tr('themes.bar')} />
       <Embers heat={0.3} />
       <main className="summary" data-testid="themes">
-        <h1>Choisis ton thème</h1>
-        <p className="muted">Parties classiques, en mode Boiling ou Brain.</p>
+        <h1>{tr('themes.title')}</h1>
+        <p className="muted">{tr('themes.lead')}</p>
         <div className="theme-grid">
           {THEMES.map((t) => {
-            const n = available?.[t.id];
+            const key = lang === 'fr' ? t.id : (t.id === 'general' ? `general-${lang}` : null);
+            const n = key ? available?.[key] : undefined;
             const ready = n !== undefined && n >= 7;
             const hotHref = t.id === 'general' ? '/boiling/play' : `/themes/${t.id}`;
             const brainHref = t.id === 'general' ? '/brain/play' : `/themes/${t.id}/brain`;
@@ -50,13 +53,13 @@ export default function ThemesPage() {
                 data-testid={`theme-${t.id}`}
               >
                 <span className="theme-icon-big" aria-hidden="true">{t.icon}</span>
-                <strong>{t.label}</strong>
-                <span className="muted">{t.blurb}</span>
-                <span className="muted">{ready ? `${n} questions` : available === null ? '…' : 'Bientôt'}</span>
+                <strong>{tr(`theme.${t.id}`)}</strong>
+                <span className="muted">{tr(`theme.${t.id}.blurb`)}</span>
+                <span className="muted">{ready ? tr('themes.count', { n }) : available === null ? '…' : tr('themes.soon')}</span>
                 {ready && (
                   <span className="theme-actions">
-                    <Link href={hotHref}><button type="button">🔥 Boiling</button></Link>
-                    <Link href={brainHref}><button type="button" className="secondary">🧠 Brain</button></Link>
+                    <Link href={hotHref}><button type="button">{tr('mode.boiling')}</button></Link>
+                    <Link href={brainHref}><button type="button" className="secondary">🧠 {tr('mode.brain')}</button></Link>
                   </span>
                 )}
               </div>

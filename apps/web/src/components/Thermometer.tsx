@@ -8,6 +8,7 @@
 // Étiquettes : placement écarté (thermo-layout) → plus de superposition.
 // ─────────────────────────────────────────────────────────────
 import { useEffect, useRef, useState } from 'react';
+import { useT } from '../i18n';
 import type { Milestone } from '../content';
 import { HEAT_EASING, MILESTONE_FLASH_MS } from '../motion';
 import { formatDegrees, spreadLabels } from '../thermo-layout';
@@ -24,6 +25,7 @@ export interface ThermometerProps {
 }
 
 export function Thermometer({ score, max, milestones, riseMs }: ThermometerProps) {
+  const [t] = useT();
   const pct = Math.max(0, Math.min(100, (score / max) * 100));
   const prevScore = useRef(score);
   const [flash, setFlash] = useState<number | null>(null);
@@ -49,11 +51,11 @@ export function Thermometer({ score, max, milestones, riseMs }: ThermometerProps
       <div
         className="thermo-tube"
         role="meter"
-        aria-label="Température"
+        aria-label={t('thermo.aria')}
         aria-valuemin={0}
         aria-valuemax={max}
         aria-valuenow={score}
-        aria-valuetext={`${score} degrés sur ${max}`}
+        aria-valuetext={t('thermo.value', { score, max })}
       >
         <div
           className="thermo-mercury"

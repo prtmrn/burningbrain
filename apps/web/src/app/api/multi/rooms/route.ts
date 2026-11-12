@@ -13,12 +13,13 @@ export async function POST(req: Request): Promise<Response> {
   const theme = typeof body['theme'] === 'string' ? body['theme'] : 'general';
   const rounds = Number(body['rounds'] ?? 7);
   const roundSec = Number(body['roundSec'] ?? 30);
+  const lang = typeof body['lang'] === 'string' && ['fr', 'en', 'es'].includes(body['lang']) ? body['lang'] : 'fr';
   if (!THEMES.includes(theme)) return Response.json({ error: 'Thème inconnu' }, { status: 400 });
   if (![3, 5, 7, 10].includes(rounds) || ![15, 30, 45, 60].includes(roundSec)) {
     return Response.json({ error: 'Réglages invalides' }, { status: 400 });
   }
   try {
-    const out = await createRoom({ name, theme, rounds, roundSec, origin: new URL(req.url).origin });
+    const out = await createRoom({ name, lang, theme, rounds, roundSec, origin: new URL(req.url).origin });
     return Response.json(out);
   } catch (e) {
     return Response.json({ error: e instanceof Error ? e.message : 'Erreur' }, { status: 500 });

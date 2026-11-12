@@ -5,6 +5,7 @@
 // neurones du bas vers le haut. Plein à `goal` neurones : partie gagnée.
 // ─────────────────────────────────────────────────────────────
 import { BRAIN_CELLS, BRAIN_H, BRAIN_W } from '../brain-sprite';
+import { useT } from '../i18n';
 
 /** Ordre de remplissage : du bas vers le haut, à surface égale par neurone. */
 const FILL_ORDER: string[] = BRAIN_CELLS.filter((c) => c.kind !== 'edge')
@@ -22,6 +23,7 @@ export function BrainMeter({
   goal: number;
   gain?: { points: number; key: number } | undefined;
 }) {
+  const [t] = useT();
   const ratio = Math.max(0, Math.min(1, value / goal));
   const litCount = Math.round(ratio * FILL_ORDER.length);
   const full = ratio >= 1;
@@ -31,7 +33,7 @@ export function BrainMeter({
         viewBox={`-1 -1 ${BRAIN_W + 2} ${BRAIN_H + 2}`}
         className="brain-meter-svg"
         role="meter"
-        aria-label="Neurones"
+        aria-label={t('neurons.aria')}
         aria-valuemin={0}
         aria-valuemax={goal}
         aria-valuenow={Math.min(value, goal)}
