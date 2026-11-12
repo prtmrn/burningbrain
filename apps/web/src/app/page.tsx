@@ -89,11 +89,11 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
           </article>
         </section>
 
-        <Link href="/themes" data-testid="choose-theme">
-          <button type="button" className="big secondary theme-btn">🎭 Choisir un thème</button>
+        <Link href="/themes" data-testid="choose-theme" className="multi-cta">
+          <button type="button" className="big secondary multi-big">🎭 Choisir un thème</button>
         </Link>
-        <Link href="/multi" data-testid="multi-link">
-          <button type="button" className="big secondary theme-btn">👥 Multijoueur en ligne</button>
+        <Link href="/multi" data-testid="multi-link" className="multi-cta">
+          <button type="button" className="big multi-big">👥 Multijoueur en ligne</button>
         </Link>
 
         <p style={{ marginTop: '1.2rem' }}>

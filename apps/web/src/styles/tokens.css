@@ -771,3 +771,7 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
 .ranking td { padding: 0.45rem 0.5rem; border-bottom: 1px solid #2a1d3f; }
 .ranking tr.me td { color: #ffe08a; font-weight: 700; }
 .prompt-label { color: var(--text-dim); font-size: 0.95rem; margin: 0.4rem 0 0; }
+
+/* Bouton multijoueur : même largeur et même hauteur que les autres grands boutons */
+.multi-cta { display: block; width: 100%; margin-top: 0.8rem; }
+.multi-big { width: 100%; max-width: none; min-height: 3.6rem; font-size: 1.25rem; }
