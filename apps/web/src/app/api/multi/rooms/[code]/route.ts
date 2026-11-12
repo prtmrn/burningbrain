@@ -60,7 +60,18 @@ export async function GET(req: Request, { params }: { params: Promise<{ code: st
     isHost: playerId === meta.hostId,
     phase,
     players,
-    ranking: rankingOf(players, answers),
+    mode: meta.mode === 'brain' ? 'brain' : 'hot',
+    brainGoal: meta.brainGoal ?? 500,
+    showScores: meta.showScores === true,
+    winnerId: meta.winnerId ?? null,
+    myAnswers: answers
+      .filter((x) => x.playerId === playerId)
+      .map((x) => ({ round: x.round, answer: x.answer, tier: x.tier, score: x.score }))
+      .sort((x, y) => x.round - y.round),
+    ranking:
+      meta.mode === 'brain' && meta.showScores !== true && phase.kind !== 'done'
+        ? rankingOf(players, answers).filter((r) => r.playerId === playerId)
+        : rankingOf(players, answers),
     current,
     mine,
     reveal,

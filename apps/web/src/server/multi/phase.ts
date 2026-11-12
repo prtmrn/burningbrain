@@ -14,6 +14,8 @@ export interface RoomTiming {
   previewMs: number;
   roundMs: number;
   startAt: number | null;
+  /** Fin anticipée (objectif atteint en mode Brain) : la partie est terminée à cet instant. */
+  endedAt?: number | null;
 }
 
 export type RoomPhase =
@@ -25,6 +27,7 @@ export type RoomPhase =
 
 export function phaseAt(t: RoomTiming, now: number): RoomPhase {
   if (t.startAt === null) return { kind: 'lobby' };
+  if (t.endedAt !== null && t.endedAt !== undefined) return { kind: 'done' };
   if (now < t.startAt) return { kind: 'countdown', startsAt: t.startAt };
   const len = t.previewMs + t.roundMs;
   const elapsed = now - t.startAt;

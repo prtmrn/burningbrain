@@ -35,3 +35,12 @@ describe('makeCode', () => {
     }
   });
 });
+
+describe('fin anticipée (Brain : objectif atteint)', () => {
+  it('une partie terminée par l\'objectif est en phase done, même pendant une manche', () => {
+    expect(phaseAt({ ...T, endedAt: 12_000 }, 13_000)).toEqual({ kind: 'done' });
+  });
+  it('sans fin anticipée, le calendrier normal s\'applique', () => {
+    expect(phaseAt({ ...T, endedAt: null }, 11_000)).toEqual({ kind: 'preview', round: 0, endsAt: 13_000 });
+  });
+});

@@ -10,6 +10,7 @@ import {
   TIER_POINTS,
   drawThemed,
   validateAnswer,
+  validateListing,
   type TierId,
 } from '@hotbrain/engine';
 import { configFor } from '../../config';
@@ -30,6 +31,12 @@ export interface RoomMeta {
   hostId: string;
   createdAt: number;
   startAt: number | null;
+  /** 'hot' (une réponse par question) ou 'brain' (plusieurs réponses, neurones). */
+  mode?: 'hot' | 'brain';
+  brainGoal?: number;
+  showScores?: boolean;
+  endedAt?: number | null;
+  winnerId?: string | null;
 }
 
 export interface PlayerRec {
@@ -49,7 +56,8 @@ export interface AnswerRec {
 }
 
 export type Verdict =
-  | { kind: 'accept'; answer: string; tier: TierId; score: number }
+  | { kind: 'accept'; answer: string; tier: TierId; score: number; total?: number }
+  | { kind: 'duplicate' }
   | { kind: 'already' }
   | { kind: 'rejected' }
   | { kind: 'none' }
@@ -78,6 +86,8 @@ export async function getMeta(kv: Kv, code: string): Promise<RoomMeta | null> {
   return getJson<RoomMeta>(kv, metaKey(code.toUpperCase()));
 }
 
+export const BRAIN_GOALS = [100, 200, 300, 500, 750, 1000] as const;
+
 export interface CreateInput {
   name: string;
   lang: string;
@@ -85,13 +95,17 @@ export interface CreateInput {
   rounds: number;
   roundSec: number;
   origin: string;
+  mode?: 'hot' | 'brain';
+  brainGoal?: number;
+  showScores?: boolean;
 }
 
 export async function createRoom(input: CreateInput): Promise<{ code: string; playerId: string }> {
   const kv = getKv();
   if (input.lang !== 'fr' && input.theme !== 'general') throw new Error('Ce thème n\'est pas disponible dans cette langue');
   const bank = await loadBank(input.theme, input.origin);
-  const cfg = configFor('hot', { rounds: input.rounds, roundSec: input.roundSec });
+  const mode: 'hot' | 'brain' = input.mode === 'brain' ? 'brain' : 'hot';
+  const cfg = configFor(mode, { rounds: input.rounds, roundSec: input.roundSec });
   if (bank.prompts.length < input.rounds) throw new Error('banque trop petite pour ce nombre de questions');
   let code = '';
   for (let i = 0; i < 6; i++) {
@@ -108,12 +122,17 @@ export async function createRoom(input: CreateInput): Promise<{ code: string; pl
     theme: input.theme,
     rounds: input.rounds,
     roundSec: input.roundSec,
-    previewMs: cfg.modes.hot.previewMs,
-    roundMs: cfg.modes.hot.roundMs,
+    previewMs: cfg.modes[mode].previewMs,
+    roundMs: cfg.modes[mode].roundMs,
     promptIds: [],
     hostId: playerId,
     createdAt: Date.now(),
     startAt: null,
+    mode,
+    brainGoal: BRAIN_GOALS.includes(input.brainGoal as never) ? (input.brainGoal as number) : 500,
+    showScores: input.showScores === true,
+    endedAt: null,
+    winnerId: null,
   };
   await setJson(kv, metaKey(code), meta);
   await kv.cmd(['HSET', playersKey(code), playerId, JSON.stringify({ id: playerId, name: cleanName(input.name), lang: input.lang })]);
@@ -153,10 +172,11 @@ export async function startRoom(code: string, playerId: string, origin: string):
   // Règle : les questions très françaises ne sortent que dans un salon 100 % français.
   const allowed = new Set(allowedPromptIds(bank.prompts.map((p) => p.id), langs));
   const pool = { ...bank, prompts: bank.prompts.filter((p) => allowed.has(p.id)) };
-  const cfg = configFor('hot', { rounds: meta.rounds, roundSec: meta.roundSec });
+  const mode: 'hot' | 'brain' = meta.mode === 'brain' ? 'brain' : 'hot';
+  const cfg = configFor(mode, { rounds: meta.rounds, roundSec: meta.roundSec });
   if (pool.prompts.length < meta.rounds) return { error: 'Pas assez de questions pour ce salon' };
   const seed = Math.floor(rand() * 4294967296);
-  const promptIds = drawThemed(meta.theme, 'hot', pool, [], seed, cfg);
+  const promptIds = drawThemed(meta.theme, mode, pool, [], seed, cfg);
   await setJson(kv, metaKey(c), { ...meta, promptIds, startAt: Date.now() + COUNTDOWN_MS });
   return { ok: true };
 }
@@ -190,6 +210,8 @@ export async function submitAnswer(
   if (phase.kind !== 'answering') return { kind: 'late' };
   if (now > phase.endsAt) return { kind: 'late' };
 
+  if (meta.mode === 'brain') return submitBrain(kv, c, meta, player, playerId, input, origin, phase.round, phase.endsAt, now);
+
   const field = `${phase.round}:${playerId}`;
   const existing = await kv.cmd(['HGET', answersKey(c), field]);
   if (typeof existing === 'string') return { kind: 'already' };
@@ -215,6 +237,52 @@ export async function submitAnswer(
   const stored = await kv.cmd(['HSETNX', answersKey(c), field, JSON.stringify(rec)]);
   if (stored !== 1) return { kind: 'already' };
   return { kind: 'accept', answer: rec.answer, tier: rec.tier, score: rec.score };
+}
+
+/** Mode Brain : plusieurs réponses par manche, doublons ignorés, objectif de neurones. */
+async function submitBrain(
+  kv: Kv,
+  c: string,
+  meta: RoomMeta,
+  player: PlayerRec,
+  playerId: string,
+  input: string,
+  origin: string,
+  round: number,
+  endsAt: number,
+  now: number,
+): Promise<Verdict> {
+  const bank = await loadBank(meta.theme, origin, player.lang ?? 'fr');
+  const promptId = meta.promptIds[round] as string;
+  const sheet = bank.sheets.get(promptId);
+  const index = bank.indexes.get(promptId);
+  if (!sheet) return { kind: 'rejected' };
+  const all = await getAnswers(kv, c);
+  const mine = all.filter((a) => a.playerId === playerId && a.round === round);
+  const v = validateListing(input, sheet, mine as never, DEFAULT_PREFERENCES, index, MAX_ANSWER_LENGTH);
+  if (v.kind === 'none') return { kind: 'none' };
+  if (v.kind === 'rejected' || v.kind === 'correction') return { kind: 'rejected' };
+  if (v.kind === 'duplicate') return { kind: 'duplicate' };
+  if (now > endsAt) return { kind: 'late' };
+  const entry = v.entry;
+  const rec: AnswerRec = {
+    round,
+    playerId,
+    input: input.slice(0, MAX_ANSWER_LENGTH),
+    answer: entry.answer,
+    tier: entry.tier,
+    score: TIER_POINTS[entry.tier],
+    at: now,
+  };
+  const field = `${round}:${playerId}:${entry.answer}`;
+  const stored = await kv.cmd(['HSETNX', answersKey(c), field, JSON.stringify(rec)]);
+  if (stored !== 1) return { kind: 'duplicate' };
+  const total = all.filter((a) => a.playerId === playerId).reduce((acc, a) => acc + a.score, 0) + rec.score;
+  const goal = meta.brainGoal ?? 500;
+  if (total >= goal && !meta.endedAt) {
+    await setJson(kv, metaKey(c), { ...meta, endedAt: now, winnerId: playerId });
+  }
+  return { kind: 'accept', answer: rec.answer, tier: rec.tier, score: rec.score, total };
 }
 
 export interface RankRow {

@@ -20,6 +20,9 @@ export default function MultiHome() {
   const [theme, setTheme] = useState('general');
   const [rounds, setRounds] = useState(7);
   const [roundSec, setRoundSec] = useState(30);
+  const [mode, setMode] = useState<'hot' | 'brain'>('hot');
+  const [brainGoal, setBrainGoal] = useState(500);
+  const [showScores, setShowScores] = useState(false);
   const [code, setCode] = useState('');
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -30,7 +33,7 @@ export default function MultiHome() {
     const r = await fetch('/api/multi/rooms', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ name, theme, rounds, roundSec, lang }),
+      body: JSON.stringify({ name, theme, rounds, roundSec, lang, mode, brainGoal, showScores }),
     });
     const j = (await r.json()) as { code?: string; playerId?: string; error?: string };
     setBusy(false);
@@ -84,6 +87,28 @@ export default function MultiHome() {
               ))}
             </select>
           </label>
+          <div className="choice-row" role="radiogroup" aria-label={t('multi.mode.label')}>
+            {(['hot', 'brain'] as const).map((m) => (
+              <button key={m} type="button" role="radio" aria-checked={mode === m} className={`choice${mode === m ? ' on' : ''}`} onClick={() => setMode(m)}>
+                {m === 'hot' ? t('multi.mode.boiling') : t('multi.mode.brain')}
+              </button>
+            ))}
+          </div>
+          {mode === 'brain' && (
+            <>
+              <div className="choice-row" role="radiogroup" aria-label={t('multi.goal.label')}>
+                {[100, 200, 300, 500, 750, 1000].map((g) => (
+                  <button key={g} type="button" role="radio" aria-checked={brainGoal === g} className={`choice${brainGoal === g ? ' on' : ''}`} onClick={() => setBrainGoal(g)} data-testid={`goal-${g}`}>
+                    {g}
+                  </button>
+                ))}
+              </div>
+              <label className="field" style={{ flexDirection: 'row', alignItems: 'center', gap: '0.5rem' }}>
+                <input type="checkbox" checked={showScores} onChange={(e) => setShowScores(e.target.checked)} data-testid="show-scores" />
+                <span>{t('multi.showscores')}</span>
+              </label>
+            </>
+          )}
           <div className="choice-row" role="radiogroup" aria-label={t('multi.rounds.label')}>
             {[3, 5, 7, 10].map((n) => (
               <button key={n} type="button" role="radio" aria-checked={rounds === n} className={`choice${rounds === n ? ' on' : ''}`} onClick={() => setRounds(n)}>

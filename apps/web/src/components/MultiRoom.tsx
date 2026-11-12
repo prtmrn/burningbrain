@@ -34,6 +34,11 @@ interface RoomState {
   current: { round: number; text: string } | null;
   mine: Record<string, { answer: string; tier: string; score: number }>;
   reveal: { round: number; text: string; entries: { answer: string; tier: string }[] }[] | null;
+  mode?: 'hot' | 'brain';
+  brainGoal?: number;
+  showScores?: boolean;
+  winnerId?: string | null;
+  myAnswers?: { round: number; answer: string; tier: string; score: number }[];
 }
 
 interface Verdict {
@@ -45,6 +50,7 @@ interface Verdict {
 
 const VERDICT_KEY: Record<string, string> = {
   already: 'multi.v.already',
+  duplicate: 'multi.v.duplicate',
   rejected: 'multi.v.rejected',
   late: 'multi.v.late',
   waiting: 'multi.v.waiting',
@@ -205,6 +211,7 @@ export function MultiRoom({ code }: { code: string }) {
   const secs = (ms: number): number => Math.max(0, Math.ceil(ms / 1000));
   const phase = state.phase;
   const mineFound = state.current ? state.mine[state.current.round] : undefined;
+  const myTotal = (state.myAnswers ?? []).reduce((acc, a) => acc + a.score, 0);
 
   return (
     <>
@@ -248,7 +255,57 @@ export function MultiRoom({ code }: { code: string }) {
           </section>
         )}
 
-        {phase.kind === 'answering' && state.current && (
+        {phase.kind === 'answering' && state.current && state.mode === 'brain' && (
+          <section data-testid="multi-answering">
+            <p className="prompt-label">{t('multi.question', { n: state.current.round + 1, total: state.rounds })} · {secs(phase.endsAt - serverNow)} s</p>
+            <h2 className="prompt-text">{state.current.text}</h2>
+            <p className="lead" data-testid="multi-brain-total">
+              {t('multi.brain.total', { total: myTotal, goal: state.brainGoal ?? 500 })}
+            </p>
+            <form onSubmit={submit} className="answer-row">
+              <input
+                type="text"
+                value={draft}
+                maxLength={256}
+                onChange={(e) => setDraft(e.target.value)}
+                placeholder={t('brain.placeholder')}
+                autoComplete="off"
+                autoCorrect="off"
+                spellCheck={false}
+                data-testid="multi-input"
+                autoFocus
+              />
+              <button type="submit" className="answer-submit" disabled={draft.trim() === ''} data-testid="multi-submit">
+                {t('multi.submit')}
+              </button>
+            </form>
+            {verdict && verdict.round === state.current.round && VERDICT_KEY[verdict.kind] && (
+              <p className="feedback rejected" role="status">{t(VERDICT_KEY[verdict.kind]!)}</p>
+            )}
+            <div className="found-list" aria-label={t('multi.brain.yours')}>
+              {[...(state.myAnswers ?? [])].filter((a) => a.round === state.current!.round).reverse().map((a) => (
+                <span key={a.answer} className="sheet-chip yours" title={t(`tier.${a.tier}`)}>
+                  {TIER_ICONS[a.tier as keyof typeof TIER_ICONS]} {a.answer} <em>+{a.score}</em>
+                </span>
+              ))}
+            </div>
+            {state.showScores && (
+              <table className="ranking" data-testid="multi-live-ranking">
+                <tbody>
+                  {state.ranking.map((row, i) => (
+                    <tr key={row.playerId} className={row.playerId === me.playerId ? 'me' : undefined}>
+                      <td>{i + 1}</td>
+                      <td>{row.name}</td>
+                      <td>{row.score} {t('brain.summary.stats.unit')}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            )}
+          </section>
+        )}
+
+        {phase.kind === 'answering' && state.current && state.mode !== 'brain' && (
           <section data-testid="multi-answering">
             <p className="prompt-label">{t('multi.question', { n: state.current.round + 1, total: state.rounds })} · {secs(phase.endsAt - serverNow)} s</p>
             <h2 className="prompt-text">{state.current.text}</h2>
@@ -283,6 +340,11 @@ export function MultiRoom({ code }: { code: string }) {
 
         {phase.kind === 'done' && (
           <section data-testid="multi-done">
+            {state.winnerId && (
+              <p className="lead" data-testid="multi-winner">
+                {t('multi.winner', { name: state.ranking.find((r) => r.playerId === state.winnerId)?.name ?? '' })}
+              </p>
+            )}
             <h1>{t('multi.ranking')}</h1>
             <table className="ranking" data-testid="multi-ranking">
               <tbody>
