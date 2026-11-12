@@ -9,12 +9,12 @@ PROMPTS = [
  {'id': 'spo-individuels-07', 'text': "Nomme un circuit ayant accueilli un Grand Prix du championnat du monde de Formule 1"},
  {'id': 'spo-individuels-08', 'text': "Nomme une écurie ou un constructeur ayant engagé des voitures en championnat du monde de Formule 1"},
  {'id': 'spo-individuels-09', 'text': "Nomme un pilote champion du monde de vitesse moto (MotoGP/500 cm³, Moto2/250 cm³, Moto3/125 cm³, 350 ou 50/80 cm³)"},
- {'id': 'spo-individuels-10', 'text': "Nomme un pilote vainqueur du classement général des 24 Heures du Mans"},
- {'id': 'spo-individuels-11', 'text': "Nomme une technique de judo par son nom japonais (projection, immobilisation, clé ou étranglement)"},
+ {'id': 'spo-individuels-10', 'text': "Nomme une course, un rallye ou un championnat de sport automobile ou moto"},
+ {'id': 'spo-individuels-11', 'text': "Nomme un joueur ou une joueuse de tennis français(e) professionnel(le), actuel(le) ou passé(e)"},
  {'id': 'spo-individuels-12', 'text': "Nomme une station ou un site ayant accueilli une épreuve de Coupe du monde de ski alpin"},
  {'id': 'spo-individuels-13', 'text': "Nomme une épreuve d'athlétisme (piste, sauts, lancers, épreuves combinées, route ou marche), actuelle ou disparue"},
  {'id': 'spo-individuels-14', 'text': "Nomme un boxeur ou une boxeuse ayant été champion(ne) du monde professionnel"},
- {'id': 'spo-individuels-15', 'text': "Nomme un parcours de golf ayant accueilli un tournoi majeur masculin ou une Ryder Cup"},
+ {'id': 'spo-individuels-15', 'text': "Nomme un mot ou une expression du vocabulaire du cyclisme sur route"},
 ]
 
 T = {}
@@ -77,10 +77,10 @@ T['spo-individuels-07'] = {
  't1': ["Monaco=Monte-Carlo", "Silverstone", "Monza", "Spa-Francorchamps=Spa", "Suzuka", "Interlagos", "Magny-Cours", "Paul-Ricard=Le Castellet", "Imola"],
  't2': ["Caesars Palace"],
  't3': ["Hockenheim=Hockenheimring", "Nürburgring", "Hungaroring", "Circuit de Barcelone-Catalogne=Montmeló/Barcelone", "Zandvoort", "Circuit Gilles-Villeneuve=Montréal", "Indianapolis", "Circuit des Amériques=Austin/COTA", "Autodromo Hermanos Rodríguez=Mexico", "Sakhir=Bahreïn", "Yas Marina=Abou Dabi", "Djeddah", "Losail=Lusail/Qatar", "Bakou", "Shanghai", "Sepang", "Marina Bay=Singapour", "Albert Park=Melbourne", "Red Bull Ring=Spielberg/A1-Ring/Österreichring", "Istanbul Park", "Sotchi", "Miami", "Las Vegas"],
- 't4': ["Jerez", "Estoril", "Watkins Glen", "Long Beach", "Detroit", "Phoenix", "Dallas", "Fuji", "Aida=TI Circuit/Okayama", "Adélaïde", "Kyalami", "Jacarepaguá", "Buenos Aires", "Brands Hatch", "Donington", "Aintree", "Reims-Gueux=Reims", "Rouen-les-Essarts", "Charade=Clermont-Ferrand", "Dijon-Prenois", "Zolder", "Nivelles", "Anderstorp", "Jarama", "Montjuïc", "Valence", "Yeongam=Corée", "Buddh=Inde", "Portimão=Algarve", "Mugello", "Mosport", "Mont-Tremblant", "AVUS", "Sebring", "Riverside", "Ain-Diab=Casablanca", "Monsanto", "Boavista", "Zeltweg", "East London", "Bugatti=Le Mans", "Pedralbes", "Bremgarten=Berne"],
+ 't4': ["Jerez", "Estoril", "Watkins Glen", "Long Beach", "Detroit", "Phoenix", "Dallas", "Fuji", "Aida=TI Circuit/Okayama", "Adélaïde", "Kyalami", "Jacarepaguá", "Buenos Aires", "Brands Hatch", "Donington", "Aintree", "Reims-Gueux=Reims", "Rouen-les-Essarts", "Charade=Clermont-Ferrand", "Dijon-Prenois", "Zolder", "Nivelles", "Anderstorp", "Jarama", "Montjuïc", "Valence", "Yeongam=Corée", "Buddh=Inde", "Portimão=Algarve", "Mugello", "Mosport", "Mont-Tremblant", "AVUS", "Sebring", "Riverside", "Bugatti=Le Mans"],
  't6': ["Pescara"],
 }
-T['spo-individuels-07']['t5'] = []
+T['spo-individuels-07']['t5'] = ["Ain-Diab=Casablanca", "Monsanto", "Boavista", "Zeltweg", "East London", "Pedralbes", "Bremgarten=Berne"]
 
 T['spo-individuels-08'] = {
  't1': ["Ferrari", "McLaren", "Williams", "Red Bull", "Mercedes", "Renault", "Lotus", "Alpine"],
@@ -101,21 +101,21 @@ T['spo-individuels-09'] = {
 }
 
 T['spo-individuels-10'] = {
- 't1': ["Jacky Ickx=Ickx", "Tom Kristensen=Kristensen", "Henri Pescarolo=Pescarolo", "Fernando Alonso", "Derek Bell", "Sébastien Buemi=Buemi", "Romain Dumas", "Loïc Duval"],
- 't2': ["Johnny Herbert"],
- 't3': ["Allan McNish=McNish", "Emanuele Pirro", "Frank Biela", "Rinaldo Capello=Dindo Capello", "Marco Werner", "André Lotterer=Lotterer", "Benoît Tréluyer=Tréluyer", "Marcel Fässler", "Timo Bernhard", "Neel Jani", "Marc Lieb", "Earl Bamber", "Brendon Hartley", "Kazuki Nakajima", "Kamui Kobayashi", "Mike Conway", "José María López=Pechito López", "Nico Hülkenberg=Hülkenberg", "Yannick Dalmas", "Graham Hill", "Bruce McLaren", "Chris Amon", "Dan Gurney", "A.J. Foyt", "Jochen Rindt", "Phil Hill", "Olivier Gendebien", "Mike Hawthorn", "Didier Pironi", "Hans-Joachim Stuck", "Klaus Ludwig", "Alexander Wurz"],
- 't4': ["Ryo Hirakawa", "Alessandro Pier Guidi", "James Calado", "Antonio Giovinazzi", "Nicklas Nielsen", "Miguel Molina", "Antonio Fuoco", "Nick Tandy", "Pierluigi Martini", "Joachim Winkelhock", "J.J. Lehto", "Masanori Sekiya", "Gijs van Lennep", "Helmut Marko", "Masten Gregory", "Hans Herrmann", "Richard Attwood", "Jackie Oliver", "Pedro Rodríguez", "Lucien Bianchi", "Jean-Pierre Jaussaud", "Gérard Larrousse", "Jean Rondeau", "Hurley Haywood", "Al Holbert", "Jürgen Barth", "Vern Schuppan", "Jan Lammers", "Andy Wallace", "Jochen Mass", "Manuel Reuter", "Martin Brundle", "John Nielsen", "Price Cobb", "Volker Weidler", "Bertrand Gachot", "Derek Warwick", "Mark Blundell", "Geoff Brabham", "Christophe Bouchut", "Éric Hélary", "Mauro Baldi", "Davy Jones", "Michele Alboreto", "Stefan Johansson", "Laurent Aïello", "Stéphane Ortelli", "Guy Smith", "Seiji Ara", "Marc Gené", "David Brabham", "Mike Rockenfeller", "Ludovico Scarfiotti", "Lorenzo Bandini", "Nino Vaccarella", "Jean Guichet", "Paul Frère", "Carroll Shelby", "Roy Salvadori", "Ron Flockhart", "Ivor Bueb", "Tony Rolt", "Duncan Hamilton", "Louis Rosier"],
- 't5': ["Robert Kubica=Kubica", "Yifei Ye", "Phil Hanson", "Johnny Dumfries", "Stanley Dickens", "Tazio Nuvolari", "Raymond Sommer", "Woolf Barnato", "Tim Birkin", "Luigi Chinetti"],
- 't6': ["Paolo Barilla"],
+ 't1': ["24 Heures du Mans=24h du Mans/Le Mans", "Formule 1=F1", "Rallye Dakar=Dakar/Paris-Dakar", "Rallye de Monte-Carlo", "Indianapolis 500=Indy 500", "MotoGP", "Championnat du monde des rallyes=WRC", "Bol d'Or", "NASCAR"],
+ 't2': ["Trophée Andros"],
+ 't3': ["IndyCar", "Formule E", "Formule 2=F2", "Formule 3=F3", "Moto2", "Moto3", "Superbike=WSBK", "Championnat du monde d'endurance=WEC", "DTM", "Rallycross", "Supercross", "Motocross", "Tour de France automobile=Tour Auto", "Tourist Trophy=TT de l'île de Man", "Daytona 500", "24 Heures de Spa", "24 Heures de Daytona", "12 Heures de Sebring", "Grand Prix de Monaco", "Enduropale du Touquet=Enduro du Touquet", "Karting", "Course de côte de Pikes Peak=Pikes Peak", "Tour de Corse", "Mille Miglia", "Targa Florio", "Carrera Panamericana"],
+ 't4': ["24 Heures du Nürburgring", "Bathurst 1000", "Grand Prix de Macao", "Championnat du monde d'endurance moto=EWC", "24 Heures motos du Mans", "Enduro", "Trial", "Dragster", "Drift", "Formula Drift", "Championnat d'Europe de Formule 3000=F3000", "GP2", "Formule Renault", "Super Formula", "Super GT", "IMSA", "European Le Mans Series", "Extreme E", "Championnat du monde des voitures de tourisme=WTCC/WTCR", "BTCC", "Supercars", "Championnat de France des rallyes", "Rallye du Portugal", "Rallye de Finlande=Rallye des 1000 lacs", "Rallye Safari", "Rallye de l'Acropole", "Rallye de Suède", "Rallye d'Argentine", "Africa Eco Race", "Rallye du Maroc", "Abu Dhabi Desert Challenge", "Moto-cross des Nations", "Six Jours internationaux d'enduro=ISDE", "Grand Prix de Pau", "Race of Champions", "Porsche Supercup", "Le Mans Classic", "Goodwood Festival of Speed", "Sprint car", "Speedway", "MotoE", "Grand Prix de Macao moto"],
+ 't5': ["Rallye des Pharaons", "Rallye Raid Gazelles=Rallye des Gazelles", "Can-Am", "Tasman Series", "Formula Ford", "World Series by Renault", "A1 Grand Prix", "Superstars", "Dakar Classic", "North West 200"],
+ 't6': ["Paris-Madrid 1903=Paris-Madrid"],
 }
 
 T['spo-individuels-11'] = {
- 't1': ["Seoi-nage", "Uchi-mata", "O-soto-gari", "Ippon-seoi-nage", "Harai-goshi", "Tai-otoshi", "Kesa-gatame", "Tomoe-nage"],
- 't2': ["Kani-basami"],
- 't3': ["O-uchi-gari", "Ko-uchi-gari", "Ko-soto-gari", "O-goshi", "De-ashi-barai", "Okuri-ashi-barai", "Sasae-tsurikomi-ashi", "Hiza-guruma", "Tsurikomi-goshi", "Sode-tsurikomi-goshi", "Koshi-guruma", "Uki-goshi", "Hane-goshi", "Sumi-gaeshi", "Kata-guruma", "Morote-gari", "Ura-nage", "Juji-gatame=Ude-hishigi-juji-gatame", "Kami-shiho-gatame", "Yoko-shiho-gatame", "Tate-shiho-gatame", "Kata-gatame", "Hadaka-jime", "Okuri-eri-jime", "Sankaku-jime"],
- 't4': ["Ko-soto-gake", "Utsuri-goshi", "Ushiro-goshi", "Sumi-otoshi", "Uki-otoshi", "Kuchiki-taoshi", "Kibisu-gaeshi", "Sukui-nage", "Obi-otoshi", "Soto-makikomi", "Uchi-makikomi", "Hane-makikomi", "Tani-otoshi", "Yoko-otoshi", "Yoko-guruma", "Yoko-gake", "Yoko-wakare", "Uki-waza", "O-guruma", "Ashi-guruma", "O-soto-guruma", "O-soto-otoshi", "Harai-tsurikomi-ashi", "Ude-garami", "Waki-gatame", "Hiza-gatame", "Ude-gatame", "Hara-gatame", "Ashi-gatame", "Te-gatame", "Sankaku-gatame", "Kuzure-kesa-gatame", "Kuzure-kami-shiho-gatame", "Ura-gatame", "Makura-kesa-gatame", "Ushiro-kesa-gatame", "Uki-gatame", "Kata-ha-jime", "Kata-te-jime", "Ryote-jime", "Tsukkomi-jime", "Sode-guruma-jime", "Nami-juji-jime", "Gyaku-juji-jime", "Kata-juji-jime", "Tsubame-gaeshi", "O-soto-gaeshi", "O-uchi-gaeshi", "Ko-uchi-gaeshi", "Hane-goshi-gaeshi", "Harai-goshi-gaeshi", "Uchi-mata-gaeshi", "Uchi-mata-sukashi", "Seoi-otoshi", "Ko-uchi-makikomi"],
- 't5': ["Yama-arashi", "Daki-wakare", "Tawara-gaeshi", "Hikikomi-gaeshi", "Ashi-garami", "Uchi-mata-makikomi"],
- 't6': ["Do-jime"],
+ 't1': ["Yannick Noah=Noah", "Amélie Mauresmo=Mauresmo", "Jo-Wilfried Tsonga=Tsonga", "Gaël Monfils=Monfils", "Richard Gasquet=Gasquet", "Henri Leconte=Leconte", "Mary Pierce", "Marion Bartoli=Bartoli", "Gilles Simon", "Caroline Garcia"],
+ 't2': ["Suzanne Lenglen=Lenglen"],
+ 't3': ["Guy Forget=Forget", "Cédric Pioline=Pioline", "Fabrice Santoro=Santoro", "Sébastien Grosjean=Grosjean", "Arnaud Clément", "Nicolas Mahut=Mahut", "Pierre-Hugues Herbert", "Lucas Pouille=Pouille", "Benoît Paire=Paire", "Adrian Mannarino=Mannarino", "Ugo Humbert=Humbert", "Arthur Fils", "Giovanni Mpetshi Perricard=Mpetshi Perricard", "Corentin Moutet=Moutet", "Julien Benneteau=Benneteau", "Jérémy Chardy=Chardy", "Michaël Llodra=Llodra", "Paul-Henri Mathieu", "Kristina Mladenovic=Mladenovic", "Alizé Cornet=Cornet", "Nathalie Tauziat=Tauziat", "René Lacoste=Lacoste", "Henri Cochet", "Jean Borotra=Borotra", "Jacques Brugnon", "Loïs Boisson", "Tatiana Golovin"],
+ 't4': ["Nicolas Escudé", "Arnaud Boetsch", "Thierry Tulasne", "Jean-Philippe Fleurian", "Thierry Champion", "Arnaud Di Pasquale", "Julien Boutter", "Antony Dupuis", "Florent Serra", "Stéphane Robert", "Édouard Roger-Vasselin", "Kenny de Schepper", "Quentin Halys", "Hugo Gaston", "Benjamin Bonzi", "Grégoire Barrère", "Constant Lestienne", "Arthur Rinderknech=Rinderknech", "Arthur Cazaux", "Térence Atmane", "Luca Van Assche", "Harold Mayot", "Pauline Parmentier", "Virginie Razzano", "Nathalie Dechy", "Julie Halard=Julie Halard-Decugis", "Sandrine Testud", "Aravane Rezaï", "Océane Dodin", "Fiona Ferro", "Clara Burel", "Varvara Gracheva", "Léolia Jeanjean", "Diane Parry", "Chloé Paquet", "Émilie Loit", "Alexandra Fusai", "Françoise Dürr", "Pierre Barthes", "François Jauffret", "Patrice Dominguez", "Pascal Portes", "Yvon Petra", "Marcel Bernard", "Pierre Darmon"],
+ 't5': ["Simonne Mathieu", "Julie Coin", "Jonathan Eysseric", "Marc Gicquel", "Josselin Ouanna", "Gianni Mina"],
+ 't6': ["Max Decugis"],
 }
 
 T['spo-individuels-12'] = {
@@ -146,10 +146,10 @@ T['spo-individuels-14'] = {
 }
 
 T['spo-individuels-15'] = {
- 't1': ["Augusta National=Augusta", "St Andrews=Old Course", "Carnoustie", "Pebble Beach", "Golf National", "Valderrama", "The Belfry"],
- 't2': ["Marco Simone"],
- 't3': ["Muirfield", "Royal Troon=Troon", "Turnberry", "Royal Birkdale=Birkdale", "Royal Lytham & St Annes=Royal Lytham", "Royal St George's=Sandwich", "Royal Liverpool=Hoylake", "Royal Portrush=Portrush", "Pinehurst", "Oakmont", "Shinnecock Hills=Shinnecock", "Winged Foot", "Merion", "Bethpage Black=Bethpage", "Olympic Club", "Torrey Pines", "Baltusrol", "Oakland Hills", "Medinah", "Valhalla", "Whistling Straits", "Kiawah Island=Kiawah", "Hazeltine", "Southern Hills", "Celtic Manor", "Gleneagles", "K Club", "Muirfield Village", "The Country Club=Brookline"],
- 't4': ["Prestwick", "Bellerive", "Quail Hollow", "Chambers Bay", "Erin Hills", "Congressional", "Los Angeles Country Club", "Harding Park=TPC Harding Park", "Inverness", "Oak Hill", "Firestone", "Cherry Hills", "Olympia Fields", "Riviera", "Atlanta Athletic Club", "Sahalee", "Crooked Stick", "Kemper Lakes", "Shoal Creek", "Wentworth", "Walton Heath", "Lindrick", "PGA National", "Champions Golf Club", "Laurel Valley", "East Lake"],
- 't5': ["Newport Country Club", "Myopia Hunt Club", "Scioto", "Worcester Country Club", "Moortown", "Southport & Ainsdale", "Ganton", "Royal Cinque Ports=Deal", "Prince's", "Thunderbird", "Eldorado"],
- 't6': ["Musselburgh"],
+ 't1': ["Peloton", "Échappée", "Maillot jaune", "Sprint", "Contre-la-montre=chrono", "Étape", "Grimpeur", "Col", "Lanterne rouge"],
+ 't2': ["Chasse-patate"],
+ 't3': ["Maillot à pois", "Maillot vert", "Maillot blanc", "Classement général", "Prologue", "Rouleur", "Sprinteur", "Baroudeur", "Puncheur", "Équipier=gregario", "Leader", "Directeur sportif", "Voiture-balai", "Flamme rouge", "Bordure", "Éventail", "Fringale", "Défaillance", "Ravitaillement", "Musette", "Bidon", "Dérailleur", "Braquet", "Pignon", "Plateau", "Cadre", "Guidon", "Selle", "Cuissard", "Abandon", "Crevaison", "Chute", "Bonification", "Hors délais", "Gruppetto=autobus", "Sprint intermédiaire", "Col hors catégorie=hors catégorie", "Attaque", "Démarrage", "Danseuse", "Jour de repos", "Dossard", "Oreillette", "Arrivée au sommet", "Contre-la-montre par équipes", "Grand Tour", "Classique", "Monument"],
+ 't4': ["Aspiration=abri", "Relais", "Train", "Poisson-pilote", "Contre-attaque", "Prix de la combativité=super-combatif", "Souvenir Henri-Desgrange", "Capteur de puissance", "Pédale automatique", "Cale-pied", "Roue lenticulaire", "Prolongateur", "Voiture suiveuse", "Ardoisier", "Moto-caméra", "Coup de bordure", "Mettre une mine", "Faire l'élastique", "Prendre un bon de sortie", "Coureur complet", "Dépanneur", "Soigneur", "Gamelle", "Neutralisation", "Départ fictif", "Départ réel", "Pavés", "Secteur pavé", "Rampe de lancement"],
+ 't5': ["Jour sans", "Coup de bambou", "Mur", "Échappée matinale"],
+ 't6': ["Pot belge"],
 }

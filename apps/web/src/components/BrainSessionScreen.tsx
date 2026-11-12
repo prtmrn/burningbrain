@@ -6,17 +6,16 @@
 // rareté, les doublons sont ignorés. Fin : récolte (trouvées / manquées).
 // ─────────────────────────────────────────────────────────────
 import { useEffect } from 'react';
-import { sheetCeiling, type BrainDiveState, type LoadedBank, type TierId } from '@hotbrain/engine';
+import { sheetCeiling, type BrainDiveState, type GameConfig, type LoadedBank, type TierId } from '@hotbrain/engine';
 import type { DiveSession } from '../hooks/useDiveSession';
 import { useSoundPref } from '../hooks/useSoundPref';
-import { MILESTONES, TIER_ICONS, TIER_LABELS } from '../content';
-import { hotbrainConfig } from '../config';
+import { TIER_ICONS, TIER_LABELS } from '../content';
+import { BRAIN_GOAL, hotbrainConfig } from '../config';
 import { playMiss, playTier } from '../sound';
-import { Thermometer } from './Thermometer';
 import { PromptCard } from './PromptCard';
 import { AnswerInput } from './AnswerInput';
 import { CountdownBar } from './CountdownBar';
-import { BrainStage } from './BrainStage';
+import { BrainMeter } from './BrainMeter';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
 
@@ -28,6 +27,7 @@ export interface BrainSessionScreenProps {
   themeIcon: string;
   dayLabel: string;
   muted?: boolean;
+  config?: GameConfig;
   onExit(): void;
 }
 
@@ -41,6 +41,7 @@ export function BrainSessionScreen({
   themeIcon,
   dayLabel,
   muted = false,
+  config = hotbrainConfig,
   onExit,
 }: BrainSessionScreenProps) {
   const s = session.state as BrainDiveState | null;
@@ -51,10 +52,11 @@ export function BrainSessionScreen({
   const live = (s?.currentAnswers ?? []).reduce((a, x) => a + x.score, 0);
   const total = banked + live;
   const lastAccepted = s?.currentAnswers[s.currentAnswers.length - 1];
+  const goal = config.modes.brain.winScore ?? BRAIN_GOAL;
 
   useEffect(() => {
     const root = document.documentElement;
-    root.style.setProperty('--heat', String(Math.min(1, total / 700)));
+    root.style.setProperty('--heat', String(Math.min(1, total / goal)));
     return () => {
       root.style.removeProperty('--heat');
     };
@@ -69,7 +71,7 @@ export function BrainSessionScreen({
   }, [fb?.at]);
 
   if (!s) return null;
-  const cfg = hotbrainConfig.modes.brain;
+  const cfg = config.modes.brain;
   const title = `Brain · ${themeLabel}`;
   const bar = (
     <GameBar
@@ -110,10 +112,12 @@ export function BrainSessionScreen({
         <Embers heat={0.15} />
         <main className="summary panel-screen" data-testid="intro">
           <h1>🧠 Mode Brain</h1>
-          <p className="lead">5 questions · 60 secondes chacune · un maximum de réponses.</p>
+          <p className="lead">
+            {cfg.rounds} questions · {cfg.roundMs / 1000} secondes chacune · un maximum de réponses.
+          </p>
           <p>
-            Enchaîne les réponses : chacune rapporte ses degrés de rareté, les doublons sont
-            ignorés. Plus tu en trouves, plus ton cerveau chauffe.
+            Enchaîne les réponses : chacune rapporte des neurones selon sa rareté, les doublons
+            sont ignorés. Remplis ton cerveau : <strong>{goal} neurones</strong> et la partie est gagnée.
           </p>
           <button type="button" className="big" autoFocus onClick={session.startSession} data-testid="start-button">
             Commencer
@@ -129,16 +133,18 @@ export function BrainSessionScreen({
       return a + (sh ? sheetCeiling(sh) : 0);
     }, 0);
     const found = s.results.reduce((a, r) => a + r.answersGiven.length, 0);
+    const won = banked >= goal;
     return (
       <>
         {bar}
-        <Embers heat={Math.min(1, banked / 700)} />
+        <Embers heat={Math.min(1, banked / goal)} />
         <main className="summary" data-testid="brain-summary">
-          <BrainStage heat={Math.min(1, banked / 700)} />
-          <p className="muted" style={{ marginTop: '2.2rem' }}>Ton cerveau est monté à…</p>
-          <p className="total">{banked} °C</p>
+          <h1 className={`brain-verdict${won ? ' won' : ''}`} data-testid="brain-verdict">
+            {won ? '🧠 Cerveau plein ! Partie gagnée' : 'Cerveau pas encore plein…'}
+          </h1>
+          <BrainMeter value={banked} goal={goal} />
           <p className="lead">
-            {found} réponses trouvées · {ceiling > 0 ? Math.round((100 * banked) / ceiling) : 0} % des degrés possibles
+            {found} réponses trouvées · {ceiling > 0 ? Math.round((100 * banked) / ceiling) : 0} % des neurones possibles
           </p>
           {s.results.map((r) => {
             const sheet = bank.sheets.get(r.promptId);
@@ -148,7 +154,7 @@ export function BrainSessionScreen({
               <article className="round-row" key={r.promptId}>
                 <div className="round-head">
                   <strong>{r.promptText}</strong>
-                  <span className="tier-points">+{r.score} °C</span>
+                  <span className="tier-points">+{r.score} neurones</span>
                 </div>
                 <div className="sheet-reveal">
                   {r.answersGiven.map((a) => (
@@ -201,15 +207,16 @@ export function BrainSessionScreen({
   return (
     <>
       {bar}
-      <Embers heat={total / 700} />
-      <div className="session" data-testid="session-root">
+      <Embers heat={Math.min(1, total / goal)} />
+      <div className="session brain-session" data-testid="session-root">
         <div className="session-main">
           <div className="hud">
-            <span className="score" data-testid="hud-score">{total} °C</span>
+            <span className="score" data-testid="hud-score">{total} / {goal} neurones</span>
             <span className="muted">{s.currentAnswers.length} trouvée{s.currentAnswers.length > 1 ? 's' : ''}</span>
           </div>
-          <BrainStage
-            heat={total / 700}
+          <BrainMeter
+            value={total}
+            goal={goal}
             gain={fb && fb.kind === 'accepted' && fb.score ? { points: fb.score, key: fb.at } : undefined}
           />
           {prompt && (
@@ -230,7 +237,7 @@ export function BrainSessionScreen({
                 <AnswerInput
                   value={s.draft ?? ''}
                   disabled={false}
-                  maxLength={hotbrainConfig.maxAnswerLength}
+                  maxLength={config.maxAnswerLength}
                   onChange={session.editDraft}
                   onSubmit={session.submit}
                   placeholder="Tape une réponse, Entrée, et continue…"
@@ -238,7 +245,7 @@ export function BrainSessionScreen({
               </div>
               {showFb && fb && (
                 <div className={`feedback ${fb.kind}`} role="status" data-testid={`listing-${fb.kind}`}>
-                  {fb.kind === 'accepted' && <>✔ « {fb.input} » +{fb.score} °C</>}
+                  {fb.kind === 'accepted' && <>✔ « {fb.input} » +{fb.score} neurones</>}
                   {fb.kind === 'duplicate' && <>Déjà compté : « {fb.input} »</>}
                   {fb.kind === 'rejected' && <>« {fb.input} » n'est pas reconnu</>}
                   {fb.kind === 'correction' && (
@@ -266,7 +273,6 @@ export function BrainSessionScreen({
             </div>
           )}
         </div>
-        <Thermometer score={Math.min(total, 700)} max={700} milestones={MILESTONES} riseMs={180} />
       </div>
     </>
   );

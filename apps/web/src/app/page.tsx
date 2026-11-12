@@ -27,7 +27,7 @@ export default function HomePage() {
   if (!kv)
     return (
       <main className="summary">
-        <h1>🌡️ HotBrain</h1>
+        <h1>🔥 BurningBrain</h1>
         <p className="muted">Le mercure monte…</p>
       </main>
     );
@@ -50,30 +50,30 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
       <main className="home" data-testid="home">
         <BrainStage heat={0.6} showLabel={false} />
         <h1 className="logo">
-          HOT<span>BRAIN</span>
+          BURNING<span>BRAIN</span>
         </h1>
         <p className="tagline">Le quiz qui fait bouillir ton cerveau.</p>
 
         <section className="mode-cards">
           <article className="mode-card hot">
-            <h2>🔥 Hot</h2>
-            <p>7 questions, 30 s chacune. Une réponse : plus elle est rare, plus ça chauffe.</p>
+            <h2>🔥 Burning</h2>
+            <p>Une seule réponse par question : plus elle est rare, plus ton cerveau brûle.</p>
             {hotStatus === 'played' ? (
               <button type="button" className="big" disabled data-testid="play-hot-disabled">
                 Partie du jour jouée
               </button>
             ) : (
-              <Link href="/hot/daily" data-testid="play-hot">
+              <Link href="/burning/daily" data-testid="play-hot">
                 <button type="button" className="big">▶ Partie du jour · Jour {day}</button>
               </Link>
             )}
-            <Link href="/hot/play" data-testid="play-hot-unlimited">
-              <button type="button" className="big secondary">∞ Illimité</button>
+            <Link href="/burning/play" data-testid="play-hot-unlimited">
+              <button type="button" className="big secondary">Partie Classique</button>
             </Link>
           </article>
           <article className="mode-card brain">
             <h2>🧠 Brain</h2>
-            <p>5 questions, 60 s chacune. Donne un maximum de réponses.</p>
+            <p>Donne un maximum de réponses et remplis ton cerveau : 500 neurones, c'est gagné.</p>
             {brainStatus === 'played' ? (
               <button type="button" className="big" disabled data-testid="play-brain-disabled">
                 Partie du jour jouée
@@ -84,7 +84,7 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
               </Link>
             )}
             <Link href="/brain/play" data-testid="play-brain-unlimited">
-              <button type="button" className="big secondary">∞ Illimité</button>
+              <button type="button" className="big secondary">Partie Classique</button>
             </Link>
           </article>
         </section>

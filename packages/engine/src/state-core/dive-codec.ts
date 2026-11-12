@@ -132,7 +132,7 @@ function validateBrainRound(x: unknown): x is BrainRoundResult {
   }
   const sum = (r['answersGiven'] as AcceptedAnswer[]).reduce((acc, a) => acc + a.score, 0);
   if (r['score'] !== sum) return false;
-  if (!['timeout', 'sheet-exhausted', 'abandoned'].includes(r['endReason'] as string)) return false;
+  if (!['timeout', 'sheet-exhausted', 'abandoned', 'won'].includes(r['endReason'] as string)) return false;
   return true;
 }
 
@@ -196,10 +196,10 @@ export function validateCompletion(x: unknown): x is Completion {
     }
     const sum = results.reduce((acc, r) => acc + r.score, 0);
     if (c['score'] !== sum) return false;
-    if (typeof c['score'] !== 'number' || (c['score'] as number) < 0 || (c['score'] as number) > MAX_HOT_SCORE) {
+    if (typeof c['score'] !== 'number' || (c['score'] as number) < 0 || (c['score'] as number) > Math.max(MAX_HOT_SCORE, results.length * 100)) {
       return false;
     }
-    if (c['endedBy'] === 'completed' && results.length !== 7) return false;
+    if (c['endedBy'] === 'completed' && (results.length < 1 || results.length > 20)) return false; // rounds réglables (D-30)
   } else {
     if (!Array.isArray(c['results']) || !c['results'].every(validateBrainRound)) return false;
     const results = c['results'] as BrainRoundResult[];
@@ -214,7 +214,7 @@ export function validateCompletion(x: unknown): x is Completion {
     if (!isInt(totals['duplicatesIgnored']) || (totals['duplicatesIgnored'] as number) < 0) {
       return false;
     }
-    if (c['endedBy'] === 'completed' && results.length !== 5) return false;
+    if (c['endedBy'] === 'completed' && (results.length < 1 || results.length > 20)) return false; // rounds réglables, victoire à 500 (D-30)
   }
   return true;
 }

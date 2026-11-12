@@ -4,7 +4,7 @@
     {
       "name": "hotbrain-web",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev", "--prefix", "hotbrain", "--workspace", "@hotbrain/web", "--", "--port", "3005"],
+      "runtimeArgs": ["run", "dev", "--workspace", "@hotbrain/web", "--", "--port", "3005"],
       "port": 3005
     }
   ]

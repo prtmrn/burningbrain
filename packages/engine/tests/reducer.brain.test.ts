@@ -164,4 +164,24 @@ describe('reducer brain', () => {
     expect(s.duplicatesIgnored).toBe(1);
     expect(s.currentAnswers).toHaveLength(1);
   });
+
+  it('D-30 — victoire : le cerveau plein (winScore) termine la partie, gagnée', () => {
+    const { ctx, drive } = setupBrain('art');
+    const winCtx = {
+      ...ctx,
+      config: { ...ctx.config, modes: { ...ctx.config.modes, brain: { ...ctx.config.modes.brain, winScore: 90 } } },
+    };
+    const R = (st: BrainDiveState, ev: GameEvent): BrainDiveState => gameReducer(st, ev, winCtx) as BrainDiveState;
+    let s = startListing(R);
+    s = R(s, { type: 'SUBMIT', now: 4_000, input: 'Mozart' }); // 10
+    expect(s.phase).toBe('listing');
+    s = R(s, { type: 'SUBMIT', now: 5_000, input: 'Vivaldi' }); // +60 = 70
+    expect(s.phase).toBe('listing');
+    s = R(s, { type: 'SUBMIT', now: 6_000, input: 'Bach' }); // +30 = 100 ≥ 90
+    expect(s.phase).toBe('done');
+    expect(s.results).toHaveLength(1);
+    expect(s.results[0]?.endReason).toBe('won');
+    expect(drive.completions).toHaveLength(1);
+    expect((drive.completions[0] as BrainCompletion).endedBy).toBe('completed');
+  });
 });

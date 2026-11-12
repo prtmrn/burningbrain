@@ -6,7 +6,7 @@
 // (T_FEEDBACK auto-avance) → round suivant → synthèse.
 // ─────────────────────────────────────────────────────────────
 import { useEffect, type CSSProperties } from 'react';
-import type { HotCompletion, HotDiveState, LoadedBank } from '@hotbrain/engine';
+import type { GameConfig, HotCompletion, HotDiveState, LoadedBank } from '@hotbrain/engine';
 import type { DiveSession } from '../hooks/useDiveSession';
 import { MILESTONES } from '../content';
 import { riseDurationMs, T_FEEDBACK } from '../motion';
@@ -34,6 +34,8 @@ export interface SessionScreenProps {
   themeIcon: string;
   /** Préférence « son coupé » (prefs.muted). */
   muted?: boolean;
+  /** D-30 : réglages de la partie (rounds, temps). */
+  config?: GameConfig;
   onExit(): void;
 }
 
@@ -61,6 +63,7 @@ export function SessionScreen({
   themeLabel,
   themeIcon,
   muted = false,
+  config = hotbrainConfig,
   onExit,
 }: SessionScreenProps) {
   const s = session.state as HotDiveState | null;
@@ -101,7 +104,7 @@ export function SessionScreen({
 
   if (!s) return null;
 
-  const cfg = hotbrainConfig.modes.hot;
+  const cfg = config.modes.hot;
   const score = s.results.reduce((acc, r) => acc + r.score, 0);
   const roundTotal = cfg.rounds;
   const prompt = bank.prompts.find((p) => p.id === promptIds[s.roundIndex]);
@@ -110,7 +113,7 @@ export function SessionScreen({
   if (s.pausedAt !== undefined) {
     return (
       <>
-        <GameBar icon={themeIcon} title={`Hot · ${themeLabel}`} subtitle={dayLabel} />
+        <GameBar icon={themeIcon} title={`Burning · ${themeLabel}`} subtitle={dayLabel} />
         <main className="summary panel-screen" data-testid="paused">
           <h1>Pause</h1>
           <p>Le chrono est arrêté tant que tu n'es pas revenu.</p>
@@ -126,11 +129,11 @@ export function SessionScreen({
   if (phase === 'intro') {
     return (
       <>
-        <GameBar icon={themeIcon} title={`Hot · ${themeLabel}`} subtitle={dayLabel} />
+        <GameBar icon={themeIcon} title={`Burning · ${themeLabel}`} subtitle={dayLabel} />
         <Embers heat={0.15} />
         <main className="summary panel-screen" data-testid="intro">
-          <h1>🔥 Mode Hot</h1>
-          <p className="lead">7 questions · 30 secondes chacune · une seule réponse.</p>
+          <h1>🔥 Mode Burning</h1>
+          <p className="lead">{cfg.rounds} questions · {cfg.roundMs / 1000} secondes chacune · une seule réponse.</p>
           <p>
             Ta première idée vaut peu de degrés : vise la réponse que presque personne ne
             tentera. Si tu sèches, réessaie autant que tu veux avant la fin du chrono.
@@ -168,7 +171,7 @@ export function SessionScreen({
     <>
       <GameBar
         icon={themeIcon}
-        title={`Hot · ${themeLabel}`}
+        title={`Burning · ${themeLabel}`}
         subtitle={dayLabel}
         right={
           <span className="round-pill">

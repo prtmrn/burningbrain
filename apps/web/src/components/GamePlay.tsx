@@ -20,7 +20,9 @@ import {
   type ReducerContext,
   type SessionMeta,
 } from '@hotbrain/engine';
-import { hotbrainConfig } from '../config';
+import { hotbrainConfig, configFor, type GameSetup } from '../config';
+import { GameSetupScreen } from './GameSetupScreen';
+import type { GameConfig } from '@hotbrain/engine';
 import { createLocalStorageKV, type EnumerableKV } from '../state/local-storage-kv';
 import { dailyStatus, getStats } from '../state/stats-store';
 import { loadHistory } from '../state/history-store';
@@ -39,6 +41,7 @@ export type PlayKindUI = 'daily' | 'unlimited';
 interface PlaySeed {
   id: string;
   seed: number;
+  setup?: GameSetup;
 }
 const playKey = (mode: GameMode, theme: string): string => `hotbrain:play-session:v1:${mode}:${theme}`;
 
@@ -64,6 +67,14 @@ function readPlaySeed(kv: EnumerableKV, mode: GameMode, theme: string): PlaySeed
     /* stockage plein ou privé */
   }
   return fresh;
+}
+function savePlaySetup(kv: EnumerableKV, mode: GameMode, theme: string, setup: GameSetup): void {
+  const cur = readPlaySeed(kv, mode, theme);
+  try {
+    kv.setItem(playKey(mode, theme), JSON.stringify({ ...cur, setup }));
+  } catch {
+    /* ignoré */
+  }
 }
 function forgetPlaySeed(kv: EnumerableKV, mode: GameMode, theme: string): void {
   try {
@@ -133,7 +144,7 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
     };
   }, [theme.id, theme.label]);
 
-  const modeLabel = mode === 'hot' ? 'Hot' : 'Brain';
+  const modeLabel = mode === 'hot' ? 'Burning' : 'Brain';
   if (error || !bank) {
     return (
       <>
@@ -159,8 +170,8 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
             <p data-testid="reset-countdown">{resetLabel(nowWall)}</p>
             <p>Meilleure température : {getStats(kv, today).bestScore} °C</p>
             <p>
-              <a href={mode === 'hot' ? '/hot/play' : '/brain/play'}>
-                <button type="button" className="big">Jouer en illimité</button>
+              <a href={mode === 'hot' ? '/burning/play' : '/brain/play'}>
+                <button type="button" className="big">Partie Classique</button>
               </a>
             </p>
           </main>
@@ -168,7 +179,30 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
       );
     }
   }
-  return <Session kv={kv} bank={bank} theme={theme} mode={mode} kind={kind} />;
+  return <SessionGate kv={kv} bank={bank} theme={theme} mode={mode} kind={kind} />;
+}
+
+/** D-30 : la partie classique commence par le choix des réglages. */
+function SessionGate(props: { kv: EnumerableKV; bank: LoadedBank; theme: ThemeInfo; mode: GameMode; kind: PlayKindUI }) {
+  const { kv, theme, mode, kind } = props;
+  const [setup, setSetup] = useState<GameSetup | null>(() =>
+    kind === 'unlimited' ? (readPlaySeed(kv, mode, theme.id).setup ?? null) : null,
+  );
+  if (kind === 'daily') return <Session {...props} config={hotbrainConfig} />;
+  if (!setup) {
+    return (
+      <GameSetupScreen
+        mode={mode}
+        themeLabel={theme.label}
+        themeIcon={theme.icon}
+        onStart={(s) => {
+          savePlaySetup(kv, mode, theme.id, s);
+          setSetup(s);
+        }}
+      />
+    );
+  }
+  return <Session {...props} config={configFor(mode, setup)} />;
 }
 
 function Session({
@@ -177,12 +211,14 @@ function Session({
   theme,
   mode,
   kind,
+  config,
 }: {
   kv: EnumerableKV;
   bank: LoadedBank;
   theme: ThemeInfo;
   mode: GameMode;
   kind: PlayKindUI;
+  config: GameConfig;
 }) {
   const router = useRouter();
   const nowWall = useMemo(() => Date.now(), []);
@@ -203,14 +239,14 @@ function Session({
   const promptIds = useMemo(
     () =>
       play
-        ? drawThemed(theme.id, mode, bank as never, history, play.seed, hotbrainConfig)
-        : seedDaily(theme.id, mode, day, bank as never, hotbrainConfig),
-    [play, theme.id, mode, bank, history, day],
+        ? drawThemed(theme.id, mode, bank as never, history, play.seed, config)
+        : seedDaily(theme.id, mode, day, bank as never, config),
+    [play, theme.id, mode, bank, history, day, config],
   );
   const prefs: PlayerPreferences = loadPrefs(kv);
   const content: Omit<ReducerContext, 'persistCompletion' | 'persistCurrentAnswers'> = useMemo(
     () => ({
-      config: hotbrainConfig,
+      config,
       prefs,
       contentVersion: bank.contentVersion,
       prompt: (s) => {
@@ -230,11 +266,11 @@ function Session({
       },
       allSheets: () => promptIds.map((id) => bank.sheets.get(id) as never),
     }),
-    [bank, promptIds, prefs],
+    [bank, promptIds, prefs, config],
   );
   const clocks = useMemo(browserClocks, []);
   const session = useDiveSession({ kv, clocks, mode, meta, content });
-  const dayLabel = kind === 'daily' ? `Jour ${day}` : 'Illimité';
+  const dayLabel = kind === 'daily' ? `Jour ${day}` : 'Partie Classique';
   const exit = (): void => {
     if (kind === 'unlimited') forgetPlaySeed(kv, mode, theme.id);
     router.push('/');
@@ -250,6 +286,7 @@ function Session({
       themeLabel={theme.label}
       themeIcon={theme.icon}
       muted={prefs.muted}
+      config={config}
       onExit={exit}
     />
   ) : (
@@ -261,6 +298,7 @@ function Session({
       themeIcon={theme.icon}
       dayLabel={dayLabel}
       muted={prefs.muted}
+      config={config}
       onExit={exit}
     />
   );

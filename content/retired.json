@@ -1,0 +1,14 @@
+{
+  "decision": "D-31 : questions retirées car trop pointues pour un joueur cultivé moyen (retour joueur du 2026-11-12)",
+  "ids": {
+    "gen-systeme-solaire": "Nomme une lune de Saturne : trop pointu",
+    "gen-boisson-alcool": "Cocktail de la liste IBA : borne inconnue du grand public, refus injustes",
+    "gen-dinosaure": "Dinosaure du Crétacé : la période piège les bonnes réponses (Stégosaure refusé)",
+    "ent-chef-orchestre": "Chef d'orchestre : trop pointu",
+    "his-espagne-portugal": "Rois d'Espagne ou du Portugal : trop pointu",
+    "sci-nobel-medecine": "Nobel de médecine : trop pointu",
+    "sci-asteroide-comete": "Astéroïdes et comètes : trop pointu",
+    "spo-golfeur": "Golfeurs : trop pointu pour le public francophone",
+    "spo-gymnaste": "Gymnastes : trop pointu"
+  }
+}

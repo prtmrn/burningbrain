@@ -85,6 +85,8 @@ export function SummaryScreen({
                 )}
               </div>
               {sheet && (
+                <details className="reveal-toggle" data-testid={`reveal-${i}`}>
+                  <summary>Voir les {sheet.entries.length} réponses possibles</summary>
                 <div className="sheet-reveal" aria-label="Réponses acceptées">
                   {TIER_ORDER.map((tier) =>
                     sheet.entries
@@ -100,6 +102,7 @@ export function SummaryScreen({
                       )),
                   )}
                 </div>
+                </details>
               )}
             </article>
           );

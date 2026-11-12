@@ -16,7 +16,7 @@ export interface GameConfig {
   epochDate: string;                // "YYYY-MM-DD" — jour n° 1
   modes: {
     hot:   { rounds: number; previewMs: number; roundMs: number };   // 7 · 3 000 · 25 000
-    brain: { rounds: number; previewMs: number; roundMs: number };   // 5 · 3 000 · 60 000
+    brain: { rounds: number; previewMs: number; roundMs: number; winScore?: number };   // 5 · 3 000 · 60 000
   };
   maxAnswerLength: number;          // 256
 }
@@ -143,7 +143,7 @@ export interface AcceptedAnswer {
 
 /** BRAIN : fin de round. 'timeout' = temps écoulé ; 'sheet-exhausted' = toutes
  *  les entrées trouvées (fin anticipée SANS bonus) ; 'abandoned' = geste du joueur. */
-export type RoundEndReason = 'timeout' | 'sheet-exhausted' | 'abandoned';
+export type RoundEndReason = 'timeout' | 'sheet-exhausted' | 'abandoned' | 'won';
 
 export interface BrainRoundResult {
   promptId: string;

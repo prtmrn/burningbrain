@@ -1,30 +1,30 @@
 {
   "general": {
     "contentVersion": 2,
-    "prompts": 100
+    "prompts": 97
   },
   "geography": {
-    "contentVersion": 1,
-    "prompts": 50
+    "contentVersion": 2,
+    "prompts": 80
   },
   "arts-literature": {
     "contentVersion": 2,
-    "prompts": 15
+    "prompts": 45
   },
   "entertainment": {
     "contentVersion": 2,
-    "prompts": 15
+    "prompts": 44
   },
   "history": {
     "contentVersion": 2,
-    "prompts": 15
+    "prompts": 44
   },
   "science-nature": {
     "contentVersion": 2,
-    "prompts": 15
+    "prompts": 58
   },
   "sports-leisure": {
     "contentVersion": 2,
-    "prompts": 15
+    "prompts": 43
   }
 }

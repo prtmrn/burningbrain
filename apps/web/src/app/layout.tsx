@@ -3,7 +3,7 @@ import type { ReactNode } from 'react';
 import '../styles/tokens.css';
 
 export const metadata: Metadata = {
-  title: 'HotBrain',
+  title: 'BurningBrain',
   description: 'Le quiz quotidien qui fait monter le mercure.',
 };
 
@@ -19,7 +19,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
           rel="stylesheet"
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Pixelify+Sans:wght@500;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Jersey+10&family=Press+Start+2P&family=Rubik:wght@400;500;700&display=swap"
         />
         <script dangerouslySetInnerHTML={{ __html: PRE_HYDRATION }} />
       </head>

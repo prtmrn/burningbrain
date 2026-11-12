@@ -8,6 +8,21 @@ for f in sorted(glob.glob('content/build/th[0-9]*.py'), key=lambda x: int(re.sea
     except Exception as e: print('ERREUR', f, e); continue
     for k, v in mod.T.items(): T[k] = v
 plan = json.load(open('content/themes-plan.json', encoding='utf-8'))['prompts']
+# D-30 : fichiers d'extension ext-<préfixe>-<domaine>.py (PROMPTS + T), thème déduit du préfixe.
+PREFIX = {'ent': 'entertainment', 'his': 'history', 'art': 'arts-literature', 'sci': 'science-nature',
+          'spo': 'sports-leisure', 'geo': 'geography'}
+SKIP = set(filter(None, os.environ.get('EXT_SKIP', '').split(',')))  # fichiers encore en cours d'écriture
+for f in sorted(glob.glob('content/build/ext-*.py')):
+    if os.path.basename(f) in SKIP: continue
+    spec = importlib.util.spec_from_file_location(os.path.basename(f)[:-3].replace('-', '_'), f); mod = importlib.util.module_from_spec(spec)
+    try: spec.loader.exec_module(mod)
+    except Exception as e: print('ERREUR', f, e); continue
+    th = PREFIX[os.path.basename(f).split('-')[1]]
+    for k, v in mod.T.items(): T[k] = v
+    for q in mod.PROMPTS: plan.append({'id': q['id'], 'theme': th, 'text': q['text']})
+# D-31 : questions retirées (trop pointues)
+RETIRED = set(json.load(open('content/retired.json', encoding='utf-8'))['ids'])
+plan = [q for q in plan if q['id'] not in RETIRED]
 def norm(s):
     s = unicodedata.normalize('NFD', s.lower()); s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
     s = re.sub(r'[^a-z0-9]+', ' ', s).strip()
@@ -17,6 +32,11 @@ def norm(s):
     return s
 QUIP = {'t2': "Un piège connu : beaucoup y pensent en premier.", 't6': "Celle-là, on ne l'attendait pas."}
 banks, report, missing = {}, [], []
+# Géographie : on part de la banque v1 historique (feuilles v1 conservées), les ajouts sont en v2.
+_geo = json.load(open('content/banks/_archive/geography-v1.json', encoding='utf-8'))
+banks['geography'] = {'theme': 'geography', 'contentVersion': 2,
+                      'prompts': [p for p in _geo['prompts'] if p['id'] not in RETIRED],
+                      'sheets': {k: v for k, v in _geo['sheets'].items() if k not in RETIRED}}
 for q in plan:
     pid, th = q['id'], q['theme']
     if pid not in T: missing.append(pid); continue

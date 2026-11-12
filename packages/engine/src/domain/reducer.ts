@@ -361,6 +361,15 @@ function brainReducer(s: BrainDiveState, ev: GameEvent, ctx: ReducerContext): Br
               lastFeedback: { kind: 'accepted', input, score: a.score, at: ev.now },
             };
             ctx.persistCurrentAnswers(s2); // reprise en pleine liste
+            // D-30 : victoire dès que le cerveau est plein (winScore neurones).
+            if (cfg.winScore !== undefined) {
+              const total =
+                s2.results.reduce((acc, r) => acc + r.score, 0) +
+                s2.currentAnswers.reduce((acc, x) => acc + x.score, 0);
+              if (total >= cfg.winScore) {
+                return completeBrain(bankBrainRound(s2, ctx, 'won'), ctx, 'completed');
+              }
+            }
             // sheet-exhausted : clôture DANS LE MÊME TOUR, sans bonus (B.5.4).
             return s2.currentAnswers.length === ctx.sheet(s).entries.length
               ? closeBrainRound(s2, ev.now, ctx, 'sheet-exhausted')
@@ -407,22 +416,7 @@ function closeBrainRound(
   reason: RoundEndReason,
 ): BrainDiveState {
   const cfg = ctx.config.modes.brain;
-  const prompt = ctx.prompt(s);
-  const r: BrainRoundResult = {
-    promptId: prompt.id,
-    promptText: prompt.text,
-    answersGiven: s.currentAnswers,
-    score: s.currentAnswers.reduce((acc, a) => acc + a.score, 0),
-    endReason: reason,
-  };
-  const s2: BrainDiveState = {
-    ...s,
-    results: [...s.results, r],
-    currentAnswers: [],
-    draft: '',
-    lastFeedback: null,
-    // duplicatesIgnored : CUMUL SESSION (F-14) — jamais remis à zéro par round.
-  };
+  const s2 = bankBrainRound(s, ctx, reason);
   if (s2.roundIndex < cfg.rounds - 1) {
     return {
       ...s2,
@@ -433,6 +427,26 @@ function closeBrainRound(
     };
   }
   return completeBrain(s2, ctx, 'completed');
+}
+
+/** Range le round courant dans results (sans changer de phase). */
+function bankBrainRound(s: BrainDiveState, ctx: ReducerContext, reason: RoundEndReason): BrainDiveState {
+  const prompt = ctx.prompt(s);
+  const r: BrainRoundResult = {
+    promptId: prompt.id,
+    promptText: prompt.text,
+    answersGiven: s.currentAnswers,
+    score: s.currentAnswers.reduce((acc, a) => acc + a.score, 0),
+    endReason: reason,
+  };
+  return {
+    ...s,
+    results: [...s.results, r],
+    currentAnswers: [],
+    draft: '',
+    lastFeedback: null,
+    // duplicatesIgnored : CUMUL SESSION (F-14) — jamais remis à zéro par round.
+  };
 }
 
 function completeBrain(
