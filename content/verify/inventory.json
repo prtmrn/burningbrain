@@ -1,0 +1,4466 @@
+[
+ {
+  "id": "art-poete-xixe",
+  "bank": "arts-literature",
+  "text": "Nomme un poète du XIXe siècle",
+  "count": 100
+ },
+ {
+  "id": "art-ecrivain-uk",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain britannique",
+  "count": 126
+ },
+ {
+  "id": "art-ecrivain-us",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain américain",
+  "count": 143
+ },
+ {
+  "id": "art-auteur-sf",
+  "bank": "arts-literature",
+  "text": "Nomme un auteur de science-fiction",
+  "count": 114
+ },
+ {
+  "id": "art-renaissance-peintre",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre de la Renaissance",
+  "count": 97
+ },
+ {
+  "id": "art-sculpteur",
+  "bank": "arts-literature",
+  "text": "Nomme un sculpteur célèbre",
+  "count": 96
+ },
+ {
+  "id": "art-photographe",
+  "bank": "arts-literature",
+  "text": "Nomme un photographe célèbre",
+  "count": 112
+ },
+ {
+  "id": "art-architecte",
+  "bank": "arts-literature",
+  "text": "Nomme un architecte célèbre",
+  "count": 128
+ },
+ {
+  "id": "art-mouvement",
+  "bank": "arts-literature",
+  "text": "Nomme un mouvement artistique",
+  "count": 84
+ },
+ {
+  "id": "art-dramaturge",
+  "bank": "arts-literature",
+  "text": "Nomme un dramaturge",
+  "count": 189
+ },
+ {
+  "id": "art-livre-enfants",
+  "bank": "arts-literature",
+  "text": "Nomme un livre ou une série de livres pour enfants",
+  "count": 58
+ },
+ {
+  "id": "art-prix-litteraire",
+  "bank": "arts-literature",
+  "text": "Nomme un prix littéraire",
+  "count": 66
+ },
+ {
+  "id": "art-poete-anglophone",
+  "bank": "arts-literature",
+  "text": "Nomme un poète de langue anglaise",
+  "count": 104
+ },
+ {
+  "id": "art-musee",
+  "bank": "arts-literature",
+  "text": "Nomme un musée célèbre dans le monde",
+  "count": 76
+ },
+ {
+  "id": "art-peintre-flamand",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre néerlandais ou flamand",
+  "count": 106
+ },
+ {
+  "id": "art-archi-01",
+  "bank": "arts-literature",
+  "text": "Nomme un couturier ou un créateur de mode (personne)",
+  "count": 99
+ },
+ {
+  "id": "art-archi-02",
+  "bank": "arts-literature",
+  "text": "Nomme une marque ou une maison de mode",
+  "count": 135
+ },
+ {
+  "id": "art-archi-03",
+  "bank": "arts-literature",
+  "text": "Nomme un style ou un courant d'architecture",
+  "count": 84
+ },
+ {
+  "id": "art-archi-04",
+  "bank": "arts-literature",
+  "text": "Nomme un monument ou un édifice célèbre de Paris",
+  "count": 106
+ },
+ {
+  "id": "art-archi-05",
+  "bank": "arts-literature",
+  "text": "Nomme une cathédrale de France",
+  "count": 115
+ },
+ {
+  "id": "art-archi-06",
+  "bank": "arts-literature",
+  "text": "Nomme un élément d'architecture d'un bâtiment (partie ou structure)",
+  "count": 159
+ },
+ {
+  "id": "art-archi-07",
+  "bank": "arts-literature",
+  "text": "Nomme une sculpture ou un monument sculpté célèbre (œuvre)",
+  "count": 83
+ },
+ {
+  "id": "art-archi-08",
+  "bank": "arts-literature",
+  "text": "Nomme un château de France",
+  "count": 98
+ },
+ {
+  "id": "art-archi-09",
+  "bank": "arts-literature",
+  "text": "Nomme un matériau de construction",
+  "count": 103
+ },
+ {
+  "id": "art-archi-10",
+  "bank": "arts-literature",
+  "text": "Nomme un meuble ou un type de meuble",
+  "count": 126
+ },
+ {
+  "id": "art-archi-11",
+  "bank": "arts-literature",
+  "text": "Nomme un type de chapeau ou de couvre-chef",
+  "count": 78
+ },
+ {
+  "id": "art-archi-12",
+  "bank": "arts-literature",
+  "text": "Nomme un tissu ou une étoffe",
+  "count": 129
+ },
+ {
+  "id": "art-archi-13",
+  "bank": "arts-literature",
+  "text": "Nomme un type de chaussure",
+  "count": 72
+ },
+ {
+  "id": "art-archi-14",
+  "bank": "arts-literature",
+  "text": "Nomme un terme ou un élément de photographie (technique ou matériel)",
+  "count": 130
+ },
+ {
+  "id": "art-archi-15",
+  "bank": "arts-literature",
+  "text": "Nomme un type de bâtiment ou d'édifice",
+  "count": 146
+ },
+ {
+  "id": "art-classique-01",
+  "bank": "arts-literature",
+  "text": "Nomme un compositeur classique allemand ou autrichien",
+  "count": 66
+ },
+ {
+  "id": "art-classique-02",
+  "bank": "arts-literature",
+  "text": "Nomme un compositeur classique italien",
+  "count": 71
+ },
+ {
+  "id": "art-classique-03",
+  "bank": "arts-literature",
+  "text": "Nomme un compositeur classique russe ou d'Europe de l'Est (Pologne, Tchéquie, Hongrie, Roumanie, pays baltes, Ukraine, Caucase...)",
+  "count": 76
+ },
+ {
+  "id": "art-classique-04",
+  "bank": "arts-literature",
+  "text": "Nomme un compositeur classique britannique, irlandais ou américain",
+  "count": 99
+ },
+ {
+  "id": "art-classique-05",
+  "bank": "arts-literature",
+  "text": "Nomme un compositeur classique espagnol, portugais, latino-américain ou nordique",
+  "count": 81
+ },
+ {
+  "id": "art-classique-06",
+  "bank": "arts-literature",
+  "text": "Nomme un personnage d'opéra",
+  "count": 196
+ },
+ {
+  "id": "art-classique-07",
+  "bank": "arts-literature",
+  "text": "Nomme un ballet",
+  "count": 91
+ },
+ {
+  "id": "art-classique-08",
+  "bank": "arts-literature",
+  "text": "Nomme une pièce de théâtre en langue française",
+  "count": 130
+ },
+ {
+  "id": "art-classique-09",
+  "bank": "arts-literature",
+  "text": "Nomme un dramaturge (auteur de pièces de théâtre), de toute époque et de tout pays",
+  "count": 168
+ },
+ {
+  "id": "art-classique-10",
+  "bank": "arts-literature",
+  "text": "Nomme un réalisateur européen non français (cinéma d'auteur ou classique)",
+  "count": 162
+ },
+ {
+  "id": "art-classique-11",
+  "bank": "arts-literature",
+  "text": "Nomme un réalisateur asiatique (Japon, Chine, Corée, Inde, Iran, Asie du Sud-Est, Proche-Orient...)",
+  "count": 139
+ },
+ {
+  "id": "art-classique-12",
+  "bank": "arts-literature",
+  "text": "Nomme un film d'Alfred Hitchcock",
+  "count": 52
+ },
+ {
+  "id": "art-classique-13",
+  "bank": "arts-literature",
+  "text": "Nomme un terme musical italien (tempo, nuance, indication d'exécution)",
+  "count": 127
+ },
+ {
+  "id": "art-classique-14",
+  "bank": "arts-literature",
+  "text": "Nomme un compositeur de musique de film",
+  "count": 102
+ },
+ {
+  "id": "art-classique-15",
+  "bank": "arts-literature",
+  "text": "Nomme une forme ou un genre de musique classique (symphonie, sonate, fugue...)",
+  "count": 125
+ },
+ {
+  "id": "art-littetr-01",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain ou un poète russe",
+  "count": 68
+ },
+ {
+  "id": "art-littetr-02",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain ou un poète de langue allemande (Allemagne, Autriche, Suisse alémanique)",
+  "count": 90
+ },
+ {
+  "id": "art-littetr-03",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain ou un poète italien",
+  "count": 73
+ },
+ {
+  "id": "art-littetr-04",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain ou un poète d'Espagne",
+  "count": 88
+ },
+ {
+  "id": "art-littetr-05",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain ou un poète d'Amérique latine (Brésil compris)",
+  "count": 90
+ },
+ {
+  "id": "art-littetr-06",
+  "bank": "arts-literature",
+  "text": "Nomme un lauréat du prix Nobel de littérature",
+  "count": 120
+ },
+ {
+  "id": "art-littetr-07",
+  "bank": "arts-literature",
+  "text": "Nomme un personnage de roman britannique, irlandais ou américain",
+  "count": 114
+ },
+ {
+  "id": "art-littetr-08",
+  "bank": "arts-literature",
+  "text": "Nomme un personnage de pièce de William Shakespeare",
+  "count": 140
+ },
+ {
+  "id": "art-littetr-09",
+  "bank": "arts-literature",
+  "text": "Nomme un roman britannique ou irlandais",
+  "count": 123
+ },
+ {
+  "id": "art-littetr-10",
+  "bank": "arts-literature",
+  "text": "Nomme un roman américain",
+  "count": 96
+ },
+ {
+  "id": "art-littetr-11",
+  "bank": "arts-literature",
+  "text": "Nomme une femme écrivain ou poétesse étrangère (non française)",
+  "count": 109
+ },
+ {
+  "id": "art-littetr-12",
+  "bank": "arts-literature",
+  "text": "Nomme un poète étranger qui n'écrit ni en français ni en anglais",
+  "count": 122
+ },
+ {
+  "id": "art-littetr-13",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain d'un pays nordique (Danemark, Norvège, Suède, Finlande ou Islande)",
+  "count": 82
+ },
+ {
+  "id": "art-littetr-14",
+  "bank": "arts-literature",
+  "text": "Nomme un roman d'un écrivain espagnol ou latino-américain",
+  "count": 87
+ },
+ {
+  "id": "art-littetr-15",
+  "bank": "arts-literature",
+  "text": "Nomme un personnage de la littérature de jeunesse étrangère (non française)",
+  "count": 100
+ },
+ {
+  "id": "art-littfr-01",
+  "bank": "arts-literature",
+  "text": "Nomme une fable de Jean de La Fontaine",
+  "count": 117
+ },
+ {
+  "id": "art-littfr-02",
+  "bank": "arts-literature",
+  "text": "Nomme une pièce de théâtre de Molière, de Racine ou de Pierre Corneille",
+  "count": 76
+ },
+ {
+  "id": "art-littfr-03",
+  "bank": "arts-literature",
+  "text": "Nomme un personnage d'une pièce de Molière",
+  "count": 97
+ },
+ {
+  "id": "art-littfr-04",
+  "bank": "arts-literature",
+  "text": "Nomme une œuvre de La Comédie humaine de Balzac",
+  "count": 87
+ },
+ {
+  "id": "art-littfr-05",
+  "bank": "arts-literature",
+  "text": "Nomme un personnage de La Comédie humaine de Balzac",
+  "count": 95
+ },
+ {
+  "id": "art-littfr-06",
+  "bank": "arts-literature",
+  "text": "Nomme un personnage des Rougon-Macquart d'Émile Zola",
+  "count": 113
+ },
+ {
+  "id": "art-littfr-07",
+  "bank": "arts-literature",
+  "text": "Nomme un personnage d'un roman de Victor Hugo",
+  "count": 81
+ },
+ {
+  "id": "art-littfr-08",
+  "bank": "arts-literature",
+  "text": "Nomme un personnage d'un roman d'Alexandre Dumas père",
+  "count": 72
+ },
+ {
+  "id": "art-littfr-09",
+  "bank": "arts-literature",
+  "text": "Nomme un roman d'un écrivain français publié pour la première fois au XIXe siècle",
+  "count": 154
+ },
+ {
+  "id": "art-littfr-10",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain belge de langue française",
+  "count": 70
+ },
+ {
+  "id": "art-littfr-11",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain québécois de langue française",
+  "count": 73
+ },
+ {
+  "id": "art-littfr-12",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain francophone originaire d'Afrique subsaharienne ou de Madagascar",
+  "count": 75
+ },
+ {
+  "id": "art-littfr-13",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain de langue française né en Algérie, au Maroc ou en Tunisie",
+  "count": 59
+ },
+ {
+  "id": "art-littfr-14",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain ayant été élu à l'Académie française",
+  "count": 109
+ },
+ {
+  "id": "art-littfr-15",
+  "bank": "arts-literature",
+  "text": "Nomme un écrivain de langue française né aux Antilles, en Guyane ou en Haïti",
+  "count": 63
+ },
+ {
+  "id": "art-mythes-01",
+  "bank": "arts-literature",
+  "text": "Nomme une figure de style (rhétorique)",
+  "count": 67
+ },
+ {
+  "id": "art-mythes-02",
+  "bank": "arts-literature",
+  "text": "Nomme une onomatopée française",
+  "count": 90
+ },
+ {
+  "id": "art-mythes-03",
+  "bank": "arts-literature",
+  "text": "Nomme un personnage de la légende du roi Arthur et de la Table ronde",
+  "count": 63
+ },
+ {
+  "id": "art-mythes-04",
+  "bank": "arts-literature",
+  "text": "Nomme une créature fantastique du folklore ou de la fantasy (hors mythologie grecque)",
+  "count": 79
+ },
+ {
+  "id": "art-mythes-05",
+  "bank": "arts-literature",
+  "text": "Nomme un animal cité dans une expression française courante",
+  "count": 106
+ },
+ {
+  "id": "art-mythes-06",
+  "bank": "arts-literature",
+  "text": "Nomme une locution latine employée en français",
+  "count": 111
+ },
+ {
+  "id": "art-mythes-07",
+  "bank": "arts-literature",
+  "text": "Nomme un mot français d'origine arabe",
+  "count": 111
+ },
+ {
+  "id": "art-mythes-08",
+  "bank": "arts-literature",
+  "text": "Nomme un mot français d'origine italienne",
+  "count": 130
+ },
+ {
+  "id": "art-mythes-09",
+  "bank": "arts-literature",
+  "text": "Nomme un mot français d'origine anglaise",
+  "count": 139
+ },
+ {
+  "id": "art-mythes-10",
+  "bank": "arts-literature",
+  "text": "Nomme une fête religieuse (toutes religions)",
+  "count": 94
+ },
+ {
+  "id": "art-mythes-11",
+  "bank": "arts-literature",
+  "text": "Nomme un ordre ou une congrégation religieuse",
+  "count": 76
+ },
+ {
+  "id": "art-mythes-12",
+  "bank": "arts-literature",
+  "text": "Nomme un terme de grammaire française",
+  "count": 105
+ },
+ {
+  "id": "art-mythes-13",
+  "bank": "arts-literature",
+  "text": "Nomme un courant de pensée ou une doctrine philosophique en « -isme »",
+  "count": 101
+ },
+ {
+  "id": "art-mythes-14",
+  "bank": "arts-literature",
+  "text": "Nomme un héros de légende ou de folklore (hors mythologie grecque et légende arthurienne)",
+  "count": 71
+ },
+ {
+  "id": "art-mythes-15",
+  "bank": "arts-literature",
+  "text": "Nomme un lieu saint ou un lieu de pèlerinage (toutes religions)",
+  "count": 115
+ },
+ {
+  "id": "art-peinture-01",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre espagnol (toutes époques)",
+  "count": 87
+ },
+ {
+  "id": "art-peinture-02",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre allemand ou autrichien (toutes époques)",
+  "count": 86
+ },
+ {
+  "id": "art-peinture-03",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre américain (États-Unis)",
+  "count": 113
+ },
+ {
+  "id": "art-peinture-04",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre britannique",
+  "count": 88
+ },
+ {
+  "id": "art-peinture-05",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre russe ou né dans l'Empire russe",
+  "count": 81
+ },
+ {
+  "id": "art-peinture-06",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre ou plasticien italien actif au XXe siècle",
+  "count": 74
+ },
+ {
+  "id": "art-peinture-07",
+  "bank": "arts-literature",
+  "text": "Nomme une technique, un procédé ou un médium de peinture, de dessin ou de gravure",
+  "count": 70
+ },
+ {
+  "id": "art-peinture-08",
+  "bank": "arts-literature",
+  "text": "Nomme une femme peintre",
+  "count": 89
+ },
+ {
+  "id": "art-peinture-09",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre japonais ou un maître japonais de l'estampe",
+  "count": 67
+ },
+ {
+  "id": "art-peinture-10",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre français actif au XVIIe ou au XVIIIe siècle",
+  "count": 76
+ },
+ {
+  "id": "art-peinture-11",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre ou plasticien associé au mouvement surréaliste",
+  "count": 60
+ },
+ {
+  "id": "art-peinture-12",
+  "bank": "arts-literature",
+  "text": "Nomme un tableau de Vincent van Gogh",
+  "count": 67
+ },
+ {
+  "id": "art-peinture-13",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre ou plasticien d'Amérique latine",
+  "count": 81
+ },
+ {
+  "id": "art-peinture-14",
+  "bank": "arts-literature",
+  "text": "Nomme un peintre nordique (Danemark, Norvège, Suède, Finlande ou Islande)",
+  "count": 74
+ },
+ {
+  "id": "art-peinture-15",
+  "bank": "arts-literature",
+  "text": "Nomme un pigment ou une couleur de pigment utilisé en peinture",
+  "count": 67
+ },
+ {
+  "id": "ent-oscar-film",
+  "bank": "entertainment",
+  "text": "Nomme un film ayant remporté l'Oscar du meilleur film",
+  "count": 96
+ },
+ {
+  "id": "ent-acteur-uk",
+  "bank": "entertainment",
+  "text": "Nomme un acteur ou une actrice britannique",
+  "count": 107
+ },
+ {
+  "id": "ent-film-horreur",
+  "bank": "entertainment",
+  "text": "Nomme un film d'horreur",
+  "count": 92
+ },
+ {
+  "id": "ent-comedie-fr",
+  "bank": "entertainment",
+  "text": "Nomme une comédie française",
+  "count": 88
+ },
+ {
+  "id": "ent-pop-uk",
+  "bank": "entertainment",
+  "text": "Nomme un groupe ou un artiste pop britannique",
+  "count": 109
+ },
+ {
+  "id": "ent-metal",
+  "bank": "entertainment",
+  "text": "Nomme un groupe de heavy metal",
+  "count": 142
+ },
+ {
+  "id": "ent-comedie-musicale",
+  "bank": "entertainment",
+  "text": "Nomme une comédie musicale",
+  "count": 86
+ },
+ {
+  "id": "ent-humoriste-fr",
+  "bank": "entertainment",
+  "text": "Nomme un humoriste français",
+  "count": 71
+ },
+ {
+  "id": "ent-serie-fr",
+  "bank": "entertainment",
+  "text": "Nomme une série télévisée française",
+  "count": 71
+ },
+ {
+  "id": "ent-anime-film",
+  "bank": "entertainment",
+  "text": "Nomme un film d'animation japonais",
+  "count": 63
+ },
+ {
+  "id": "ent-jeu-role",
+  "bank": "entertainment",
+  "text": "Nomme un jeu vidéo de rôle",
+  "count": 116
+ },
+ {
+  "id": "ent-jazz",
+  "bank": "entertainment",
+  "text": "Nomme un chanteur, une chanteuse ou un musicien de jazz",
+  "count": 176
+ },
+ {
+  "id": "ent-film-sf",
+  "bank": "entertainment",
+  "text": "Nomme un film de science-fiction",
+  "count": 125
+ },
+ {
+  "id": "ent-western",
+  "bank": "entertainment",
+  "text": "Nomme un western",
+  "count": 92
+ },
+ {
+  "id": "ent-anim-01",
+  "bank": "entertainment",
+  "text": "Nomme un personnage de dessin animé américain classique (Looney Tunes, Tom et Jerry, Hanna-Barbera, Scooby-Doo, etc.)",
+  "count": 121
+ },
+ {
+  "id": "ent-anim-02",
+  "bank": "entertainment",
+  "text": "Nomme un jouet ou une marque de jouets célèbre",
+  "count": 92
+ },
+ {
+  "id": "ent-anim-03",
+  "bank": "entertainment",
+  "text": "Nomme un personnage du manga et anime One Piece",
+  "count": 149
+ },
+ {
+  "id": "ent-anim-04",
+  "bank": "entertainment",
+  "text": "Nomme un personnage du manga et anime Naruto (Naruto Shippuden et Boruto compris)",
+  "count": 125
+ },
+ {
+  "id": "ent-anim-05",
+  "bank": "entertainment",
+  "text": "Nomme un personnage d'une série animée américaine pour adultes (Family Guy, South Park, Futurama, Rick et Morty, hors Les Simpson)",
+  "count": 107
+ },
+ {
+  "id": "ent-anim-06",
+  "bank": "entertainment",
+  "text": "Nomme un auteur ou dessinateur de bande dessinée, de comics ou de manga",
+  "count": 138
+ },
+ {
+  "id": "ent-anim-07",
+  "bank": "entertainment",
+  "text": "Nomme un personnage d'un film d'animation DreamWorks, Illumination ou Blue Sky (Shrek, Madagascar, Kung Fu Panda, Moi moche et méchant, L'Âge de glace, etc.)",
+  "count": 163
+ },
+ {
+  "id": "ent-anim-08",
+  "bank": "entertainment",
+  "text": "Nomme une série télévisée pour adolescents (toutes nationalités)",
+  "count": 83
+ },
+ {
+  "id": "ent-anim-09",
+  "bank": "entertainment",
+  "text": "Nomme un film familial ou pour enfants en prises de vues réelles",
+  "count": 80
+ },
+ {
+  "id": "ent-anim-10",
+  "bank": "entertainment",
+  "text": "Nomme un personnage du manga et anime My Hero Academia",
+  "count": 99
+ },
+ {
+  "id": "ent-anim-11",
+  "bank": "entertainment",
+  "text": "Nomme un personnage du manga et anime L'Attaque des Titans",
+  "count": 84
+ },
+ {
+  "id": "ent-anim-12",
+  "bank": "entertainment",
+  "text": "Nomme un acteur ou une actrice apparu dans au moins un film de la saga Harry Potter",
+  "count": 85
+ },
+ {
+  "id": "ent-anim-13",
+  "bank": "entertainment",
+  "text": "Nomme un personnage de Sailor Moon (manga et anime)",
+  "count": 78
+ },
+ {
+  "id": "ent-anim-14",
+  "bank": "entertainment",
+  "text": "Nomme un personnage de la saga Twilight (romans et films)",
+  "count": 94
+ },
+ {
+  "id": "ent-anim-15",
+  "bank": "entertainment",
+  "text": "Nomme un personnage de la saga Hunger Games (romans et films)",
+  "count": 85
+ },
+ {
+  "id": "ent-celebs-01",
+  "bank": "entertainment",
+  "text": "Nomme un animateur ou une animatrice de télévision français(e)",
+  "count": 78
+ },
+ {
+  "id": "ent-celebs-02",
+  "bank": "entertainment",
+  "text": "Nomme un chanteur français (hors rappeur)",
+  "count": 95
+ },
+ {
+  "id": "ent-celebs-03",
+  "bank": "entertainment",
+  "text": "Nomme une chanteuse française",
+  "count": 76
+ },
+ {
+  "id": "ent-celebs-04",
+  "bank": "entertainment",
+  "text": "Nomme un mannequin célèbre",
+  "count": 95
+ },
+ {
+  "id": "ent-celebs-05",
+  "bank": "entertainment",
+  "text": "Nomme un youtubeur ou une youtubeuse",
+  "count": 79
+ },
+ {
+  "id": "ent-celebs-06",
+  "bank": "entertainment",
+  "text": "Nomme une émission de divertissement ou un jeu télévisé français",
+  "count": 60
+ },
+ {
+  "id": "ent-celebs-07",
+  "bank": "entertainment",
+  "text": "Nomme une émission française d'information, un magazine ou un talk-show",
+  "count": 54
+ },
+ {
+  "id": "ent-celebs-08",
+  "bank": "entertainment",
+  "text": "Nomme un festival (musique, cinéma, théâtre ou spectacle vivant) en France ou dans le monde",
+  "count": 81
+ },
+ {
+  "id": "ent-celebs-09",
+  "bank": "entertainment",
+  "text": "Nomme une pièce de théâtre célèbre",
+  "count": 121
+ },
+ {
+  "id": "ent-celebs-10",
+  "bank": "entertainment",
+  "text": "Nomme un opéra célèbre",
+  "count": 116
+ },
+ {
+  "id": "ent-celebs-11",
+  "bank": "entertainment",
+  "text": "Nomme un humoriste, un acteur comique ou un animateur de late-night anglophone",
+  "count": 137
+ },
+ {
+  "id": "ent-celebs-12",
+  "bank": "entertainment",
+  "text": "Nomme un danseur, une danseuse ou un chorégraphe célèbre",
+  "count": 103
+ },
+ {
+  "id": "ent-celebs-13",
+  "bank": "entertainment",
+  "text": "Nomme une salle de spectacle ou un théâtre parisien",
+  "count": 79
+ },
+ {
+  "id": "ent-celebs-14",
+  "bank": "entertainment",
+  "text": "Nomme un chanteur ou une chanteuse lyrique",
+  "count": 83
+ },
+ {
+  "id": "ent-celebs-15",
+  "bank": "entertainment",
+  "text": "Nomme un rappeur ou une rappeuse français(e)",
+  "count": 86
+ },
+ {
+  "id": "ent-cinema-01",
+  "bank": "entertainment",
+  "text": "Nomme un personnage des films James Bond produits par Eon Productions",
+  "count": 108
+ },
+ {
+  "id": "ent-cinema-02",
+  "bank": "entertainment",
+  "text": "Nomme un film ayant reçu la Palme d'or (ou le Grand Prix, son équivalent historique) au Festival de Cannes",
+  "count": 89
+ },
+ {
+  "id": "ent-cinema-03",
+  "bank": "entertainment",
+  "text": "Nomme un acteur ou une actrice ayant remporté l'Oscar du meilleur acteur ou de la meilleure actrice (premier rôle)",
+  "count": 166
+ },
+ {
+  "id": "ent-cinema-04",
+  "bank": "entertainment",
+  "text": "Nomme un film dans lequel joue Jean-Paul Belmondo ou Alain Delon",
+  "count": 102
+ },
+ {
+  "id": "ent-cinema-05",
+  "bank": "entertainment",
+  "text": "Nomme un film dans lequel joue Gérard Depardieu",
+  "count": 73
+ },
+ {
+  "id": "ent-cinema-06",
+  "bank": "entertainment",
+  "text": "Nomme un film sorti au cinéma adapté d'une bande dessinée Marvel ou DC Comics",
+  "count": 112
+ },
+ {
+  "id": "ent-cinema-07",
+  "bank": "entertainment",
+  "text": "Nomme un long-métrage d'animation produit par DreamWorks Animation ou Illumination",
+  "count": 65
+ },
+ {
+  "id": "ent-cinema-08",
+  "bank": "entertainment",
+  "text": "Nomme un film de fiction dont l'action se déroule principalement pendant la Seconde Guerre mondiale",
+  "count": 86
+ },
+ {
+  "id": "ent-cinema-09",
+  "bank": "entertainment",
+  "text": "Nomme un film ou téléfilm adapté d'une œuvre de Stephen King",
+  "count": 53
+ },
+ {
+  "id": "ent-cinema-10",
+  "bank": "entertainment",
+  "text": "Nomme un film dans lequel joue Tom Hanks ou Tom Cruise",
+  "count": 93
+ },
+ {
+  "id": "ent-cinema-11",
+  "bank": "entertainment",
+  "text": "Nomme un long-métrage réalisé par Steven Spielberg ou par Ridley Scott",
+  "count": 63
+ },
+ {
+  "id": "ent-cinema-12",
+  "bank": "entertainment",
+  "text": "Nomme un film réalisé par Clint Eastwood ou dans lequel il joue",
+  "count": 65
+ },
+ {
+  "id": "ent-cinema-13",
+  "bank": "entertainment",
+  "text": "Nomme une actrice française née après 1960",
+  "count": 69
+ },
+ {
+  "id": "ent-cinema-14",
+  "bank": "entertainment",
+  "text": "Nomme un film italien (ou coproduction italienne) sorti avant 2000",
+  "count": 97
+ },
+ {
+  "id": "ent-cinema-15",
+  "bank": "entertainment",
+  "text": "Nomme un réalisateur ou une réalisatrice de cinéma français",
+  "count": 119
+ },
+ {
+  "id": "ent-jeux-01",
+  "bank": "entertainment",
+  "text": "Nomme un personnage de l'univers Super Mario (Nintendo)",
+  "count": 75
+ },
+ {
+  "id": "ent-jeux-02",
+  "bank": "entertainment",
+  "text": "Nomme un Pokémon de la première génération (n° 1 à 151, région de Kanto)",
+  "count": 151
+ },
+ {
+  "id": "ent-jeux-03",
+  "bank": "entertainment",
+  "text": "Nomme une console de jeux vidéo (de salon ou portable) commercialisée",
+  "count": 86
+ },
+ {
+  "id": "ent-jeux-04",
+  "bank": "entertainment",
+  "text": "Nomme un personnage jouable de la série Street Fighter",
+  "count": 79
+ },
+ {
+  "id": "ent-jeux-05",
+  "bank": "entertainment",
+  "text": "Nomme un studio de développement ou un éditeur de jeux vidéo",
+  "count": 147
+ },
+ {
+  "id": "ent-jeux-06",
+  "bank": "entertainment",
+  "text": "Nomme un jeu de société (plateau, cartes, dés ou plateau d'ambiance)",
+  "count": 135
+ },
+ {
+  "id": "ent-jeux-07",
+  "bank": "entertainment",
+  "text": "Nomme une série de manga (publiée au Japon)",
+  "count": 117
+ },
+ {
+  "id": "ent-jeux-08",
+  "bank": "entertainment",
+  "text": "Nomme un personnage de l'univers Marvel Comics (héros, méchant ou anti-héros)",
+  "count": 167
+ },
+ {
+  "id": "ent-jeux-09",
+  "bank": "entertainment",
+  "text": "Nomme un personnage de l'univers DC Comics (héros ou méchant)",
+  "count": 151
+ },
+ {
+  "id": "ent-jeux-10",
+  "bank": "entertainment",
+  "text": "Nomme un personnage des albums de Tintin (Hergé)",
+  "count": 52
+ },
+ {
+  "id": "ent-jeux-11",
+  "bank": "entertainment",
+  "text": "Nomme une série de bande dessinée franco-belge",
+  "count": 107
+ },
+ {
+  "id": "ent-jeux-12",
+  "bank": "entertainment",
+  "text": "Nomme un jeu vidéo de course (voitures, karts ou motos)",
+  "count": 91
+ },
+ {
+  "id": "ent-jeux-13",
+  "bank": "entertainment",
+  "text": "Nomme un personnage de Dragon Ball (manga ou anime, toutes séries confondues)",
+  "count": 137
+ },
+ {
+  "id": "ent-jeux-14",
+  "bank": "entertainment",
+  "text": "Nomme un personnage jouable de la série Super Smash Bros.",
+  "count": 89
+ },
+ {
+  "id": "ent-jeux-15",
+  "bank": "entertainment",
+  "text": "Nomme un jeu vidéo de tir à la première personne (FPS)",
+  "count": 132
+ },
+ {
+  "id": "ent-musique-01",
+  "bank": "entertainment",
+  "text": "Nomme une chanson de Michael Jackson en solo (hors Jackson 5 et The Jacksons)",
+  "count": 103
+ },
+ {
+  "id": "ent-musique-02",
+  "bank": "entertainment",
+  "text": "Nomme une chanson enregistrée en studio ou sortie en single par les Rolling Stones (reprises comprises)",
+  "count": 142
+ },
+ {
+  "id": "ent-musique-03",
+  "bank": "entertainment",
+  "text": "Nomme une chanson du groupe Queen",
+  "count": 122
+ },
+ {
+  "id": "ent-musique-04",
+  "bank": "entertainment",
+  "text": "Nomme une chanson dont Serge Gainsbourg a écrit les paroles (chantée par lui ou par un autre interprète)",
+  "count": 103
+ },
+ {
+  "id": "ent-musique-05",
+  "bank": "entertainment",
+  "text": "Nomme une chanson ayant remporté le Concours Eurovision de la chanson",
+  "count": 72
+ },
+ {
+  "id": "ent-musique-06",
+  "bank": "entertainment",
+  "text": "Nomme un DJ, un producteur ou un groupe de musique électronique",
+  "count": 192
+ },
+ {
+  "id": "ent-musique-07",
+  "bank": "entertainment",
+  "text": "Nomme une chanson de Madonna",
+  "count": 101
+ },
+ {
+  "id": "ent-musique-08",
+  "bank": "entertainment",
+  "text": "Nomme un groupe de rock français",
+  "count": 68
+ },
+ {
+  "id": "ent-musique-09",
+  "bank": "entertainment",
+  "text": "Nomme un groupe ou un artiste solo de K-pop",
+  "count": 116
+ },
+ {
+  "id": "ent-musique-10",
+  "bank": "entertainment",
+  "text": "Nomme un chanteur, une chanteuse ou un groupe de reggae (dancehall et dub compris)",
+  "count": 114
+ },
+ {
+  "id": "ent-musique-11",
+  "bank": "entertainment",
+  "text": "Nomme un chanteur, une chanteuse ou un groupe québécois",
+  "count": 80
+ },
+ {
+  "id": "ent-musique-12",
+  "bank": "entertainment",
+  "text": "Nomme un chanteur, une chanteuse, un musicien ou un groupe belge",
+  "count": 81
+ },
+ {
+  "id": "ent-musique-13",
+  "bank": "entertainment",
+  "text": "Nomme un chanteur, une chanteuse ou un groupe chantant principalement en espagnol",
+  "count": 141
+ },
+ {
+  "id": "ent-musique-14",
+  "bank": "entertainment",
+  "text": "Nomme un groupe ou un artiste de punk rock (proto-punk et pop-punk compris)",
+  "count": 92
+ },
+ {
+  "id": "ent-musique-15",
+  "bank": "entertainment",
+  "text": "Nomme un chanteur, une chanteuse ou un groupe originaire d'Afrique subsaharienne",
+  "count": 145
+ },
+ {
+  "id": "ent-series-01",
+  "bank": "entertainment",
+  "text": "Nomme une série d'animation occidentale diffusée à la télévision",
+  "count": 95
+ },
+ {
+  "id": "ent-series-02",
+  "bank": "entertainment",
+  "text": "Nomme un personnage de la série Les Simpson",
+  "count": 79
+ },
+ {
+  "id": "ent-series-03",
+  "bank": "entertainment",
+  "text": "Nomme un personnage de la série Game of Thrones",
+  "count": 99
+ },
+ {
+  "id": "ent-series-04",
+  "bank": "entertainment",
+  "text": "Nomme une sitcom américaine",
+  "count": 95
+ },
+ {
+  "id": "ent-series-05",
+  "bank": "entertainment",
+  "text": "Nomme une série policière ou judiciaire (toutes nationalités)",
+  "count": 96
+ },
+ {
+  "id": "ent-series-06",
+  "bank": "entertainment",
+  "text": "Nomme une série de science-fiction ou de fantastique",
+  "count": 110
+ },
+ {
+  "id": "ent-series-07",
+  "bank": "entertainment",
+  "text": "Nomme une série originale Netflix",
+  "count": 101
+ },
+ {
+  "id": "ent-series-08",
+  "bank": "entertainment",
+  "text": "Nomme un anime (série d'animation japonaise)",
+  "count": 90
+ },
+ {
+  "id": "ent-series-09",
+  "bank": "entertainment",
+  "text": "Nomme une série télévisée américaine diffusée dans les années 1980",
+  "count": 57
+ },
+ {
+  "id": "ent-series-10",
+  "bank": "entertainment",
+  "text": "Nomme une série télévisée adaptée d'un comics américain",
+  "count": 84
+ },
+ {
+  "id": "ent-series-11",
+  "bank": "entertainment",
+  "text": "Nomme une série produite ou diffusée par HBO",
+  "count": 97
+ },
+ {
+  "id": "ent-series-12",
+  "bank": "entertainment",
+  "text": "Nomme une série télévisée américaine",
+  "count": 121
+ },
+ {
+  "id": "ent-series-13",
+  "bank": "entertainment",
+  "text": "Nomme une série télévisée française",
+  "count": 104
+ },
+ {
+  "id": "ent-series-14",
+  "bank": "entertainment",
+  "text": "Nomme une série télévisée britannique",
+  "count": 110
+ },
+ {
+  "id": "ent-series-15",
+  "bank": "entertainment",
+  "text": "Nomme une chaîne de télévision française (hertzienne, TNT, câble ou satellite)",
+  "count": 91
+ },
+ {
+  "id": "gen-disney-perso",
+  "bank": "general",
+  "text": "Nomme un personnage d'un long-métrage d'animation Disney sorti avant 2000",
+  "count": 169
+ },
+ {
+  "id": "gen-super-heros",
+  "bank": "general",
+  "text": "Nomme un super-héros ou une super-héroïne de Marvel Comics",
+  "count": 132
+ },
+ {
+  "id": "gen-simpson-perso",
+  "bank": "general",
+  "text": "Nomme un personnage récurrent de la série Les Simpson",
+  "count": 102
+ },
+ {
+  "id": "gen-dessin-anime-80-90",
+  "bank": "general",
+  "text": "Nomme un dessin animé diffusé à la télévision française pendant les années 1980",
+  "count": 63
+ },
+ {
+  "id": "gen-serie-us",
+  "bank": "general",
+  "text": "Nomme une série télévisée américaine diffusée sur HBO",
+  "count": 98
+ },
+ {
+  "id": "gen-film-animation",
+  "bank": "general",
+  "text": "Nomme un long-métrage d'animation Disney ou Pixar sorti après 2000",
+  "count": 56
+ },
+ {
+  "id": "gen-jeu-nintendo",
+  "bank": "general",
+  "text": "Nomme un jeu vidéo édité par Nintendo sur Game Boy",
+  "count": 56
+ },
+ {
+  "id": "gen-pokemon-gen1",
+  "bank": "general",
+  "text": "Nomme un Pokémon de la première génération",
+  "count": 150
+ },
+ {
+  "id": "gen-harry-potter-perso",
+  "bank": "general",
+  "text": "Nomme un personnage des romans de Harry Potter",
+  "count": 153
+ },
+ {
+  "id": "gen-acteur-francais",
+  "bank": "general",
+  "text": "Nomme un acteur ou une actrice français né avant 1950",
+  "count": 139
+ },
+ {
+  "id": "gen-emission-tele-fr",
+  "bank": "general",
+  "text": "Nomme une émission de jeu diffusée à la télévision française",
+  "count": 50
+ },
+ {
+  "id": "gen-jeu-societe",
+  "bank": "general",
+  "text": "Nomme un jeu de société édité par Hasbro",
+  "count": 50
+ },
+ {
+  "id": "gen-appli-site",
+  "bank": "general",
+  "text": "Nomme une application de messagerie instantanée",
+  "count": 50
+ },
+ {
+  "id": "gen-artiste-fr",
+  "bank": "general",
+  "text": "Nomme un chanteur ou une chanteuse solo française née avant 1970",
+  "count": 114
+ },
+ {
+  "id": "gen-chanson-beatles",
+  "bank": "general",
+  "text": "Nomme une chanson enregistrée par les Beatles avant 1967",
+  "count": 121
+ },
+ {
+  "id": "gen-instrument",
+  "bank": "general",
+  "text": "Nomme un instrument de l'orchestre symphonique",
+  "count": 75
+ },
+ {
+  "id": "gen-compositeur-classique",
+  "bank": "general",
+  "text": "Nomme un compositeur de musique classique né au XVIIIe siècle",
+  "count": 117
+ },
+ {
+  "id": "gen-roi-france",
+  "bank": "general",
+  "text": "Nomme un roi de France",
+  "count": 76
+ },
+ {
+  "id": "gen-revolution-perso",
+  "bank": "general",
+  "text": "Nomme une figure historique ayant eu un rôle lors de la Révolution",
+  "count": 120
+ },
+ {
+  "id": "gen-empereur-romain",
+  "bank": "general",
+  "text": "Nomme un empereur romain",
+  "count": 83
+ },
+ {
+  "id": "gen-invention-xxe",
+  "bank": "general",
+  "text": "Nomme un appareil électroménager inventé au XXe siècle",
+  "count": 52
+ },
+ {
+  "id": "gen-femme-historique",
+  "bank": "general",
+  "text": "Nomme une femme ayant régné en Europe",
+  "count": 50
+ },
+ {
+  "id": "gen-bataille",
+  "bank": "general",
+  "text": "Nomme une bataille de la Première Guerre mondiale",
+  "count": 67
+ },
+ {
+  "id": "gen-explorateur",
+  "bank": "general",
+  "text": "Nomme un navigateur ou explorateur européen des XVe et XVIe siècles",
+  "count": 69
+ },
+ {
+  "id": "gen-mytho-grecque",
+  "bank": "general",
+  "text": "Nomme une figure de la mythologie grecque",
+  "count": 221
+ },
+ {
+  "id": "gen-animal-afrique",
+  "bank": "general",
+  "text": "Nomme un mammifère sauvage vivant en Afrique subsaharienne",
+  "count": 93
+ },
+ {
+  "id": "gen-oiseau",
+  "bank": "general",
+  "text": "Nomme un oiseau de la faune européenne",
+  "count": 209
+ },
+ {
+  "id": "gen-element-chimique",
+  "bank": "general",
+  "text": "Nomme un élément chimique du tableau périodique",
+  "count": 118
+ },
+ {
+  "id": "gen-maladie",
+  "bank": "general",
+  "text": "Nomme une maladie infectieuse humaine due à un virus",
+  "count": 70
+ },
+ {
+  "id": "gen-scientifique",
+  "bank": "general",
+  "text": "Nomme un scientifique français né avant 1900",
+  "count": 107
+ },
+ {
+  "id": "gen-arbre",
+  "bank": "general",
+  "text": "Nomme un arbre feuillu d'Europe",
+  "count": 78
+ },
+ {
+  "id": "gen-fleur",
+  "bank": "general",
+  "text": "Nomme une fleur cultivée dans les jardins européens",
+  "count": 120
+ },
+ {
+  "id": "gen-poisson",
+  "bank": "general",
+  "text": "Nomme un poisson d'eau douce présent en France",
+  "count": 62
+ },
+ {
+  "id": "gen-roman-francais",
+  "bank": "general",
+  "text": "Nomme un roman de Jules Verne",
+  "count": 65
+ },
+ {
+  "id": "gen-conte-perso",
+  "bank": "general",
+  "text": "Nomme un personnage de conte des frères Grimm",
+  "count": 51
+ },
+ {
+  "id": "gen-peintre",
+  "bank": "general",
+  "text": "Nomme un peintre français né au XIXe siècle",
+  "count": 120
+ },
+ {
+  "id": "gen-oeuvre-art",
+  "bank": "general",
+  "text": "Nomme une œuvre exposée au musée du Louvre",
+  "count": 91
+ },
+ {
+  "id": "gen-bd-franco-belge",
+  "bank": "general",
+  "text": "Nomme un personnage dans Astérix",
+  "count": 42
+ },
+ {
+  "id": "gen-auteur-francais",
+  "bank": "general",
+  "text": "Nomme un écrivain français lauréat du prix Goncourt",
+  "count": 116
+ },
+ {
+  "id": "gen-club-foot-europe",
+  "bank": "general",
+  "text": "Nomme un club de football du Top 5 européen (Angleterre, Espagne, Italie, Allemagne, France)",
+  "count": 182
+ },
+ {
+  "id": "gen-sport-olympique",
+  "bank": "general",
+  "text": "Nomme une discipline des Jeux olympiques d'été ou d'hiver",
+  "count": 87
+ },
+ {
+  "id": "gen-footballeur-fr",
+  "bank": "general",
+  "text": "Nomme un footballeur ayant été champion d'Europe avec l'équipe de France",
+  "count": 49
+ },
+ {
+  "id": "gen-tennis",
+  "bank": "general",
+  "text": "Nomme un joueur ou une joueuse de tennis vainqueur d'un tournoi du Grand Chelem",
+  "count": 151
+ },
+ {
+  "id": "gen-marque-sport",
+  "bank": "general",
+  "text": "Nomme une marque d'équipementier sportif",
+  "count": 118
+ },
+ {
+  "id": "gen-plat-italien",
+  "bank": "general",
+  "text": "Nomme une pâte alimentaire italienne",
+  "count": 75
+ },
+ {
+  "id": "gen-plat-francais",
+  "bank": "general",
+  "text": "Nomme une recette de la cuisine française traditionnelle à base de viande",
+  "count": 110
+ },
+ {
+  "id": "gen-fromage",
+  "bank": "general",
+  "text": "Nomme un fromage au lait de vache produit en France",
+  "count": 103
+ },
+ {
+  "id": "gen-epice",
+  "bank": "general",
+  "text": "Nomme une épice",
+  "count": 52
+ },
+ {
+  "id": "gen-dessert-monde",
+  "bank": "general",
+  "text": "Nomme un gâteau ou une pâtisserie française",
+  "count": 95
+ },
+ {
+  "id": "gen-metier-ier",
+  "bank": "general",
+  "text": "Nomme un métier manuel dont le nom se termine par -ier",
+  "count": 74
+ },
+ {
+  "id": "gen-anglicisme",
+  "bank": "general",
+  "text": "Nomme un anglicisme du vocabulaire du football en français",
+  "count": 53
+ },
+ {
+  "id": "gen-expression-corps",
+  "bank": "general",
+  "text": "Nomme une expression française contenant le mot « main »",
+  "count": 71
+ },
+ {
+  "id": "gen-langue-monde",
+  "bank": "general",
+  "text": "Nomme une langue parlée en Afrique subsaharienne",
+  "count": 111
+ },
+ {
+  "id": "gen-religion",
+  "bank": "general",
+  "text": "Nomme une Église chrétienne",
+  "count": 64
+ },
+ {
+  "id": "gen-marque-auto",
+  "bank": "general",
+  "text": "Nomme une marque automobile ayant son siège en Europe",
+  "count": 71
+ },
+ {
+  "id": "gen-entreprise-fr",
+  "bank": "general",
+  "text": "Nomme une entreprise du CAC 40",
+  "count": 65
+ },
+ {
+  "id": "gen-invention-francaise",
+  "bank": "general",
+  "text": "Nomme une invention française",
+  "count": 92
+ },
+ {
+  "id": "gen-film-de-funes",
+  "bank": "general",
+  "text": "Nomme un film avec Louis de Funès",
+  "count": 54
+ },
+ {
+  "id": "gen-starwars-perso",
+  "bank": "general",
+  "text": "Nomme un personnage de Star Wars",
+  "count": 123
+ },
+ {
+  "id": "gen-lotr-perso",
+  "bank": "general",
+  "text": "Nomme un personnage du Seigneur des anneaux",
+  "count": 88
+ },
+ {
+  "id": "gen-got-perso",
+  "bank": "general",
+  "text": "Nomme un personnage de Game of Thrones",
+  "count": 136
+ },
+ {
+  "id": "gen-pixar-perso",
+  "bank": "general",
+  "text": "Nomme un personnage d'un film Pixar",
+  "count": 181
+ },
+ {
+  "id": "gen-real-us",
+  "bank": "general",
+  "text": "Nomme un réalisateur américain",
+  "count": 130
+ },
+ {
+  "id": "gen-acteur-us",
+  "bank": "general",
+  "text": "Nomme un acteur ou une actrice américain",
+  "count": 181
+ },
+ {
+  "id": "gen-rock-70",
+  "bank": "general",
+  "text": "Nomme un groupe de rock des années 1970",
+  "count": 141
+ },
+ {
+  "id": "gen-rappeur-fr",
+  "bank": "general",
+  "text": "Nomme un rappeur ou un groupe de rap français",
+  "count": 134
+ },
+ {
+  "id": "gen-chanteur-us",
+  "bank": "general",
+  "text": "Nomme un chanteur ou une chanteuse américain",
+  "count": 216
+ },
+ {
+  "id": "gen-instrument-cordes",
+  "bank": "general",
+  "text": "Nomme un instrument de musique à cordes",
+  "count": 110
+ },
+ {
+  "id": "gen-compositeur-fr",
+  "bank": "general",
+  "text": "Nomme un compositeur français",
+  "count": 136
+ },
+ {
+  "id": "gen-opera",
+  "bank": "general",
+  "text": "Nomme un opéra",
+  "count": 208
+ },
+ {
+  "id": "gen-philo-europe",
+  "bank": "general",
+  "text": "Nomme un philosophe européen",
+  "count": 183
+ },
+ {
+  "id": "gen-roi-angleterre",
+  "bank": "general",
+  "text": "Nomme un roi ou une reine d'Angleterre ou du Royaume-Uni",
+  "count": 57
+ },
+ {
+  "id": "gen-pape",
+  "bank": "general",
+  "text": "Nomme un pape",
+  "count": 136
+ },
+ {
+  "id": "gen-saint",
+  "bank": "general",
+  "text": "Nomme un saint de l'Église catholique",
+  "count": 178
+ },
+ {
+  "id": "gen-bible-perso",
+  "bank": "general",
+  "text": "Nomme un personnage de la Bible",
+  "count": 211
+ },
+ {
+  "id": "gen-dieu-antique",
+  "bank": "general",
+  "text": "Nomme un dieu ou une déesse de la mythologie romaine, égyptienne ou nordique",
+  "count": 169
+ },
+ {
+  "id": "gen-race-chien",
+  "bank": "general",
+  "text": "Nomme une race de chien",
+  "count": 210
+ },
+ {
+  "id": "gen-race-chat",
+  "bank": "general",
+  "text": "Nomme une race de chat",
+  "count": 76
+ },
+ {
+  "id": "gen-insecte",
+  "bank": "general",
+  "text": "Nomme un insecte",
+  "count": 111
+ },
+ {
+  "id": "gen-reptile",
+  "bank": "general",
+  "text": "Nomme un reptile ou un amphibien",
+  "count": 129
+ },
+ {
+  "id": "gen-animal-marin",
+  "bank": "general",
+  "text": "Nomme un animal marin",
+  "count": 159
+ },
+ {
+  "id": "gen-fruit",
+  "bank": "general",
+  "text": "Nomme un fruit",
+  "count": 122
+ },
+ {
+  "id": "gen-legume",
+  "bank": "general",
+  "text": "Nomme un légume",
+  "count": 85
+ },
+ {
+  "id": "gen-champignon",
+  "bank": "general",
+  "text": "Nomme un champignon",
+  "count": 88
+ },
+ {
+  "id": "gen-pierre-precieuse",
+  "bank": "general",
+  "text": "Nomme une pierre précieuse ou semi-précieuse",
+  "count": 96
+ },
+ {
+  "id": "gen-metal",
+  "bank": "general",
+  "text": "Nomme un métal",
+  "count": 71
+ },
+ {
+  "id": "gen-os",
+  "bank": "general",
+  "text": "Nomme un os du corps humain",
+  "count": 60
+ },
+ {
+  "id": "gen-muscle",
+  "bank": "general",
+  "text": "Nomme un muscle du corps humain",
+  "count": 116
+ },
+ {
+  "id": "gen-constellation",
+  "bank": "general",
+  "text": "Nomme une constellation",
+  "count": 88
+ },
+ {
+  "id": "gen-langage-prog",
+  "bank": "general",
+  "text": "Nomme un langage de programmation",
+  "count": 96
+ },
+ {
+  "id": "gen-sport-balle",
+  "bank": "general",
+  "text": "Nomme un sport pratiqué avec une balle ou un ballon",
+  "count": 70
+ },
+ {
+  "id": "gen-sport-combat",
+  "bank": "general",
+  "text": "Nomme un sport de combat ou une discipline martiale",
+  "count": 72
+ },
+ {
+  "id": "gen-pilote-f1",
+  "bank": "general",
+  "text": "Nomme un pilote de Formule 1",
+  "count": 172
+ },
+ {
+  "id": "gen-cycliste-tdf",
+  "bank": "general",
+  "text": "Nomme un vainqueur du Tour de France cycliste",
+  "count": 64
+ },
+ {
+  "id": "gen-cepage",
+  "bank": "general",
+  "text": "Nomme un cépage",
+  "count": 148
+ },
+ {
+  "id": "gen-manga",
+  "bank": "general",
+  "text": "Nomme un manga japonais",
+  "count": 131
+ },
+ {
+  "id": "gen-ecrivain-russe",
+  "bank": "general",
+  "text": "Nomme un écrivain russe",
+  "count": 110
+ },
+ {
+  "id": "geo-pays-europe",
+  "bank": "general",
+  "text": "Nomme un pays d'Europe",
+  "count": 54
+ },
+ {
+  "id": "geo-pays-afrique",
+  "bank": "general",
+  "text": "Nomme un pays d'Afrique",
+  "count": 55
+ },
+ {
+  "id": "geo-capitale-europe",
+  "bank": "general",
+  "text": "Nomme une capitale européenne",
+  "count": 51
+ },
+ {
+  "id": "geo-capitale-afrique",
+  "bank": "general",
+  "text": "Nomme une capitale africaine",
+  "count": 61
+ },
+ {
+  "id": "geo-lac",
+  "bank": "general",
+  "text": "Nomme un lac",
+  "count": 51
+ },
+ {
+  "id": "geo-ocean-ou-mer",
+  "bank": "general",
+  "text": "Nomme un océan ou une mer",
+  "count": 53
+ },
+ {
+  "id": "geo-monument-unesco",
+  "bank": "general",
+  "text": "Nomme un site classé au patrimoine mondial de l'UNESCO",
+  "count": 77
+ },
+ {
+  "id": "geo-france-01",
+  "bank": "general",
+  "text": "Nomme un département français",
+  "count": 101
+ },
+ {
+  "id": "geo-france-02",
+  "bank": "general",
+  "text": "Nomme une préfecture de département français qui n'est pas chef-lieu de région",
+  "count": 83
+ },
+ {
+  "id": "geo-france-03",
+  "bank": "general",
+  "text": "Nomme une commune de la région Bretagne",
+  "count": 94
+ },
+ {
+  "id": "geo-france-04",
+  "bank": "general",
+  "text": "Nomme une commune de la région Normandie",
+  "count": 76
+ },
+ {
+  "id": "geo-france-05",
+  "bank": "general",
+  "text": "Nomme une commune de la petite couronne parisienne (Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne)",
+  "count": 123
+ },
+ {
+  "id": "geo-france-06",
+  "bank": "general",
+  "text": "Nomme une commune de la région Provence-Alpes-Côte d'Azur",
+  "count": 97
+ },
+ {
+  "id": "geo-france-07",
+  "bank": "general",
+  "text": "Nomme une commune de la région Occitanie",
+  "count": 96
+ },
+ {
+  "id": "geo-france-08",
+  "bank": "general",
+  "text": "Nomme une commune française de plus de 50 000 habitants",
+  "count": 111
+ },
+ {
+  "id": "geo-france-09",
+  "bank": "general",
+  "text": "Nomme une station de sports d'hiver française",
+  "count": 91
+ },
+ {
+  "id": "geo-france-10",
+  "bank": "general",
+  "text": "Nomme une commune d'un département d'outre-mer (Guadeloupe, Martinique, Guyane, La Réunion, Mayotte)",
+  "count": 111
+ },
+ {
+  "id": "geo-france-11",
+  "bank": "general",
+  "text": "Nomme une appellation d'origine (AOC/AOP) de vin français",
+  "count": 166
+ },
+ {
+  "id": "geo-france-12",
+  "bank": "general",
+  "text": "Nomme une spécialité culinaire française dont le nom fait référence à un lieu (hors vins et fromages)",
+  "count": 75
+ },
+ {
+  "id": "geo-france-13",
+  "bank": "general",
+  "text": "Nomme un col routier de montagne situé en France",
+  "count": 80
+ },
+ {
+  "id": "geo-france-14",
+  "bank": "general",
+  "text": "Nomme une commune de Corse",
+  "count": 73
+ },
+ {
+  "id": "geo-france-15",
+  "bank": "general",
+  "text": "Nomme une commune française dont le nom commence par « Saint- » ou « Sainte- »",
+  "count": 104
+ },
+ {
+  "id": "geo-monde-01",
+  "bank": "general",
+  "text": "Nomme une monnaie nationale ou une devise utilisée dans le monde",
+  "count": 135
+ },
+ {
+  "id": "geo-monde-02",
+  "bank": "general",
+  "text": "Nomme une langue parlée dans le monde",
+  "count": 154
+ },
+ {
+  "id": "geo-monde-03",
+  "bank": "general",
+  "text": "Nomme un État ou un territoire des États-Unis",
+  "count": 56
+ },
+ {
+  "id": "geo-monde-04",
+  "bank": "general",
+  "text": "Nomme une ville des États-Unis",
+  "count": 148
+ },
+ {
+  "id": "geo-monde-05",
+  "bank": "general",
+  "text": "Nomme un pays ou un territoire d'Asie",
+  "count": 51
+ },
+ {
+  "id": "geo-monde-06",
+  "bank": "general",
+  "text": "Nomme une nationalité (nom d'habitant d'un pays)",
+  "count": 163
+ },
+ {
+  "id": "geo-monde-07",
+  "bank": "general",
+  "text": "Nomme une organisation internationale (sigle ou nom complet)",
+  "count": 89
+ },
+ {
+  "id": "geo-monde-08",
+  "bank": "general",
+  "text": "Nomme un peuple autochtone d'Amérique du Nord",
+  "count": 94
+ },
+ {
+  "id": "geo-monde-09",
+  "bank": "general",
+  "text": "Nomme une capitale d'un pays d'Asie",
+  "count": 50
+ },
+ {
+  "id": "geo-monde-10",
+  "bank": "general",
+  "text": "Nomme une ville de Belgique",
+  "count": 91
+ },
+ {
+  "id": "geo-monde-11",
+  "bank": "general",
+  "text": "Nomme une ville de Suisse",
+  "count": 112
+ },
+ {
+  "id": "geo-monde-12",
+  "bank": "general",
+  "text": "Nomme une ville du Maroc",
+  "count": 84
+ },
+ {
+  "id": "geo-monde-13",
+  "bank": "general",
+  "text": "Nomme une ville du Portugal",
+  "count": 97
+ },
+ {
+  "id": "geo-monde-14",
+  "bank": "general",
+  "text": "Nomme une ville de Turquie",
+  "count": 99
+ },
+ {
+  "id": "geo-monde-15",
+  "bank": "general",
+  "text": "Nomme une ville de Pologne",
+  "count": 100
+ },
+ {
+  "id": "geo-reliefs-01",
+  "bank": "general",
+  "text": "Nomme une île de l'océan Pacifique",
+  "count": 116
+ },
+ {
+  "id": "geo-reliefs-02",
+  "bank": "general",
+  "text": "Nomme un parc national des États-Unis",
+  "count": 63
+ },
+ {
+  "id": "geo-reliefs-03",
+  "bank": "general",
+  "text": "Nomme un lac d'Europe",
+  "count": 118
+ },
+ {
+  "id": "geo-reliefs-04",
+  "bank": "general",
+  "text": "Nomme un parc national ou une réserve naturelle d'Afrique",
+  "count": 107
+ },
+ {
+  "id": "geo-reliefs-05",
+  "bank": "general",
+  "text": "Nomme un monument ou un site célèbre d'Italie",
+  "count": 105
+ },
+ {
+  "id": "geo-reliefs-06",
+  "bank": "general",
+  "text": "Nomme un temple, une mosquée ou un lieu de culte célèbre (hors églises et cathédrales)",
+  "count": 111
+ },
+ {
+  "id": "geo-reliefs-07",
+  "bank": "general",
+  "text": "Nomme une tour ou un gratte-ciel célèbre dans le monde",
+  "count": 104
+ },
+ {
+  "id": "geo-reliefs-08",
+  "bank": "general",
+  "text": "Nomme un musée célèbre dans le monde",
+  "count": 101
+ },
+ {
+  "id": "geo-reliefs-09",
+  "bank": "general",
+  "text": "Nomme un jardin ou un parc urbain célèbre dans le monde",
+  "count": 93
+ },
+ {
+  "id": "geo-reliefs-10",
+  "bank": "general",
+  "text": "Nomme un monument, un temple ou un site célèbre d'Égypte",
+  "count": 76
+ },
+ {
+  "id": "geo-reliefs-11",
+  "bank": "general",
+  "text": "Nomme un monument ou un site célèbre d'Espagne",
+  "count": 91
+ },
+ {
+  "id": "geo-reliefs-12",
+  "bank": "general",
+  "text": "Nomme un monument ou un site célèbre des États-Unis",
+  "count": 106
+ },
+ {
+  "id": "geo-reliefs-13",
+  "bank": "general",
+  "text": "Nomme un monument ou un site célèbre d'Amérique latine",
+  "count": 122
+ },
+ {
+  "id": "geo-reliefs-14",
+  "bank": "general",
+  "text": "Nomme un monument, un musée ou un lieu célèbre de Londres",
+  "count": 93
+ },
+ {
+  "id": "geo-reliefs-15",
+  "bank": "general",
+  "text": "Nomme une cathédrale célèbre dans le monde",
+  "count": 104
+ },
+ {
+  "id": "geo-villes-01",
+  "bank": "general",
+  "text": "Nomme une ville d'Italie",
+  "count": 114
+ },
+ {
+  "id": "geo-villes-02",
+  "bank": "general",
+  "text": "Nomme une ville d'Espagne",
+  "count": 96
+ },
+ {
+  "id": "geo-villes-03",
+  "bank": "general",
+  "text": "Nomme une ville d'Allemagne",
+  "count": 110
+ },
+ {
+  "id": "geo-villes-04",
+  "bank": "general",
+  "text": "Nomme une ville du Royaume-Uni",
+  "count": 114
+ },
+ {
+  "id": "geo-villes-05",
+  "bank": "general",
+  "text": "Nomme une ville de Californie",
+  "count": 132
+ },
+ {
+  "id": "geo-villes-06",
+  "bank": "general",
+  "text": "Nomme une ville du Japon",
+  "count": 126
+ },
+ {
+  "id": "geo-villes-07",
+  "bank": "general",
+  "text": "Nomme une ville du Brésil",
+  "count": 101
+ },
+ {
+  "id": "geo-villes-08",
+  "bank": "general",
+  "text": "Nomme une ville de Chine",
+  "count": 112
+ },
+ {
+  "id": "geo-villes-09",
+  "bank": "general",
+  "text": "Nomme une ville d'Inde",
+  "count": 121
+ },
+ {
+  "id": "geo-villes-10",
+  "bank": "general",
+  "text": "Nomme une ville du Canada",
+  "count": 114
+ },
+ {
+  "id": "geo-villes-11",
+  "bank": "general",
+  "text": "Nomme une ville de Russie",
+  "count": 113
+ },
+ {
+  "id": "geo-villes-12",
+  "bank": "general",
+  "text": "Nomme une ville du Mexique",
+  "count": 100
+ },
+ {
+  "id": "geo-villes-13",
+  "bank": "general",
+  "text": "Nomme une ville des Pays-Bas",
+  "count": 97
+ },
+ {
+  "id": "geo-villes-14",
+  "bank": "general",
+  "text": "Nomme une ville d'Australie",
+  "count": 86
+ },
+ {
+  "id": "geo-villes-15",
+  "bank": "general",
+  "text": "Nomme une ville d'Afrique qui n'est pas une capitale nationale",
+  "count": 151
+ },
+ {
+  "id": "his-wwii-evenement",
+  "bank": "general",
+  "text": "Nomme un événement de la Seconde Guerre mondiale",
+  "count": 89
+ },
+ {
+  "id": "his-antiquite-peuple",
+  "bank": "general",
+  "text": "Nomme une civilisation ou un peuple de l'Antiquité",
+  "count": 127
+ },
+ {
+  "id": "his-pharaon",
+  "bank": "general",
+  "text": "Nomme un pharaon égyptien",
+  "count": 109
+ },
+ {
+  "id": "his-napoleon-general",
+  "bank": "general",
+  "text": "Nomme un général ou un maréchal de Napoléon Ier",
+  "count": 75
+ },
+ {
+  "id": "his-guerre-xxe",
+  "bank": "general",
+  "text": "Nomme une guerre ou un conflit du XXe siècle",
+  "count": 67
+ },
+ {
+  "id": "his-traite",
+  "bank": "general",
+  "text": "Nomme un traité célèbre de l'histoire",
+  "count": 78
+ },
+ {
+  "id": "his-explorateur-xviii-xix",
+  "bank": "general",
+  "text": "Nomme un explorateur du XVIIIe ou du XIXe siècle",
+  "count": 99
+ },
+ {
+  "id": "his-dictateur",
+  "bank": "general",
+  "text": "Nomme un dictateur du XXe siècle",
+  "count": 66
+ },
+ {
+  "id": "his-pm-britannique",
+  "bank": "general",
+  "text": "Nomme un Premier ministre britannique",
+  "count": 58
+ },
+ {
+  "id": "his-dynastie",
+  "bank": "general",
+  "text": "Nomme une dynastie royale ou impériale européenne",
+  "count": 70
+ },
+ {
+  "id": "his-revolution",
+  "bank": "general",
+  "text": "Nomme une révolution ou un soulèvement célèbre",
+  "count": 76
+ },
+ {
+  "id": "his-revolution-industrielle",
+  "bank": "general",
+  "text": "Nomme une invention ou une découverte de la révolution industrielle",
+  "count": 72
+ },
+ {
+  "id": "his-general-ww1",
+  "bank": "general",
+  "text": "Nomme un général ou un maréchal de la Première Guerre mondiale",
+  "count": 105
+ },
+ {
+  "id": "his-aviateur",
+  "bank": "general",
+  "text": "Nomme un aviateur ou un pionnier de l'aviation",
+  "count": 86
+ },
+ {
+  "id": "his-antiquite-01",
+  "bank": "general",
+  "text": "Nomme une cité grecque antique de Grèce continentale, des îles de la mer Égée ou de la côte égéenne de l'Asie Mineure",
+  "count": 92
+ },
+ {
+  "id": "his-antiquite-02",
+  "bank": "general",
+  "text": "Nomme une colonie grecque antique fondée hors du monde égéen (Italie, Sicile, Gaule, Espagne, mer Noire, Afrique...)",
+  "count": 79
+ },
+ {
+  "id": "his-antiquite-03",
+  "bank": "general",
+  "text": "Nomme un homme d'État, stratège, roi ou tyran de la Grèce antique (hors philosophes)",
+  "count": 79
+ },
+ {
+  "id": "his-antiquite-04",
+  "bank": "general",
+  "text": "Nomme un homme politique ou un général de la République romaine (509-27 av. J.-C.)",
+  "count": 70
+ },
+ {
+  "id": "his-antiquite-05",
+  "bank": "general",
+  "text": "Nomme un écrivain grec de l'Antiquité (poète, dramaturge, historien ou orateur, hors philosophes)",
+  "count": 91
+ },
+ {
+  "id": "his-antiquite-06",
+  "bank": "general",
+  "text": "Nomme un écrivain de langue latine de l'Antiquité",
+  "count": 86
+ },
+ {
+  "id": "his-antiquite-07",
+  "bank": "general",
+  "text": "Nomme une pièce de théâtre antique, grecque ou latine, parvenue jusqu'à nous",
+  "count": 81
+ },
+ {
+  "id": "his-antiquite-08",
+  "bank": "general",
+  "text": "Nomme une bataille de l'Antiquité (avant 476 apr. J.-C.)",
+  "count": 87
+ },
+ {
+  "id": "his-antiquite-09",
+  "bank": "general",
+  "text": "Nomme un souverain de la Mésopotamie ou de l'Iran antiques (de Sumer aux Sassanides)",
+  "count": 77
+ },
+ {
+  "id": "his-antiquite-10",
+  "bank": "general",
+  "text": "Nomme une femme réelle (non mythologique) ayant marqué l'Antiquité",
+  "count": 85
+ },
+ {
+  "id": "his-antiquite-11",
+  "bank": "general",
+  "text": "Nomme un savant de l'Antiquité (mathématicien, astronome, médecin, ingénieur ou géographe)",
+  "count": 70
+ },
+ {
+  "id": "his-antiquite-12",
+  "bank": "general",
+  "text": "Nomme un site archéologique ou un monument antique visible aujourd'hui autour de la Méditerranée ou au Proche-Orient",
+  "count": 117
+ },
+ {
+  "id": "his-antiquite-13",
+  "bank": "general",
+  "text": "Nomme une province de l'Empire romain (de 27 av. J.-C. à 284 apr. J.-C.)",
+  "count": 54
+ },
+ {
+  "id": "his-antiquite-14",
+  "bank": "general",
+  "text": "Nomme une ville de France métropolitaine qui existait déjà à l'époque romaine",
+  "count": 113
+ },
+ {
+  "id": "his-antiquite-15",
+  "bank": "general",
+  "text": "Nomme une langue de l'Antiquité aujourd'hui éteinte",
+  "count": 70
+ },
+ {
+  "id": "his-france-01",
+  "bank": "general",
+  "text": "Nomme un président de la République française ou un chef du gouvernement (président du Conseil, Premier ministre) depuis 1946",
+  "count": 54
+ },
+ {
+  "id": "his-france-02",
+  "bank": "general",
+  "text": "Nomme une bataille ou un siège de l'histoire de France antérieur à 1800",
+  "count": 90
+ },
+ {
+  "id": "his-france-03",
+  "bank": "general",
+  "text": "Nomme un résistant ou une figure de la France libre pendant la Seconde Guerre mondiale",
+  "count": 53
+ },
+ {
+  "id": "his-france-04",
+  "bank": "general",
+  "text": "Nomme un château situé dans le Val de Loire",
+  "count": 66
+ },
+ {
+  "id": "his-france-05",
+  "bank": "general",
+  "text": "Nomme une ancienne province ou région historique de France",
+  "count": 103
+ },
+ {
+  "id": "his-france-06",
+  "bank": "general",
+  "text": "Nomme une loi française connue par le nom de son auteur (ministre ou parlementaire)",
+  "count": 71
+ },
+ {
+  "id": "his-france-07",
+  "bank": "general",
+  "text": "Nomme un ministre ou un principal conseiller d'un roi de France avant 1789",
+  "count": 74
+ },
+ {
+  "id": "his-france-08",
+  "bank": "general",
+  "text": "Nomme un monument, un palais ou un édifice de Paris lié à l'histoire de France",
+  "count": 85
+ },
+ {
+  "id": "his-france-09",
+  "bank": "general",
+  "text": "Nomme une colonie ou un territoire ayant fait partie de l'empire colonial français",
+  "count": 81
+ },
+ {
+  "id": "his-france-10",
+  "bank": "general",
+  "text": "Nomme une affaire politique, judiciaire ou criminelle célèbre de l'histoire de France",
+  "count": 79
+ },
+ {
+  "id": "his-france-11",
+  "bank": "general",
+  "text": "Nomme une reine, une régente ou une favorite royale de l'histoire de France",
+  "count": 69
+ },
+ {
+  "id": "his-france-12",
+  "bank": "general",
+  "text": "Nomme un personnage de la guerre de Cent Ans",
+  "count": 73
+ },
+ {
+  "id": "his-france-13",
+  "bank": "general",
+  "text": "Nomme un général, un maréchal ou un amiral français d'avant 1789",
+  "count": 76
+ },
+ {
+  "id": "his-france-14",
+  "bank": "general",
+  "text": "Nomme un écrivain ou un penseur français du XVIIIe siècle",
+  "count": 70
+ },
+ {
+  "id": "his-france-15",
+  "bank": "general",
+  "text": "Nomme un parti ou un mouvement politique français du XXe ou du XXIe siècle",
+  "count": 70
+ },
+ {
+  "id": "his-modernes-01",
+  "bank": "general",
+  "text": "Nomme un navigateur, explorateur ou conquistador européen actif entre 1492 et 1700",
+  "count": 92
+ },
+ {
+  "id": "his-modernes-02",
+  "bank": "general",
+  "text": "Nomme un peintre, sculpteur ou architecte de la Renaissance (XVe-XVIe siècles)",
+  "count": 97
+ },
+ {
+  "id": "his-modernes-03",
+  "bank": "general",
+  "text": "Nomme un souverain (roi, reine, empereur, tsar, sultan, shah…) ayant régné entre 1492 et 1789",
+  "count": 135
+ },
+ {
+  "id": "his-modernes-04",
+  "bank": "general",
+  "text": "Nomme un ministre, un conseiller ou un favori (ou une favorite) des rois de France entre 1515 et 1789",
+  "count": 77
+ },
+ {
+  "id": "his-modernes-05",
+  "bank": "general",
+  "text": "Nomme un compositeur de musique actif entre 1492 et 1789",
+  "count": 118
+ },
+ {
+  "id": "his-modernes-06",
+  "bank": "general",
+  "text": "Nomme une bataille livrée entre 1492 et 1789",
+  "count": 109
+ },
+ {
+  "id": "his-modernes-07",
+  "bank": "general",
+  "text": "Nomme une ville d'Amérique fondée par des Européens entre 1492 et 1789",
+  "count": 115
+ },
+ {
+  "id": "his-modernes-08",
+  "bank": "general",
+  "text": "Nomme un écrivain ou poète français du XVIe, du XVIIe ou du XVIIIe siècle",
+  "count": 101
+ },
+ {
+  "id": "his-modernes-09",
+  "bank": "general",
+  "text": "Nomme un savant (astronome, mathématicien, physicien, chimiste, naturaliste ou médecin) actif entre 1492 et 1789",
+  "count": 124
+ },
+ {
+  "id": "his-modernes-10",
+  "bank": "general",
+  "text": "Nomme un philosophe ou un penseur des Lumières (XVIIIe siècle)",
+  "count": 68
+ },
+ {
+  "id": "his-modernes-11",
+  "bank": "general",
+  "text": "Nomme un peuple, royaume, empire ou État non européen existant entre 1492 et 1789",
+  "count": 97
+ },
+ {
+  "id": "his-modernes-12",
+  "bank": "general",
+  "text": "Nomme une personnalité de la Réforme protestante ou de la Contre-Réforme catholique (XVIe-XVIIe siècles)",
+  "count": 91
+ },
+ {
+  "id": "his-modernes-13",
+  "bank": "general",
+  "text": "Nomme une plante ou un animal dont la diffusion entre l'Ancien et le Nouveau Monde date des grandes découvertes (échange colombien)",
+  "count": 87
+ },
+ {
+  "id": "his-modernes-14",
+  "bank": "general",
+  "text": "Nomme une œuvre littéraire, théâtrale ou philosophique publiée ou créée entre 1492 et 1789",
+  "count": 132
+ },
+ {
+  "id": "his-modernes-15",
+  "bank": "general",
+  "text": "Nomme une guerre, une révolte ou une rébellion survenue entre 1492 et 1789",
+  "count": 69
+ },
+ {
+  "id": "his-moyenage-01",
+  "bank": "general",
+  "text": "Nomme une bataille livrée entre 476 et 1492",
+  "count": 118
+ },
+ {
+  "id": "his-moyenage-02",
+  "bank": "general",
+  "text": "Nomme un titre, une fonction ou un statut social de la société médiévale européenne",
+  "count": 94
+ },
+ {
+  "id": "his-moyenage-03",
+  "bank": "general",
+  "text": "Nomme un empereur ou une impératrice byzantin ayant régné après l'an 600",
+  "count": 71
+ },
+ {
+  "id": "his-moyenage-04",
+  "bank": "general",
+  "text": "Nomme un royaume, un empire, une principauté ou une république d'Europe ayant existé au Moyen Âge",
+  "count": 115
+ },
+ {
+  "id": "his-moyenage-05",
+  "bank": "general",
+  "text": "Nomme un personnage ayant joué un rôle dans les croisades en Orient (1095-1291)",
+  "count": 91
+ },
+ {
+  "id": "his-moyenage-06",
+  "bank": "general",
+  "text": "Nomme une ville ayant été membre de la Hanse",
+  "count": 73
+ },
+ {
+  "id": "his-moyenage-07",
+  "bank": "general",
+  "text": "Nomme un ordre religieux, militaire ou de chevalerie fondé avant 1500",
+  "count": 61
+ },
+ {
+  "id": "his-moyenage-08",
+  "bank": "general",
+  "text": "Nomme un château fort médiéval situé en France métropolitaine",
+  "count": 86
+ },
+ {
+  "id": "his-moyenage-09",
+  "bank": "general",
+  "text": "Nomme une œuvre littéraire écrite en Europe au Moyen Âge (avant 1500)",
+  "count": 85
+ },
+ {
+  "id": "his-moyenage-10",
+  "bank": "general",
+  "text": "Nomme un personnage ayant joué un rôle dans la guerre de Cent Ans",
+  "count": 87
+ },
+ {
+  "id": "his-moyenage-11",
+  "bank": "general",
+  "text": "Nomme une abbaye fondée au Moyen Âge sur le territoire de la France actuelle",
+  "count": 102
+ },
+ {
+  "id": "his-moyenage-12",
+  "bank": "general",
+  "text": "Nomme une université fondée en Europe avant 1500",
+  "count": 66
+ },
+ {
+  "id": "his-moyenage-13",
+  "bank": "general",
+  "text": "Nomme une arme, une pièce d'armure ou une machine de siège utilisée dans l'Europe médiévale",
+  "count": 89
+ },
+ {
+  "id": "his-moyenage-14",
+  "bank": "general",
+  "text": "Nomme un savant, penseur, poète ou voyageur du monde musulman médiéval (VIIe-XVe siècle)",
+  "count": 78
+ },
+ {
+  "id": "his-moyenage-15",
+  "bank": "general",
+  "text": "Nomme une cathédrale gothique d'Europe dont la construction a commencé avant 1500",
+  "count": 100
+ },
+ {
+  "id": "his-xixe-01",
+  "bank": "general",
+  "text": "Nomme une bataille ou un siège livré entre 1800 et 1914",
+  "count": 117
+ },
+ {
+  "id": "his-xixe-02",
+  "bank": "general",
+  "text": "Nomme un homme politique français du XIXe siècle ou de la Belle Époque (hors souverains)",
+  "count": 84
+ },
+ {
+  "id": "his-xixe-03",
+  "bank": "general",
+  "text": "Nomme un souverain (roi, reine, empereur, sultan…) ayant régné au XIXe siècle",
+  "count": 95
+ },
+ {
+  "id": "his-xixe-04",
+  "bank": "general",
+  "text": "Nomme un personnage de la guerre de Sécession américaine (1861-1865)",
+  "count": 86
+ },
+ {
+  "id": "his-xixe-05",
+  "bank": "general",
+  "text": "Nomme un monument, un édifice ou un ouvrage d'art construit au XIXe siècle",
+  "count": 72
+ },
+ {
+  "id": "his-xixe-06",
+  "bank": "general",
+  "text": "Nomme un scientifique ou un médecin du XIXe siècle",
+  "count": 99
+ },
+ {
+  "id": "his-xixe-07",
+  "bank": "general",
+  "text": "Nomme un penseur, philosophe ou théoricien politique et social du XIXe siècle",
+  "count": 98
+ },
+ {
+  "id": "his-xixe-08",
+  "bank": "general",
+  "text": "Nomme un pays actuel d'Afrique ayant été colonisé par une puissance européenne",
+  "count": 52
+ },
+ {
+  "id": "his-xixe-09",
+  "bank": "general",
+  "text": "Nomme une femme ayant marqué le XIXe siècle",
+  "count": 103
+ },
+ {
+  "id": "his-xixe-10",
+  "bank": "general",
+  "text": "Nomme un chef militaire du XIXe siècle (hors maréchaux de Napoléon Ier et hors guerre de Sécession)",
+  "count": 105
+ },
+ {
+  "id": "his-xixe-11",
+  "bank": "general",
+  "text": "Nomme un écrivain français du XIXe siècle",
+  "count": 102
+ },
+ {
+  "id": "his-xixe-12",
+  "bank": "general",
+  "text": "Nomme un peintre ou un sculpteur du XIXe siècle",
+  "count": 122
+ },
+ {
+  "id": "his-xixe-13",
+  "bank": "general",
+  "text": "Nomme un compositeur du XIXe siècle",
+  "count": 110
+ },
+ {
+  "id": "his-xixe-14",
+  "bank": "general",
+  "text": "Nomme une ville européenne marquée par la révolution industrielle",
+  "count": 141
+ },
+ {
+  "id": "his-xixe-15",
+  "bank": "general",
+  "text": "Nomme un inventeur, un ingénieur ou un industriel du XIXe siècle",
+  "count": 112
+ },
+ {
+  "id": "his-xxe-01",
+  "bank": "general",
+  "text": "Nomme un pays d'Afrique, d'Asie ou d'Océanie devenu indépendant entre 1945 et 1990",
+  "count": 79
+ },
+ {
+  "id": "his-xxe-02",
+  "bank": "general",
+  "text": "Nomme un dirigeant politique de l'URSS ou d'un pays du bloc de l'Est",
+  "count": 71
+ },
+ {
+  "id": "his-xxe-03",
+  "bank": "general",
+  "text": "Nomme un dirigeant, un dignitaire, un général ou un collaborateur de l'Allemagne nazie, de l'Italie fasciste, du Japon impérial ou de leurs alliés",
+  "count": 87
+ },
+ {
+  "id": "his-xxe-04",
+  "bank": "general",
+  "text": "Nomme une personnalité de la Résistance française ou de la France libre",
+  "count": 75
+ },
+ {
+  "id": "his-xxe-05",
+  "bank": "general",
+  "text": "Nomme un astronaute, un cosmonaute ou un spationaute",
+  "count": 126
+ },
+ {
+  "id": "his-xxe-06",
+  "bank": "general",
+  "text": "Nomme une mission, une sonde, un satellite, un vaisseau ou une station spatiale",
+  "count": 116
+ },
+ {
+  "id": "his-xxe-07",
+  "bank": "general",
+  "text": "Nomme une personnalité politique française ayant été président, Premier ministre ou ministre sous la Ve République",
+  "count": 141
+ },
+ {
+  "id": "his-xxe-08",
+  "bank": "general",
+  "text": "Nomme une organisation internationale, une alliance ou une communauté politique, militaire ou économique créée au XXe siècle",
+  "count": 88
+ },
+ {
+  "id": "his-xxe-09",
+  "bank": "general",
+  "text": "Nomme une personnalité assassinée au XXe siècle ou au début du XXIe",
+  "count": 77
+ },
+ {
+  "id": "his-xxe-10",
+  "bank": "general",
+  "text": "Nomme une personne ayant reçu le prix Nobel de la paix",
+  "count": 102
+ },
+ {
+  "id": "his-xxe-11",
+  "bank": "general",
+  "text": "Nomme un camp d'internement, de concentration ou d'extermination en Europe pendant la Seconde Guerre mondiale",
+  "count": 64
+ },
+ {
+  "id": "his-xxe-12",
+  "bank": "general",
+  "text": "Nomme un chef d'État ou de gouvernement africain depuis 1945",
+  "count": 150
+ },
+ {
+  "id": "his-xxe-13",
+  "bank": "general",
+  "text": "Nomme un pays belligérant de la Seconde Guerre mondiale",
+  "count": 63
+ },
+ {
+  "id": "his-xxe-14",
+  "bank": "general",
+  "text": "Nomme une femme ayant été cheffe d'État ou de gouvernement depuis 1900",
+  "count": 87
+ },
+ {
+  "id": "his-xxe-15",
+  "bank": "general",
+  "text": "Nomme un groupe armé, un mouvement de libération ou une organisation politique clandestine du XXe siècle",
+  "count": 98
+ },
+ {
+  "id": "sci-nobel-physique",
+  "bank": "general",
+  "text": "Nomme un lauréat du prix Nobel de physique",
+  "count": 158
+ },
+ {
+  "id": "sci-corps-organe",
+  "bank": "general",
+  "text": "Nomme un organe ou une glande du corps humain",
+  "count": 87
+ },
+ {
+  "id": "sci-maladie-rare",
+  "bank": "general",
+  "text": "Nomme une maladie génétique ou une maladie rare",
+  "count": 108
+ },
+ {
+  "id": "sci-animal-amerique-sud",
+  "bank": "general",
+  "text": "Nomme un animal d'Amérique du Sud",
+  "count": 102
+ },
+ {
+  "id": "sci-animal-asie",
+  "bank": "general",
+  "text": "Nomme un animal d'Asie",
+  "count": 78
+ },
+ {
+  "id": "sci-animal-oceanie",
+  "bank": "general",
+  "text": "Nomme un animal d'Australie ou d'Océanie",
+  "count": 64
+ },
+ {
+  "id": "sci-arbre-fruitier",
+  "bank": "general",
+  "text": "Nomme un arbre fruitier ou un arbuste à fruits",
+  "count": 85
+ },
+ {
+  "id": "sci-plante-medicinale",
+  "bank": "general",
+  "text": "Nomme une plante médicinale",
+  "count": 109
+ },
+ {
+  "id": "sci-mineral",
+  "bank": "general",
+  "text": "Nomme un minéral ou une roche",
+  "count": 123
+ },
+ {
+  "id": "sci-meteo",
+  "bank": "general",
+  "text": "Nomme un phénomène météorologique ou climatique",
+  "count": 84
+ },
+ {
+  "id": "sci-physicien",
+  "bank": "general",
+  "text": "Nomme un physicien célèbre",
+  "count": 112
+ },
+ {
+  "id": "sci-chimiste",
+  "bank": "general",
+  "text": "Nomme un chimiste célèbre",
+  "count": 93
+ },
+ {
+  "id": "sci-inventeur",
+  "bank": "general",
+  "text": "Nomme un inventeur célèbre",
+  "count": 90
+ },
+ {
+  "id": "sci-animaux-01",
+  "bank": "general",
+  "text": "Nomme une race bovine (race de vache)",
+  "count": 69
+ },
+ {
+  "id": "sci-animaux-02",
+  "bank": "general",
+  "text": "Nomme une race de cheval, de poney ou d'âne",
+  "count": 79
+ },
+ {
+  "id": "sci-animaux-03",
+  "bank": "general",
+  "text": "Nomme une race de poule",
+  "count": 75
+ },
+ {
+  "id": "sci-animaux-04",
+  "bank": "general",
+  "text": "Nomme une race de mouton ou de chèvre",
+  "count": 83
+ },
+ {
+  "id": "sci-animaux-05",
+  "bank": "general",
+  "text": "Nomme un rongeur",
+  "count": 58
+ },
+ {
+  "id": "sci-animaux-06",
+  "bank": "general",
+  "text": "Nomme un primate",
+  "count": 53
+ },
+ {
+  "id": "sci-animaux-07",
+  "bank": "general",
+  "text": "Nomme un mammifère de l'ordre des carnivores (Carnivora)",
+  "count": 81
+ },
+ {
+  "id": "sci-animaux-08",
+  "bank": "general",
+  "text": "Nomme un rapace (oiseau de proie diurne ou nocturne)",
+  "count": 74
+ },
+ {
+  "id": "sci-animaux-09",
+  "bank": "general",
+  "text": "Nomme un mollusque",
+  "count": 65
+ },
+ {
+  "id": "sci-animaux-10",
+  "bank": "general",
+  "text": "Nomme un crustacé",
+  "count": 55
+ },
+ {
+  "id": "sci-animaux-11",
+  "bank": "general",
+  "text": "Nomme un animal venimeux",
+  "count": 57
+ },
+ {
+  "id": "sci-animaux-12",
+  "bank": "general",
+  "text": "Nomme un animal migrateur",
+  "count": 70
+ },
+ {
+  "id": "sci-animaux-13",
+  "bank": "general",
+  "text": "Nomme une espèce animale éteinte (hors dinosaures)",
+  "count": 73
+ },
+ {
+  "id": "sci-animaux-14",
+  "bank": "general",
+  "text": "Nomme un verbe désignant le cri d'un animal",
+  "count": 66
+ },
+ {
+  "id": "sci-animaux-15",
+  "bank": "general",
+  "text": "Nomme un animal vivant dans les régions polaires (Arctique ou Antarctique)",
+  "count": 62
+ },
+ {
+  "id": "sci-corps-01",
+  "bank": "general",
+  "text": "Nomme une spécialité médicale ou chirurgicale exercée par un médecin",
+  "count": 67
+ },
+ {
+  "id": "sci-corps-02",
+  "bank": "general",
+  "text": "Nomme une phobie dont le nom savant se termine par « -phobie »",
+  "count": 94
+ },
+ {
+  "id": "sci-corps-03",
+  "bank": "general",
+  "text": "Nomme une maladie infectieuse humaine due à une bactérie",
+  "count": 64
+ },
+ {
+  "id": "sci-corps-04",
+  "bank": "general",
+  "text": "Nomme un antibiotique (molécule)",
+  "count": 81
+ },
+ {
+  "id": "sci-corps-05",
+  "bank": "general",
+  "text": "Nomme une hormone produite par le corps humain",
+  "count": 63
+ },
+ {
+  "id": "sci-corps-06",
+  "bank": "general",
+  "text": "Nomme un instrument ou un appareil utilisé par les médecins ou les chirurgiens",
+  "count": 99
+ },
+ {
+  "id": "sci-corps-07",
+  "bank": "general",
+  "text": "Nomme un examen médical complémentaire (imagerie, endoscopie, analyse ou exploration fonctionnelle)",
+  "count": 95
+ },
+ {
+  "id": "sci-corps-08",
+  "bank": "general",
+  "text": "Nomme une structure anatomique de l'encéphale (cerveau, cervelet ou tronc cérébral)",
+  "count": 95
+ },
+ {
+  "id": "sci-corps-09",
+  "bank": "general",
+  "text": "Nomme une maladie ou une affection de la peau",
+  "count": 79
+ },
+ {
+  "id": "sci-corps-10",
+  "bank": "general",
+  "text": "Nomme un type de cellule du corps humain",
+  "count": 96
+ },
+ {
+  "id": "sci-corps-11",
+  "bank": "general",
+  "text": "Nomme une maladie ou un syndrome portant le nom d'une personne",
+  "count": 113
+ },
+ {
+  "id": "sci-corps-12",
+  "bank": "general",
+  "text": "Nomme un parasite de l'être humain ou une maladie parasitaire humaine",
+  "count": 57
+ },
+ {
+  "id": "sci-corps-13",
+  "bank": "general",
+  "text": "Nomme un trouble mental reconnu par la psychiatrie",
+  "count": 82
+ },
+ {
+  "id": "sci-corps-14",
+  "bank": "general",
+  "text": "Nomme un type de cancer (par organe atteint ou par type de tumeur maligne)",
+  "count": 80
+ },
+ {
+  "id": "sci-corps-15",
+  "bank": "general",
+  "text": "Nomme une artère ou une veine du corps humain",
+  "count": 101
+ },
+ {
+  "id": "sci-physchim-01",
+  "bank": "general",
+  "text": "Nomme une unité de mesure d'une grandeur physique (unité du Système international ou usuelle)",
+  "count": 102
+ },
+ {
+  "id": "sci-physchim-02",
+  "bank": "general",
+  "text": "Nomme un élément chimique du tableau périodique",
+  "count": 118
+ },
+ {
+  "id": "sci-physchim-03",
+  "bank": "general",
+  "text": "Nomme une figure géométrique ou un solide de géométrie",
+  "count": 65
+ },
+ {
+  "id": "sci-physchim-04",
+  "bank": "general",
+  "text": "Nomme un mathématicien célèbre",
+  "count": 110
+ },
+ {
+  "id": "sci-physchim-05",
+  "bank": "general",
+  "text": "Nomme un instrument de mesure",
+  "count": 95
+ },
+ {
+  "id": "sci-physchim-06",
+  "bank": "general",
+  "text": "Nomme un gaz",
+  "count": 64
+ },
+ {
+  "id": "sci-physchim-07",
+  "bank": "general",
+  "text": "Nomme un alliage métallique",
+  "count": 79
+ },
+ {
+  "id": "sci-physchim-08",
+  "bank": "general",
+  "text": "Nomme un acide (chimique, organique ou biologique)",
+  "count": 77
+ },
+ {
+  "id": "sci-physchim-09",
+  "bank": "general",
+  "text": "Nomme une loi, un théorème ou un principe scientifique portant le nom d'un savant",
+  "count": 97
+ },
+ {
+  "id": "sci-physchim-10",
+  "bank": "general",
+  "text": "Nomme une opération, une fonction ou un symbole mathématique",
+  "count": 91
+ },
+ {
+  "id": "sci-physchim-11",
+  "bank": "general",
+  "text": "Nomme un objet de verrerie ou un matériel de laboratoire de chimie ou de physique",
+  "count": 117
+ },
+ {
+  "id": "sci-physchim-12",
+  "bank": "general",
+  "text": "Nomme une grandeur physique",
+  "count": 136
+ },
+ {
+  "id": "sci-physchim-13",
+  "bank": "general",
+  "text": "Nomme un métal",
+  "count": 80
+ },
+ {
+  "id": "sci-physchim-14",
+  "bank": "general",
+  "text": "Nomme un composant électrique ou électronique",
+  "count": 111
+ },
+ {
+  "id": "sci-physchim-15",
+  "bank": "general",
+  "text": "Nomme un composé chimique courant (molécule ou corps composé)",
+  "count": 117
+ },
+ {
+  "id": "sci-plantes-01",
+  "bank": "general",
+  "text": "Nomme un fruit",
+  "count": 85
+ },
+ {
+  "id": "sci-plantes-02",
+  "bank": "general",
+  "text": "Nomme un légume",
+  "count": 89
+ },
+ {
+  "id": "sci-plantes-03",
+  "bank": "general",
+  "text": "Nomme une fleur",
+  "count": 111
+ },
+ {
+  "id": "sci-plantes-04",
+  "bank": "general",
+  "text": "Nomme un arbre qui pousse en France",
+  "count": 107
+ },
+ {
+  "id": "sci-plantes-05",
+  "bank": "general",
+  "text": "Nomme un champignon",
+  "count": 98
+ },
+ {
+  "id": "sci-plantes-06",
+  "bank": "general",
+  "text": "Nomme une herbe aromatique ou une épice",
+  "count": 93
+ },
+ {
+  "id": "sci-plantes-07",
+  "bank": "general",
+  "text": "Nomme une céréale ou une légumineuse",
+  "count": 77
+ },
+ {
+  "id": "sci-plantes-08",
+  "bank": "general",
+  "text": "Nomme une plante d'intérieur",
+  "count": 116
+ },
+ {
+  "id": "sci-plantes-09",
+  "bank": "general",
+  "text": "Nomme un outil ou un équipement de jardinage",
+  "count": 85
+ },
+ {
+  "id": "sci-plantes-10",
+  "bank": "general",
+  "text": "Nomme une variété de pomme",
+  "count": 101
+ },
+ {
+  "id": "sci-plantes-11",
+  "bank": "general",
+  "text": "Nomme une plante sauvage commune en France (fleur, herbe ou plante des champs et des bois)",
+  "count": 136
+ },
+ {
+  "id": "sci-plantes-12",
+  "bank": "general",
+  "text": "Nomme un conifère",
+  "count": 90
+ },
+ {
+  "id": "sci-plantes-13",
+  "bank": "general",
+  "text": "Nomme une plante grasse (cactus ou succulente)",
+  "count": 100
+ },
+ {
+  "id": "sci-plantes-14",
+  "bank": "general",
+  "text": "Nomme un arbuste",
+  "count": 103
+ },
+ {
+  "id": "sci-plantes-15",
+  "bank": "general",
+  "text": "Nomme une plante toxique ou vénéneuse",
+  "count": 91
+ },
+ {
+  "id": "sci-techno-01",
+  "bank": "general",
+  "text": "Nomme un réseau social ou une plateforme de partage en ligne (hors messageries)",
+  "count": 73
+ },
+ {
+  "id": "sci-techno-02",
+  "bank": "general",
+  "text": "Nomme une entreprise ou une marque de technologie (informatique, électronique, téléphonie, internet)",
+  "count": 118
+ },
+ {
+  "id": "sci-techno-03",
+  "bank": "general",
+  "text": "Nomme un composant ou un périphérique d'ordinateur",
+  "count": 88
+ },
+ {
+  "id": "sci-techno-04",
+  "bank": "general",
+  "text": "Nomme une extension de fichier informatique (ce qui suit le point dans un nom de fichier)",
+  "count": 105
+ },
+ {
+  "id": "sci-techno-05",
+  "bank": "general",
+  "text": "Nomme un outil de bricolage ou de menuiserie (à main ou électroportatif)",
+  "count": 98
+ },
+ {
+  "id": "sci-techno-06",
+  "bank": "general",
+  "text": "Nomme un matériau de construction ou de revêtement utilisé dans le bâtiment",
+  "count": 84
+ },
+ {
+  "id": "sci-techno-07",
+  "bank": "general",
+  "text": "Nomme un modèle d'avion (civil ou militaire)",
+  "count": 126
+ },
+ {
+  "id": "sci-techno-08",
+  "bank": "general",
+  "text": "Nomme un véhicule terrestre (à moteur, à pédales, sur rails ou tracté)",
+  "count": 95
+ },
+ {
+  "id": "sci-techno-09",
+  "bank": "general",
+  "text": "Nomme un robot ou une intelligence artificielle célèbre (réelle ou de fiction)",
+  "count": 86
+ },
+ {
+  "id": "sci-techno-10",
+  "bank": "general",
+  "text": "Nomme un fondateur ou un grand dirigeant d'une entreprise technologique",
+  "count": 85
+ },
+ {
+  "id": "sci-techno-11",
+  "bank": "general",
+  "text": "Nomme un modèle de voiture (nom du modèle, sans la marque)",
+  "count": 128
+ },
+ {
+  "id": "sci-techno-12",
+  "bank": "general",
+  "text": "Nomme un logiciel, une application ou un système d'exploitation grand public",
+  "count": 119
+ },
+ {
+  "id": "sci-techno-13",
+  "bank": "general",
+  "text": "Nomme un appareil électronique grand public",
+  "count": 79
+ },
+ {
+  "id": "sci-techno-14",
+  "bank": "general",
+  "text": "Nomme un engin de chantier, de travaux publics ou une machine agricole",
+  "count": 67
+ },
+ {
+  "id": "sci-techno-15",
+  "bank": "general",
+  "text": "Nomme un type de bateau ou de navire",
+  "count": 87
+ },
+ {
+  "id": "sci-terre-01",
+  "bank": "general",
+  "text": "Nomme un volcan du monde (actif, endormi ou éteint)",
+  "count": 97
+ },
+ {
+  "id": "sci-terre-02",
+  "bank": "general",
+  "text": "Nomme une mer ou un océan",
+  "count": 91
+ },
+ {
+  "id": "sci-terre-03",
+  "bank": "general",
+  "text": "Nomme un désert du monde",
+  "count": 66
+ },
+ {
+  "id": "sci-terre-04",
+  "bank": "general",
+  "text": "Nomme un astronaute ou un cosmonaute",
+  "count": 167
+ },
+ {
+  "id": "sci-terre-05",
+  "bank": "general",
+  "text": "Nomme un engin spatial (sonde, satellite, télescope spatial, station, rover ou navette)",
+  "count": 153
+ },
+ {
+  "id": "sci-terre-06",
+  "bank": "general",
+  "text": "Nomme une fusée ou un lanceur spatial",
+  "count": 103
+ },
+ {
+  "id": "sci-terre-07",
+  "bank": "general",
+  "text": "Nomme un combustible ou un carburant",
+  "count": 86
+ },
+ {
+  "id": "sci-terre-08",
+  "bank": "general",
+  "text": "Nomme un déchet ménager",
+  "count": 132
+ },
+ {
+  "id": "sci-terre-09",
+  "bank": "general",
+  "text": "Nomme une catastrophe naturelle célèbre de l'Histoire (séisme, éruption, tsunami, ouragan ou tempête)",
+  "count": 99
+ },
+ {
+  "id": "sci-terre-10",
+  "bank": "general",
+  "text": "Nomme une roche ou un minéral",
+  "count": 192
+ },
+ {
+  "id": "sci-terre-11",
+  "bank": "general",
+  "text": "Nomme une pierre précieuse ou semi-précieuse",
+  "count": 114
+ },
+ {
+  "id": "sci-terre-12",
+  "bank": "general",
+  "text": "Nomme une étoile portant un nom propre (hors Soleil)",
+  "count": 164
+ },
+ {
+  "id": "sci-terre-13",
+  "bank": "general",
+  "text": "Nomme un animal menacé d'extinction",
+  "count": 155
+ },
+ {
+  "id": "sci-terre-14",
+  "bank": "general",
+  "text": "Nomme un élément du relief ou du paysage naturel",
+  "count": 149
+ },
+ {
+  "id": "sci-terre-15",
+  "bank": "general",
+  "text": "Nomme un geste écologique du quotidien",
+  "count": 112
+ },
+ {
+  "id": "spo-nba-joueur",
+  "bank": "general",
+  "text": "Nomme un joueur de basket de la NBA",
+  "count": 131
+ },
+ {
+  "id": "spo-foot-sudam",
+  "bank": "general",
+  "text": "Nomme un footballeur brésilien ou argentin",
+  "count": 142
+ },
+ {
+  "id": "spo-rugby",
+  "bank": "general",
+  "text": "Nomme un joueur de rugby célèbre",
+  "count": 200
+ },
+ {
+  "id": "spo-athlete-olympique",
+  "bank": "general",
+  "text": "Nomme un athlète champion olympique",
+  "count": 104
+ },
+ {
+  "id": "spo-nageur",
+  "bank": "general",
+  "text": "Nomme un nageur ou une nageuse célèbre",
+  "count": 99
+ },
+ {
+  "id": "spo-skieur",
+  "bank": "general",
+  "text": "Nomme un skieur ou une skieuse alpin célèbre",
+  "count": 133
+ },
+ {
+  "id": "spo-club-foot-benelux-portugal",
+  "bank": "general",
+  "text": "Nomme un club de football portugais, néerlandais ou belge",
+  "count": 107
+ },
+ {
+  "id": "spo-jeu-traditionnel",
+  "bank": "general",
+  "text": "Nomme un jeu de cartes ou un jeu de plateau traditionnel",
+  "count": 81
+ },
+ {
+  "id": "spo-loisir-creatif",
+  "bank": "general",
+  "text": "Nomme un passe-temps ou un loisir créatif",
+  "count": 110
+ },
+ {
+  "id": "spo-sport-glisse",
+  "bank": "general",
+  "text": "Nomme un sport de glisse",
+  "count": 52
+ },
+ {
+  "id": "spo-competition-internationale",
+  "bank": "general",
+  "text": "Nomme une compétition sportive internationale",
+  "count": 62
+ },
+ {
+  "id": "spo-stade",
+  "bank": "general",
+  "text": "Nomme un stade célèbre",
+  "count": 81
+ },
+ {
+  "id": "spo-entraineur-foot",
+  "bank": "general",
+  "text": "Nomme un entraîneur de football célèbre",
+  "count": 95
+ },
+ {
+  "id": "spo-collectifs-01",
+  "bank": "general",
+  "text": "Nomme une équipe de NBA ou de WNBA (ou de la BAA, ancêtre de la NBA), actuelle ou disparue",
+  "count": 65
+ },
+ {
+  "id": "spo-collectifs-02",
+  "bank": "general",
+  "text": "Nomme un équipement, un accessoire ou un élément de terrain utilisé dans un sport collectif (rugby, basket, handball, volley, hockey, baseball, football américain)",
+  "count": 80
+ },
+ {
+  "id": "spo-collectifs-03",
+  "bank": "general",
+  "text": "Nomme un club ou une franchise de rugby à XV situé hors de France (Angleterre, Irlande, Écosse, pays de Galles, Italie, hémisphère sud, Japon)",
+  "count": 116
+ },
+ {
+  "id": "spo-collectifs-04",
+  "bank": "general",
+  "text": "Nomme un terme du vocabulaire du rugby (action, règle, geste technique ou tradition, hors noms de postes)",
+  "count": 76
+ },
+ {
+  "id": "spo-collectifs-05",
+  "bank": "general",
+  "text": "Nomme un terme du vocabulaire du basket-ball (geste, règle, faute ou expression, hors noms de postes)",
+  "count": 85
+ },
+ {
+  "id": "spo-collectifs-06",
+  "bank": "general",
+  "text": "Nomme une équipe de hockey sur glace de la LNH (NHL) ou de l'ancienne AMH (WHA), actuelle ou disparue",
+  "count": 66
+ },
+ {
+  "id": "spo-collectifs-07",
+  "bank": "general",
+  "text": "Nomme une équipe de NFL, actuelle ou disparue",
+  "count": 68
+ },
+ {
+  "id": "spo-collectifs-08",
+  "bank": "general",
+  "text": "Nomme un terme du vocabulaire du baseball (hors noms de postes)",
+  "count": 73
+ },
+ {
+  "id": "spo-collectifs-09",
+  "bank": "general",
+  "text": "Nomme un terme du vocabulaire du football américain (hors noms de postes)",
+  "count": 92
+ },
+ {
+  "id": "spo-collectifs-10",
+  "bank": "general",
+  "text": "Nomme un terme du vocabulaire du handball ou du volley-ball (hors noms de postes)",
+  "count": 91
+ },
+ {
+  "id": "spo-collectifs-11",
+  "bank": "general",
+  "text": "Nomme une compétition, un championnat ou un trophée de sport collectif hors football (rugby, basket, handball, volley, hockey, baseball, football américain)",
+  "count": 83
+ },
+ {
+  "id": "spo-collectifs-12",
+  "bank": "general",
+  "text": "Nomme un stade ou une salle célèbre accueillant du rugby, du basket, du hockey, du baseball ou du football américain",
+  "count": 119
+ },
+ {
+  "id": "spo-collectifs-13",
+  "bank": "general",
+  "text": "Nomme une ville ayant accueilli une franchise de NBA, NFL, MLB ou NHL (actuelle ou passée)",
+  "count": 96
+ },
+ {
+  "id": "spo-collectifs-14",
+  "bank": "general",
+  "text": "Nomme un sport collectif (hors football), y compris les variantes et les sports peu connus",
+  "count": 53
+ },
+ {
+  "id": "spo-collectifs-15",
+  "bank": "general",
+  "text": "Nomme un poste ou un rôle dans une équipe de sport collectif hors football (rugby, basket, handball, volley, hockey, baseball, football américain)",
+  "count": 87
+ },
+ {
+  "id": "spo-football-01",
+  "bank": "general",
+  "text": "Nomme un club ayant évolué en première division française (Division 1 ou Ligue 1)",
+  "count": 58
+ },
+ {
+  "id": "spo-football-02",
+  "bank": "general",
+  "text": "Nomme un club ayant joué en Premier League anglaise (depuis sa création en 1992)",
+  "count": 51
+ },
+ {
+  "id": "spo-football-03",
+  "bank": "general",
+  "text": "Nomme un joueur ayant porté le maillot de Manchester United en match officiel",
+  "count": 88
+ },
+ {
+  "id": "spo-football-04",
+  "bank": "general",
+  "text": "Nomme un joueur ayant porté le maillot de la Juventus en match officiel",
+  "count": 80
+ },
+ {
+  "id": "spo-football-05",
+  "bank": "general",
+  "text": "Nomme un joueur ayant porté le maillot de l'Olympique lyonnais en match officiel",
+  "count": 73
+ },
+ {
+  "id": "spo-football-06",
+  "bank": "general",
+  "text": "Nomme un joueur ayant marqué au moins un but avec l'équipe de France A masculine",
+  "count": 74
+ },
+ {
+  "id": "spo-football-07",
+  "bank": "general",
+  "text": "Nomme une sélection ayant disputé au moins une phase finale de Coupe du monde masculine",
+  "count": 87
+ },
+ {
+  "id": "spo-football-08",
+  "bank": "general",
+  "text": "Nomme un joueur sacré champion du monde (membre d'une équipe vainqueur de la Coupe du monde masculine)",
+  "count": 424
+ },
+ {
+  "id": "spo-football-09",
+  "bank": "general",
+  "text": "Nomme un joueur ayant porté le maillot du Paris Saint-Germain en match officiel",
+  "count": 108
+ },
+ {
+  "id": "spo-football-10",
+  "bank": "general",
+  "text": "Nomme un joueur ayant porté le maillot de l'Olympique de Marseille en match officiel",
+  "count": 90
+ },
+ {
+  "id": "spo-football-11",
+  "bank": "general",
+  "text": "Nomme un joueur ayant porté le maillot du Real Madrid en match officiel",
+  "count": 94
+ },
+ {
+  "id": "spo-football-12",
+  "bank": "general",
+  "text": "Nomme un joueur ayant porté le maillot du FC Barcelone en match officiel",
+  "count": 91
+ },
+ {
+  "id": "spo-football-13",
+  "bank": "general",
+  "text": "Nomme une sélection nationale membre de l'UEFA",
+  "count": 55
+ },
+ {
+  "id": "spo-football-14",
+  "bank": "general",
+  "text": "Nomme une sélection nationale membre de la CAF (Confédération africaine de football)",
+  "count": 54
+ },
+ {
+  "id": "spo-football-15",
+  "bank": "general",
+  "text": "Nomme un club de football brésilien",
+  "count": 56
+ },
+ {
+  "id": "spo-individuels-01",
+  "bank": "general",
+  "text": "Nomme une ville accueillant ou ayant accueilli un tournoi de tennis professionnel du circuit ATP ou WTA",
+  "count": 110
+ },
+ {
+  "id": "spo-individuels-02",
+  "bank": "general",
+  "text": "Nomme un terme du vocabulaire du tennis (coup, règle, score, rôle sur le court…)",
+  "count": 80
+ },
+ {
+  "id": "spo-individuels-03",
+  "bank": "general",
+  "text": "Nomme un terme du vocabulaire du golf (score, coup, terrain, matériel…)",
+  "count": 77
+ },
+ {
+  "id": "spo-individuels-04",
+  "bank": "general",
+  "text": "Nomme une course cycliste professionnelle sur route (grand tour, course par étapes ou classique d'un jour)",
+  "count": 84
+ },
+ {
+  "id": "spo-individuels-05",
+  "bank": "general",
+  "text": "Nomme un col ou une montée célèbre du cyclisme sur route (Tour de France, Giro, Vuelta, classiques)",
+  "count": 94
+ },
+ {
+  "id": "spo-individuels-06",
+  "bank": "general",
+  "text": "Nomme une équipe cycliste professionnelle sur route, actuelle ou passée (par son nom de sponsor)",
+  "count": 98
+ },
+ {
+  "id": "spo-individuels-07",
+  "bank": "general",
+  "text": "Nomme un circuit ayant accueilli un Grand Prix du championnat du monde de Formule 1",
+  "count": 77
+ },
+ {
+  "id": "spo-individuels-08",
+  "bank": "general",
+  "text": "Nomme une écurie ou un constructeur ayant engagé des voitures en championnat du monde de Formule 1",
+  "count": 93
+ },
+ {
+  "id": "spo-individuels-09",
+  "bank": "general",
+  "text": "Nomme un pilote champion du monde de vitesse moto (MotoGP/500 cm³, Moto2/250 cm³, Moto3/125 cm³, 350 ou 50/80 cm³)",
+  "count": 97
+ },
+ {
+  "id": "spo-individuels-10",
+  "bank": "general",
+  "text": "Nomme une course, un rallye ou un championnat de sport automobile ou moto",
+  "count": 89
+ },
+ {
+  "id": "spo-individuels-11",
+  "bank": "general",
+  "text": "Nomme un joueur ou une joueuse de tennis français(e) professionnel(le), actuel(le) ou passé(e)",
+  "count": 90
+ },
+ {
+  "id": "spo-individuels-12",
+  "bank": "general",
+  "text": "Nomme une station ou un site ayant accueilli une épreuve de Coupe du monde de ski alpin",
+  "count": 53
+ },
+ {
+  "id": "spo-individuels-13",
+  "bank": "general",
+  "text": "Nomme une épreuve d'athlétisme (piste, sauts, lancers, épreuves combinées, route ou marche), actuelle ou disparue",
+  "count": 66
+ },
+ {
+  "id": "spo-individuels-14",
+  "bank": "general",
+  "text": "Nomme un boxeur ou une boxeuse ayant été champion(ne) du monde professionnel",
+  "count": 132
+ },
+ {
+  "id": "spo-individuels-15",
+  "bank": "general",
+  "text": "Nomme un mot ou une expression du vocabulaire du cyclisme sur route",
+  "count": 92
+ },
+ {
+  "id": "spo-jo-01",
+  "bank": "general",
+  "text": "Nomme un sport ou une discipline ayant figuré au programme des Jeux olympiques d'été (actuel ou ancien)",
+  "count": 70
+ },
+ {
+  "id": "spo-jo-02",
+  "bank": "general",
+  "text": "Nomme un sport ou une discipline ayant figuré au programme des Jeux olympiques d'hiver (actuel ou ancien)",
+  "count": 51
+ },
+ {
+  "id": "spo-jo-03",
+  "bank": "general",
+  "text": "Nomme un pays ayant remporté au moins une médaille d'or aux Jeux olympiques d'été",
+  "count": 99
+ },
+ {
+  "id": "spo-jo-04",
+  "bank": "general",
+  "text": "Nomme un athlète français ayant remporté au moins une médaille d'or olympique",
+  "count": 68
+ },
+ {
+  "id": "spo-jo-05",
+  "bank": "general",
+  "text": "Nomme un jeu qui se joue avec des cartes (jeu de cartes classique, spécifique ou à collectionner)",
+  "count": 60
+ },
+ {
+  "id": "spo-jo-06",
+  "bank": "general",
+  "text": "Nomme un jeu de société à plateau ou d'ambiance (hors jeux de cartes)",
+  "count": 75
+ },
+ {
+  "id": "spo-jo-07",
+  "bank": "general",
+  "text": "Nomme un style ou une danse (de salon, traditionnelle, de scène ou urbaine)",
+  "count": 103
+ },
+ {
+  "id": "spo-jo-08",
+  "bank": "general",
+  "text": "Nomme un terme du vocabulaire de la danse classique (pas, position, grade, accessoire…)",
+  "count": 98
+ },
+ {
+  "id": "spo-jo-09",
+  "bank": "general",
+  "text": "Nomme une activité sportive ou de loisir de plein air",
+  "count": 83
+ },
+ {
+  "id": "spo-jo-10",
+  "bank": "general",
+  "text": "Nomme un objet ou un équipement utile pour le camping ou la randonnée",
+  "count": 86
+ },
+ {
+  "id": "spo-jo-11",
+  "bank": "general",
+  "text": "Nomme un sport collectif",
+  "count": 57
+ },
+ {
+  "id": "spo-jo-12",
+  "bank": "general",
+  "text": "Nomme un sport de combat ou un art martial",
+  "count": 82
+ },
+ {
+  "id": "spo-jo-13",
+  "bank": "general",
+  "text": "Nomme un appareil ou un accessoire que l'on trouve dans une salle de sport",
+  "count": 75
+ },
+ {
+  "id": "spo-jo-14",
+  "bank": "general",
+  "text": "Nomme un exercice de musculation ou de fitness",
+  "count": 90
+ },
+ {
+  "id": "spo-jo-15",
+  "bank": "general",
+  "text": "Nomme un sport ou une activité nautique ou aquatique",
+  "count": 67
+ },
+ {
+  "id": "spo-loisirs-01",
+  "bank": "general",
+  "text": "Nomme un plat ou une spécialité de la cuisine japonaise",
+  "count": 97
+ },
+ {
+  "id": "spo-loisirs-02",
+  "bank": "general",
+  "text": "Nomme un plat ou une spécialité de la cuisine italienne (hors pâtes)",
+  "count": 110
+ },
+ {
+  "id": "spo-loisirs-03",
+  "bank": "general",
+  "text": "Nomme un plat ou une spécialité du Maghreb ou du Moyen-Orient",
+  "count": 111
+ },
+ {
+  "id": "spo-loisirs-04",
+  "bank": "general",
+  "text": "Nomme un dessert ou une pâtisserie anglo-saxonne (Royaume-Uni, Irlande, États-Unis, Canada, Australie, Nouvelle-Zélande)",
+  "count": 124
+ },
+ {
+  "id": "spo-loisirs-05",
+  "bank": "general",
+  "text": "Nomme une boisson sans alcool (type de boisson ou marque)",
+  "count": 166
+ },
+ {
+  "id": "spo-loisirs-06",
+  "bank": "general",
+  "text": "Nomme une marque de bière",
+  "count": 183
+ },
+ {
+  "id": "spo-loisirs-07",
+  "bank": "general",
+  "text": "Nomme un type de pain (français ou du monde)",
+  "count": 134
+ },
+ {
+  "id": "spo-loisirs-08",
+  "bank": "general",
+  "text": "Nomme un outil de bricolage",
+  "count": 145
+ },
+ {
+  "id": "spo-loisirs-09",
+  "bank": "general",
+  "text": "Nomme un type de chaussure",
+  "count": 105
+ },
+ {
+  "id": "spo-loisirs-10",
+  "bank": "general",
+  "text": "Nomme une marque de mode, de prêt-à-porter ou de luxe",
+  "count": 212
+ },
+ {
+  "id": "spo-loisirs-11",
+  "bank": "general",
+  "text": "Nomme un parc d'attractions ou un parc à thème dans le monde",
+  "count": 147
+ },
+ {
+  "id": "spo-loisirs-12",
+  "bank": "general",
+  "text": "Nomme un tissu ou une matière textile",
+  "count": 129
+ },
+ {
+  "id": "spo-loisirs-13",
+  "bank": "general",
+  "text": "Nomme un accessoire de mode (sac, chapeau, bijou, ceinture, foulard…)",
+  "count": 127
+ },
+ {
+  "id": "spo-loisirs-14",
+  "bank": "general",
+  "text": "Nomme une essence de bois (arbre dont le bois est utilisé en menuiserie, ébénisterie ou construction)",
+  "count": 139
+ },
+ {
+  "id": "spo-loisirs-15",
+  "bank": "general",
+  "text": "Nomme un ustensile ou un petit matériel de cuisine",
+  "count": 142
+ },
+ {
+  "id": "spo-meca-01",
+  "bank": "general",
+  "text": "Nomme un pilote de rallye (championnat du monde des rallyes WRC) connu",
+  "count": 84
+ },
+ {
+  "id": "spo-meca-02",
+  "bank": "general",
+  "text": "Nomme un pilote vainqueur des 24 Heures du Mans (au classement général)",
+  "count": 89
+ },
+ {
+  "id": "spo-meca-03",
+  "bank": "general",
+  "text": "Nomme un terme du vocabulaire du sport automobile (pole position, chicane, paddock…)",
+  "count": 87
+ },
+ {
+  "id": "spo-meca-04",
+  "bank": "general",
+  "text": "Nomme un coureur cycliste professionnel français, actuel ou passé",
+  "count": 98
+ },
+ {
+  "id": "spo-meca-05",
+  "bank": "general",
+  "text": "Nomme un athlète de demi-fond, de fond ou de marathon, hommes ou femmes",
+  "count": 98
+ },
+ {
+  "id": "spo-meca-06",
+  "bank": "general",
+  "text": "Nomme un athlète spécialiste du sprint, des haies, des sauts ou des lancers",
+  "count": 122
+ },
+ {
+  "id": "spo-meca-07",
+  "bank": "general",
+  "text": "Nomme un navigateur ou une navigatrice de course au large",
+  "count": 91
+ },
+ {
+  "id": "spo-meca-08",
+  "bank": "general",
+  "text": "Nomme une course ou une compétition de voile",
+  "count": 61
+ },
+ {
+  "id": "spo-meca-09",
+  "bank": "general",
+  "text": "Nomme une ville qui organise un marathon",
+  "count": 127
+ },
+ {
+  "id": "spo-meca-10",
+  "bank": "general",
+  "text": "Nomme une marque de moto",
+  "count": 120
+ },
+ {
+  "id": "spo-meca-11",
+  "bank": "general",
+  "text": "Nomme une marque de voitures de sport ou de supercars",
+  "count": 94
+ },
+ {
+  "id": "spo-meca-12",
+  "bank": "general",
+  "text": "Nomme un coureur cycliste professionnel étranger (non français), actuel ou passé",
+  "count": 103
+ },
+ {
+  "id": "spo-meca-13",
+  "bank": "general",
+  "text": "Nomme un terme du vocabulaire de la voile (partie du bateau, manœuvre, allure…)",
+  "count": 136
+ },
+ {
+  "id": "spo-meca-14",
+  "bank": "general",
+  "text": "Nomme un skieur de fond ou un biathlète connu",
+  "count": 112
+ },
+ {
+  "id": "spo-meca-15",
+  "bank": "general",
+  "text": "Nomme un pilote vainqueur des 500 Miles d'Indianapolis",
+  "count": 76
+ },
+ {
+  "id": "gen-add-01",
+  "bank": "general",
+  "text": "Nomme un prénom féminin",
+  "count": 82
+ },
+ {
+  "id": "gen-add-02",
+  "bank": "general",
+  "text": "Nomme un prénom masculin",
+  "count": 82
+ },
+ {
+  "id": "gen-add-03",
+  "bank": "general",
+  "text": "Nomme un ustensile de cuisine",
+  "count": 63
+ },
+ {
+  "id": "gen-add-04",
+  "bank": "general",
+  "text": "Nomme un outil de bricolage",
+  "count": 66
+ },
+ {
+  "id": "gen-add-05",
+  "bank": "general",
+  "text": "Nomme un moyen de transport",
+  "count": 72
+ },
+ {
+  "id": "gen-add-06",
+  "bank": "general",
+  "text": "Nomme un jouet",
+  "count": 63
+ },
+ {
+  "id": "gen-add-07",
+  "bank": "general",
+  "text": "Nomme une confiserie ou un bonbon",
+  "count": 59
+ },
+ {
+  "id": "gen-add-08",
+  "bank": "general",
+  "text": "Nomme un poisson de mer",
+  "count": 67
+ },
+ {
+  "id": "gen-add-09",
+  "bank": "general",
+  "text": "Nomme un métier",
+  "count": 82
+ },
+ {
+  "id": "gen-add-10",
+  "bank": "general",
+  "text": "Nomme un meuble",
+  "count": 69
+ },
+ {
+  "id": "gen-add-11",
+  "bank": "general",
+  "text": "Nomme un bâtiment ou un édifice",
+  "count": 70
+ },
+ {
+  "id": "gen-add-12",
+  "bank": "general",
+  "text": "Nomme une boisson sans alcool",
+  "count": 67
+ },
+ {
+  "id": "gen-add-13",
+  "bank": "general",
+  "text": "Nomme un type de pain",
+  "count": 54
+ },
+ {
+  "id": "gen-add-14",
+  "bank": "general",
+  "text": "Nomme une race de cheval",
+  "count": 64
+ },
+ {
+  "id": "gen-add-15",
+  "bank": "general",
+  "text": "Nomme un fruit exotique",
+  "count": 61
+ },
+ {
+  "id": "gen-add-16",
+  "bank": "general",
+  "text": "Nomme une marque de vêtements",
+  "count": 82
+ },
+ {
+  "id": "gen-add-17",
+  "bank": "general",
+  "text": "Nomme une sauce",
+  "count": 65
+ },
+ {
+  "id": "gen-add-18",
+  "bank": "general",
+  "text": "Nomme un parfum de glace",
+  "count": 72
+ },
+ {
+  "id": "geo-pays-b",
+  "bank": "geography",
+  "text": "Nomme un pays dont le nom commence par la lettre B",
+  "count": 18
+ },
+ {
+  "id": "geo-pays-sans-littoral",
+  "bank": "geography",
+  "text": "Nomme un pays sans littoral",
+  "count": 45
+ },
+ {
+  "id": "geo-pays-equateur",
+  "bank": "geography",
+  "text": "Nomme un pays traversé par l'équateur",
+  "count": 13
+ },
+ {
+  "id": "geo-pays-insulaire",
+  "bank": "geography",
+  "text": "Nomme un pays insulaire",
+  "count": 41
+ },
+ {
+  "id": "geo-pays-transcontinental",
+  "bank": "geography",
+  "text": "Nomme un pays situé sur deux continents",
+  "count": 16
+ },
+ {
+  "id": "geo-pays-ue",
+  "bank": "geography",
+  "text": "Nomme un pays membre de l'Union européenne",
+  "count": 27
+ },
+ {
+  "id": "geo-pays-amerique-sud",
+  "bank": "geography",
+  "text": "Nomme un pays d'Amérique du Sud",
+  "count": 12
+ },
+ {
+  "id": "geo-capitale-amerique",
+  "bank": "geography",
+  "text": "Nomme une capitale du continent américain",
+  "count": 38
+ },
+ {
+  "id": "geo-capitale-pas-plus-grande",
+  "bank": "geography",
+  "text": "Nomme une capitale qui n'est pas la plus grande ville de son pays",
+  "count": 24
+ },
+ {
+  "id": "geo-capitale-oceanie",
+  "bank": "geography",
+  "text": "Nomme une capitale d'Océanie",
+  "count": 14
+ },
+ {
+  "id": "geo-fleuve-afrique",
+  "bank": "geography",
+  "text": "Nomme un fleuve d'Afrique",
+  "count": 25
+ },
+ {
+  "id": "geo-fleuve-europe",
+  "bank": "geography",
+  "text": "Nomme un fleuve d'Europe",
+  "count": 40
+ },
+ {
+  "id": "geo-fleuve-france",
+  "bank": "geography",
+  "text": "Nomme un fleuve ou une rivière de France",
+  "count": 38
+ },
+ {
+  "id": "geo-fleuve-asie",
+  "bank": "geography",
+  "text": "Nomme un fleuve d'Asie",
+  "count": 30
+ },
+ {
+  "id": "geo-fleuve-amerique",
+  "bank": "geography",
+  "text": "Nomme un fleuve des Amériques",
+  "count": 31
+ },
+ {
+  "id": "geo-sommet-8000",
+  "bank": "geography",
+  "text": "Nomme un sommet de plus de 8 000 mètres",
+  "count": 14
+ },
+ {
+  "id": "geo-sommet-4000",
+  "bank": "geography",
+  "text": "Nomme un sommet de plus de 4 000 mètres",
+  "count": 40
+ },
+ {
+  "id": "geo-chaine",
+  "bank": "geography",
+  "text": "Nomme une chaîne de montagnes",
+  "count": 33
+ },
+ {
+  "id": "geo-volcan",
+  "bank": "geography",
+  "text": "Nomme un volcan",
+  "count": 36
+ },
+ {
+  "id": "geo-desert",
+  "bank": "geography",
+  "text": "Nomme un désert",
+  "count": 34
+ },
+ {
+  "id": "geo-mont-france",
+  "bank": "geography",
+  "text": "Nomme un sommet emblématique de France",
+  "count": 30
+ },
+ {
+  "id": "geo-grotte",
+  "bank": "geography",
+  "text": "Nomme une grotte ou un gouffre célèbre",
+  "count": 26
+ },
+ {
+  "id": "geo-ile-mediterranee",
+  "bank": "geography",
+  "text": "Nomme une île de la Méditerranée",
+  "count": 35
+ },
+ {
+  "id": "geo-ile-francaise",
+  "bank": "geography",
+  "text": "Nomme une île française",
+  "count": 37
+ },
+ {
+  "id": "geo-archipel",
+  "bank": "geography",
+  "text": "Nomme un archipel",
+  "count": 44
+ },
+ {
+  "id": "geo-ile-atlantique",
+  "bank": "geography",
+  "text": "Nomme une île de l'Atlantique",
+  "count": 34
+ },
+ {
+  "id": "geo-detroit",
+  "bank": "geography",
+  "text": "Nomme un détroit",
+  "count": 33
+ },
+ {
+  "id": "geo-golfe",
+  "bank": "geography",
+  "text": "Nomme un golfe",
+  "count": 31
+ },
+ {
+  "id": "geo-cap",
+  "bank": "geography",
+  "text": "Nomme un cap célèbre",
+  "count": 28
+ },
+ {
+  "id": "geo-peninsule",
+  "bank": "geography",
+  "text": "Nomme une péninsule",
+  "count": 32
+ },
+ {
+  "id": "geo-megapole",
+  "bank": "geography",
+  "text": "Nomme une ville de plus de 10 millions d'habitants",
+  "count": 37
+ },
+ {
+  "id": "geo-prefecture-region",
+  "bank": "geography",
+  "text": "Nomme une préfecture de région française",
+  "count": 19
+ },
+ {
+  "id": "geo-ville-olympique",
+  "bank": "geography",
+  "text": "Nomme une ville ayant accueilli les Jeux olympiques",
+  "count": 43
+ },
+ {
+  "id": "geo-port",
+  "bank": "geography",
+  "text": "Nomme un grand port maritime",
+  "count": 40
+ },
+ {
+  "id": "geo-monument-paris",
+  "bank": "geography",
+  "text": "Nomme un monument parisien",
+  "count": 37
+ },
+ {
+  "id": "geo-merveilles",
+  "bank": "geography",
+  "text": "Nomme une merveille du monde, antique ou moderne",
+  "count": 14
+ },
+ {
+  "id": "geo-chateau",
+  "bank": "geography",
+  "text": "Nomme un château célèbre",
+  "count": 36
+ },
+ {
+  "id": "geo-pont",
+  "bank": "geography",
+  "text": "Nomme un pont célèbre",
+  "count": 28
+ },
+ {
+  "id": "geo-statue",
+  "bank": "geography",
+  "text": "Nomme une statue célèbre",
+  "count": 22
+ },
+ {
+  "id": "geo-site-antique",
+  "bank": "geography",
+  "text": "Nomme un site archéologique célèbre",
+  "count": 46
+ },
+ {
+  "id": "geo-region-francaise",
+  "bank": "geography",
+  "text": "Nomme une région française",
+  "count": 18
+ },
+ {
+  "id": "geo-fuseau",
+  "bank": "geography",
+  "text": "Nomme un pays qui s'étend sur plusieurs fuseaux horaires",
+  "count": 23
+ },
+ {
+  "id": "geo-frontiere-france",
+  "bank": "geography",
+  "text": "Nomme un pays frontalier de la France",
+  "count": 11
+ }
+]

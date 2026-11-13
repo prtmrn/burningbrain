@@ -767,6 +767,8 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
 .field { display: flex; flex-direction: column; gap: 0.35rem; margin: 0.8rem 0; text-align: left; }
 .field span { font-family: var(--font-pixel); font-size: 1.05rem; }
 .field input, .field select { font: inherit; font-size: 1.1rem; padding: 0.6rem 0.8rem; border-radius: var(--radius); border: 2px solid var(--bg-raised); background: #0e1530; color: var(--text); width: 100%; }
+/* la case à cocher ne doit pas hériter de la largeur pleine des champs texte */
+.field input[type="checkbox"] { flex: none; width: 1.4rem; height: 1.4rem; margin: 0; padding: 0; }
 .ranking { width: 100%; border-collapse: collapse; margin: 1rem 0; font-family: var(--font-pixel); font-size: 1.15rem; }
 .ranking td { padding: 0.45rem 0.5rem; border-bottom: 1px solid #2a1d3f; }
 .ranking tr.me td { color: #ffe08a; font-weight: 700; }

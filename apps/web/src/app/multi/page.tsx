@@ -4,6 +4,8 @@
 // /multi — créer un salon (hôte) ou rejoindre un salon avec son code.
 // ─────────────────────────────────────────────────────────────
 import { useState } from 'react';
+import { DIFFICULTY_OPTIONS } from '../../config';
+import type { DifficultyChoice } from '@hotbrain/engine';
 import { useRouter } from 'next/navigation';
 import { GameBar } from '../../components/GameBar';
 import { Embers } from '../../components/Embers';
@@ -23,6 +25,7 @@ export default function MultiHome() {
   const [mode, setMode] = useState<'hot' | 'brain'>('hot');
   const [brainGoal, setBrainGoal] = useState(500);
   const [showScores, setShowScores] = useState(false);
+  const [difficulty, setDifficulty] = useState<DifficultyChoice>('auto');
   const [code, setCode] = useState('');
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -33,7 +36,7 @@ export default function MultiHome() {
     const r = await fetch('/api/multi/rooms', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ name, theme, rounds, roundSec, lang, mode, brainGoal, showScores }),
+      body: JSON.stringify({ name, theme, rounds, roundSec, lang, mode, brainGoal, showScores, difficulty }),
     });
     const j = (await r.json()) as { code?: string; playerId?: string; error?: string };
     setBusy(false);
@@ -120,6 +123,21 @@ export default function MultiHome() {
             {[15, 30, 45, 60].map((sec) => (
               <button key={sec} type="button" role="radio" aria-checked={roundSec === sec} className={`choice${roundSec === sec ? ' on' : ''}`} onClick={() => setRoundSec(sec)}>
                 {t('setup.seconds', { s: sec })}
+              </button>
+            ))}
+          </div>
+          <div className="choice-row" role="radiogroup" aria-label={t('difficulty.label')}>
+            {DIFFICULTY_OPTIONS.map((d) => (
+              <button
+                key={d}
+                type="button"
+                role="radio"
+                aria-checked={difficulty === d}
+                className={`choice${difficulty === d ? ' on' : ''}`}
+                onClick={() => setDifficulty(d)}
+                data-testid={`multi-difficulty-${d}`}
+              >
+                {t(`difficulty.${d}`)}
               </button>
             ))}
           </div>

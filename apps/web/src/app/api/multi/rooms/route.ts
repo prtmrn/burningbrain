@@ -1,4 +1,5 @@
 // POST /api/multi/rooms — crée un salon (l'appelant en devient l'hôte).
+import { isDifficultyChoice, type DifficultyChoice } from '@hotbrain/engine';
 import { createRoom } from '../../../../server/multi/room';
 
 export const runtime = 'nodejs';
@@ -17,6 +18,7 @@ export async function POST(req: Request): Promise<Response> {
   const mode = body['mode'] === 'brain' ? 'brain' : 'hot';
   const brainGoal = Number(body['brainGoal'] ?? 500);
   const showScores = body['showScores'] === true;
+  const difficulty: DifficultyChoice = isDifficultyChoice(body['difficulty']) ? body['difficulty'] : 'auto';
   if (mode === 'brain' && ![100, 200, 300, 500, 750, 1000].includes(brainGoal)) {
     return Response.json({ error: 'Objectif invalide' }, { status: 400 });
   }
@@ -25,7 +27,18 @@ export async function POST(req: Request): Promise<Response> {
     return Response.json({ error: 'Réglages invalides' }, { status: 400 });
   }
   try {
-    const out = await createRoom({ name, lang, theme, rounds, roundSec, origin: new URL(req.url).origin, mode, brainGoal, showScores });
+    const out = await createRoom({
+      name,
+      lang,
+      theme,
+      rounds,
+      roundSec,
+      origin: new URL(req.url).origin,
+      mode,
+      brainGoal,
+      showScores,
+      difficulty,
+    });
     return Response.json(out);
   } catch (e) {
     return Response.json({ error: e instanceof Error ? e.message : 'Erreur' }, { status: 500 });

@@ -9,8 +9,10 @@ import {
   MAX_ANSWER_LENGTH,
   TIER_POINTS,
   drawThemed,
+  filterByDifficulty,
   validateAnswer,
   validateListing,
+  type DifficultyChoice,
   type TierId,
 } from '@hotbrain/engine';
 import { configFor } from '../../config';
@@ -35,6 +37,8 @@ export interface RoomMeta {
   mode?: 'hot' | 'brain';
   brainGoal?: number;
   showScores?: boolean;
+  /** Niveau de difficulté du salon (absent = auto). */
+  difficulty?: DifficultyChoice;
   endedAt?: number | null;
   winnerId?: string | null;
   /** Premier joueur à avoir atteint l'objectif (mode Brain). */
@@ -103,6 +107,7 @@ export interface CreateInput {
   mode?: 'hot' | 'brain';
   brainGoal?: number;
   showScores?: boolean;
+  difficulty?: DifficultyChoice;
 }
 
 export async function createRoom(input: CreateInput): Promise<{ code: string; playerId: string }> {
@@ -112,6 +117,9 @@ export async function createRoom(input: CreateInput): Promise<{ code: string; pl
   const mode: 'hot' | 'brain' = input.mode === 'brain' ? 'brain' : 'hot';
   const cfg = configFor(mode, { rounds: input.rounds, roundSec: input.roundSec });
   if (bank.prompts.length < input.rounds) throw new Error('banque trop petite pour ce nombre de questions');
+  if (filterByDifficulty(bank.prompts, input.difficulty).length < input.rounds) {
+    throw new Error('banque trop petite pour ce niveau de difficulté');
+  }
   let code = '';
   for (let i = 0; i < 6; i++) {
     const c = makeCode(rand);
@@ -136,6 +144,7 @@ export async function createRoom(input: CreateInput): Promise<{ code: string; pl
     mode,
     brainGoal: BRAIN_GOALS.includes(input.brainGoal as never) ? (input.brainGoal as number) : 500,
     showScores: input.showScores === true,
+    difficulty: input.difficulty ?? 'auto',
     endedAt: null,
     winnerId: null,
   };
@@ -176,7 +185,13 @@ export async function startRoom(code: string, playerId: string, origin: string):
   const bank = await loadBank(meta.theme, origin);
   // Règle : les questions très françaises ne sortent que dans un salon 100 % français.
   const allowed = new Set(allowedPromptIds(bank.prompts.map((p) => p.id), langs));
-  const pool = { ...bank, prompts: bank.prompts.filter((p) => allowed.has(p.id)) };
+  const pool = {
+    ...bank,
+    prompts: filterByDifficulty(
+      bank.prompts.filter((p) => allowed.has(p.id)),
+      meta.difficulty,
+    ),
+  };
   const mode: 'hot' | 'brain' = meta.mode === 'brain' ? 'brain' : 'hot';
   const cfg = configFor(mode, { rounds: meta.rounds, roundSec: meta.roundSec });
   if (pool.prompts.length < meta.rounds) return { error: 'Pas assez de questions pour ce salon' };

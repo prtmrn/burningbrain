@@ -8,6 +8,7 @@ import { normalize } from '../domain/normalize';
 import type {
   AnswerSheet,
   AnswerSheetEntry,
+  Difficulty,
   GameMode,
   Prompt,
   ReferenceDistribution,
@@ -23,13 +24,23 @@ function isNonEmptyString(x: unknown): x is string {
   return typeof x === 'string' && x.length > 0;
 }
 
+export function isDifficulty(x: unknown): x is Difficulty {
+  return x === 'easy' || x === 'medium' || x === 'hard';
+}
+
 export function validatePrompt(x: unknown): Prompt | null {
   if (typeof x !== 'object' || x === null) return null;
   const p = x as Record<string, unknown>;
   if (!isNonEmptyString(p['id']) || !isNonEmptyString(p['theme']) || !isNonEmptyString(p['text'])) {
     return null;
   }
-  return { id: p['id'], theme: p['theme'] as ThemeId, text: p['text'] };
+  if (p['difficulty'] !== undefined && !isDifficulty(p['difficulty'])) return null;
+  return {
+    id: p['id'],
+    theme: p['theme'] as ThemeId,
+    text: p['text'],
+    ...(p['difficulty'] !== undefined ? { difficulty: p['difficulty'] as Difficulty } : {}),
+  };
 }
 
 export function validateAnswerSheetEntry(x: unknown): AnswerSheetEntry | null {

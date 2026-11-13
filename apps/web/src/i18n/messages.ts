@@ -238,6 +238,11 @@ export const MESSAGES: Record<string, Entry> = {
   'setup.time': { fr: 'Temps par question', en: 'Time per question', es: 'Tiempo por pregunta' },
   'setup.start': { fr: "▶ C'est parti", en: "▶ Let's go", es: '▶ ¡Vamos!' },
   'setup.seconds': { fr: '{s} s', en: '{s} s', es: '{s} s' },
+  'difficulty.label': { fr: 'Difficulté', en: 'Difficulty', es: 'Dificultad' },
+  'difficulty.auto': { fr: 'Auto', en: 'Auto', es: 'Auto' },
+  'difficulty.easy': { fr: 'Facile', en: 'Easy', es: 'Fácil' },
+  'difficulty.medium': { fr: 'Moyen', en: 'Medium', es: 'Medio' },
+  'difficulty.hard': { fr: 'Difficile', en: 'Hard', es: 'Difícil' },
   // Partie du jour terminée
   'daily.played.title': { fr: "Déjà jouée aujourd'hui", en: 'Already played today', es: 'Ya jugada hoy' },
   'daily.played.body': { fr: 'Tu as déjà joué la partie du jour en mode {mode}.', en: 'You have already played today’s game in {mode} mode.', es: 'Ya jugaste la partida de hoy en modo {mode}.' },

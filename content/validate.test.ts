@@ -131,6 +131,22 @@ describe('qualité éditoriale', () => {
   });
 });
 
+describe('difficulté des questions', () => {
+  it('chaque question des banques FR et i18n a un niveau easy / medium / hard', () => {
+    const dirs = [banksDir, join(here, '..', 'content', 'i18n', 'banks')];
+    const missing: string[] = [];
+    for (const dir of dirs) {
+      for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
+        const raw = JSON.parse(readFileSync(join(dir, file), 'utf8')) as { prompts: { id: string; difficulty?: string }[] };
+        for (const p of raw.prompts) {
+          if (!['easy', 'medium', 'hard'].includes(p.difficulty ?? '')) missing.push(`${file}:${p.id}`);
+        }
+      }
+    }
+    expect(missing.slice(0, 10)).toEqual([]);
+  });
+});
+
 describe('collisions fuzzy intra-feuille (spec §B.2-5)', () => {
   it('paires d’entrées proches au sens fuzzy — informatif (D-25)', () => {
     const whitelisted = (a: string, b: string) =>
@@ -167,5 +183,5 @@ describe('collisions fuzzy intra-feuille (spec §B.2-5)', () => {
       console.warn(`[D-25] ${collisions.length} paire(s) fuzzy proches (informatif) :\n  ${collisions.slice(0, 20).join('\n  ')}`);
     }
     expect(collisions.length).toBeGreaterThanOrEqual(0);
-  });
+  }, 60_000); // boucle quadratique sur les feuilles larges : 5 s ne suffisent plus
 });

@@ -12,8 +12,10 @@ import {
   dateLoc,
   dayNumber,
   drawThemed,
+  filterByDifficulty,
   nextResetMs,
   seedDaily,
+  type DifficultyChoice,
   type GameMode,
   type LoadedBank,
   type PlayerPreferences,
@@ -210,7 +212,7 @@ function SessionGate(props: { kv: EnumerableKV; bank: LoadedBank; theme: ThemeIn
       />
     );
   }
-  return <Session {...props} config={configFor(mode, setup)} />;
+  return <Session {...props} config={configFor(mode, setup)} difficulty={setup.difficulty} />;
 }
 
 function Session({
@@ -220,6 +222,7 @@ function Session({
   mode,
   kind,
   config,
+  difficulty,
 }: {
   kv: EnumerableKV;
   bank: LoadedBank;
@@ -227,6 +230,7 @@ function Session({
   mode: GameMode;
   kind: PlayKindUI;
   config: GameConfig;
+  difficulty?: DifficultyChoice | undefined;
 }) {
   const [t, lang] = useT();
   const router = useRouter();
@@ -248,9 +252,16 @@ function Session({
   const promptIds = useMemo(
     () =>
       play
-        ? drawThemed(theme.id, mode, bank as never, history, play.seed, config)
+        ? drawThemed(
+            theme.id,
+            mode,
+            { ...bank, prompts: filterByDifficulty(bank.prompts, difficulty) } as never,
+            history,
+            play.seed,
+            config,
+          )
         : seedDaily(theme.id, mode, day, bank as never, config),
-    [play, theme.id, mode, bank, history, day, config],
+    [play, theme.id, mode, bank, history, day, config, difficulty],
   );
   const prefs: PlayerPreferences = loadPrefs(kv);
   const content: Omit<ReducerContext, 'persistCompletion' | 'persistCurrentAnswers'> = useMemo(

@@ -5,552 +5,662 @@
     {
       "id": "geo-pays-b",
       "theme": "geography",
-      "text": "Nomme un pays dont le nom commence par la lettre B"
+      "text": "Nomme un pays dont le nom commence par la lettre B",
+      "difficulty": "easy"
     },
     {
       "id": "geo-pays-europe",
       "theme": "geography",
-      "text": "Nomme un pays d'Europe"
+      "text": "Nomme un pays d'Europe",
+      "difficulty": "easy"
     },
     {
       "id": "geo-pays-afrique",
       "theme": "geography",
-      "text": "Nomme un pays d'Afrique"
+      "text": "Nomme un pays d'Afrique",
+      "difficulty": "easy"
     },
     {
       "id": "geo-pays-sans-littoral",
       "theme": "geography",
-      "text": "Nomme un pays sans littoral"
+      "text": "Nomme un pays sans littoral",
+      "difficulty": "hard"
     },
     {
       "id": "geo-pays-equateur",
       "theme": "geography",
-      "text": "Nomme un pays traversé par l'équateur"
+      "text": "Nomme un pays traversé par l'équateur",
+      "difficulty": "easy"
     },
     {
       "id": "geo-pays-insulaire",
       "theme": "geography",
-      "text": "Nomme un pays insulaire"
+      "text": "Nomme un pays insulaire",
+      "difficulty": "easy"
     },
     {
       "id": "geo-pays-transcontinental",
       "theme": "geography",
-      "text": "Nomme un pays situé sur deux continents"
+      "text": "Nomme un pays situé sur deux continents",
+      "difficulty": "easy"
     },
     {
       "id": "geo-pays-ue",
       "theme": "geography",
-      "text": "Nomme un pays membre de l'Union européenne"
+      "text": "Nomme un pays membre de l'Union européenne",
+      "difficulty": "easy"
     },
     {
       "id": "geo-pays-amerique-sud",
       "theme": "geography",
-      "text": "Nomme un pays d'Amérique du Sud"
+      "text": "Nomme un pays d'Amérique du Sud",
+      "difficulty": "easy"
     },
     {
       "id": "geo-capitale-europe",
       "theme": "geography",
-      "text": "Nomme une capitale européenne"
+      "text": "Nomme une capitale européenne",
+      "difficulty": "easy"
     },
     {
       "id": "geo-capitale-afrique",
       "theme": "geography",
-      "text": "Nomme une capitale africaine"
+      "text": "Nomme une capitale africaine",
+      "difficulty": "medium"
     },
     {
       "id": "geo-capitale-amerique",
       "theme": "geography",
-      "text": "Nomme une capitale du continent américain"
+      "text": "Nomme une capitale du continent américain",
+      "difficulty": "easy"
     },
     {
       "id": "geo-capitale-pas-plus-grande",
       "theme": "geography",
-      "text": "Nomme une capitale qui n'est pas la plus grande ville de son pays"
+      "text": "Nomme une capitale qui n'est pas la plus grande ville de son pays",
+      "difficulty": "easy"
     },
     {
       "id": "geo-capitale-oceanie",
       "theme": "geography",
-      "text": "Nomme une capitale d'Océanie"
+      "text": "Nomme une capitale d'Océanie",
+      "difficulty": "easy"
     },
     {
       "id": "geo-fleuve-afrique",
       "theme": "geography",
-      "text": "Nomme un fleuve d'Afrique"
+      "text": "Nomme un fleuve d'Afrique",
+      "difficulty": "easy"
     },
     {
       "id": "geo-fleuve-europe",
       "theme": "geography",
-      "text": "Nomme un fleuve d'Europe"
+      "text": "Nomme un fleuve d'Europe",
+      "difficulty": "easy"
     },
     {
       "id": "geo-fleuve-france",
       "theme": "geography",
-      "text": "Nomme un fleuve ou une rivière de France"
+      "text": "Nomme un fleuve ou une rivière de France",
+      "difficulty": "easy"
     },
     {
       "id": "geo-fleuve-asie",
       "theme": "geography",
-      "text": "Nomme un fleuve d'Asie"
+      "text": "Nomme un fleuve d'Asie",
+      "difficulty": "easy"
     },
     {
       "id": "geo-fleuve-amerique",
       "theme": "geography",
-      "text": "Nomme un fleuve des Amériques"
+      "text": "Nomme un fleuve des Amériques",
+      "difficulty": "easy"
     },
     {
       "id": "geo-sommet-8000",
       "theme": "geography",
-      "text": "Nomme un sommet de plus de 8 000 mètres"
+      "text": "Nomme un sommet de plus de 8 000 mètres",
+      "difficulty": "easy"
     },
     {
       "id": "geo-sommet-4000",
       "theme": "geography",
-      "text": "Nomme un sommet de plus de 4 000 mètres"
+      "text": "Nomme un sommet de plus de 4 000 mètres",
+      "difficulty": "hard"
     },
     {
       "id": "geo-chaine",
       "theme": "geography",
-      "text": "Nomme une chaîne de montagnes"
+      "text": "Nomme une chaîne de montagnes",
+      "difficulty": "easy"
     },
     {
       "id": "geo-volcan",
       "theme": "geography",
-      "text": "Nomme un volcan"
+      "text": "Nomme un volcan",
+      "difficulty": "easy"
     },
     {
       "id": "geo-desert",
       "theme": "geography",
-      "text": "Nomme un désert"
+      "text": "Nomme un désert",
+      "difficulty": "easy"
     },
     {
       "id": "geo-lac",
       "theme": "geography",
-      "text": "Nomme un lac"
+      "text": "Nomme un lac",
+      "difficulty": "easy"
     },
     {
       "id": "geo-mont-france",
       "theme": "geography",
-      "text": "Nomme un sommet emblématique de France"
+      "text": "Nomme un sommet emblématique de France",
+      "difficulty": "easy"
     },
     {
       "id": "geo-grotte",
       "theme": "geography",
-      "text": "Nomme une grotte ou un gouffre célèbre"
+      "text": "Nomme une grotte ou un gouffre célèbre",
+      "difficulty": "medium"
     },
     {
       "id": "geo-ile-mediterranee",
       "theme": "geography",
-      "text": "Nomme une île de la Méditerranée"
+      "text": "Nomme une île de la Méditerranée",
+      "difficulty": "easy"
     },
     {
       "id": "geo-ile-francaise",
       "theme": "geography",
-      "text": "Nomme une île française"
+      "text": "Nomme une île française",
+      "difficulty": "easy"
     },
     {
       "id": "geo-archipel",
       "theme": "geography",
-      "text": "Nomme un archipel"
+      "text": "Nomme un archipel",
+      "difficulty": "easy"
     },
     {
       "id": "geo-ile-atlantique",
       "theme": "geography",
-      "text": "Nomme une île de l'Atlantique"
+      "text": "Nomme une île de l'Atlantique",
+      "difficulty": "easy"
     },
     {
       "id": "geo-ocean-ou-mer",
       "theme": "geography",
-      "text": "Nomme un océan ou une mer"
+      "text": "Nomme un océan ou une mer",
+      "difficulty": "easy"
     },
     {
       "id": "geo-detroit",
       "theme": "geography",
-      "text": "Nomme un détroit"
+      "text": "Nomme un détroit",
+      "difficulty": "easy"
     },
     {
       "id": "geo-golfe",
       "theme": "geography",
-      "text": "Nomme un golfe"
+      "text": "Nomme un golfe",
+      "difficulty": "easy"
     },
     {
       "id": "geo-cap",
       "theme": "geography",
-      "text": "Nomme un cap célèbre"
+      "text": "Nomme un cap célèbre",
+      "difficulty": "medium"
     },
     {
       "id": "geo-peninsule",
       "theme": "geography",
-      "text": "Nomme une péninsule"
+      "text": "Nomme une péninsule",
+      "difficulty": "easy"
     },
     {
       "id": "geo-megapole",
       "theme": "geography",
-      "text": "Nomme une ville de plus de 10 millions d'habitants"
+      "text": "Nomme une ville de plus de 10 millions d'habitants",
+      "difficulty": "easy"
     },
     {
       "id": "geo-prefecture-region",
       "theme": "geography",
-      "text": "Nomme une préfecture de région française"
+      "text": "Nomme une préfecture de région française",
+      "difficulty": "easy"
     },
     {
       "id": "geo-ville-olympique",
       "theme": "geography",
-      "text": "Nomme une ville ayant accueilli les Jeux olympiques"
+      "text": "Nomme une ville ayant accueilli les Jeux olympiques",
+      "difficulty": "easy"
     },
     {
       "id": "geo-port",
       "theme": "geography",
-      "text": "Nomme un grand port maritime"
+      "text": "Nomme un grand port maritime",
+      "difficulty": "easy"
     },
     {
       "id": "geo-monument-unesco",
       "theme": "geography",
-      "text": "Nomme un site classé au patrimoine mondial de l'UNESCO"
+      "text": "Nomme un site classé au patrimoine mondial de l'UNESCO",
+      "difficulty": "easy"
     },
     {
       "id": "geo-monument-paris",
       "theme": "geography",
-      "text": "Nomme un monument parisien"
+      "text": "Nomme un monument parisien",
+      "difficulty": "easy"
     },
     {
       "id": "geo-merveilles",
       "theme": "geography",
-      "text": "Nomme une merveille du monde, antique ou moderne"
+      "text": "Nomme une merveille du monde, antique ou moderne",
+      "difficulty": "easy"
     },
     {
       "id": "geo-chateau",
       "theme": "geography",
-      "text": "Nomme un château célèbre"
+      "text": "Nomme un château célèbre",
+      "difficulty": "easy"
     },
     {
       "id": "geo-pont",
       "theme": "geography",
-      "text": "Nomme un pont célèbre"
+      "text": "Nomme un pont célèbre",
+      "difficulty": "easy"
     },
     {
       "id": "geo-statue",
       "theme": "geography",
-      "text": "Nomme une statue célèbre"
+      "text": "Nomme une statue célèbre",
+      "difficulty": "easy"
     },
     {
       "id": "geo-site-antique",
       "theme": "geography",
-      "text": "Nomme un site archéologique célèbre"
+      "text": "Nomme un site archéologique célèbre",
+      "difficulty": "easy"
     },
     {
       "id": "geo-region-francaise",
       "theme": "geography",
-      "text": "Nomme une région française"
+      "text": "Nomme une région française",
+      "difficulty": "easy"
     },
     {
       "id": "geo-fuseau",
       "theme": "geography",
-      "text": "Nomme un pays qui s'étend sur plusieurs fuseaux horaires"
+      "text": "Nomme un pays qui s'étend sur plusieurs fuseaux horaires",
+      "difficulty": "easy"
     },
     {
       "id": "geo-frontiere-france",
       "theme": "geography",
-      "text": "Nomme un pays frontalier de la France"
+      "text": "Nomme un pays frontalier de la France",
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-01",
       "theme": "geography",
-      "text": "Nomme un département français"
+      "text": "Nomme un département français",
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-02",
       "theme": "geography",
-      "text": "Nomme une préfecture de département français qui n'est pas chef-lieu de région"
+      "text": "Nomme une préfecture de département français qui n'est pas chef-lieu de région",
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-03",
       "theme": "geography",
-      "text": "Nomme une commune de la région Bretagne"
+      "text": "Nomme une commune de la région Bretagne",
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-04",
       "theme": "geography",
-      "text": "Nomme une commune de la région Normandie"
+      "text": "Nomme une commune de la région Normandie",
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-05",
       "theme": "geography",
-      "text": "Nomme une commune de la petite couronne parisienne (Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne)"
+      "text": "Nomme une commune de la petite couronne parisienne (Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne)",
+      "difficulty": "hard"
     },
     {
       "id": "geo-france-06",
       "theme": "geography",
-      "text": "Nomme une commune de la région Provence-Alpes-Côte d'Azur"
+      "text": "Nomme une commune de la région Provence-Alpes-Côte d'Azur",
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-07",
       "theme": "geography",
-      "text": "Nomme une commune de la région Occitanie"
+      "text": "Nomme une commune de la région Occitanie",
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-08",
       "theme": "geography",
-      "text": "Nomme une commune française de plus de 50 000 habitants"
+      "text": "Nomme une commune française de plus de 50 000 habitants",
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-09",
       "theme": "geography",
-      "text": "Nomme une station de sports d'hiver française"
+      "text": "Nomme une station de sports d'hiver française",
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-10",
       "theme": "geography",
-      "text": "Nomme une commune d'un département d'outre-mer (Guadeloupe, Martinique, Guyane, La Réunion, Mayotte)"
+      "text": "Nomme une commune d'un département d'outre-mer (Guadeloupe, Martinique, Guyane, La Réunion, Mayotte)",
+      "difficulty": "hard"
     },
     {
       "id": "geo-france-11",
       "theme": "geography",
-      "text": "Nomme une appellation d'origine (AOC/AOP) de vin français"
+      "text": "Nomme une appellation d'origine (AOC/AOP) de vin français",
+      "difficulty": "hard"
     },
     {
       "id": "geo-france-12",
       "theme": "geography",
-      "text": "Nomme une spécialité culinaire française dont le nom fait référence à un lieu (hors vins et fromages)"
+      "text": "Nomme une spécialité culinaire française dont le nom fait référence à un lieu (hors vins et fromages)",
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-13",
       "theme": "geography",
-      "text": "Nomme un col routier de montagne situé en France"
+      "text": "Nomme un col routier de montagne situé en France",
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-14",
       "theme": "geography",
-      "text": "Nomme une commune de Corse"
+      "text": "Nomme une commune de Corse",
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-15",
       "theme": "geography",
-      "text": "Nomme une commune française dont le nom commence par « Saint- » ou « Sainte- »"
+      "text": "Nomme une commune française dont le nom commence par « Saint- » ou « Sainte- »",
+      "difficulty": "medium"
     },
     {
       "id": "geo-monde-01",
       "theme": "geography",
-      "text": "Nomme une monnaie nationale ou une devise utilisée dans le monde"
+      "text": "Nomme une monnaie nationale ou une devise utilisée dans le monde",
+      "difficulty": "hard"
     },
     {
       "id": "geo-monde-02",
       "theme": "geography",
-      "text": "Nomme une langue parlée dans le monde"
+      "text": "Nomme une langue parlée dans le monde",
+      "difficulty": "hard"
     },
     {
       "id": "geo-monde-03",
       "theme": "geography",
-      "text": "Nomme un État ou un territoire des États-Unis"
+      "text": "Nomme un État ou un territoire des États-Unis",
+      "difficulty": "easy"
     },
     {
       "id": "geo-monde-04",
       "theme": "geography",
-      "text": "Nomme une ville des États-Unis"
+      "text": "Nomme une ville des États-Unis",
+      "difficulty": "hard"
     },
     {
       "id": "geo-monde-05",
       "theme": "geography",
-      "text": "Nomme un pays ou un territoire d'Asie"
+      "text": "Nomme un pays ou un territoire d'Asie",
+      "difficulty": "easy"
     },
     {
       "id": "geo-monde-06",
       "theme": "geography",
-      "text": "Nomme une nationalité (nom d'habitant d'un pays)"
+      "text": "Nomme une nationalité (nom d'habitant d'un pays)",
+      "difficulty": "hard"
     },
     {
       "id": "geo-monde-07",
       "theme": "geography",
-      "text": "Nomme une organisation internationale (sigle ou nom complet)"
+      "text": "Nomme une organisation internationale (sigle ou nom complet)",
+      "difficulty": "medium"
     },
     {
       "id": "geo-monde-08",
       "theme": "geography",
-      "text": "Nomme un peuple autochtone d'Amérique du Nord"
+      "text": "Nomme un peuple autochtone d'Amérique du Nord",
+      "difficulty": "medium"
     },
     {
       "id": "geo-monde-09",
       "theme": "geography",
-      "text": "Nomme une capitale d'un pays d'Asie"
+      "text": "Nomme une capitale d'un pays d'Asie",
+      "difficulty": "easy"
     },
     {
       "id": "geo-monde-10",
       "theme": "geography",
-      "text": "Nomme une ville de Belgique"
+      "text": "Nomme une ville de Belgique",
+      "difficulty": "hard"
     },
     {
       "id": "geo-monde-11",
       "theme": "geography",
-      "text": "Nomme une ville de Suisse"
+      "text": "Nomme une ville de Suisse",
+      "difficulty": "hard"
     },
     {
       "id": "geo-monde-12",
       "theme": "geography",
-      "text": "Nomme une ville du Maroc"
+      "text": "Nomme une ville du Maroc",
+      "difficulty": "hard"
     },
     {
       "id": "geo-monde-13",
       "theme": "geography",
-      "text": "Nomme une ville du Portugal"
+      "text": "Nomme une ville du Portugal",
+      "difficulty": "hard"
     },
     {
       "id": "geo-monde-14",
       "theme": "geography",
-      "text": "Nomme une ville de Turquie"
+      "text": "Nomme une ville de Turquie",
+      "difficulty": "hard"
     },
     {
       "id": "geo-monde-15",
       "theme": "geography",
-      "text": "Nomme une ville de Pologne"
+      "text": "Nomme une ville de Pologne",
+      "difficulty": "hard"
     },
     {
       "id": "geo-reliefs-01",
       "theme": "geography",
-      "text": "Nomme une île de l'océan Pacifique"
+      "text": "Nomme une île de l'océan Pacifique",
+      "difficulty": "hard"
     },
     {
       "id": "geo-reliefs-02",
       "theme": "geography",
-      "text": "Nomme un parc national des États-Unis"
+      "text": "Nomme un parc national des États-Unis",
+      "difficulty": "easy"
     },
     {
       "id": "geo-reliefs-03",
       "theme": "geography",
-      "text": "Nomme un lac d'Europe"
+      "text": "Nomme un lac d'Europe",
+      "difficulty": "hard"
     },
     {
       "id": "geo-reliefs-04",
       "theme": "geography",
-      "text": "Nomme un parc national ou une réserve naturelle d'Afrique"
+      "text": "Nomme un parc national ou une réserve naturelle d'Afrique",
+      "difficulty": "hard"
     },
     {
       "id": "geo-reliefs-05",
       "theme": "geography",
-      "text": "Nomme un monument ou un site célèbre d'Italie"
+      "text": "Nomme un monument ou un site célèbre d'Italie",
+      "difficulty": "hard"
     },
     {
       "id": "geo-reliefs-06",
       "theme": "geography",
-      "text": "Nomme un temple, une mosquée ou un lieu de culte célèbre (hors églises et cathédrales)"
+      "text": "Nomme un temple, une mosquée ou un lieu de culte célèbre (hors églises et cathédrales)",
+      "difficulty": "hard"
     },
     {
       "id": "geo-reliefs-07",
       "theme": "geography",
-      "text": "Nomme une tour ou un gratte-ciel célèbre dans le monde"
+      "text": "Nomme une tour ou un gratte-ciel célèbre dans le monde",
+      "difficulty": "medium"
     },
     {
       "id": "geo-reliefs-08",
       "theme": "geography",
-      "text": "Nomme un musée célèbre dans le monde"
+      "text": "Nomme un musée célèbre dans le monde",
+      "difficulty": "medium"
     },
     {
       "id": "geo-reliefs-09",
       "theme": "geography",
-      "text": "Nomme un jardin ou un parc urbain célèbre dans le monde"
+      "text": "Nomme un jardin ou un parc urbain célèbre dans le monde",
+      "difficulty": "medium"
     },
     {
       "id": "geo-reliefs-10",
       "theme": "geography",
-      "text": "Nomme un monument, un temple ou un site célèbre d'Égypte"
+      "text": "Nomme un monument, un temple ou un site célèbre d'Égypte",
+      "difficulty": "easy"
     },
     {
       "id": "geo-reliefs-11",
       "theme": "geography",
-      "text": "Nomme un monument ou un site célèbre d'Espagne"
+      "text": "Nomme un monument ou un site célèbre d'Espagne",
+      "difficulty": "medium"
     },
     {
       "id": "geo-reliefs-12",
       "theme": "geography",
-      "text": "Nomme un monument ou un site célèbre des États-Unis"
+      "text": "Nomme un monument ou un site célèbre des États-Unis",
+      "difficulty": "hard"
     },
     {
       "id": "geo-reliefs-13",
       "theme": "geography",
-      "text": "Nomme un monument ou un site célèbre d'Amérique latine"
+      "text": "Nomme un monument ou un site célèbre d'Amérique latine",
+      "difficulty": "hard"
     },
     {
       "id": "geo-reliefs-14",
       "theme": "geography",
-      "text": "Nomme un monument, un musée ou un lieu célèbre de Londres"
+      "text": "Nomme un monument, un musée ou un lieu célèbre de Londres",
+      "difficulty": "medium"
     },
     {
       "id": "geo-reliefs-15",
       "theme": "geography",
-      "text": "Nomme une cathédrale célèbre dans le monde"
+      "text": "Nomme une cathédrale célèbre dans le monde",
+      "difficulty": "medium"
     },
     {
       "id": "geo-villes-01",
       "theme": "geography",
-      "text": "Nomme une ville d'Italie"
+      "text": "Nomme une ville d'Italie",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-02",
       "theme": "geography",
-      "text": "Nomme une ville d'Espagne"
+      "text": "Nomme une ville d'Espagne",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-03",
       "theme": "geography",
-      "text": "Nomme une ville d'Allemagne"
+      "text": "Nomme une ville d'Allemagne",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-04",
       "theme": "geography",
-      "text": "Nomme une ville du Royaume-Uni"
+      "text": "Nomme une ville du Royaume-Uni",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-05",
       "theme": "geography",
-      "text": "Nomme une ville de Californie"
+      "text": "Nomme une ville de Californie",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-06",
       "theme": "geography",
-      "text": "Nomme une ville du Japon"
+      "text": "Nomme une ville du Japon",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-07",
       "theme": "geography",
-      "text": "Nomme une ville du Brésil"
+      "text": "Nomme une ville du Brésil",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-08",
       "theme": "geography",
-      "text": "Nomme une ville de Chine"
+      "text": "Nomme une ville de Chine",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-09",
       "theme": "geography",
-      "text": "Nomme une ville d'Inde"
+      "text": "Nomme une ville d'Inde",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-10",
       "theme": "geography",
-      "text": "Nomme une ville du Canada"
+      "text": "Nomme une ville du Canada",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-11",
       "theme": "geography",
-      "text": "Nomme une ville de Russie"
+      "text": "Nomme une ville de Russie",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-12",
       "theme": "geography",
-      "text": "Nomme une ville du Mexique"
+      "text": "Nomme une ville du Mexique",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-13",
       "theme": "geography",
-      "text": "Nomme une ville des Pays-Bas"
+      "text": "Nomme une ville des Pays-Bas",
+      "difficulty": "hard"
     },
     {
       "id": "geo-villes-14",
       "theme": "geography",
-      "text": "Nomme une ville d'Australie"
+      "text": "Nomme une ville d'Australie",
+      "difficulty": "medium"
     },
     {
       "id": "geo-villes-15",
       "theme": "geography",
-      "text": "Nomme une ville d'Afrique qui n'est pas une capitale nationale"
+      "text": "Nomme une ville d'Afrique qui n'est pas une capitale nationale",
+      "difficulty": "hard"
     }
   ],
   "sheets": {
@@ -673,44 +783,67 @@
         {
           "answer": "France",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "République française"
+          ]
         },
         {
           "answer": "Allemagne",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Deutschland",
+            "République fédérale d'Allemagne"
+          ]
         },
         {
           "answer": "Espagne",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "España",
+            "Royaume d'Espagne"
+          ]
         },
         {
           "answer": "Italie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Italia",
+            "République italienne"
+          ]
         },
         {
           "answer": "Portugal",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "République portugaise"
+          ]
         },
         {
           "answer": "Belgique",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Belgien",
+            "Royaume de Belgique"
+          ]
         },
         {
           "answer": "Suisse",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Confédération suisse",
+            "Schweiz",
+            "Svizzera",
+            "Svizra"
+          ]
         },
         {
           "answer": "Royaume-Uni",
           "tier": "t1",
           "aliases": [
             "grande-bretagne",
-            "uk"
+            "uk",
+            "United Kingdom",
+            "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord"
           ]
         },
         {
@@ -718,197 +851,286 @@
           "tier": "t1",
           "aliases": [
             "hollande",
-            "pays bas"
+            "pays bas",
+            "Nederland",
+            "Royaume des Pays-Bas"
           ]
         },
         {
           "answer": "Grèce",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Ελλάδα",
+            "République hellénique"
+          ]
         },
         {
           "answer": "Autriche",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Österreich",
+            "République d'Autriche"
+          ]
         },
         {
           "answer": "Suède",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sverige",
+            "Royaume de Suède"
+          ]
         },
         {
           "answer": "Norvège",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Norge",
+            "Noreg",
+            "Royaume de Norvège"
+          ]
         },
         {
           "answer": "Danemark",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Danmark",
+            "Royaume de Danemark"
+          ]
         },
         {
           "answer": "Finlande",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Suomi",
+            "République de Finlande"
+          ]
         },
         {
           "answer": "Irlande",
           "tier": "t3",
           "aliases": [
-            "eire"
+            "eire",
+            "Ireland"
           ]
         },
         {
           "answer": "Islande",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ísland",
+            "République d'Islande"
+          ]
         },
         {
           "answer": "Pologne",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Polska",
+            "République de Pologne"
+          ]
         },
         {
           "answer": "Hongrie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Magyarország"
+          ]
         },
         {
           "answer": "Tchéquie",
           "tier": "t3",
           "aliases": [
             "république tchèque",
-            "tchécoslovaquie"
+            "tchécoslovaquie",
+            "Česko"
           ]
         },
         {
           "answer": "Slovaquie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Slovensko",
+            "République slovaque"
+          ]
         },
         {
           "answer": "Roumanie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "România"
+          ]
         },
         {
           "answer": "Bulgarie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "République de Bulgarie"
+          ]
         },
         {
           "answer": "Croatie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hrvatska",
+            "République de Croatie"
+          ]
         },
         {
           "answer": "Serbie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Srbija",
+            "République de Serbie"
+          ]
         },
         {
           "answer": "Ukraine",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ukraina"
+          ]
         },
         {
           "answer": "Russie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Fédération de Russie"
+          ]
         },
         {
           "answer": "Biélorussie",
           "tier": "t4",
           "aliases": [
             "bélarus",
-            "belarus"
+            "belarus",
+            "République du Biélorussie"
           ]
         },
         {
           "answer": "Albanie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Shqipëria",
+            "République d'Albanie"
+          ]
         },
         {
           "answer": "Bosnie-Herzégovine",
           "tier": "t4",
           "aliases": [
-            "bosnie"
+            "bosnie",
+            "Bosna i Hercegovina"
           ]
         },
         {
           "answer": "Slovénie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Slovenija",
+            "République de Slovénie"
+          ]
         },
         {
           "answer": "Monténégro",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Crna Gora"
+          ]
         },
         {
           "answer": "Macédoine du Nord",
           "tier": "t4",
           "aliases": [
-            "macédoine"
+            "macédoine",
+            "République de Macédoine du Nord"
           ]
         },
         {
           "answer": "Moldavie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Moldova",
+            "République de Moldavie"
+          ]
         },
         {
           "answer": "Estonie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Eesti",
+            "République d'Estonie"
+          ]
         },
         {
           "answer": "Lettonie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Latvija",
+            "République de Lettonie"
+          ]
         },
         {
           "answer": "Lituanie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lietuva",
+            "République de Lituanie"
+          ]
         },
         {
           "answer": "Chypre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Kıbrıs",
+            "République de Chypre"
+          ]
         },
         {
           "answer": "Malte",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Malta",
+            "République de Malte"
+          ]
         },
         {
           "answer": "Luxembourg",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lëtzebuerg",
+            "Grand-Duché de Luxembourg"
+          ]
         },
         {
           "answer": "Andorre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Principauté d'Andorre",
+            "Andorra"
+          ]
         },
         {
           "answer": "Monaco",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Principauté de Monaco"
+          ]
         },
         {
           "answer": "Liechtenstein",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Principauté du Liechtenstein",
+            "Fürstentum Liechtenstein"
+          ]
         },
         {
           "answer": "Vatican",
           "tier": "t2",
           "aliases": [
             "cité du vatican",
-            "saint-siège"
+            "saint-siège",
+            "État de la Cité du Vatican"
           ],
           "quip": "Le plus petit État du monde, cité par tous les malins."
         },
@@ -916,7 +1138,9 @@
           "answer": "Saint-Marin",
           "tier": "t6",
           "aliases": [
-            "saint marin"
+            "saint marin",
+            "San Marino",
+            "République de Saint-Marin"
           ],
           "quip": "La plus vieille république du monde, depuis 301."
         },
@@ -925,28 +1149,40 @@
           "tier": "t4",
           "aliases": [
             "türkiye",
-            "turkiye"
+            "turkiye",
+            "République de Turquie"
           ]
         },
         {
           "answer": "Géorgie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Sakartvelo"
+          ]
         },
         {
           "answer": "Arménie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Hayastan",
+            "République d'Arménie"
+          ]
         },
         {
           "answer": "Azerbaïdjan",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Azǝrbaycan",
+            "République d'Azerbaïdjan"
+          ]
         },
         {
           "answer": "Kazakhstan",
           "tier": "t5",
-          "aliases": [],
+          "aliases": [
+            "Qazaqstan",
+            "République du Kazakhstan"
+          ],
           "quip": "Un bout à l'ouest de l'Oural : techniquement européen."
         },
         {
@@ -986,23 +1222,30 @@
         {
           "answer": "Maroc",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Morocco"
+          ]
         },
         {
           "answer": "Algérie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Algeria"
+          ]
         },
         {
           "answer": "Tunisie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Tunisia"
+          ]
         },
         {
           "answer": "Égypte",
           "tier": "t1",
           "aliases": [
-            "egypte"
+            "egypte",
+            "Egypt"
           ]
         },
         {
@@ -1015,13 +1258,16 @@
           "tier": "t1",
           "aliases": [
             "ivoire",
-            "cote d'ivoire"
+            "cote d'ivoire",
+            "Ivory Coast"
           ]
         },
         {
           "answer": "Cameroun",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Cameroon"
+          ]
         },
         {
           "answer": "Mali",
@@ -1036,7 +1282,10 @@
         {
           "answer": "Afrique du Sud",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "South Africa",
+            "RSA"
+          ]
         },
         {
           "answer": "Nigeria",
@@ -1054,7 +1303,8 @@
           "answer": "Éthiopie",
           "tier": "t3",
           "aliases": [
-            "ethiopie"
+            "ethiopie",
+            "Ethiopia"
           ]
         },
         {
@@ -1087,7 +1337,8 @@
             "rdc",
             "congo-kinshasa",
             "zaïre",
-            "zaire"
+            "zaire",
+            "DR Congo"
           ]
         },
         {
@@ -1108,12 +1359,16 @@
         {
           "answer": "Zambie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Zambia"
+          ]
         },
         {
           "answer": "Namibie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Namibia"
+          ]
         },
         {
           "answer": "Botswana",
@@ -1123,12 +1378,16 @@
         {
           "answer": "Tanzanie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Tanzania"
+          ]
         },
         {
           "answer": "Ouganda",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Uganda"
+          ]
         },
         {
           "answer": "Rwanda",
@@ -1148,22 +1407,30 @@
         {
           "answer": "Tchad",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Chad"
+          ]
         },
         {
           "answer": "Soudan",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sudan"
+          ]
         },
         {
           "answer": "Libye",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Libya"
+          ]
         },
         {
           "answer": "Mauritanie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mauritania"
+          ]
         },
         {
           "answer": "Burkina Faso",
@@ -1177,7 +1444,8 @@
           "tier": "t4",
           "aliases": [
             "guinée-conakry",
-            "guinee conakry"
+            "guinee conakry",
+            "Guinea"
           ]
         },
         {
@@ -1195,7 +1463,8 @@
           "tier": "t4",
           "aliases": [
             "île maurice",
-            "ile maurice"
+            "ile maurice",
+            "Mauritius"
           ]
         },
         {
@@ -1215,7 +1484,8 @@
           "answer": "Comores",
           "tier": "t4",
           "aliases": [
-            "les comores"
+            "les comores",
+            "Comoros"
           ]
         },
         {
@@ -1224,7 +1494,8 @@
           "aliases": [
             "sao tomé-et-principe",
             "sao tome",
-            "sao tomé"
+            "sao tomé",
+            "Sao Tome and Principe"
           ]
         },
         {
@@ -1236,25 +1507,31 @@
           "answer": "Érythrée",
           "tier": "t4",
           "aliases": [
-            "erythree"
+            "erythree",
+            "Eritrea"
           ]
         },
         {
           "answer": "Somalie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Somalia"
+          ]
         },
         {
           "answer": "Soudan du Sud",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "South Sudan"
+          ]
         },
         {
           "answer": "République centrafricaine",
           "tier": "t4",
           "aliases": [
             "centrafrique",
-            "rca"
+            "rca",
+            "Central African Republic"
           ]
         },
         {
@@ -1272,20 +1549,25 @@
         {
           "answer": "Gambie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Gambia"
+          ]
         },
         {
           "answer": "Guinée-Bissau",
           "tier": "t4",
           "aliases": [
-            "guinée bissau"
+            "guinée bissau",
+            "Guinea-Bissau",
+            "Guiné-Bissau"
           ]
         },
         {
           "answer": "Guinée équatoriale",
           "tier": "t4",
           "aliases": [
-            "guinée equatoriale"
+            "guinée equatoriale",
+            "Equatorial Guinea"
           ]
         },
         {
@@ -2047,146 +2329,221 @@
         {
           "answer": "France",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "République française"
+          ]
         },
         {
           "answer": "Allemagne",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Germany",
+            "République fédérale d'Allemagne"
+          ]
         },
         {
           "answer": "Espagne",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Spain",
+            "Royaume d'Espagne"
+          ]
         },
         {
           "answer": "Italie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Italy",
+            "République italienne"
+          ]
         },
         {
           "answer": "Portugal",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "République portugaise"
+          ]
         },
         {
           "answer": "Belgique",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Belgium",
+            "Royaume de Belgique"
+          ]
         },
         {
           "answer": "Pays-Bas",
           "tier": "t1",
           "aliases": [
             "hollande",
-            "pays bas"
+            "pays bas",
+            "Netherlands",
+            "Holland",
+            "Royaume des Pays-Bas"
           ]
         },
         {
           "answer": "Grèce",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Greece",
+            "Hellas",
+            "République hellénique"
+          ]
         },
         {
           "answer": "Suède",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Sweden",
+            "Royaume de Suède"
+          ]
         },
         {
           "answer": "Pologne",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Poland",
+            "République de Pologne"
+          ]
         },
         {
           "answer": "Autriche",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Austria",
+            "République fédérale d'Autriche"
+          ]
         },
         {
           "answer": "Irlande",
           "tier": "t3",
           "aliases": [
-            "eire"
+            "eire",
+            "Ireland"
           ]
         },
         {
           "answer": "Danemark",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Denmark",
+            "Royaume de Danemark"
+          ]
         },
         {
           "answer": "Finlande",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Finland",
+            "République de Finlande"
+          ]
         },
         {
           "answer": "Roumanie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Romania"
+          ]
         },
         {
           "answer": "Hongrie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hungary"
+          ]
         },
         {
           "answer": "Tchéquie",
           "tier": "t3",
           "aliases": [
-            "république tchèque"
+            "république tchèque",
+            "Czechia",
+            "Czech Republic"
           ]
         },
         {
           "answer": "Slovaquie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Slovakia",
+            "République slovaque"
+          ]
         },
         {
           "answer": "Bulgarie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Bulgaria",
+            "République de Bulgarie"
+          ]
         },
         {
           "answer": "Croatie",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "Croatia",
+            "République de Croatie"
+          ],
           "quip": "Dernière arrivée : 2013. Depuis, plus personne — le Royaume-Uni est parti, lui."
         },
         {
           "answer": "Luxembourg",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Luxemburg",
+            "Grand-Duché de Luxembourg"
+          ]
         },
         {
           "answer": "Slovénie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Slovenia",
+            "République de Slovénie"
+          ]
         },
         {
           "answer": "Estonie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Estonia",
+            "République d'Estonie"
+          ]
         },
         {
           "answer": "Lettonie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Latvia",
+            "République de Lettonie"
+          ]
         },
         {
           "answer": "Lituanie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lithuania",
+            "République de Lituanie"
+          ]
         },
         {
           "answer": "Malte",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "Malta",
+            "République de Malte"
+          ],
           "quip": "Le plus petit membre, cité par tous les malins."
         },
         {
           "answer": "Chypre",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Cyprus",
+            "République de Chypre"
+          ]
         }
       ]
     },
@@ -2589,7 +2946,8 @@
           "answer": "Le Caire",
           "tier": "t1",
           "aliases": [
-            "caire"
+            "caire",
+            "al-Qāhirah"
           ]
         },
         {
@@ -2600,12 +2958,16 @@
         {
           "answer": "Alger",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "الجزائر"
+          ]
         },
         {
           "answer": "Rabat",
           "tier": "t1",
-          "aliases": [],
+          "aliases": [
+            "ar-Ribaaṭ"
+          ],
           "quip": "Capitale administrative — Casablanca est la capitale économique."
         },
         {
@@ -2704,7 +3066,8 @@
           "answer": "Addis-Abeba",
           "tier": "t3",
           "aliases": [
-            "addis abeba"
+            "addis abeba",
+            "Addis Abäba"
           ]
         },
         {
@@ -2750,7 +3113,9 @@
         {
           "answer": "Khartoum",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "al-Kharṭūm"
+          ]
         },
         {
           "answer": "Juba",
@@ -2760,12 +3125,16 @@
         {
           "answer": "Tripoli",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ṭarābulus"
+          ]
         },
         {
           "answer": "Nouakchott",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Nuwākshūṭ"
+          ]
         },
         {
           "answer": "Niamey",
@@ -2776,7 +3145,8 @@
           "answer": "N'Djamena",
           "tier": "t3",
           "aliases": [
-            "ndjamena"
+            "ndjamena",
+            "Nijāmīnā"
           ]
         },
         {
@@ -2821,7 +3191,8 @@
           "answer": "Mogadiscio",
           "tier": "t4",
           "aliases": [
-            "mogadishu"
+            "mogadishu",
+            "Maqadīshū"
           ]
         },
         {
@@ -2835,7 +3206,8 @@
           "answer": "Asmara",
           "tier": "t4",
           "aliases": [
-            "asmära"
+            "asmära",
+            "Asmera"
           ]
         },
         {
@@ -2854,12 +3226,16 @@
         {
           "answer": "Moroni",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Mūrūnī"
+          ]
         },
         {
           "answer": "Victoria",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Victoria (Seychelles)"
+          ]
         },
         {
           "answer": "Port-Louis",
@@ -2939,6 +3315,21 @@
           "tier": "t6",
           "aliases": [],
           "quip": "Capitale royale et législative d'Eswatini. Deux capitales pour le prix d'une."
+        },
+        {
+          "answer": "Banjul",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ciudad de la Paz",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lilongwe",
+          "tier": "t3",
+          "aliases": []
         }
       ]
     },
@@ -13365,7 +13756,8 @@
           "aliases": [
             "la normandie",
             "haute-normandie",
-            "basse-normandie"
+            "basse-normandie",
+            "Normandy"
           ]
         },
         {
@@ -14149,7 +14541,8 @@
           "answer": "La Réunion",
           "tier": "t3",
           "aliases": [
-            "974"
+            "974",
+            "Reunion"
           ]
         },
         {
@@ -23374,7 +23767,9 @@
         {
           "answer": "Floride",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Florida"
+          ]
         },
         {
           "answer": "New York",
@@ -23386,7 +23781,10 @@
         {
           "answer": "Hawaï",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Hawaii",
+            "Hawaiʻi"
+          ]
         },
         {
           "answer": "Alaska",
@@ -23401,12 +23799,17 @@
         {
           "answer": "Louisiane",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Louisiana",
+            "État de Louisiane"
+          ]
         },
         {
           "answer": "Géorgie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Georgia"
+          ]
         },
         {
           "answer": "Arizona",
@@ -23416,7 +23819,9 @@
         {
           "answer": "Californie",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "California"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
@@ -23443,12 +23848,16 @@
         {
           "answer": "Pennsylvanie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pennsylvania"
+          ]
         },
         {
           "answer": "Massachusetts",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Commonwealth of Massachusetts"
+          ]
         },
         {
           "answer": "Colorado",
@@ -23468,17 +23877,24 @@
         {
           "answer": "Virginie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Virginia",
+            "Commonwealth of Virginia"
+          ]
         },
         {
           "answer": "Caroline du Nord",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "North Carolina"
+          ]
         },
         {
           "answer": "Caroline du Sud",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "South Carolina"
+          ]
         },
         {
           "answer": "Tennessee",
@@ -23488,7 +23904,9 @@
         {
           "answer": "Kentucky",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Commonwealth of Kentucky"
+          ]
         },
         {
           "answer": "Alabama",
@@ -23509,13 +23927,17 @@
           "answer": "Washington",
           "tier": "t3",
           "aliases": [
-            "État de Washington"
+            "État de Washington",
+            "Washington State",
+            "Washington (État)"
           ]
         },
         {
           "answer": "Nouveau-Mexique",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "New Mexico"
+          ]
         },
         {
           "answer": "Indiana",
@@ -23580,12 +24002,16 @@
         {
           "answer": "Dakota du Nord",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "North Dakota"
+          ]
         },
         {
           "answer": "Dakota du Sud",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "South Dakota"
+          ]
         },
         {
           "answer": "Wyoming",
@@ -23600,7 +24026,9 @@
         {
           "answer": "Virginie-Occidentale",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "West Virginia"
+          ]
         },
         {
           "answer": "Maryland",
@@ -23627,13 +24055,17 @@
           "tier": "t4",
           "aliases": [
             "district de Columbia",
-            "Washington DC"
+            "Washington DC",
+            "District of Columbia",
+            "DC"
           ]
         },
         {
           "answer": "Porto Rico",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Puerto Rico"
+          ]
         },
         {
           "answer": "Guam",
@@ -23643,17 +24075,90 @@
         {
           "answer": "Samoa américaines",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "American Samoa"
+          ]
         },
         {
           "answer": "Îles Vierges américaines",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "United States Virgin Islands",
+            "U.S. Virgin Islands"
+          ]
         },
         {
           "answer": "Îles Mariannes du Nord",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Northern Mariana Islands",
+            "Commonwealth des îles Mariannes du Nord"
+          ]
+        },
+        {
+          "answer": "île Baker",
+          "tier": "t3",
+          "aliases": [
+            "Baker Island"
+          ]
+        },
+        {
+          "answer": "île Howland",
+          "tier": "t3",
+          "aliases": [
+            "Howland Island"
+          ]
+        },
+        {
+          "answer": "île Jarvis",
+          "tier": "t3",
+          "aliases": [
+            "Jarvis Island"
+          ]
+        },
+        {
+          "answer": "atoll Johnston",
+          "tier": "t3",
+          "aliases": [
+            "Johnston Atoll"
+          ]
+        },
+        {
+          "answer": "récif Kingman",
+          "tier": "t3",
+          "aliases": [
+            "Kingman Reef"
+          ]
+        },
+        {
+          "answer": "îles Midway",
+          "tier": "t3",
+          "aliases": [
+            "Midway Atoll",
+            "Midway Islands"
+          ]
+        },
+        {
+          "answer": "île de la Navasse",
+          "tier": "t3",
+          "aliases": [
+            "Navassa Island"
+          ]
+        },
+        {
+          "answer": "atoll Palmyra",
+          "tier": "t3",
+          "aliases": [
+            "Palmyra Atoll"
+          ]
+        },
+        {
+          "answer": "Wake",
+          "tier": "t3",
+          "aliases": [
+            "Wake Island",
+            "Wake Atoll"
+          ]
         }
       ]
     },

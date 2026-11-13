@@ -5,522 +5,626 @@
     {
       "id": "his-wwii-evenement",
       "theme": "history",
-      "text": "Nomme un événement de la Seconde Guerre mondiale"
+      "text": "Nomme un événement de la Seconde Guerre mondiale",
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-peuple",
       "theme": "history",
-      "text": "Nomme une civilisation ou un peuple de l'Antiquité"
+      "text": "Nomme une civilisation ou un peuple de l'Antiquité",
+      "difficulty": "hard"
     },
     {
       "id": "his-pharaon",
       "theme": "history",
-      "text": "Nomme un pharaon égyptien"
+      "text": "Nomme un pharaon égyptien",
+      "difficulty": "medium"
     },
     {
       "id": "his-napoleon-general",
       "theme": "history",
-      "text": "Nomme un général ou un maréchal de Napoléon Ier"
+      "text": "Nomme un général ou un maréchal de Napoléon Ier",
+      "difficulty": "easy"
     },
     {
       "id": "his-guerre-xxe",
       "theme": "history",
-      "text": "Nomme une guerre ou un conflit du XXe siècle"
+      "text": "Nomme une guerre ou un conflit du XXe siècle",
+      "difficulty": "easy"
     },
     {
       "id": "his-traite",
       "theme": "history",
-      "text": "Nomme un traité célèbre de l'histoire"
+      "text": "Nomme un traité célèbre de l'histoire",
+      "difficulty": "easy"
     },
     {
       "id": "his-explorateur-xviii-xix",
       "theme": "history",
-      "text": "Nomme un explorateur du XVIIIe ou du XIXe siècle"
+      "text": "Nomme un explorateur du XVIIIe ou du XIXe siècle",
+      "difficulty": "medium"
     },
     {
       "id": "his-dictateur",
       "theme": "history",
-      "text": "Nomme un dictateur du XXe siècle"
+      "text": "Nomme un dictateur du XXe siècle",
+      "difficulty": "easy"
     },
     {
       "id": "his-pm-britannique",
       "theme": "history",
-      "text": "Nomme un Premier ministre britannique"
+      "text": "Nomme un Premier ministre britannique",
+      "difficulty": "easy"
     },
     {
       "id": "his-dynastie",
       "theme": "history",
-      "text": "Nomme une dynastie royale ou impériale européenne"
+      "text": "Nomme une dynastie royale ou impériale européenne",
+      "difficulty": "easy"
     },
     {
       "id": "his-revolution",
       "theme": "history",
-      "text": "Nomme une révolution ou un soulèvement célèbre"
+      "text": "Nomme une révolution ou un soulèvement célèbre",
+      "difficulty": "easy"
     },
     {
       "id": "his-revolution-industrielle",
       "theme": "history",
-      "text": "Nomme une invention ou une découverte de la révolution industrielle"
+      "text": "Nomme une invention ou une découverte de la révolution industrielle",
+      "difficulty": "easy"
     },
     {
       "id": "his-general-ww1",
       "theme": "history",
-      "text": "Nomme un général ou un maréchal de la Première Guerre mondiale"
+      "text": "Nomme un général ou un maréchal de la Première Guerre mondiale",
+      "difficulty": "medium"
     },
     {
       "id": "his-aviateur",
       "theme": "history",
-      "text": "Nomme un aviateur ou un pionnier de l'aviation"
+      "text": "Nomme un aviateur ou un pionnier de l'aviation",
+      "difficulty": "easy"
     },
     {
       "id": "his-antiquite-01",
       "theme": "history",
-      "text": "Nomme une cité grecque antique de Grèce continentale, des îles de la mer Égée ou de la côte égéenne de l'Asie Mineure"
+      "text": "Nomme une cité grecque antique de Grèce continentale, des îles de la mer Égée ou de la côte égéenne de l'Asie Mineure",
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-02",
       "theme": "history",
-      "text": "Nomme une colonie grecque antique fondée hors du monde égéen (Italie, Sicile, Gaule, Espagne, mer Noire, Afrique...)"
+      "text": "Nomme une colonie grecque antique fondée hors du monde égéen (Italie, Sicile, Gaule, Espagne, mer Noire, Afrique...)",
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-03",
       "theme": "history",
-      "text": "Nomme un homme d'État, stratège, roi ou tyran de la Grèce antique (hors philosophes)"
+      "text": "Nomme un homme d'État, stratège, roi ou tyran de la Grèce antique (hors philosophes)",
+      "difficulty": "easy"
     },
     {
       "id": "his-antiquite-04",
       "theme": "history",
-      "text": "Nomme un homme politique ou un général de la République romaine (509-27 av. J.-C.)"
+      "text": "Nomme un homme politique ou un général de la République romaine (509-27 av. J.-C.)",
+      "difficulty": "easy"
     },
     {
       "id": "his-antiquite-05",
       "theme": "history",
-      "text": "Nomme un écrivain grec de l'Antiquité (poète, dramaturge, historien ou orateur, hors philosophes)"
+      "text": "Nomme un écrivain grec de l'Antiquité (poète, dramaturge, historien ou orateur, hors philosophes)",
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-06",
       "theme": "history",
-      "text": "Nomme un écrivain de langue latine de l'Antiquité"
+      "text": "Nomme un écrivain de langue latine de l'Antiquité",
+      "difficulty": "easy"
     },
     {
       "id": "his-antiquite-07",
       "theme": "history",
-      "text": "Nomme une pièce de théâtre antique, grecque ou latine, parvenue jusqu'à nous"
+      "text": "Nomme une pièce de théâtre antique, grecque ou latine, parvenue jusqu'à nous",
+      "difficulty": "easy"
     },
     {
       "id": "his-antiquite-08",
       "theme": "history",
-      "text": "Nomme une bataille de l'Antiquité (avant 476 apr. J.-C.)"
+      "text": "Nomme une bataille de l'Antiquité (avant 476 apr. J.-C.)",
+      "difficulty": "easy"
     },
     {
       "id": "his-antiquite-09",
       "theme": "history",
-      "text": "Nomme un souverain de la Mésopotamie ou de l'Iran antiques (de Sumer aux Sassanides)"
+      "text": "Nomme un souverain de la Mésopotamie ou de l'Iran antiques (de Sumer aux Sassanides)",
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-10",
       "theme": "history",
-      "text": "Nomme une femme réelle (non mythologique) ayant marqué l'Antiquité"
+      "text": "Nomme une femme réelle (non mythologique) ayant marqué l'Antiquité",
+      "difficulty": "easy"
     },
     {
       "id": "his-antiquite-11",
       "theme": "history",
-      "text": "Nomme un savant de l'Antiquité (mathématicien, astronome, médecin, ingénieur ou géographe)"
+      "text": "Nomme un savant de l'Antiquité (mathématicien, astronome, médecin, ingénieur ou géographe)",
+      "difficulty": "easy"
     },
     {
       "id": "his-antiquite-12",
       "theme": "history",
-      "text": "Nomme un site archéologique ou un monument antique visible aujourd'hui autour de la Méditerranée ou au Proche-Orient"
+      "text": "Nomme un site archéologique ou un monument antique visible aujourd'hui autour de la Méditerranée ou au Proche-Orient",
+      "difficulty": "hard"
     },
     {
       "id": "his-antiquite-13",
       "theme": "history",
-      "text": "Nomme une province de l'Empire romain (de 27 av. J.-C. à 284 apr. J.-C.)"
+      "text": "Nomme une province de l'Empire romain (de 27 av. J.-C. à 284 apr. J.-C.)",
+      "difficulty": "easy"
     },
     {
       "id": "his-antiquite-14",
       "theme": "history",
-      "text": "Nomme une ville de France métropolitaine qui existait déjà à l'époque romaine"
+      "text": "Nomme une ville de France métropolitaine qui existait déjà à l'époque romaine",
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-15",
       "theme": "history",
-      "text": "Nomme une langue de l'Antiquité aujourd'hui éteinte"
+      "text": "Nomme une langue de l'Antiquité aujourd'hui éteinte",
+      "difficulty": "easy"
     },
     {
       "id": "his-france-01",
       "theme": "history",
-      "text": "Nomme un président de la République française ou un chef du gouvernement (président du Conseil, Premier ministre) depuis 1946"
+      "text": "Nomme un président de la République française ou un chef du gouvernement (président du Conseil, Premier ministre) depuis 1946",
+      "difficulty": "easy"
     },
     {
       "id": "his-france-02",
       "theme": "history",
-      "text": "Nomme une bataille ou un siège de l'histoire de France antérieur à 1800"
+      "text": "Nomme une bataille ou un siège de l'histoire de France antérieur à 1800",
+      "difficulty": "hard"
     },
     {
       "id": "his-france-03",
       "theme": "history",
-      "text": "Nomme un résistant ou une figure de la France libre pendant la Seconde Guerre mondiale"
+      "text": "Nomme un résistant ou une figure de la France libre pendant la Seconde Guerre mondiale",
+      "difficulty": "easy"
     },
     {
       "id": "his-france-04",
       "theme": "history",
-      "text": "Nomme un château situé dans le Val de Loire"
+      "text": "Nomme un château situé dans le Val de Loire",
+      "difficulty": "medium"
     },
     {
       "id": "his-france-05",
       "theme": "history",
-      "text": "Nomme une ancienne province ou région historique de France"
+      "text": "Nomme une ancienne province ou région historique de France",
+      "difficulty": "hard"
     },
     {
       "id": "his-france-06",
       "theme": "history",
-      "text": "Nomme une loi française connue par le nom de son auteur (ministre ou parlementaire)"
+      "text": "Nomme une loi française connue par le nom de son auteur (ministre ou parlementaire)",
+      "difficulty": "medium"
     },
     {
       "id": "his-france-07",
       "theme": "history",
-      "text": "Nomme un ministre ou un principal conseiller d'un roi de France avant 1789"
+      "text": "Nomme un ministre ou un principal conseiller d'un roi de France avant 1789",
+      "difficulty": "hard"
     },
     {
       "id": "his-france-08",
       "theme": "history",
-      "text": "Nomme un monument, un palais ou un édifice de Paris lié à l'histoire de France"
+      "text": "Nomme un monument, un palais ou un édifice de Paris lié à l'histoire de France",
+      "difficulty": "hard"
     },
     {
       "id": "his-france-09",
       "theme": "history",
-      "text": "Nomme une colonie ou un territoire ayant fait partie de l'empire colonial français"
+      "text": "Nomme une colonie ou un territoire ayant fait partie de l'empire colonial français",
+      "difficulty": "medium"
     },
     {
       "id": "his-france-10",
       "theme": "history",
-      "text": "Nomme une affaire politique, judiciaire ou criminelle célèbre de l'histoire de France"
+      "text": "Nomme une affaire politique, judiciaire ou criminelle célèbre de l'histoire de France",
+      "difficulty": "medium"
     },
     {
       "id": "his-france-11",
       "theme": "history",
-      "text": "Nomme une reine, une régente ou une favorite royale de l'histoire de France"
+      "text": "Nomme une reine, une régente ou une favorite royale de l'histoire de France",
+      "difficulty": "easy"
     },
     {
       "id": "his-france-12",
       "theme": "history",
-      "text": "Nomme un personnage de la guerre de Cent Ans"
+      "text": "Nomme un personnage de la guerre de Cent Ans",
+      "difficulty": "medium"
     },
     {
       "id": "his-france-13",
       "theme": "history",
-      "text": "Nomme un général, un maréchal ou un amiral français d'avant 1789"
+      "text": "Nomme un général, un maréchal ou un amiral français d'avant 1789",
+      "difficulty": "easy"
     },
     {
       "id": "his-france-14",
       "theme": "history",
-      "text": "Nomme un écrivain ou un penseur français du XVIIIe siècle"
+      "text": "Nomme un écrivain ou un penseur français du XVIIIe siècle",
+      "difficulty": "easy"
     },
     {
       "id": "his-france-15",
       "theme": "history",
-      "text": "Nomme un parti ou un mouvement politique français du XXe ou du XXIe siècle"
+      "text": "Nomme un parti ou un mouvement politique français du XXe ou du XXIe siècle",
+      "difficulty": "easy"
     },
     {
       "id": "his-modernes-01",
       "theme": "history",
-      "text": "Nomme un navigateur, explorateur ou conquistador européen actif entre 1492 et 1700"
+      "text": "Nomme un navigateur, explorateur ou conquistador européen actif entre 1492 et 1700",
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-02",
       "theme": "history",
-      "text": "Nomme un peintre, sculpteur ou architecte de la Renaissance (XVe-XVIe siècles)"
+      "text": "Nomme un peintre, sculpteur ou architecte de la Renaissance (XVe-XVIe siècles)",
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-03",
       "theme": "history",
-      "text": "Nomme un souverain (roi, reine, empereur, tsar, sultan, shah…) ayant régné entre 1492 et 1789"
+      "text": "Nomme un souverain (roi, reine, empereur, tsar, sultan, shah…) ayant régné entre 1492 et 1789",
+      "difficulty": "hard"
     },
     {
       "id": "his-modernes-04",
       "theme": "history",
-      "text": "Nomme un ministre, un conseiller ou un favori (ou une favorite) des rois de France entre 1515 et 1789"
+      "text": "Nomme un ministre, un conseiller ou un favori (ou une favorite) des rois de France entre 1515 et 1789",
+      "difficulty": "easy"
     },
     {
       "id": "his-modernes-05",
       "theme": "history",
-      "text": "Nomme un compositeur de musique actif entre 1492 et 1789"
+      "text": "Nomme un compositeur de musique actif entre 1492 et 1789",
+      "difficulty": "hard"
     },
     {
       "id": "his-modernes-06",
       "theme": "history",
-      "text": "Nomme une bataille livrée entre 1492 et 1789"
+      "text": "Nomme une bataille livrée entre 1492 et 1789",
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-07",
       "theme": "history",
-      "text": "Nomme une ville d'Amérique fondée par des Européens entre 1492 et 1789"
+      "text": "Nomme une ville d'Amérique fondée par des Européens entre 1492 et 1789",
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-08",
       "theme": "history",
-      "text": "Nomme un écrivain ou poète français du XVIe, du XVIIe ou du XVIIIe siècle"
+      "text": "Nomme un écrivain ou poète français du XVIe, du XVIIe ou du XVIIIe siècle",
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-09",
       "theme": "history",
-      "text": "Nomme un savant (astronome, mathématicien, physicien, chimiste, naturaliste ou médecin) actif entre 1492 et 1789"
+      "text": "Nomme un savant (astronome, mathématicien, physicien, chimiste, naturaliste ou médecin) actif entre 1492 et 1789",
+      "difficulty": "hard"
     },
     {
       "id": "his-modernes-10",
       "theme": "history",
-      "text": "Nomme un philosophe ou un penseur des Lumières (XVIIIe siècle)"
+      "text": "Nomme un philosophe ou un penseur des Lumières (XVIIIe siècle)",
+      "difficulty": "easy"
     },
     {
       "id": "his-modernes-11",
       "theme": "history",
-      "text": "Nomme un peuple, royaume, empire ou État non européen existant entre 1492 et 1789"
+      "text": "Nomme un peuple, royaume, empire ou État non européen existant entre 1492 et 1789",
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-12",
       "theme": "history",
-      "text": "Nomme une personnalité de la Réforme protestante ou de la Contre-Réforme catholique (XVIe-XVIIe siècles)"
+      "text": "Nomme une personnalité de la Réforme protestante ou de la Contre-Réforme catholique (XVIe-XVIIe siècles)",
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-13",
       "theme": "history",
-      "text": "Nomme une plante ou un animal dont la diffusion entre l'Ancien et le Nouveau Monde date des grandes découvertes (échange colombien)"
+      "text": "Nomme une plante ou un animal dont la diffusion entre l'Ancien et le Nouveau Monde date des grandes découvertes (échange colombien)",
+      "difficulty": "easy"
     },
     {
       "id": "his-modernes-14",
       "theme": "history",
-      "text": "Nomme une œuvre littéraire, théâtrale ou philosophique publiée ou créée entre 1492 et 1789"
+      "text": "Nomme une œuvre littéraire, théâtrale ou philosophique publiée ou créée entre 1492 et 1789",
+      "difficulty": "hard"
     },
     {
       "id": "his-modernes-15",
       "theme": "history",
-      "text": "Nomme une guerre, une révolte ou une rébellion survenue entre 1492 et 1789"
+      "text": "Nomme une guerre, une révolte ou une rébellion survenue entre 1492 et 1789",
+      "difficulty": "easy"
     },
     {
       "id": "his-moyenage-01",
       "theme": "history",
-      "text": "Nomme une bataille livrée entre 476 et 1492"
+      "text": "Nomme une bataille livrée entre 476 et 1492",
+      "difficulty": "hard"
     },
     {
       "id": "his-moyenage-02",
       "theme": "history",
-      "text": "Nomme un titre, une fonction ou un statut social de la société médiévale européenne"
+      "text": "Nomme un titre, une fonction ou un statut social de la société médiévale européenne",
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-03",
       "theme": "history",
-      "text": "Nomme un empereur ou une impératrice byzantin ayant régné après l'an 600"
+      "text": "Nomme un empereur ou une impératrice byzantin ayant régné après l'an 600",
+      "difficulty": "easy"
     },
     {
       "id": "his-moyenage-04",
       "theme": "history",
-      "text": "Nomme un royaume, un empire, une principauté ou une république d'Europe ayant existé au Moyen Âge"
+      "text": "Nomme un royaume, un empire, une principauté ou une république d'Europe ayant existé au Moyen Âge",
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-05",
       "theme": "history",
-      "text": "Nomme un personnage ayant joué un rôle dans les croisades en Orient (1095-1291)"
+      "text": "Nomme un personnage ayant joué un rôle dans les croisades en Orient (1095-1291)",
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-06",
       "theme": "history",
-      "text": "Nomme une ville ayant été membre de la Hanse"
+      "text": "Nomme une ville ayant été membre de la Hanse",
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-07",
       "theme": "history",
-      "text": "Nomme un ordre religieux, militaire ou de chevalerie fondé avant 1500"
+      "text": "Nomme un ordre religieux, militaire ou de chevalerie fondé avant 1500",
+      "difficulty": "easy"
     },
     {
       "id": "his-moyenage-08",
       "theme": "history",
-      "text": "Nomme un château fort médiéval situé en France métropolitaine"
+      "text": "Nomme un château fort médiéval situé en France métropolitaine",
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-09",
       "theme": "history",
-      "text": "Nomme une œuvre littéraire écrite en Europe au Moyen Âge (avant 1500)"
+      "text": "Nomme une œuvre littéraire écrite en Europe au Moyen Âge (avant 1500)",
+      "difficulty": "easy"
     },
     {
       "id": "his-moyenage-10",
       "theme": "history",
-      "text": "Nomme un personnage ayant joué un rôle dans la guerre de Cent Ans"
+      "text": "Nomme un personnage ayant joué un rôle dans la guerre de Cent Ans",
+      "difficulty": "easy"
     },
     {
       "id": "his-moyenage-11",
       "theme": "history",
-      "text": "Nomme une abbaye fondée au Moyen Âge sur le territoire de la France actuelle"
+      "text": "Nomme une abbaye fondée au Moyen Âge sur le territoire de la France actuelle",
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-12",
       "theme": "history",
-      "text": "Nomme une université fondée en Europe avant 1500"
+      "text": "Nomme une université fondée en Europe avant 1500",
+      "difficulty": "easy"
     },
     {
       "id": "his-moyenage-13",
       "theme": "history",
-      "text": "Nomme une arme, une pièce d'armure ou une machine de siège utilisée dans l'Europe médiévale"
+      "text": "Nomme une arme, une pièce d'armure ou une machine de siège utilisée dans l'Europe médiévale",
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-14",
       "theme": "history",
-      "text": "Nomme un savant, penseur, poète ou voyageur du monde musulman médiéval (VIIe-XVe siècle)"
+      "text": "Nomme un savant, penseur, poète ou voyageur du monde musulman médiéval (VIIe-XVe siècle)",
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-15",
       "theme": "history",
-      "text": "Nomme une cathédrale gothique d'Europe dont la construction a commencé avant 1500"
+      "text": "Nomme une cathédrale gothique d'Europe dont la construction a commencé avant 1500",
+      "difficulty": "medium"
     },
     {
       "id": "his-xixe-01",
       "theme": "history",
-      "text": "Nomme une bataille ou un siège livré entre 1800 et 1914"
+      "text": "Nomme une bataille ou un siège livré entre 1800 et 1914",
+      "difficulty": "hard"
     },
     {
       "id": "his-xixe-02",
       "theme": "history",
-      "text": "Nomme un homme politique français du XIXe siècle ou de la Belle Époque (hors souverains)"
+      "text": "Nomme un homme politique français du XIXe siècle ou de la Belle Époque (hors souverains)",
+      "difficulty": "medium"
     },
     {
       "id": "his-xixe-03",
       "theme": "history",
-      "text": "Nomme un souverain (roi, reine, empereur, sultan…) ayant régné au XIXe siècle"
+      "text": "Nomme un souverain (roi, reine, empereur, sultan…) ayant régné au XIXe siècle",
+      "difficulty": "medium"
     },
     {
       "id": "his-xixe-04",
       "theme": "history",
-      "text": "Nomme un personnage de la guerre de Sécession américaine (1861-1865)"
+      "text": "Nomme un personnage de la guerre de Sécession américaine (1861-1865)",
+      "difficulty": "hard"
     },
     {
       "id": "his-xixe-05",
       "theme": "history",
-      "text": "Nomme un monument, un édifice ou un ouvrage d'art construit au XIXe siècle"
+      "text": "Nomme un monument, un édifice ou un ouvrage d'art construit au XIXe siècle",
+      "difficulty": "easy"
     },
     {
       "id": "his-xixe-06",
       "theme": "history",
-      "text": "Nomme un scientifique ou un médecin du XIXe siècle"
+      "text": "Nomme un scientifique ou un médecin du XIXe siècle",
+      "difficulty": "hard"
     },
     {
       "id": "his-xixe-07",
       "theme": "history",
-      "text": "Nomme un penseur, philosophe ou théoricien politique et social du XIXe siècle"
+      "text": "Nomme un penseur, philosophe ou théoricien politique et social du XIXe siècle",
+      "difficulty": "medium"
     },
     {
       "id": "his-xixe-08",
       "theme": "history",
-      "text": "Nomme un pays actuel d'Afrique ayant été colonisé par une puissance européenne"
+      "text": "Nomme un pays actuel d'Afrique ayant été colonisé par une puissance européenne",
+      "difficulty": "easy"
     },
     {
       "id": "his-xixe-09",
       "theme": "history",
-      "text": "Nomme une femme ayant marqué le XIXe siècle"
+      "text": "Nomme une femme ayant marqué le XIXe siècle",
+      "difficulty": "medium"
     },
     {
       "id": "his-xixe-10",
       "theme": "history",
-      "text": "Nomme un chef militaire du XIXe siècle (hors maréchaux de Napoléon Ier et hors guerre de Sécession)"
+      "text": "Nomme un chef militaire du XIXe siècle (hors maréchaux de Napoléon Ier et hors guerre de Sécession)",
+      "difficulty": "hard"
     },
     {
       "id": "his-xixe-11",
       "theme": "history",
-      "text": "Nomme un écrivain français du XIXe siècle"
+      "text": "Nomme un écrivain français du XIXe siècle",
+      "difficulty": "medium"
     },
     {
       "id": "his-xixe-12",
       "theme": "history",
-      "text": "Nomme un peintre ou un sculpteur du XIXe siècle"
+      "text": "Nomme un peintre ou un sculpteur du XIXe siècle",
+      "difficulty": "hard"
     },
     {
       "id": "his-xixe-13",
       "theme": "history",
-      "text": "Nomme un compositeur du XIXe siècle"
+      "text": "Nomme un compositeur du XIXe siècle",
+      "difficulty": "hard"
     },
     {
       "id": "his-xixe-14",
       "theme": "history",
-      "text": "Nomme une ville européenne marquée par la révolution industrielle"
+      "text": "Nomme une ville européenne marquée par la révolution industrielle",
+      "difficulty": "hard"
     },
     {
       "id": "his-xixe-15",
       "theme": "history",
-      "text": "Nomme un inventeur, un ingénieur ou un industriel du XIXe siècle"
+      "text": "Nomme un inventeur, un ingénieur ou un industriel du XIXe siècle",
+      "difficulty": "hard"
     },
     {
       "id": "his-xxe-01",
       "theme": "history",
-      "text": "Nomme un pays d'Afrique, d'Asie ou d'Océanie devenu indépendant entre 1945 et 1990"
+      "text": "Nomme un pays d'Afrique, d'Asie ou d'Océanie devenu indépendant entre 1945 et 1990",
+      "difficulty": "medium"
     },
     {
       "id": "his-xxe-02",
       "theme": "history",
-      "text": "Nomme un dirigeant politique de l'URSS ou d'un pays du bloc de l'Est"
+      "text": "Nomme un dirigeant politique de l'URSS ou d'un pays du bloc de l'Est",
+      "difficulty": "easy"
     },
     {
       "id": "his-xxe-03",
       "theme": "history",
-      "text": "Nomme un dirigeant, un dignitaire, un général ou un collaborateur de l'Allemagne nazie, de l'Italie fasciste, du Japon impérial ou de leurs alliés"
+      "text": "Nomme un dirigeant, un dignitaire, un général ou un collaborateur de l'Allemagne nazie, de l'Italie fasciste, du Japon impérial ou de leurs alliés",
+      "difficulty": "medium"
     },
     {
       "id": "his-xxe-04",
       "theme": "history",
-      "text": "Nomme une personnalité de la Résistance française ou de la France libre"
+      "text": "Nomme une personnalité de la Résistance française ou de la France libre",
+      "difficulty": "medium"
     },
     {
       "id": "his-xxe-05",
       "theme": "history",
-      "text": "Nomme un astronaute, un cosmonaute ou un spationaute"
+      "text": "Nomme un astronaute, un cosmonaute ou un spationaute",
+      "difficulty": "hard"
     },
     {
       "id": "his-xxe-06",
       "theme": "history",
-      "text": "Nomme une mission, une sonde, un satellite, un vaisseau ou une station spatiale"
+      "text": "Nomme une mission, une sonde, un satellite, un vaisseau ou une station spatiale",
+      "difficulty": "hard"
     },
     {
       "id": "his-xxe-07",
       "theme": "history",
-      "text": "Nomme une personnalité politique française ayant été président, Premier ministre ou ministre sous la Ve République"
+      "text": "Nomme une personnalité politique française ayant été président, Premier ministre ou ministre sous la Ve République",
+      "difficulty": "hard"
     },
     {
       "id": "his-xxe-08",
       "theme": "history",
-      "text": "Nomme une organisation internationale, une alliance ou une communauté politique, militaire ou économique créée au XXe siècle"
+      "text": "Nomme une organisation internationale, une alliance ou une communauté politique, militaire ou économique créée au XXe siècle",
+      "difficulty": "medium"
     },
     {
       "id": "his-xxe-09",
       "theme": "history",
-      "text": "Nomme une personnalité assassinée au XXe siècle ou au début du XXIe"
+      "text": "Nomme une personnalité assassinée au XXe siècle ou au début du XXIe",
+      "difficulty": "medium"
     },
     {
       "id": "his-xxe-10",
       "theme": "history",
-      "text": "Nomme une personne ayant reçu le prix Nobel de la paix"
+      "text": "Nomme une personne ayant reçu le prix Nobel de la paix",
+      "difficulty": "hard"
     },
     {
       "id": "his-xxe-11",
       "theme": "history",
-      "text": "Nomme un camp d'internement, de concentration ou d'extermination en Europe pendant la Seconde Guerre mondiale"
+      "text": "Nomme un camp d'internement, de concentration ou d'extermination en Europe pendant la Seconde Guerre mondiale",
+      "difficulty": "easy"
     },
     {
       "id": "his-xxe-12",
       "theme": "history",
-      "text": "Nomme un chef d'État ou de gouvernement africain depuis 1945"
+      "text": "Nomme un chef d'État ou de gouvernement africain depuis 1945",
+      "difficulty": "hard"
     },
     {
       "id": "his-xxe-13",
       "theme": "history",
-      "text": "Nomme un pays belligérant de la Seconde Guerre mondiale"
+      "text": "Nomme un pays belligérant de la Seconde Guerre mondiale",
+      "difficulty": "easy"
     },
     {
       "id": "his-xxe-14",
       "theme": "history",
-      "text": "Nomme une femme ayant été cheffe d'État ou de gouvernement depuis 1900"
+      "text": "Nomme une femme ayant été cheffe d'État ou de gouvernement depuis 1900",
+      "difficulty": "medium"
     },
     {
       "id": "his-xxe-15",
       "theme": "history",
-      "text": "Nomme un groupe armé, un mouvement de libération ou une organisation politique clandestine du XXe siècle"
+      "text": "Nomme un groupe armé, un mouvement de libération ou une organisation politique clandestine du XXe siècle",
+      "difficulty": "medium"
     }
   ],
   "sheets": {
@@ -4983,14 +5087,16 @@
           "answer": "Winston Churchill",
           "tier": "t1",
           "aliases": [
-            "Churchill"
+            "Churchill",
+            "Sir Winston Churchill"
           ]
         },
         {
           "answer": "Margaret Thatcher",
           "tier": "t1",
           "aliases": [
-            "Thatcher"
+            "Thatcher",
+            "Maggie Thatcher"
           ]
         },
         {
@@ -5003,7 +5109,9 @@
         {
           "answer": "Boris Johnson",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Johnson"
+          ]
         },
         {
           "answer": "David Cameron",
@@ -5015,12 +5123,16 @@
         {
           "answer": "Theresa May",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "May"
+          ]
         },
         {
           "answer": "Gordon Brown",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Brown"
+          ]
         },
         {
           "answer": "John Major",
@@ -5049,7 +5161,8 @@
           "aliases": [
             "Pitt le Jeune",
             "William Pitt the Younger",
-            "Pitt"
+            "Pitt",
+            "Pitt the Younger"
           ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
@@ -5065,14 +5178,16 @@
           "answer": "Keir Starmer",
           "tier": "t3",
           "aliases": [
-            "Starmer"
+            "Starmer",
+            "Sir Keir Starmer"
           ]
         },
         {
           "answer": "Liz Truss",
           "tier": "t3",
           "aliases": [
-            "Truss"
+            "Truss",
+            "Elizabeth Truss"
           ]
         },
         {
@@ -5087,7 +5202,8 @@
           "answer": "Benjamin Disraeli",
           "tier": "t3",
           "aliases": [
-            "Disraeli"
+            "Disraeli",
+            "1er comte de Beaconsfield"
           ]
         },
         {
@@ -5115,14 +5231,16 @@
           "answer": "Edward Heath",
           "tier": "t3",
           "aliases": [
-            "Heath"
+            "Heath",
+            "Ted Heath"
           ]
         },
         {
           "answer": "James Callaghan",
           "tier": "t3",
           "aliases": [
-            "Callaghan"
+            "Callaghan",
+            "Jim Callaghan"
           ]
         },
         {
@@ -5136,28 +5254,32 @@
           "answer": "Anthony Eden",
           "tier": "t3",
           "aliases": [
-            "Eden"
+            "Eden",
+            "Sir Anthony Eden"
           ]
         },
         {
           "answer": "Robert Walpole",
           "tier": "t3",
           "aliases": [
-            "Walpole"
+            "Walpole",
+            "Sir Robert Walpole"
           ]
         },
         {
           "answer": "Robert Peel",
           "tier": "t3",
           "aliases": [
-            "Peel"
+            "Peel",
+            "Sir Robert Peel"
           ]
         },
         {
           "answer": "Lord Palmerston",
           "tier": "t3",
           "aliases": [
-            "Palmerston"
+            "Palmerston",
+            "3e vicomte Palmerston"
           ]
         },
         {
@@ -5166,14 +5288,16 @@
           "aliases": [
             "Wellington",
             "Duc de Wellington",
-            "Arthur Wellesley"
+            "Arthur Wellesley",
+            "1er duc de Wellington"
           ]
         },
         {
           "answer": "Lord Salisbury",
           "tier": "t3",
           "aliases": [
-            "Salisbury"
+            "Salisbury",
+            "3e marquis de Salisbury"
           ]
         },
         {
@@ -5187,7 +5311,8 @@
           "answer": "Ramsay MacDonald",
           "tier": "t4",
           "aliases": [
-            "MacDonald"
+            "MacDonald",
+            "James Ramsay MacDonald"
           ]
         },
         {
@@ -5216,7 +5341,8 @@
           "answer": "Lord Melbourne",
           "tier": "t4",
           "aliases": [
-            "Melbourne"
+            "Melbourne",
+            "2e vicomte Melbourne"
           ]
         },
         {
@@ -5224,7 +5350,8 @@
           "tier": "t4",
           "aliases": [
             "John Russell",
-            "Russell"
+            "Russell",
+            "1er comte Russell"
           ]
         },
         {
@@ -5232,7 +5359,9 @@
           "tier": "t4",
           "aliases": [
             "Douglas-Home",
-            "Lord Home"
+            "Lord Home",
+            "Sir Alec Douglas-Home",
+            "14e comte de Home"
           ]
         },
         {
@@ -5242,21 +5371,26 @@
             "Pitt l'Ancien",
             "Lord Chatham",
             "Chatham",
-            "William Pitt the Elder"
+            "William Pitt the Elder",
+            "Pitt the Elder",
+            "1er comte de Chatham"
           ]
         },
         {
           "answer": "Lord Liverpool",
           "tier": "t4",
           "aliases": [
-            "Liverpool"
+            "Liverpool",
+            "2e comte de Liverpool"
           ]
         },
         {
           "answer": "Lord Grey",
           "tier": "t4",
           "aliases": [
-            "Charles Grey"
+            "Charles Grey",
+            "2e comte Grey",
+            "Earl Grey"
           ]
         },
         {
@@ -5264,21 +5398,24 @@
           "tier": "t4",
           "aliases": [
             "Derby",
-            "Edward Smith-Stanley"
+            "Edward Smith-Stanley",
+            "14e comte de Derby"
           ]
         },
         {
           "answer": "Lord Aberdeen",
           "tier": "t4",
           "aliases": [
-            "Aberdeen"
+            "Aberdeen",
+            "4e comte d'Aberdeen"
           ]
         },
         {
           "answer": "Lord Rosebery",
           "tier": "t4",
           "aliases": [
-            "Rosebery"
+            "Rosebery",
+            "5e comte de Rosebery"
           ]
         },
         {
@@ -5286,35 +5423,41 @@
           "tier": "t5",
           "aliases": [
             "John Stuart de Bute",
-            "Bute"
+            "Bute",
+            "3e comte de Bute"
           ]
         },
         {
           "answer": "Duc de Grafton",
           "tier": "t5",
           "aliases": [
-            "Grafton"
+            "Grafton",
+            "3e duc de Grafton"
           ]
         },
         {
           "answer": "Lord Rockingham",
           "tier": "t5",
           "aliases": [
-            "Rockingham"
+            "Rockingham",
+            "2e marquis de Rockingham",
+            "Marquis de Rockingham"
           ]
         },
         {
           "answer": "Lord Shelburne",
           "tier": "t5",
           "aliases": [
-            "Shelburne"
+            "Shelburne",
+            "2e comte de Shelburne"
           ]
         },
         {
           "answer": "Duc de Portland",
           "tier": "t5",
           "aliases": [
-            "Portland"
+            "Portland",
+            "3e duc de Portland"
           ]
         },
         {
@@ -5336,7 +5479,8 @@
           "tier": "t5",
           "aliases": [
             "Goderich",
-            "Frederick Robinson"
+            "Frederick Robinson",
+            "1er vicomte Goderich"
           ]
         },
         {
@@ -5350,7 +5494,8 @@
           "answer": "Henry Campbell-Bannerman",
           "tier": "t5",
           "aliases": [
-            "Campbell-Bannerman"
+            "Campbell-Bannerman",
+            "Sir Henry Campbell-Bannerman"
           ]
         },
         {
@@ -5373,7 +5518,8 @@
           "tier": "t5",
           "aliases": [
             "Newcastle",
-            "Thomas Pelham-Holles"
+            "Thomas Pelham-Holles",
+            "1er duc de Newcastle-upon-Tyne"
           ]
         },
         {
@@ -5381,7 +5527,8 @@
           "tier": "t5",
           "aliases": [
             "Devonshire",
-            "William Cavendish"
+            "William Cavendish",
+            "4e duc de Devonshire"
           ]
         },
         {
@@ -5393,7 +5540,15 @@
           "answer": "William Grenville",
           "tier": "t5",
           "aliases": [
-            "Lord Grenville"
+            "Lord Grenville",
+            "1er baron Grenville"
+          ]
+        },
+        {
+          "answer": "Andy Burnham",
+          "tier": "t3",
+          "aliases": [
+            "Burnham"
           ]
         }
       ]

@@ -5,517 +5,620 @@
     {
       "id": "sci-nobel-physique",
       "theme": "science-nature",
-      "text": "Nomme un lauréat du prix Nobel de physique"
+      "text": "Nomme un lauréat du prix Nobel de physique",
+      "difficulty": "hard"
     },
     {
       "id": "sci-corps-organe",
       "theme": "science-nature",
-      "text": "Nomme un organe ou une glande du corps humain"
+      "text": "Nomme un organe ou une glande du corps humain",
+      "difficulty": "easy"
     },
     {
       "id": "sci-maladie-rare",
       "theme": "science-nature",
-      "text": "Nomme une maladie génétique ou une maladie rare"
+      "text": "Nomme une maladie génétique ou une maladie rare",
+      "difficulty": "medium"
     },
     {
       "id": "sci-animal-amerique-sud",
       "theme": "science-nature",
-      "text": "Nomme un animal d'Amérique du Sud"
+      "text": "Nomme un animal d'Amérique du Sud",
+      "difficulty": "medium"
     },
     {
       "id": "sci-animal-asie",
       "theme": "science-nature",
-      "text": "Nomme un animal d'Asie"
+      "text": "Nomme un animal d'Asie",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animal-oceanie",
       "theme": "science-nature",
-      "text": "Nomme un animal d'Australie ou d'Océanie"
+      "text": "Nomme un animal d'Australie ou d'Océanie",
+      "difficulty": "easy"
     },
     {
       "id": "sci-arbre-fruitier",
       "theme": "science-nature",
-      "text": "Nomme un arbre fruitier ou un arbuste à fruits"
+      "text": "Nomme un arbre fruitier ou un arbuste à fruits",
+      "difficulty": "easy"
     },
     {
       "id": "sci-plante-medicinale",
       "theme": "science-nature",
-      "text": "Nomme une plante médicinale"
+      "text": "Nomme une plante médicinale",
+      "difficulty": "medium"
     },
     {
       "id": "sci-mineral",
       "theme": "science-nature",
-      "text": "Nomme un minéral ou une roche"
+      "text": "Nomme un minéral ou une roche",
+      "difficulty": "hard"
     },
     {
       "id": "sci-meteo",
       "theme": "science-nature",
-      "text": "Nomme un phénomène météorologique ou climatique"
+      "text": "Nomme un phénomène météorologique ou climatique",
+      "difficulty": "easy"
     },
     {
       "id": "sci-physicien",
       "theme": "science-nature",
-      "text": "Nomme un physicien célèbre"
+      "text": "Nomme un physicien célèbre",
+      "difficulty": "hard"
     },
     {
       "id": "sci-chimiste",
       "theme": "science-nature",
-      "text": "Nomme un chimiste célèbre"
+      "text": "Nomme un chimiste célèbre",
+      "difficulty": "hard"
     },
     {
       "id": "sci-inventeur",
       "theme": "science-nature",
-      "text": "Nomme un inventeur célèbre"
+      "text": "Nomme un inventeur célèbre",
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-01",
       "theme": "science-nature",
-      "text": "Nomme une race bovine (race de vache)"
+      "text": "Nomme une race bovine (race de vache)",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-02",
       "theme": "science-nature",
-      "text": "Nomme une race de cheval, de poney ou d'âne"
+      "text": "Nomme une race de cheval, de poney ou d'âne",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-03",
       "theme": "science-nature",
-      "text": "Nomme une race de poule"
+      "text": "Nomme une race de poule",
+      "difficulty": "hard"
     },
     {
       "id": "sci-animaux-04",
       "theme": "science-nature",
-      "text": "Nomme une race de mouton ou de chèvre"
+      "text": "Nomme une race de mouton ou de chèvre",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-05",
       "theme": "science-nature",
-      "text": "Nomme un rongeur"
+      "text": "Nomme un rongeur",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-06",
       "theme": "science-nature",
-      "text": "Nomme un primate"
+      "text": "Nomme un primate",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-07",
       "theme": "science-nature",
-      "text": "Nomme un mammifère de l'ordre des carnivores (Carnivora)"
+      "text": "Nomme un mammifère de l'ordre des carnivores (Carnivora)",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-08",
       "theme": "science-nature",
-      "text": "Nomme un rapace (oiseau de proie diurne ou nocturne)"
+      "text": "Nomme un rapace (oiseau de proie diurne ou nocturne)",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-09",
       "theme": "science-nature",
-      "text": "Nomme un mollusque"
+      "text": "Nomme un mollusque",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-10",
       "theme": "science-nature",
-      "text": "Nomme un crustacé"
+      "text": "Nomme un crustacé",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-11",
       "theme": "science-nature",
-      "text": "Nomme un animal venimeux"
+      "text": "Nomme un animal venimeux",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-12",
       "theme": "science-nature",
-      "text": "Nomme un animal migrateur"
+      "text": "Nomme un animal migrateur",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-13",
       "theme": "science-nature",
-      "text": "Nomme une espèce animale éteinte (hors dinosaures)"
+      "text": "Nomme une espèce animale éteinte (hors dinosaures)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-14",
       "theme": "science-nature",
-      "text": "Nomme un verbe désignant le cri d'un animal"
+      "text": "Nomme un verbe désignant le cri d'un animal",
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-15",
       "theme": "science-nature",
-      "text": "Nomme un animal vivant dans les régions polaires (Arctique ou Antarctique)"
+      "text": "Nomme un animal vivant dans les régions polaires (Arctique ou Antarctique)",
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-01",
       "theme": "science-nature",
-      "text": "Nomme une spécialité médicale ou chirurgicale exercée par un médecin"
+      "text": "Nomme une spécialité médicale ou chirurgicale exercée par un médecin",
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-02",
       "theme": "science-nature",
-      "text": "Nomme une phobie dont le nom savant se termine par « -phobie »"
+      "text": "Nomme une phobie dont le nom savant se termine par « -phobie »",
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-03",
       "theme": "science-nature",
-      "text": "Nomme une maladie infectieuse humaine due à une bactérie"
+      "text": "Nomme une maladie infectieuse humaine due à une bactérie",
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-04",
       "theme": "science-nature",
-      "text": "Nomme un antibiotique (molécule)"
+      "text": "Nomme un antibiotique (molécule)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-05",
       "theme": "science-nature",
-      "text": "Nomme une hormone produite par le corps humain"
+      "text": "Nomme une hormone produite par le corps humain",
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-06",
       "theme": "science-nature",
-      "text": "Nomme un instrument ou un appareil utilisé par les médecins ou les chirurgiens"
+      "text": "Nomme un instrument ou un appareil utilisé par les médecins ou les chirurgiens",
+      "difficulty": "hard"
     },
     {
       "id": "sci-corps-07",
       "theme": "science-nature",
-      "text": "Nomme un examen médical complémentaire (imagerie, endoscopie, analyse ou exploration fonctionnelle)"
+      "text": "Nomme un examen médical complémentaire (imagerie, endoscopie, analyse ou exploration fonctionnelle)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-08",
       "theme": "science-nature",
-      "text": "Nomme une structure anatomique de l'encéphale (cerveau, cervelet ou tronc cérébral)"
+      "text": "Nomme une structure anatomique de l'encéphale (cerveau, cervelet ou tronc cérébral)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-09",
       "theme": "science-nature",
-      "text": "Nomme une maladie ou une affection de la peau"
+      "text": "Nomme une maladie ou une affection de la peau",
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-10",
       "theme": "science-nature",
-      "text": "Nomme un type de cellule du corps humain"
+      "text": "Nomme un type de cellule du corps humain",
+      "difficulty": "hard"
     },
     {
       "id": "sci-corps-11",
       "theme": "science-nature",
-      "text": "Nomme une maladie ou un syndrome portant le nom d'une personne"
+      "text": "Nomme une maladie ou un syndrome portant le nom d'une personne",
+      "difficulty": "hard"
     },
     {
       "id": "sci-corps-12",
       "theme": "science-nature",
-      "text": "Nomme un parasite de l'être humain ou une maladie parasitaire humaine"
+      "text": "Nomme un parasite de l'être humain ou une maladie parasitaire humaine",
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-13",
       "theme": "science-nature",
-      "text": "Nomme un trouble mental reconnu par la psychiatrie"
+      "text": "Nomme un trouble mental reconnu par la psychiatrie",
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-14",
       "theme": "science-nature",
-      "text": "Nomme un type de cancer (par organe atteint ou par type de tumeur maligne)"
+      "text": "Nomme un type de cancer (par organe atteint ou par type de tumeur maligne)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-15",
       "theme": "science-nature",
-      "text": "Nomme une artère ou une veine du corps humain"
+      "text": "Nomme une artère ou une veine du corps humain",
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-01",
       "theme": "science-nature",
-      "text": "Nomme une unité de mesure d'une grandeur physique (unité du Système international ou usuelle)"
+      "text": "Nomme une unité de mesure d'une grandeur physique (unité du Système international ou usuelle)",
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-02",
       "theme": "science-nature",
-      "text": "Nomme un élément chimique du tableau périodique"
+      "text": "Nomme un élément chimique du tableau périodique",
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-03",
       "theme": "science-nature",
-      "text": "Nomme une figure géométrique ou un solide de géométrie"
+      "text": "Nomme une figure géométrique ou un solide de géométrie",
+      "difficulty": "easy"
     },
     {
       "id": "sci-physchim-04",
       "theme": "science-nature",
-      "text": "Nomme un mathématicien célèbre"
+      "text": "Nomme un mathématicien célèbre",
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-05",
       "theme": "science-nature",
-      "text": "Nomme un instrument de mesure"
+      "text": "Nomme un instrument de mesure",
+      "difficulty": "medium"
     },
     {
       "id": "sci-physchim-06",
       "theme": "science-nature",
-      "text": "Nomme un gaz"
+      "text": "Nomme un gaz",
+      "difficulty": "easy"
     },
     {
       "id": "sci-physchim-07",
       "theme": "science-nature",
-      "text": "Nomme un alliage métallique"
+      "text": "Nomme un alliage métallique",
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-08",
       "theme": "science-nature",
-      "text": "Nomme un acide (chimique, organique ou biologique)"
+      "text": "Nomme un acide (chimique, organique ou biologique)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-physchim-09",
       "theme": "science-nature",
-      "text": "Nomme une loi, un théorème ou un principe scientifique portant le nom d'un savant"
+      "text": "Nomme une loi, un théorème ou un principe scientifique portant le nom d'un savant",
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-10",
       "theme": "science-nature",
-      "text": "Nomme une opération, une fonction ou un symbole mathématique"
+      "text": "Nomme une opération, une fonction ou un symbole mathématique",
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-11",
       "theme": "science-nature",
-      "text": "Nomme un objet de verrerie ou un matériel de laboratoire de chimie ou de physique"
+      "text": "Nomme un objet de verrerie ou un matériel de laboratoire de chimie ou de physique",
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-12",
       "theme": "science-nature",
-      "text": "Nomme une grandeur physique"
+      "text": "Nomme une grandeur physique",
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-13",
       "theme": "science-nature",
-      "text": "Nomme un métal"
+      "text": "Nomme un métal",
+      "difficulty": "easy"
     },
     {
       "id": "sci-physchim-14",
       "theme": "science-nature",
-      "text": "Nomme un composant électrique ou électronique"
+      "text": "Nomme un composant électrique ou électronique",
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-15",
       "theme": "science-nature",
-      "text": "Nomme un composé chimique courant (molécule ou corps composé)"
+      "text": "Nomme un composé chimique courant (molécule ou corps composé)",
+      "difficulty": "hard"
     },
     {
       "id": "sci-plantes-01",
       "theme": "science-nature",
-      "text": "Nomme un fruit"
+      "text": "Nomme un fruit",
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-02",
       "theme": "science-nature",
-      "text": "Nomme un légume"
+      "text": "Nomme un légume",
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-03",
       "theme": "science-nature",
-      "text": "Nomme une fleur"
+      "text": "Nomme une fleur",
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-04",
       "theme": "science-nature",
-      "text": "Nomme un arbre qui pousse en France"
+      "text": "Nomme un arbre qui pousse en France",
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-05",
       "theme": "science-nature",
-      "text": "Nomme un champignon"
+      "text": "Nomme un champignon",
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-06",
       "theme": "science-nature",
-      "text": "Nomme une herbe aromatique ou une épice"
+      "text": "Nomme une herbe aromatique ou une épice",
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-07",
       "theme": "science-nature",
-      "text": "Nomme une céréale ou une légumineuse"
+      "text": "Nomme une céréale ou une légumineuse",
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-08",
       "theme": "science-nature",
-      "text": "Nomme une plante d'intérieur"
+      "text": "Nomme une plante d'intérieur",
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-09",
       "theme": "science-nature",
-      "text": "Nomme un outil ou un équipement de jardinage"
+      "text": "Nomme un outil ou un équipement de jardinage",
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-10",
       "theme": "science-nature",
-      "text": "Nomme une variété de pomme"
+      "text": "Nomme une variété de pomme",
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-11",
       "theme": "science-nature",
-      "text": "Nomme une plante sauvage commune en France (fleur, herbe ou plante des champs et des bois)"
+      "text": "Nomme une plante sauvage commune en France (fleur, herbe ou plante des champs et des bois)",
+      "difficulty": "hard"
     },
     {
       "id": "sci-plantes-12",
       "theme": "science-nature",
-      "text": "Nomme un conifère"
+      "text": "Nomme un conifère",
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-13",
       "theme": "science-nature",
-      "text": "Nomme une plante grasse (cactus ou succulente)"
+      "text": "Nomme une plante grasse (cactus ou succulente)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-14",
       "theme": "science-nature",
-      "text": "Nomme un arbuste"
+      "text": "Nomme un arbuste",
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-15",
       "theme": "science-nature",
-      "text": "Nomme une plante toxique ou vénéneuse"
+      "text": "Nomme une plante toxique ou vénéneuse",
+      "difficulty": "medium"
     },
     {
       "id": "sci-techno-01",
       "theme": "science-nature",
-      "text": "Nomme un réseau social ou une plateforme de partage en ligne (hors messageries)"
+      "text": "Nomme un réseau social ou une plateforme de partage en ligne (hors messageries)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-techno-02",
       "theme": "science-nature",
-      "text": "Nomme une entreprise ou une marque de technologie (informatique, électronique, téléphonie, internet)"
+      "text": "Nomme une entreprise ou une marque de technologie (informatique, électronique, téléphonie, internet)",
+      "difficulty": "hard"
     },
     {
       "id": "sci-techno-03",
       "theme": "science-nature",
-      "text": "Nomme un composant ou un périphérique d'ordinateur"
+      "text": "Nomme un composant ou un périphérique d'ordinateur",
+      "difficulty": "medium"
     },
     {
       "id": "sci-techno-04",
       "theme": "science-nature",
-      "text": "Nomme une extension de fichier informatique (ce qui suit le point dans un nom de fichier)"
+      "text": "Nomme une extension de fichier informatique (ce qui suit le point dans un nom de fichier)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-techno-05",
       "theme": "science-nature",
-      "text": "Nomme un outil de bricolage ou de menuiserie (à main ou électroportatif)"
+      "text": "Nomme un outil de bricolage ou de menuiserie (à main ou électroportatif)",
+      "difficulty": "hard"
     },
     {
       "id": "sci-techno-06",
       "theme": "science-nature",
-      "text": "Nomme un matériau de construction ou de revêtement utilisé dans le bâtiment"
+      "text": "Nomme un matériau de construction ou de revêtement utilisé dans le bâtiment",
+      "difficulty": "medium"
     },
     {
       "id": "sci-techno-07",
       "theme": "science-nature",
-      "text": "Nomme un modèle d'avion (civil ou militaire)"
+      "text": "Nomme un modèle d'avion (civil ou militaire)",
+      "difficulty": "hard"
     },
     {
       "id": "sci-techno-08",
       "theme": "science-nature",
-      "text": "Nomme un véhicule terrestre (à moteur, à pédales, sur rails ou tracté)"
+      "text": "Nomme un véhicule terrestre (à moteur, à pédales, sur rails ou tracté)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-techno-09",
       "theme": "science-nature",
-      "text": "Nomme un robot ou une intelligence artificielle célèbre (réelle ou de fiction)"
+      "text": "Nomme un robot ou une intelligence artificielle célèbre (réelle ou de fiction)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-techno-10",
       "theme": "science-nature",
-      "text": "Nomme un fondateur ou un grand dirigeant d'une entreprise technologique"
+      "text": "Nomme un fondateur ou un grand dirigeant d'une entreprise technologique",
+      "difficulty": "medium"
     },
     {
       "id": "sci-techno-11",
       "theme": "science-nature",
-      "text": "Nomme un modèle de voiture (nom du modèle, sans la marque)"
+      "text": "Nomme un modèle de voiture (nom du modèle, sans la marque)",
+      "difficulty": "hard"
     },
     {
       "id": "sci-techno-12",
       "theme": "science-nature",
-      "text": "Nomme un logiciel, une application ou un système d'exploitation grand public"
+      "text": "Nomme un logiciel, une application ou un système d'exploitation grand public",
+      "difficulty": "hard"
     },
     {
       "id": "sci-techno-13",
       "theme": "science-nature",
-      "text": "Nomme un appareil électronique grand public"
+      "text": "Nomme un appareil électronique grand public",
+      "difficulty": "medium"
     },
     {
       "id": "sci-techno-14",
       "theme": "science-nature",
-      "text": "Nomme un engin de chantier, de travaux publics ou une machine agricole"
+      "text": "Nomme un engin de chantier, de travaux publics ou une machine agricole",
+      "difficulty": "easy"
     },
     {
       "id": "sci-techno-15",
       "theme": "science-nature",
-      "text": "Nomme un type de bateau ou de navire"
+      "text": "Nomme un type de bateau ou de navire",
+      "difficulty": "easy"
     },
     {
       "id": "sci-terre-01",
       "theme": "science-nature",
-      "text": "Nomme un volcan du monde (actif, endormi ou éteint)"
+      "text": "Nomme un volcan du monde (actif, endormi ou éteint)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-terre-02",
       "theme": "science-nature",
-      "text": "Nomme une mer ou un océan"
+      "text": "Nomme une mer ou un océan",
+      "difficulty": "medium"
     },
     {
       "id": "sci-terre-03",
       "theme": "science-nature",
-      "text": "Nomme un désert du monde"
+      "text": "Nomme un désert du monde",
+      "difficulty": "easy"
     },
     {
       "id": "sci-terre-04",
       "theme": "science-nature",
-      "text": "Nomme un astronaute ou un cosmonaute"
+      "text": "Nomme un astronaute ou un cosmonaute",
+      "difficulty": "hard"
     },
     {
       "id": "sci-terre-05",
       "theme": "science-nature",
-      "text": "Nomme un engin spatial (sonde, satellite, télescope spatial, station, rover ou navette)"
+      "text": "Nomme un engin spatial (sonde, satellite, télescope spatial, station, rover ou navette)",
+      "difficulty": "hard"
     },
     {
       "id": "sci-terre-06",
       "theme": "science-nature",
-      "text": "Nomme une fusée ou un lanceur spatial"
+      "text": "Nomme une fusée ou un lanceur spatial",
+      "difficulty": "medium"
     },
     {
       "id": "sci-terre-07",
       "theme": "science-nature",
-      "text": "Nomme un combustible ou un carburant"
+      "text": "Nomme un combustible ou un carburant",
+      "difficulty": "easy"
     },
     {
       "id": "sci-terre-08",
       "theme": "science-nature",
-      "text": "Nomme un déchet ménager"
+      "text": "Nomme un déchet ménager",
+      "difficulty": "hard"
     },
     {
       "id": "sci-terre-09",
       "theme": "science-nature",
-      "text": "Nomme une catastrophe naturelle célèbre de l'Histoire (séisme, éruption, tsunami, ouragan ou tempête)"
+      "text": "Nomme une catastrophe naturelle célèbre de l'Histoire (séisme, éruption, tsunami, ouragan ou tempête)",
+      "difficulty": "medium"
     },
     {
       "id": "sci-terre-10",
       "theme": "science-nature",
-      "text": "Nomme une roche ou un minéral"
+      "text": "Nomme une roche ou un minéral",
+      "difficulty": "hard"
     },
     {
       "id": "sci-terre-11",
       "theme": "science-nature",
-      "text": "Nomme une pierre précieuse ou semi-précieuse"
+      "text": "Nomme une pierre précieuse ou semi-précieuse",
+      "difficulty": "medium"
     },
     {
       "id": "sci-terre-12",
       "theme": "science-nature",
-      "text": "Nomme une étoile portant un nom propre (hors Soleil)"
+      "text": "Nomme une étoile portant un nom propre (hors Soleil)",
+      "difficulty": "hard"
     },
     {
       "id": "sci-terre-13",
       "theme": "science-nature",
-      "text": "Nomme un animal menacé d'extinction"
+      "text": "Nomme un animal menacé d'extinction",
+      "difficulty": "hard"
     },
     {
       "id": "sci-terre-14",
       "theme": "science-nature",
-      "text": "Nomme un élément du relief ou du paysage naturel"
+      "text": "Nomme un élément du relief ou du paysage naturel",
+      "difficulty": "hard"
     },
     {
       "id": "sci-terre-15",
       "theme": "science-nature",
-      "text": "Nomme un geste écologique du quotidien"
+      "text": "Nomme un geste écologique du quotidien",
+      "difficulty": "medium"
     }
   ],
   "sheets": {
@@ -9633,7 +9736,9 @@
         {
           "answer": "Marans",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Poule de Marans"
+          ]
         },
         {
           "answer": "Gauloise dorée",
@@ -9653,7 +9758,9 @@
         {
           "answer": "Sussex",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Poule du Sussex"
+          ]
         },
         {
           "answer": "Brahma",
@@ -9710,7 +9817,9 @@
         {
           "answer": "Houdan",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Poule de Houdan"
+          ]
         },
         {
           "answer": "Plymouth Rock",
@@ -9750,7 +9859,9 @@
         {
           "answer": "New Hampshire",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Poule du New Hampshire"
+          ]
         },
         {
           "answer": "La Flèche",
@@ -9827,7 +9938,9 @@
         {
           "answer": "Mantes",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Poule de Mantes"
+          ]
         },
         {
           "answer": "Cou nu du Forez",
@@ -9845,7 +9958,9 @@
         {
           "answer": "Meusienne",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Poule meusienne"
+          ]
         },
         {
           "answer": "Contres",
@@ -9885,7 +10000,9 @@
         {
           "answer": "Le Mans",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Poule Le Mans"
+          ]
         },
         {
           "answer": "Pavilly",
@@ -9979,12 +10096,16 @@
         {
           "answer": "Shamo",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Combattant shamo"
+          ]
         },
         {
           "answer": "Yokohama",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Poule de Yokohama"
+          ]
         },
         {
           "answer": "Phénix",
@@ -10033,7 +10154,919 @@
         {
           "answer": "Noire du Berry",
           "tier": "t5",
+          "aliases": [
+            "Poule noire du Berry"
+          ]
+        },
+        {
+          "answer": "Altsteirer",
+          "tier": "t3",
           "aliases": []
+        },
+        {
+          "answer": "Améraucana",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Amrock",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ancône",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Appenzelloise barbue",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Appenzelloise huppée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Aquitaine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Assendelft",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Augsbourg",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Azur",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Banaba",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Barbu de Boitsfort",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Barbu de Grübbe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Barbu de Thuringe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Barbu d'Everberg",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Barbu hollandais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bassette",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Berg-Schlotter",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Black Rock",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Bleue de France",
+          "tier": "t3",
+          "aliases": [
+            "Pondeuse Cendrée"
+          ]
+        },
+        {
+          "answer": "Bolinao",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Brabançonne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Brabanter",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Breda",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Buckeye",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Campine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Castillane",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Caussade",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cemani",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chabo Maruha",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chabo Okina",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chabo Shinkuro",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chabo sans queue",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chantecler",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chanteur de Yourlov",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Chanteur du Berg",
+          "tier": "t3",
+          "aliases": [
+            "Bergischer Kräher"
+          ]
+        },
+        {
+          "answer": "Chanteur du Kosovo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant anglais ancien",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant anglais moderne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant de Bruges",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant de Liège",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant de Madagascar",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant de Madras",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant de Tirlemont",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant des îles de la Sonde",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant du Nord",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant du Nord petit",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant du Palatinat",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant espagnol",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Combattant malais",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Coq de pêche",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Coq Indio du Leon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Coq Pardo du Leon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cotentine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Coucou allemand",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Coucou d'Izegem",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Coucou des Flandres",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Courtes-pattes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Courtes pattes écossaise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Croad Langshan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Cubalaya",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Darag",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Denizli",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dominicaine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Dresde",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Écossaise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Empordanesa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Espagnole à face blanche",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Euskal oiloa",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Famennoise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Faso",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fauve de Hesbaye",
+          "tier": "t3",
+          "aliases": [
+            "Poule de Gembloux"
+          ]
+        },
+        {
+          "answer": "Fauve de Méhaigne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Faverolles allemande",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Faverolles française",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Fayoumi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Frisée et huppée d'Annaberg",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Géante de Jersey",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Goliath",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hambourg",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Harco",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Hergnies",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Herve",
+          "tier": "t3",
+          "aliases": [
+            "Poule de Herve"
+          ]
+        },
+        {
+          "answer": "Índio Gigante",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "ISA brown",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Italienne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Janzé",
+          "tier": "t3",
+          "aliases": [
+            "Poule de Janzé"
+          ]
+        },
+        {
+          "answer": "Java américaine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Javanaise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Joloano",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ko shamo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Koeyoshi",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lakenvelder",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Landaise",
+          "tier": "t3",
+          "aliases": [
+            "Poule landaise"
+          ]
+        },
+        {
+          "answer": "Langshan allemande",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Legbar",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Leghorn américaine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Leghorn anglaise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Limousine",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Livourne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lohmann Brown",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Lyonnaise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Malines à tête de dindon",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Millefleurs de Lonigo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Minohiki",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mouette de Groningue",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Mouette de la Frise orientale",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Naine allemande",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Naine belge",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Naine de Waes",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Naine de Burma",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Naine hollandaise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Nankin",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Niederrheiner",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Noire de Moscou",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ohiki",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Orpington à crête frisée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Paraoakan",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pavlov",
+          "tier": "t3",
+          "aliases": [
+            "Poule de Pavlovo"
+          ]
+        },
+        {
+          "answer": "Penedesenca",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Phoenix",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Pictave",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule d'Alsace",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule d'Orava",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Bielefeld",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Bohême",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Caux",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Challans",
+          "tier": "t3",
+          "aliases": [
+            "Noire de Challans"
+          ]
+        },
+        {
+          "answer": "Poule de Choumen",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Dampierre",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Drente",
+          "tier": "t3",
+          "aliases": [
+            "Poule de Drenthe"
+          ]
+        },
+        {
+          "answer": "Poule de Drenthe sans queue",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Francfort",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Frise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Hollande du Nord",
+          "tier": "t3",
+          "aliases": [
+            "Bleue de Hollande"
+          ]
+        },
+        {
+          "answer": "Poule de Norvège",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Poltava",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Polverara",
+          "tier": "t3",
+          "aliases": [
+            "Schiatta"
+          ]
+        },
+        {
+          "answer": "Poule de Saxe",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Twente",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Westphalie",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule de Zottegem",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule des Asturies",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule du Berry",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule du Danemark",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule du Reich",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule du Valdarno",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule frisée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule frisée et huppée d'Annaberg",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule soie siamoise",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule suisse",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poule Tchèque",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Poulet-bicyclette",
+          "tier": "t3",
+          "aliases": [
+            "Poulet de brousse"
+          ]
+        },
+        {
+          "answer": "Prat",
+          "tier": "t3",
+          "aliases": [
+            "Poule de Prat"
+          ]
+        },
+        {
+          "answer": "Ramelsloher",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Redcap",
+          "tier": "t3",
+          "aliases": [
+            "Red Cap",
+            "Derbyshire Redcap"
+          ]
+        },
+        {
+          "answer": "Rhénane",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Ross 308",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sabelpoot",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sans queue de Ruhla",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Satsumadori",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sicilienne",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sombor huppée",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sulmtaler",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Sundheimer",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tomaru",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Totenko",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Tournaisis",
+          "tier": "t3",
+          "aliases": [
+            "Naine du Tournaisis"
+          ]
+        },
+        {
+          "answer": "Tuzo",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Vogtlander",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Wassachiè",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Yakido",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Yamato Gunkei",
+          "tier": "t3",
+          "aliases": []
+        },
+        {
+          "answer": "Zingem (pondeuse de)",
+          "tier": "t3",
+          "aliases": [
+            "pondeuse de Zingem"
+          ]
+        },
+        {
+          "answer": "Zingem (poulet de chair)",
+          "tier": "t3",
+          "aliases": [
+            "poulet de chair de Zingem"
+          ]
         }
       ]
     },

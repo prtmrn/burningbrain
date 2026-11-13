@@ -58,10 +58,16 @@ export interface ScoreBand {
 
 // ── 4. Contenu : prompts, feuilles, banques ──
 
+/** Niveau d'une question, calculé par content/build/assign_difficulty.py. */
+export type Difficulty = 'easy' | 'medium' | 'hard';
+/** Réglage joueur : 'auto' = toutes les questions. */
+export type DifficultyChoice = 'auto' | Difficulty;
+
 export interface Prompt {
   id: string;                 // slug stable, unique TOUTES banques confondues
   theme: ThemeId;             // exactement un thème
   text: string;               // contenu 100 % original (D-01)
+  difficulty?: Difficulty;    // absent = non classée (exclue des niveaux, incluse en auto)
 }
 
 export interface AnswerSheetEntry {

@@ -5,502 +5,602 @@
     {
       "id": "art-archi-01",
       "theme": "general-es",
-      "text": "Nombra a un modista o diseñador de moda (persona)"
+      "text": "Nombra a un modista o diseñador de moda (persona)",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-02",
       "theme": "general-es",
-      "text": "Nombra una marca o casa de moda"
+      "text": "Nombra una marca o casa de moda",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-03",
       "theme": "general-es",
-      "text": "Nombra un estilo o movimiento arquitectónico"
+      "text": "Nombra un estilo o movimiento arquitectónico",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-06",
       "theme": "general-es",
-      "text": "Nombra un elemento arquitectónico de un edificio (parte o estructura)"
+      "text": "Nombra un elemento arquitectónico de un edificio (parte o estructura)",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-07",
       "theme": "general-es",
-      "text": "Nombra una escultura o monumento escultórico famoso (obra)"
+      "text": "Nombra una escultura o monumento escultórico famoso (obra)",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-09",
       "theme": "general-es",
-      "text": "Nombra un material de construcción"
+      "text": "Nombra un material de construcción",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-10",
       "theme": "general-es",
-      "text": "Nombra un mueble o un tipo de mueble"
+      "text": "Nombra un mueble o un tipo de mueble",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-11",
       "theme": "general-es",
-      "text": "Nombra un tipo de sombrero o de prenda para la cabeza"
+      "text": "Nombra un tipo de sombrero o de prenda para la cabeza",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-12",
       "theme": "general-es",
-      "text": "Nombra una tela o un tejido"
+      "text": "Nombra una tela o un tejido",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-13",
       "theme": "general-es",
-      "text": "Nombra un tipo de zapato"
+      "text": "Nombra un tipo de zapato",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-14",
       "theme": "general-es",
-      "text": "Nombra un término o elemento de la fotografía (técnica o equipo)"
+      "text": "Nombra un término o elemento de la fotografía (técnica o equipo)",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-15",
       "theme": "general-es",
-      "text": "Nombra un tipo de edificio"
+      "text": "Nombra un tipo de edificio",
+      "difficulty": "hard"
     },
     {
       "id": "art-architecte",
       "theme": "general-es",
-      "text": "Nombra a un arquitecto famoso"
+      "text": "Nombra a un arquitecto famoso",
+      "difficulty": "medium"
     },
     {
       "id": "art-auteur-sf",
       "theme": "general-es",
-      "text": "Nombra a un autor de ciencia ficción"
+      "text": "Nombra a un autor de ciencia ficción",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-01",
       "theme": "general-es",
-      "text": "Nombra a un compositor clásico alemán o austriaco"
+      "text": "Nombra a un compositor clásico alemán o austriaco",
+      "difficulty": "easy"
     },
     {
       "id": "art-classique-02",
       "theme": "general-es",
-      "text": "Nombra un compositor clásico italiano"
+      "text": "Nombra un compositor clásico italiano",
+      "difficulty": "easy"
     },
     {
       "id": "art-classique-03",
       "theme": "general-es",
-      "text": "Nombra un compositor clásico de Rusia o de Europa del Este (Polonia, Chequia, Hungría, Rumanía, países bálticos, Ucrania, el Cáucaso...)"
+      "text": "Nombra un compositor clásico de Rusia o de Europa del Este (Polonia, Chequia, Hungría, Rumanía, países bálticos, Ucrania, el Cáucaso...)",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-04",
       "theme": "general-es",
-      "text": "Nombra un compositor clásico británico, irlandés o estadounidense"
+      "text": "Nombra un compositor clásico británico, irlandés o estadounidense",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-05",
       "theme": "general-es",
-      "text": "Nombra un compositor clásico español, portugués, latinoamericano o nórdico"
+      "text": "Nombra un compositor clásico español, portugués, latinoamericano o nórdico",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-06",
       "theme": "general-es",
-      "text": "Nombra un personaje de ópera"
+      "text": "Nombra un personaje de ópera",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-07",
       "theme": "general-es",
-      "text": "Nombra un ballet"
+      "text": "Nombra un ballet",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-09",
       "theme": "general-es",
-      "text": "Nombra un dramaturgo (autor de obras de teatro), de cualquier época y país"
+      "text": "Nombra un dramaturgo (autor de obras de teatro), de cualquier época y país",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-10",
       "theme": "general-es",
-      "text": "Nombra un director de cine europeo no francés (cine de autor o clásico)"
+      "text": "Nombra un director de cine europeo no francés (cine de autor o clásico)",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-11",
       "theme": "general-es",
-      "text": "Nombra un director de cine asiático (Japón, China, Corea, India, Irán, Sudeste Asiático, Oriente Próximo...)"
+      "text": "Nombra un director de cine asiático (Japón, China, Corea, India, Irán, Sudeste Asiático, Oriente Próximo...)",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-12",
       "theme": "general-es",
-      "text": "Nombra una película de Alfred Hitchcock"
+      "text": "Nombra una película de Alfred Hitchcock",
+      "difficulty": "easy"
     },
     {
       "id": "art-classique-13",
       "theme": "general-es",
-      "text": "Nombra un término musical italiano (tempo, matiz, indicación de ejecución)"
+      "text": "Nombra un término musical italiano (tempo, matiz, indicación de ejecución)",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-14",
       "theme": "general-es",
-      "text": "Nombra un compositor de música de cine"
+      "text": "Nombra un compositor de música de cine",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-15",
       "theme": "general-es",
-      "text": "Nombra una forma o género de música clásica (sinfonía, sonata, fuga...)"
+      "text": "Nombra una forma o género de música clásica (sinfonía, sonata, fuga...)",
+      "difficulty": "hard"
     },
     {
       "id": "art-dramaturge",
       "theme": "general-es",
-      "text": "Nombra un dramaturgo"
+      "text": "Nombra un dramaturgo",
+      "difficulty": "hard"
     },
     {
       "id": "art-ecrivain-uk",
       "theme": "general-es",
-      "text": "Nombra un escritor británico"
+      "text": "Nombra un escritor británico",
+      "difficulty": "hard"
     },
     {
       "id": "art-ecrivain-us",
       "theme": "general-es",
-      "text": "Nombra un escritor estadounidense"
+      "text": "Nombra un escritor estadounidense",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-01",
       "theme": "general-es",
-      "text": "Nombra un escritor o poeta ruso"
+      "text": "Nombra un escritor o poeta ruso",
+      "difficulty": "easy"
     },
     {
       "id": "art-littetr-02",
       "theme": "general-es",
-      "text": "Nombra un escritor o poeta de lengua alemana (Alemania, Austria, Suiza alemana)"
+      "text": "Nombra un escritor o poeta de lengua alemana (Alemania, Austria, Suiza alemana)",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-03",
       "theme": "general-es",
-      "text": "Nombra un escritor o poeta italiano"
+      "text": "Nombra un escritor o poeta italiano",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-04",
       "theme": "general-es",
-      "text": "Nombra un escritor o poeta de España"
+      "text": "Nombra un escritor o poeta de España",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-05",
       "theme": "general-es",
-      "text": "Nombra un escritor o poeta de América Latina (incluido Brasil)"
+      "text": "Nombra un escritor o poeta de América Latina (incluido Brasil)",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-06",
       "theme": "general-es",
-      "text": "Nombra a un premio Nobel de Literatura"
+      "text": "Nombra a un premio Nobel de Literatura",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-07",
       "theme": "general-es",
-      "text": "Nombra un personaje de una novela británica, irlandesa o estadounidense"
+      "text": "Nombra un personaje de una novela británica, irlandesa o estadounidense",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-08",
       "theme": "general-es",
-      "text": "Nombra un personaje de una obra de William Shakespeare"
+      "text": "Nombra un personaje de una obra de William Shakespeare",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-09",
       "theme": "general-es",
-      "text": "Nombra una novela británica o irlandesa"
+      "text": "Nombra una novela británica o irlandesa",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-10",
       "theme": "general-es",
-      "text": "Nombra una novela estadounidense"
+      "text": "Nombra una novela estadounidense",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-11",
       "theme": "general-es",
-      "text": "Nombra una escritora o poeta extranjera (no francesa)"
+      "text": "Nombra una escritora o poeta extranjera (no francesa)",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-12",
       "theme": "general-es",
-      "text": "Nombra un poeta extranjero que no escriba ni en francés ni en inglés"
+      "text": "Nombra un poeta extranjero que no escriba ni en francés ni en inglés",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-13",
       "theme": "general-es",
-      "text": "Nombra un escritor de un país nórdico (Dinamarca, Noruega, Suecia, Finlandia o Islandia)"
+      "text": "Nombra un escritor de un país nórdico (Dinamarca, Noruega, Suecia, Finlandia o Islandia)",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-14",
       "theme": "general-es",
-      "text": "Nombra una novela de un escritor español o latinoamericano"
+      "text": "Nombra una novela de un escritor español o latinoamericano",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-15",
       "theme": "general-es",
-      "text": "Nombra un personaje de la literatura infantil y juvenil extranjera (no francesa)"
+      "text": "Nombra un personaje de la literatura infantil y juvenil extranjera (no francesa)",
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-01",
       "theme": "general-es",
-      "text": "Nombra una fábula de Jean de La Fontaine"
+      "text": "Nombra una fábula de Jean de La Fontaine",
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-04",
       "theme": "general-es",
-      "text": "Nombra una obra de La comedia humana de Balzac"
+      "text": "Nombra una obra de La comedia humana de Balzac",
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-05",
       "theme": "general-es",
-      "text": "Nombra un personaje de La comedia humana de Balzac"
+      "text": "Nombra un personaje de La comedia humana de Balzac",
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-06",
       "theme": "general-es",
-      "text": "Nombra un personaje de Los Rougon-Macquart de Émile Zola"
+      "text": "Nombra un personaje de Los Rougon-Macquart de Émile Zola",
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-07",
       "theme": "general-es",
-      "text": "Nombra un personaje de una novela de Victor Hugo"
+      "text": "Nombra un personaje de una novela de Victor Hugo",
+      "difficulty": "easy"
     },
     {
       "id": "art-littfr-08",
       "theme": "general-es",
-      "text": "Nombra un personaje de una novela de Alexandre Dumas padre"
+      "text": "Nombra un personaje de una novela de Alexandre Dumas padre",
+      "difficulty": "easy"
     },
     {
       "id": "art-littfr-12",
       "theme": "general-es",
-      "text": "Nombra un escritor en lengua francesa originario de África subsahariana o de Madagascar"
+      "text": "Nombra un escritor en lengua francesa originario de África subsahariana o de Madagascar",
+      "difficulty": "easy"
     },
     {
       "id": "art-livre-enfants",
       "theme": "general-es",
-      "text": "Nombra un libro o una serie de libros infantiles"
+      "text": "Nombra un libro o una serie de libros infantiles",
+      "difficulty": "easy"
     },
     {
       "id": "art-mouvement",
       "theme": "general-es",
-      "text": "Nombra un movimiento artístico"
+      "text": "Nombra un movimiento artístico",
+      "difficulty": "easy"
     },
     {
       "id": "art-musee",
       "theme": "general-es",
-      "text": "Nombra un museo famoso del mundo"
+      "text": "Nombra un museo famoso del mundo",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-01",
       "theme": "general-es",
-      "text": "Nombra una figura retórica"
+      "text": "Nombra una figura retórica",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-03",
       "theme": "general-es",
-      "text": "Nombra un personaje de la leyenda del rey Arturo y la Mesa Redonda"
+      "text": "Nombra un personaje de la leyenda del rey Arturo y la Mesa Redonda",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-04",
       "theme": "general-es",
-      "text": "Nombra una criatura fantástica del folclore o de la fantasía (excluida la mitología griega)"
+      "text": "Nombra una criatura fantástica del folclore o de la fantasía (excluida la mitología griega)",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-10",
       "theme": "general-es",
-      "text": "Nombra una fiesta religiosa (de cualquier religión)"
+      "text": "Nombra una fiesta religiosa (de cualquier religión)",
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-11",
       "theme": "general-es",
-      "text": "Nombra una orden o congregación religiosa"
+      "text": "Nombra una orden o congregación religiosa",
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-13",
       "theme": "general-es",
-      "text": "Nombra una corriente de pensamiento o doctrina filosófica terminada en «-ismo»"
+      "text": "Nombra una corriente de pensamiento o doctrina filosófica terminada en «-ismo»",
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-14",
       "theme": "general-es",
-      "text": "Nombra un héroe de leyenda o folclore (excepto mitología griega y leyenda artúrica)"
+      "text": "Nombra un héroe de leyenda o folclore (excepto mitología griega y leyenda artúrica)",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-15",
       "theme": "general-es",
-      "text": "Nombra un lugar santo o de peregrinación (de cualquier religión)"
+      "text": "Nombra un lugar santo o de peregrinación (de cualquier religión)",
+      "difficulty": "medium"
     },
     {
       "id": "art-peintre-flamand",
       "theme": "general-es",
-      "text": "Nombra un pintor neerlandés o flamenco"
+      "text": "Nombra un pintor neerlandés o flamenco",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-01",
       "theme": "general-es",
-      "text": "Nombra un pintor español (de cualquier época)"
+      "text": "Nombra un pintor español (de cualquier época)",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-02",
       "theme": "general-es",
-      "text": "Nombra un pintor alemán o austriaco (de cualquier época)"
+      "text": "Nombra un pintor alemán o austriaco (de cualquier época)",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-03",
       "theme": "general-es",
-      "text": "Nombra un pintor estadounidense (Estados Unidos)"
+      "text": "Nombra un pintor estadounidense (Estados Unidos)",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-04",
       "theme": "general-es",
-      "text": "Nombra un pintor británico"
+      "text": "Nombra un pintor británico",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-05",
       "theme": "general-es",
-      "text": "Nombra un pintor ruso o nacido en el Imperio ruso"
+      "text": "Nombra un pintor ruso o nacido en el Imperio ruso",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-06",
       "theme": "general-es",
-      "text": "Nombra un pintor o artista plástico italiano activo en el siglo XX"
+      "text": "Nombra un pintor o artista plástico italiano activo en el siglo XX",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-07",
       "theme": "general-es",
-      "text": "Nombra una técnica, procedimiento o medio de pintura, dibujo o grabado"
+      "text": "Nombra una técnica, procedimiento o medio de pintura, dibujo o grabado",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-08",
       "theme": "general-es",
-      "text": "Nombra una pintora"
+      "text": "Nombra una pintora",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-09",
       "theme": "general-es",
-      "text": "Nombra un pintor japonés o un maestro japonés del grabado ukiyo-e"
+      "text": "Nombra un pintor japonés o un maestro japonés del grabado ukiyo-e",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-11",
       "theme": "general-es",
-      "text": "Nombra un pintor o artista plástico asociado al movimiento surrealista"
+      "text": "Nombra un pintor o artista plástico asociado al movimiento surrealista",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-12",
       "theme": "general-es",
-      "text": "Nombra un cuadro de Vincent van Gogh"
+      "text": "Nombra un cuadro de Vincent van Gogh",
+      "difficulty": "easy"
     },
     {
       "id": "art-peinture-13",
       "theme": "general-es",
-      "text": "Nombra un pintor o artista plástico de América Latina"
+      "text": "Nombra un pintor o artista plástico de América Latina",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-14",
       "theme": "general-es",
-      "text": "Nombra un pintor nórdico (Dinamarca, Noruega, Suecia, Finlandia o Islandia)"
+      "text": "Nombra un pintor nórdico (Dinamarca, Noruega, Suecia, Finlandia o Islandia)",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-15",
       "theme": "general-es",
-      "text": "Nombra un pigmento o color de pigmento utilizado en la pintura"
+      "text": "Nombra un pigmento o color de pigmento utilizado en la pintura",
+      "difficulty": "medium"
     },
     {
       "id": "art-photographe",
       "theme": "general-es",
-      "text": "Nombra un fotógrafo famoso"
+      "text": "Nombra un fotógrafo famoso",
+      "difficulty": "medium"
     },
     {
       "id": "art-poete-anglophone",
       "theme": "general-es",
-      "text": "Nombra un poeta de lengua inglesa"
+      "text": "Nombra un poeta de lengua inglesa",
+      "difficulty": "medium"
     },
     {
       "id": "art-poete-xixe",
       "theme": "general-es",
-      "text": "Nombra un poeta del siglo XIX"
+      "text": "Nombra un poeta del siglo XIX",
+      "difficulty": "medium"
     },
     {
       "id": "art-prix-litteraire",
       "theme": "general-es",
-      "text": "Nombra un premio literario"
+      "text": "Nombra un premio literario",
+      "difficulty": "easy"
     },
     {
       "id": "art-renaissance-peintre",
       "theme": "general-es",
-      "text": "Nombra un pintor del Renacimiento"
+      "text": "Nombra un pintor del Renacimiento",
+      "difficulty": "hard"
     },
     {
       "id": "art-sculpteur",
       "theme": "general-es",
-      "text": "Nombra un escultor famoso"
+      "text": "Nombra un escultor famoso",
+      "difficulty": "medium"
     },
     {
       "id": "ent-acteur-uk",
       "theme": "general-es",
-      "text": "Nombra un actor o una actriz británicos"
+      "text": "Nombra un actor o una actriz británicos",
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-01",
       "theme": "general-es",
-      "text": "Nombra un personaje clásico de dibujos animados estadounidenses (Looney Tunes, Tom y Jerry, Hanna-Barbera, Scooby-Doo, etc.)"
+      "text": "Nombra un personaje clásico de dibujos animados estadounidenses (Looney Tunes, Tom y Jerry, Hanna-Barbera, Scooby-Doo, etc.)",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-02",
       "theme": "general-es",
-      "text": "Nombra un juguete o una marca de juguetes famosos"
+      "text": "Nombra un juguete o una marca de juguetes famosos",
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-03",
       "theme": "general-es",
-      "text": "Nombra un personaje del manga y anime One Piece"
+      "text": "Nombra un personaje del manga y anime One Piece",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-04",
       "theme": "general-es",
-      "text": "Nombra un personaje del manga y anime Naruto (incluidos Naruto Shippuden y Boruto)"
+      "text": "Nombra un personaje del manga y anime Naruto (incluidos Naruto Shippuden y Boruto)",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-05",
       "theme": "general-es",
-      "text": "Nombra un personaje de una serie de animación estadounidense para adultos (Padre de familia, South Park, Futurama, Rick y Morty, excepto Los Simpson)"
+      "text": "Nombra un personaje de una serie de animación estadounidense para adultos (Padre de familia, South Park, Futurama, Rick y Morty, excepto Los Simpson)",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-06",
       "theme": "general-es",
-      "text": "Nombra un autor o dibujante de cómic, historieta o manga"
+      "text": "Nombra un autor o dibujante de cómic, historieta o manga",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-07",
       "theme": "general-es",
-      "text": "Nombra un personaje de una película de animación de DreamWorks, Illumination o Blue Sky (Shrek, Madagascar, Kung Fu Panda, Gru: Mi villano favorito, Ice Age, etc.)"
+      "text": "Nombra un personaje de una película de animación de DreamWorks, Illumination o Blue Sky (Shrek, Madagascar, Kung Fu Panda, Gru: Mi villano favorito, Ice Age, etc.)",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-08",
       "theme": "general-es",
-      "text": "Nombra una serie de televisión para adolescentes (de cualquier nacionalidad)"
+      "text": "Nombra una serie de televisión para adolescentes (de cualquier nacionalidad)",
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-09",
       "theme": "general-es",
-      "text": "Nombra una película familiar o infantil de imagen real"
+      "text": "Nombra una película familiar o infantil de imagen real",
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-10",
       "theme": "general-es",
-      "text": "Nombra un personaje del manga y anime My Hero Academia"
+      "text": "Nombra un personaje del manga y anime My Hero Academia",
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-11",
       "theme": "general-es",
-      "text": "Nombra un personaje del manga y anime Ataque a los Titanes"
+      "text": "Nombra un personaje del manga y anime Ataque a los Titanes",
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-12",
       "theme": "general-es",
-      "text": "Nombra un actor o actriz que haya aparecido en al menos una película de la saga Harry Potter"
+      "text": "Nombra un actor o actriz que haya aparecido en al menos una película de la saga Harry Potter",
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-13",
       "theme": "general-es",
-      "text": "Nombra un personaje de Sailor Moon (manga y anime)"
+      "text": "Nombra un personaje de Sailor Moon (manga y anime)",
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-14",
       "theme": "general-es",
-      "text": "Nombra un personaje de la saga Crepúsculo (novelas y películas)"
+      "text": "Nombra un personaje de la saga Crepúsculo (novelas y películas)",
+      "difficulty": "medium"
     }
   ],
   "sheets": {

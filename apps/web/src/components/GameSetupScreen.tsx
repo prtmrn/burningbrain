@@ -6,7 +6,8 @@
 // ─────────────────────────────────────────────────────────────
 import { useState } from 'react';
 import { useT } from '../i18n';
-import { SETUP_OPTIONS, defaultSetup, type GameSetup } from '../config';
+import { SETUP_OPTIONS, DIFFICULTY_OPTIONS, defaultSetup, type GameSetup } from '../config';
+import { isDifficultyChoice } from '@hotbrain/engine';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
 
@@ -18,7 +19,9 @@ function lastSetup(mode: 'hot' | 'brain'): GameSetup {
     if (raw) {
       const j = JSON.parse(raw) as GameSetup;
       const o = SETUP_OPTIONS[mode];
-      if (o.rounds.includes(j.rounds) && o.roundSec.includes(j.roundSec)) return j;
+      if (o.rounds.includes(j.rounds) && o.roundSec.includes(j.roundSec)) {
+        return { ...j, difficulty: isDifficultyChoice(j.difficulty) ? j.difficulty : 'auto' };
+      }
     }
   } catch {
     /* stockage indisponible */
@@ -88,6 +91,24 @@ export function GameSetupScreen({
                 data-testid={`setup-time-${t}`}
               >
                 {tr('setup.seconds', { s: t })}
+              </button>
+            ))}
+          </div>
+        </section>
+        <section className="setup-group">
+          <h2>{tr('difficulty.label')}</h2>
+          <div className="choice-row" role="radiogroup" aria-label={tr('difficulty.label')}>
+            {DIFFICULTY_OPTIONS.map((d) => (
+              <button
+                key={d}
+                type="button"
+                role="radio"
+                aria-checked={setup.difficulty === d}
+                className={`choice${setup.difficulty === d ? ' on' : ''}`}
+                onClick={() => setSetup({ ...setup, difficulty: d })}
+                data-testid={`setup-difficulty-${d}`}
+              >
+                {tr(`difficulty.${d}`)}
               </button>
             ))}
           </div>

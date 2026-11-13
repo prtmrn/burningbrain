@@ -5,502 +5,602 @@
     {
       "id": "art-archi-01",
       "theme": "general-en",
-      "text": "Name a couturier or fashion designer (person)"
+      "text": "Name a couturier or fashion designer (person)",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-02",
       "theme": "general-en",
-      "text": "Name a fashion brand or fashion house"
+      "text": "Name a fashion brand or fashion house",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-03",
       "theme": "general-en",
-      "text": "Name an architectural style or movement"
+      "text": "Name an architectural style or movement",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-06",
       "theme": "general-en",
-      "text": "Name an architectural element of a building (part or structure)"
+      "text": "Name an architectural element of a building (part or structure)",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-07",
       "theme": "general-en",
-      "text": "Name a famous sculpture or sculpted monument (work)"
+      "text": "Name a famous sculpture or sculpted monument (work)",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-09",
       "theme": "general-en",
-      "text": "Name a building material"
+      "text": "Name a building material",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-10",
       "theme": "general-en",
-      "text": "Name a piece of furniture or a type of furniture"
+      "text": "Name a piece of furniture or a type of furniture",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-11",
       "theme": "general-en",
-      "text": "Name a type of hat or headwear"
+      "text": "Name a type of hat or headwear",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-12",
       "theme": "general-en",
-      "text": "Name a fabric or textile"
+      "text": "Name a fabric or textile",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-13",
       "theme": "general-en",
-      "text": "Name a type of shoe"
+      "text": "Name a type of shoe",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-14",
       "theme": "general-en",
-      "text": "Name a photography term or element (technique or equipment)"
+      "text": "Name a photography term or element (technique or equipment)",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-15",
       "theme": "general-en",
-      "text": "Name a type of building or edifice"
+      "text": "Name a type of building or edifice",
+      "difficulty": "hard"
     },
     {
       "id": "art-architecte",
       "theme": "general-en",
-      "text": "Name a famous architect"
+      "text": "Name a famous architect",
+      "difficulty": "medium"
     },
     {
       "id": "art-auteur-sf",
       "theme": "general-en",
-      "text": "Name a science fiction author"
+      "text": "Name a science fiction author",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-01",
       "theme": "general-en",
-      "text": "Name a German or Austrian classical composer"
+      "text": "Name a German or Austrian classical composer",
+      "difficulty": "easy"
     },
     {
       "id": "art-classique-02",
       "theme": "general-en",
-      "text": "Name a classical Italian composer"
+      "text": "Name a classical Italian composer",
+      "difficulty": "easy"
     },
     {
       "id": "art-classique-03",
       "theme": "general-en",
-      "text": "Name a classical composer from Russia or Eastern Europe (Poland, Czechia, Hungary, Romania, the Baltic states, Ukraine, the Caucasus...)"
+      "text": "Name a classical composer from Russia or Eastern Europe (Poland, Czechia, Hungary, Romania, the Baltic states, Ukraine, the Caucasus...)",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-04",
       "theme": "general-en",
-      "text": "Name a classical composer from Britain, Ireland or the United States"
+      "text": "Name a classical composer from Britain, Ireland or the United States",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-05",
       "theme": "general-en",
-      "text": "Name a classical composer from Spain, Portugal, Latin America or the Nordic countries"
+      "text": "Name a classical composer from Spain, Portugal, Latin America or the Nordic countries",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-06",
       "theme": "general-en",
-      "text": "Name an opera character"
+      "text": "Name an opera character",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-07",
       "theme": "general-en",
-      "text": "Name a ballet"
+      "text": "Name a ballet",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-09",
       "theme": "general-en",
-      "text": "Name a playwright (author of stage plays), from any era and any country"
+      "text": "Name a playwright (author of stage plays), from any era and any country",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-10",
       "theme": "general-en",
-      "text": "Name a non-French European film director (auteur or classic cinema)"
+      "text": "Name a non-French European film director (auteur or classic cinema)",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-11",
       "theme": "general-en",
-      "text": "Name an Asian film director (Japan, China, Korea, India, Iran, Southeast Asia, Middle East...)"
+      "text": "Name an Asian film director (Japan, China, Korea, India, Iran, Southeast Asia, Middle East...)",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-12",
       "theme": "general-en",
-      "text": "Name an Alfred Hitchcock film"
+      "text": "Name an Alfred Hitchcock film",
+      "difficulty": "easy"
     },
     {
       "id": "art-classique-13",
       "theme": "general-en",
-      "text": "Name an Italian musical term (tempo, dynamic, performance direction)"
+      "text": "Name an Italian musical term (tempo, dynamic, performance direction)",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-14",
       "theme": "general-en",
-      "text": "Name a film composer"
+      "text": "Name a film composer",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-15",
       "theme": "general-en",
-      "text": "Name a form or genre of classical music (symphony, sonata, fugue...)"
+      "text": "Name a form or genre of classical music (symphony, sonata, fugue...)",
+      "difficulty": "hard"
     },
     {
       "id": "art-dramaturge",
       "theme": "general-en",
-      "text": "Name a playwright"
+      "text": "Name a playwright",
+      "difficulty": "hard"
     },
     {
       "id": "art-ecrivain-uk",
       "theme": "general-en",
-      "text": "Name a British writer"
+      "text": "Name a British writer",
+      "difficulty": "hard"
     },
     {
       "id": "art-ecrivain-us",
       "theme": "general-en",
-      "text": "Name an American writer"
+      "text": "Name an American writer",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-01",
       "theme": "general-en",
-      "text": "Name a Russian writer or poet"
+      "text": "Name a Russian writer or poet",
+      "difficulty": "easy"
     },
     {
       "id": "art-littetr-02",
       "theme": "general-en",
-      "text": "Name a German-language writer or poet (Germany, Austria, German-speaking Switzerland)"
+      "text": "Name a German-language writer or poet (Germany, Austria, German-speaking Switzerland)",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-03",
       "theme": "general-en",
-      "text": "Name an Italian writer or poet"
+      "text": "Name an Italian writer or poet",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-04",
       "theme": "general-en",
-      "text": "Name a writer or poet from Spain"
+      "text": "Name a writer or poet from Spain",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-05",
       "theme": "general-en",
-      "text": "Name a writer or poet from Latin America (Brazil included)"
+      "text": "Name a writer or poet from Latin America (Brazil included)",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-06",
       "theme": "general-en",
-      "text": "Name a Nobel Prize in Literature laureate"
+      "text": "Name a Nobel Prize in Literature laureate",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-07",
       "theme": "general-en",
-      "text": "Name a character from a British, Irish or American novel"
+      "text": "Name a character from a British, Irish or American novel",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-08",
       "theme": "general-en",
-      "text": "Name a character from a play by William Shakespeare"
+      "text": "Name a character from a play by William Shakespeare",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-09",
       "theme": "general-en",
-      "text": "Name a British or Irish novel"
+      "text": "Name a British or Irish novel",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-10",
       "theme": "general-en",
-      "text": "Name an American novel"
+      "text": "Name an American novel",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-11",
       "theme": "general-en",
-      "text": "Name a foreign (non-French) woman writer or poet"
+      "text": "Name a foreign (non-French) woman writer or poet",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-12",
       "theme": "general-en",
-      "text": "Name a foreign poet who writes in neither French nor English"
+      "text": "Name a foreign poet who writes in neither French nor English",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-13",
       "theme": "general-en",
-      "text": "Name a writer from a Nordic country (Denmark, Norway, Sweden, Finland or Iceland)"
+      "text": "Name a writer from a Nordic country (Denmark, Norway, Sweden, Finland or Iceland)",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-14",
       "theme": "general-en",
-      "text": "Name a novel by a Spanish or Latin American writer"
+      "text": "Name a novel by a Spanish or Latin American writer",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-15",
       "theme": "general-en",
-      "text": "Name a foreign (non-French) children's literature character"
+      "text": "Name a foreign (non-French) children's literature character",
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-01",
       "theme": "general-en",
-      "text": "Name a fable by Jean de La Fontaine"
+      "text": "Name a fable by Jean de La Fontaine",
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-04",
       "theme": "general-en",
-      "text": "Name a work from Balzac's La Comédie humaine"
+      "text": "Name a work from Balzac's La Comédie humaine",
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-05",
       "theme": "general-en",
-      "text": "Name a character from Balzac's La Comédie humaine"
+      "text": "Name a character from Balzac's La Comédie humaine",
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-06",
       "theme": "general-en",
-      "text": "Name a character from Émile Zola's Rougon-Macquart"
+      "text": "Name a character from Émile Zola's Rougon-Macquart",
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-07",
       "theme": "general-en",
-      "text": "Name a character from a Victor Hugo novel"
+      "text": "Name a character from a Victor Hugo novel",
+      "difficulty": "easy"
     },
     {
       "id": "art-littfr-08",
       "theme": "general-en",
-      "text": "Name a character from an Alexandre Dumas père novel"
+      "text": "Name a character from an Alexandre Dumas père novel",
+      "difficulty": "easy"
     },
     {
       "id": "art-littfr-12",
       "theme": "general-en",
-      "text": "Name a French-language writer from sub-Saharan Africa or Madagascar"
+      "text": "Name a French-language writer from sub-Saharan Africa or Madagascar",
+      "difficulty": "easy"
     },
     {
       "id": "art-livre-enfants",
       "theme": "general-en",
-      "text": "Name a children's book or book series"
+      "text": "Name a children's book or book series",
+      "difficulty": "easy"
     },
     {
       "id": "art-mouvement",
       "theme": "general-en",
-      "text": "Name an art movement"
+      "text": "Name an art movement",
+      "difficulty": "easy"
     },
     {
       "id": "art-musee",
       "theme": "general-en",
-      "text": "Name a famous museum in the world"
+      "text": "Name a famous museum in the world",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-01",
       "theme": "general-en",
-      "text": "Name a figure of speech (rhetoric)"
+      "text": "Name a figure of speech (rhetoric)",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-03",
       "theme": "general-en",
-      "text": "Name a character from the legend of King Arthur and the Round Table"
+      "text": "Name a character from the legend of King Arthur and the Round Table",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-04",
       "theme": "general-en",
-      "text": "Name a fantasy creature from folklore or fantasy (excluding Greek mythology)"
+      "text": "Name a fantasy creature from folklore or fantasy (excluding Greek mythology)",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-10",
       "theme": "general-en",
-      "text": "Name a religious holiday (any religion)"
+      "text": "Name a religious holiday (any religion)",
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-11",
       "theme": "general-en",
-      "text": "Name a religious order or congregation"
+      "text": "Name a religious order or congregation",
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-13",
       "theme": "general-en",
-      "text": "Name a school of thought or philosophical doctrine ending in \"-ism\""
+      "text": "Name a school of thought or philosophical doctrine ending in \"-ism\"",
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-14",
       "theme": "general-en",
-      "text": "Name a legendary or folkloric hero (excluding Greek mythology and Arthurian legend)"
+      "text": "Name a legendary or folkloric hero (excluding Greek mythology and Arthurian legend)",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-15",
       "theme": "general-en",
-      "text": "Name a holy place or pilgrimage site (any religion)"
+      "text": "Name a holy place or pilgrimage site (any religion)",
+      "difficulty": "medium"
     },
     {
       "id": "art-peintre-flamand",
       "theme": "general-en",
-      "text": "Name a Dutch or Flemish painter"
+      "text": "Name a Dutch or Flemish painter",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-01",
       "theme": "general-en",
-      "text": "Name a Spanish painter (any era)"
+      "text": "Name a Spanish painter (any era)",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-02",
       "theme": "general-en",
-      "text": "Name a German or Austrian painter (any era)"
+      "text": "Name a German or Austrian painter (any era)",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-03",
       "theme": "general-en",
-      "text": "Name an American painter (United States)"
+      "text": "Name an American painter (United States)",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-04",
       "theme": "general-en",
-      "text": "Name a British painter"
+      "text": "Name a British painter",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-05",
       "theme": "general-en",
-      "text": "Name a Russian painter or one born in the Russian Empire"
+      "text": "Name a Russian painter or one born in the Russian Empire",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-06",
       "theme": "general-en",
-      "text": "Name an Italian painter or visual artist active in the 20th century"
+      "text": "Name an Italian painter or visual artist active in the 20th century",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-07",
       "theme": "general-en",
-      "text": "Name a painting, drawing or printmaking technique, process or medium"
+      "text": "Name a painting, drawing or printmaking technique, process or medium",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-08",
       "theme": "general-en",
-      "text": "Name a woman painter"
+      "text": "Name a woman painter",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-09",
       "theme": "general-en",
-      "text": "Name a Japanese painter or a Japanese master of woodblock printing"
+      "text": "Name a Japanese painter or a Japanese master of woodblock printing",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-11",
       "theme": "general-en",
-      "text": "Name a painter or visual artist associated with the Surrealist movement"
+      "text": "Name a painter or visual artist associated with the Surrealist movement",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-12",
       "theme": "general-en",
-      "text": "Name a Van Gogh painting"
+      "text": "Name a Van Gogh painting",
+      "difficulty": "easy"
     },
     {
       "id": "art-peinture-13",
       "theme": "general-en",
-      "text": "Name a Latin American painter or visual artist"
+      "text": "Name a Latin American painter or visual artist",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-14",
       "theme": "general-en",
-      "text": "Name a Nordic painter (Denmark, Norway, Sweden, Finland or Iceland)"
+      "text": "Name a Nordic painter (Denmark, Norway, Sweden, Finland or Iceland)",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-15",
       "theme": "general-en",
-      "text": "Name a pigment or pigment color used in painting"
+      "text": "Name a pigment or pigment color used in painting",
+      "difficulty": "medium"
     },
     {
       "id": "art-photographe",
       "theme": "general-en",
-      "text": "Name a famous photographer"
+      "text": "Name a famous photographer",
+      "difficulty": "medium"
     },
     {
       "id": "art-poete-anglophone",
       "theme": "general-en",
-      "text": "Name an English-language poet"
+      "text": "Name an English-language poet",
+      "difficulty": "medium"
     },
     {
       "id": "art-poete-xixe",
       "theme": "general-en",
-      "text": "Name a 19th-century poet"
+      "text": "Name a 19th-century poet",
+      "difficulty": "medium"
     },
     {
       "id": "art-prix-litteraire",
       "theme": "general-en",
-      "text": "Name a literary prize"
+      "text": "Name a literary prize",
+      "difficulty": "easy"
     },
     {
       "id": "art-renaissance-peintre",
       "theme": "general-en",
-      "text": "Name a Renaissance painter"
+      "text": "Name a Renaissance painter",
+      "difficulty": "hard"
     },
     {
       "id": "art-sculpteur",
       "theme": "general-en",
-      "text": "Name a famous sculptor"
+      "text": "Name a famous sculptor",
+      "difficulty": "medium"
     },
     {
       "id": "ent-acteur-uk",
       "theme": "general-en",
-      "text": "Name a British actor or actress"
+      "text": "Name a British actor or actress",
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-01",
       "theme": "general-en",
-      "text": "Name a classic American cartoon character (Looney Tunes, Tom and Jerry, Hanna-Barbera, Scooby-Doo, etc.)"
+      "text": "Name a classic American cartoon character (Looney Tunes, Tom and Jerry, Hanna-Barbera, Scooby-Doo, etc.)",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-02",
       "theme": "general-en",
-      "text": "Name a famous toy or toy brand"
+      "text": "Name a famous toy or toy brand",
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-03",
       "theme": "general-en",
-      "text": "Name a character from the manga and anime One Piece"
+      "text": "Name a character from the manga and anime One Piece",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-04",
       "theme": "general-en",
-      "text": "Name a character from the manga and anime Naruto (including Naruto Shippuden and Boruto)"
+      "text": "Name a character from the manga and anime Naruto (including Naruto Shippuden and Boruto)",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-05",
       "theme": "general-en",
-      "text": "Name a character from an American adult animated series (Family Guy, South Park, Futurama, Rick and Morty, excluding The Simpsons)"
+      "text": "Name a character from an American adult animated series (Family Guy, South Park, Futurama, Rick and Morty, excluding The Simpsons)",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-06",
       "theme": "general-en",
-      "text": "Name a comic book, comic strip or manga author or artist"
+      "text": "Name a comic book, comic strip or manga author or artist",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-07",
       "theme": "general-en",
-      "text": "Name a character from a DreamWorks, Illumination or Blue Sky animated film (Shrek, Madagascar, Kung Fu Panda, Despicable Me, Ice Age, etc.)"
+      "text": "Name a character from a DreamWorks, Illumination or Blue Sky animated film (Shrek, Madagascar, Kung Fu Panda, Despicable Me, Ice Age, etc.)",
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-08",
       "theme": "general-en",
-      "text": "Name a TV series for teenagers (any nationality)"
+      "text": "Name a TV series for teenagers (any nationality)",
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-09",
       "theme": "general-en",
-      "text": "Name a live-action family or children's film"
+      "text": "Name a live-action family or children's film",
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-10",
       "theme": "general-en",
-      "text": "Name a character from the manga and anime My Hero Academia"
+      "text": "Name a character from the manga and anime My Hero Academia",
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-11",
       "theme": "general-en",
-      "text": "Name a character from the manga and anime Attack on Titan"
+      "text": "Name a character from the manga and anime Attack on Titan",
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-12",
       "theme": "general-en",
-      "text": "Name an actor or actress who appeared in at least one Harry Potter film"
+      "text": "Name an actor or actress who appeared in at least one Harry Potter film",
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-13",
       "theme": "general-en",
-      "text": "Name a character from Sailor Moon (manga and anime)"
+      "text": "Name a character from Sailor Moon (manga and anime)",
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-14",
       "theme": "general-en",
-      "text": "Name a character from the Twilight saga (novels and films)"
+      "text": "Name a character from the Twilight saga (novels and films)",
+      "difficulty": "medium"
     }
   ],
   "sheets": {

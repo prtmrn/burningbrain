@@ -17,6 +17,7 @@ export * from './domain/scoring';
 export * from './domain/percentile';
 export * from './domain/streak';
 export * from './domain/selection';
+export * from './domain/difficulty';
 export * from './domain/recompute';
 export * from './domain/reducer';
 

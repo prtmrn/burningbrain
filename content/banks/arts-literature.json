@@ -5,527 +5,632 @@
     {
       "id": "art-poete-xixe",
       "theme": "arts-literature",
-      "text": "Nomme un poète du XIXe siècle"
+      "text": "Nomme un poète du XIXe siècle",
+      "difficulty": "medium"
     },
     {
       "id": "art-ecrivain-uk",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain britannique"
+      "text": "Nomme un écrivain britannique",
+      "difficulty": "hard"
     },
     {
       "id": "art-ecrivain-us",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain américain"
+      "text": "Nomme un écrivain américain",
+      "difficulty": "hard"
     },
     {
       "id": "art-auteur-sf",
       "theme": "arts-literature",
-      "text": "Nomme un auteur de science-fiction"
+      "text": "Nomme un auteur de science-fiction",
+      "difficulty": "medium"
     },
     {
       "id": "art-renaissance-peintre",
       "theme": "arts-literature",
-      "text": "Nomme un peintre de la Renaissance"
+      "text": "Nomme un peintre de la Renaissance",
+      "difficulty": "hard"
     },
     {
       "id": "art-sculpteur",
       "theme": "arts-literature",
-      "text": "Nomme un sculpteur célèbre"
+      "text": "Nomme un sculpteur célèbre",
+      "difficulty": "medium"
     },
     {
       "id": "art-photographe",
       "theme": "arts-literature",
-      "text": "Nomme un photographe célèbre"
+      "text": "Nomme un photographe célèbre",
+      "difficulty": "medium"
     },
     {
       "id": "art-architecte",
       "theme": "arts-literature",
-      "text": "Nomme un architecte célèbre"
+      "text": "Nomme un architecte célèbre",
+      "difficulty": "medium"
     },
     {
       "id": "art-mouvement",
       "theme": "arts-literature",
-      "text": "Nomme un mouvement artistique"
+      "text": "Nomme un mouvement artistique",
+      "difficulty": "easy"
     },
     {
       "id": "art-dramaturge",
       "theme": "arts-literature",
-      "text": "Nomme un dramaturge"
+      "text": "Nomme un dramaturge",
+      "difficulty": "hard"
     },
     {
       "id": "art-livre-enfants",
       "theme": "arts-literature",
-      "text": "Nomme un livre ou une série de livres pour enfants"
+      "text": "Nomme un livre ou une série de livres pour enfants",
+      "difficulty": "easy"
     },
     {
       "id": "art-prix-litteraire",
       "theme": "arts-literature",
-      "text": "Nomme un prix littéraire"
+      "text": "Nomme un prix littéraire",
+      "difficulty": "easy"
     },
     {
       "id": "art-poete-anglophone",
       "theme": "arts-literature",
-      "text": "Nomme un poète de langue anglaise"
+      "text": "Nomme un poète de langue anglaise",
+      "difficulty": "medium"
     },
     {
       "id": "art-musee",
       "theme": "arts-literature",
-      "text": "Nomme un musée célèbre dans le monde"
+      "text": "Nomme un musée célèbre dans le monde",
+      "difficulty": "easy"
     },
     {
       "id": "art-peintre-flamand",
       "theme": "arts-literature",
-      "text": "Nomme un peintre néerlandais ou flamand"
+      "text": "Nomme un peintre néerlandais ou flamand",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-01",
       "theme": "arts-literature",
-      "text": "Nomme un couturier ou un créateur de mode (personne)"
+      "text": "Nomme un couturier ou un créateur de mode (personne)",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-02",
       "theme": "arts-literature",
-      "text": "Nomme une marque ou une maison de mode"
+      "text": "Nomme une marque ou une maison de mode",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-03",
       "theme": "arts-literature",
-      "text": "Nomme un style ou un courant d'architecture"
+      "text": "Nomme un style ou un courant d'architecture",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-04",
       "theme": "arts-literature",
-      "text": "Nomme un monument ou un édifice célèbre de Paris"
+      "text": "Nomme un monument ou un édifice célèbre de Paris",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-05",
       "theme": "arts-literature",
-      "text": "Nomme une cathédrale de France"
+      "text": "Nomme une cathédrale de France",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-06",
       "theme": "arts-literature",
-      "text": "Nomme un élément d'architecture d'un bâtiment (partie ou structure)"
+      "text": "Nomme un élément d'architecture d'un bâtiment (partie ou structure)",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-07",
       "theme": "arts-literature",
-      "text": "Nomme une sculpture ou un monument sculpté célèbre (œuvre)"
+      "text": "Nomme une sculpture ou un monument sculpté célèbre (œuvre)",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-08",
       "theme": "arts-literature",
-      "text": "Nomme un château de France"
+      "text": "Nomme un château de France",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-09",
       "theme": "arts-literature",
-      "text": "Nomme un matériau de construction"
+      "text": "Nomme un matériau de construction",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-10",
       "theme": "arts-literature",
-      "text": "Nomme un meuble ou un type de meuble"
+      "text": "Nomme un meuble ou un type de meuble",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-11",
       "theme": "arts-literature",
-      "text": "Nomme un type de chapeau ou de couvre-chef"
+      "text": "Nomme un type de chapeau ou de couvre-chef",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-12",
       "theme": "arts-literature",
-      "text": "Nomme un tissu ou une étoffe"
+      "text": "Nomme un tissu ou une étoffe",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-13",
       "theme": "arts-literature",
-      "text": "Nomme un type de chaussure"
+      "text": "Nomme un type de chaussure",
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-14",
       "theme": "arts-literature",
-      "text": "Nomme un terme ou un élément de photographie (technique ou matériel)"
+      "text": "Nomme un terme ou un élément de photographie (technique ou matériel)",
+      "difficulty": "hard"
     },
     {
       "id": "art-archi-15",
       "theme": "arts-literature",
-      "text": "Nomme un type de bâtiment ou d'édifice"
+      "text": "Nomme un type de bâtiment ou d'édifice",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-01",
       "theme": "arts-literature",
-      "text": "Nomme un compositeur classique allemand ou autrichien"
+      "text": "Nomme un compositeur classique allemand ou autrichien",
+      "difficulty": "easy"
     },
     {
       "id": "art-classique-02",
       "theme": "arts-literature",
-      "text": "Nomme un compositeur classique italien"
+      "text": "Nomme un compositeur classique italien",
+      "difficulty": "easy"
     },
     {
       "id": "art-classique-03",
       "theme": "arts-literature",
-      "text": "Nomme un compositeur classique russe ou d'Europe de l'Est (Pologne, Tchéquie, Hongrie, Roumanie, pays baltes, Ukraine, Caucase...)"
+      "text": "Nomme un compositeur classique russe ou d'Europe de l'Est (Pologne, Tchéquie, Hongrie, Roumanie, pays baltes, Ukraine, Caucase...)",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-04",
       "theme": "arts-literature",
-      "text": "Nomme un compositeur classique britannique, irlandais ou américain"
+      "text": "Nomme un compositeur classique britannique, irlandais ou américain",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-05",
       "theme": "arts-literature",
-      "text": "Nomme un compositeur classique espagnol, portugais, latino-américain ou nordique"
+      "text": "Nomme un compositeur classique espagnol, portugais, latino-américain ou nordique",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-06",
       "theme": "arts-literature",
-      "text": "Nomme un personnage d'opéra"
+      "text": "Nomme un personnage d'opéra",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-07",
       "theme": "arts-literature",
-      "text": "Nomme un ballet"
+      "text": "Nomme un ballet",
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-08",
       "theme": "arts-literature",
-      "text": "Nomme une pièce de théâtre en langue française"
+      "text": "Nomme une pièce de théâtre en langue française",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-09",
       "theme": "arts-literature",
-      "text": "Nomme un dramaturge (auteur de pièces de théâtre), de toute époque et de tout pays"
+      "text": "Nomme un dramaturge (auteur de pièces de théâtre), de toute époque et de tout pays",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-10",
       "theme": "arts-literature",
-      "text": "Nomme un réalisateur européen non français (cinéma d'auteur ou classique)"
+      "text": "Nomme un réalisateur européen non français (cinéma d'auteur ou classique)",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-11",
       "theme": "arts-literature",
-      "text": "Nomme un réalisateur asiatique (Japon, Chine, Corée, Inde, Iran, Asie du Sud-Est, Proche-Orient...)"
+      "text": "Nomme un réalisateur asiatique (Japon, Chine, Corée, Inde, Iran, Asie du Sud-Est, Proche-Orient...)",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-12",
       "theme": "arts-literature",
-      "text": "Nomme un film d'Alfred Hitchcock"
+      "text": "Nomme un film d'Alfred Hitchcock",
+      "difficulty": "easy"
     },
     {
       "id": "art-classique-13",
       "theme": "arts-literature",
-      "text": "Nomme un terme musical italien (tempo, nuance, indication d'exécution)"
+      "text": "Nomme un terme musical italien (tempo, nuance, indication d'exécution)",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-14",
       "theme": "arts-literature",
-      "text": "Nomme un compositeur de musique de film"
+      "text": "Nomme un compositeur de musique de film",
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-15",
       "theme": "arts-literature",
-      "text": "Nomme une forme ou un genre de musique classique (symphonie, sonate, fugue...)"
+      "text": "Nomme une forme ou un genre de musique classique (symphonie, sonate, fugue...)",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-01",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain ou un poète russe"
+      "text": "Nomme un écrivain ou un poète russe",
+      "difficulty": "easy"
     },
     {
       "id": "art-littetr-02",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain ou un poète de langue allemande (Allemagne, Autriche, Suisse alémanique)"
+      "text": "Nomme un écrivain ou un poète de langue allemande (Allemagne, Autriche, Suisse alémanique)",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-03",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain ou un poète italien"
+      "text": "Nomme un écrivain ou un poète italien",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-04",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain ou un poète d'Espagne"
+      "text": "Nomme un écrivain ou un poète d'Espagne",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-05",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain ou un poète d'Amérique latine (Brésil compris)"
+      "text": "Nomme un écrivain ou un poète d'Amérique latine (Brésil compris)",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-06",
       "theme": "arts-literature",
-      "text": "Nomme un lauréat du prix Nobel de littérature"
+      "text": "Nomme un lauréat du prix Nobel de littérature",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-07",
       "theme": "arts-literature",
-      "text": "Nomme un personnage de roman britannique, irlandais ou américain"
+      "text": "Nomme un personnage de roman britannique, irlandais ou américain",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-08",
       "theme": "arts-literature",
-      "text": "Nomme un personnage de pièce de William Shakespeare"
+      "text": "Nomme un personnage de pièce de William Shakespeare",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-09",
       "theme": "arts-literature",
-      "text": "Nomme un roman britannique ou irlandais"
+      "text": "Nomme un roman britannique ou irlandais",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-10",
       "theme": "arts-literature",
-      "text": "Nomme un roman américain"
+      "text": "Nomme un roman américain",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-11",
       "theme": "arts-literature",
-      "text": "Nomme une femme écrivain ou poétesse étrangère (non française)"
+      "text": "Nomme une femme écrivain ou poétesse étrangère (non française)",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-12",
       "theme": "arts-literature",
-      "text": "Nomme un poète étranger qui n'écrit ni en français ni en anglais"
+      "text": "Nomme un poète étranger qui n'écrit ni en français ni en anglais",
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-13",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain d'un pays nordique (Danemark, Norvège, Suède, Finlande ou Islande)"
+      "text": "Nomme un écrivain d'un pays nordique (Danemark, Norvège, Suède, Finlande ou Islande)",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-14",
       "theme": "arts-literature",
-      "text": "Nomme un roman d'un écrivain espagnol ou latino-américain"
+      "text": "Nomme un roman d'un écrivain espagnol ou latino-américain",
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-15",
       "theme": "arts-literature",
-      "text": "Nomme un personnage de la littérature de jeunesse étrangère (non française)"
+      "text": "Nomme un personnage de la littérature de jeunesse étrangère (non française)",
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-01",
       "theme": "arts-literature",
-      "text": "Nomme une fable de Jean de La Fontaine"
+      "text": "Nomme une fable de Jean de La Fontaine",
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-02",
       "theme": "arts-literature",
-      "text": "Nomme une pièce de théâtre de Molière, de Racine ou de Pierre Corneille"
+      "text": "Nomme une pièce de théâtre de Molière, de Racine ou de Pierre Corneille",
+      "difficulty": "easy"
     },
     {
       "id": "art-littfr-03",
       "theme": "arts-literature",
-      "text": "Nomme un personnage d'une pièce de Molière"
+      "text": "Nomme un personnage d'une pièce de Molière",
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-04",
       "theme": "arts-literature",
-      "text": "Nomme une œuvre de La Comédie humaine de Balzac"
+      "text": "Nomme une œuvre de La Comédie humaine de Balzac",
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-05",
       "theme": "arts-literature",
-      "text": "Nomme un personnage de La Comédie humaine de Balzac"
+      "text": "Nomme un personnage de La Comédie humaine de Balzac",
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-06",
       "theme": "arts-literature",
-      "text": "Nomme un personnage des Rougon-Macquart d'Émile Zola"
+      "text": "Nomme un personnage des Rougon-Macquart d'Émile Zola",
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-07",
       "theme": "arts-literature",
-      "text": "Nomme un personnage d'un roman de Victor Hugo"
+      "text": "Nomme un personnage d'un roman de Victor Hugo",
+      "difficulty": "easy"
     },
     {
       "id": "art-littfr-08",
       "theme": "arts-literature",
-      "text": "Nomme un personnage d'un roman d'Alexandre Dumas père"
+      "text": "Nomme un personnage d'un roman d'Alexandre Dumas père",
+      "difficulty": "easy"
     },
     {
       "id": "art-littfr-09",
       "theme": "arts-literature",
-      "text": "Nomme un roman d'un écrivain français publié pour la première fois au XIXe siècle"
+      "text": "Nomme un roman d'un écrivain français publié pour la première fois au XIXe siècle",
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-10",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain belge de langue française"
+      "text": "Nomme un écrivain belge de langue française",
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-11",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain québécois de langue française"
+      "text": "Nomme un écrivain québécois de langue française",
+      "difficulty": "easy"
     },
     {
       "id": "art-littfr-12",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain francophone originaire d'Afrique subsaharienne ou de Madagascar"
+      "text": "Nomme un écrivain francophone originaire d'Afrique subsaharienne ou de Madagascar",
+      "difficulty": "easy"
     },
     {
       "id": "art-littfr-13",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain de langue française né en Algérie, au Maroc ou en Tunisie"
+      "text": "Nomme un écrivain de langue française né en Algérie, au Maroc ou en Tunisie",
+      "difficulty": "easy"
     },
     {
       "id": "art-littfr-14",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain ayant été élu à l'Académie française"
+      "text": "Nomme un écrivain ayant été élu à l'Académie française",
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-15",
       "theme": "arts-literature",
-      "text": "Nomme un écrivain de langue française né aux Antilles, en Guyane ou en Haïti"
+      "text": "Nomme un écrivain de langue française né aux Antilles, en Guyane ou en Haïti",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-01",
       "theme": "arts-literature",
-      "text": "Nomme une figure de style (rhétorique)"
+      "text": "Nomme une figure de style (rhétorique)",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-02",
       "theme": "arts-literature",
-      "text": "Nomme une onomatopée française"
+      "text": "Nomme une onomatopée française",
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-03",
       "theme": "arts-literature",
-      "text": "Nomme un personnage de la légende du roi Arthur et de la Table ronde"
+      "text": "Nomme un personnage de la légende du roi Arthur et de la Table ronde",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-04",
       "theme": "arts-literature",
-      "text": "Nomme une créature fantastique du folklore ou de la fantasy (hors mythologie grecque)"
+      "text": "Nomme une créature fantastique du folklore ou de la fantasy (hors mythologie grecque)",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-05",
       "theme": "arts-literature",
-      "text": "Nomme un animal cité dans une expression française courante"
+      "text": "Nomme un animal cité dans une expression française courante",
+      "difficulty": "hard"
     },
     {
       "id": "art-mythes-06",
       "theme": "arts-literature",
-      "text": "Nomme une locution latine employée en français"
+      "text": "Nomme une locution latine employée en français",
+      "difficulty": "hard"
     },
     {
       "id": "art-mythes-07",
       "theme": "arts-literature",
-      "text": "Nomme un mot français d'origine arabe"
+      "text": "Nomme un mot français d'origine arabe",
+      "difficulty": "hard"
     },
     {
       "id": "art-mythes-08",
       "theme": "arts-literature",
-      "text": "Nomme un mot français d'origine italienne"
+      "text": "Nomme un mot français d'origine italienne",
+      "difficulty": "hard"
     },
     {
       "id": "art-mythes-09",
       "theme": "arts-literature",
-      "text": "Nomme un mot français d'origine anglaise"
+      "text": "Nomme un mot français d'origine anglaise",
+      "difficulty": "hard"
     },
     {
       "id": "art-mythes-10",
       "theme": "arts-literature",
-      "text": "Nomme une fête religieuse (toutes religions)"
+      "text": "Nomme une fête religieuse (toutes religions)",
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-11",
       "theme": "arts-literature",
-      "text": "Nomme un ordre ou une congrégation religieuse"
+      "text": "Nomme un ordre ou une congrégation religieuse",
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-12",
       "theme": "arts-literature",
-      "text": "Nomme un terme de grammaire française"
+      "text": "Nomme un terme de grammaire française",
+      "difficulty": "hard"
     },
     {
       "id": "art-mythes-13",
       "theme": "arts-literature",
-      "text": "Nomme un courant de pensée ou une doctrine philosophique en « -isme »"
+      "text": "Nomme un courant de pensée ou une doctrine philosophique en « -isme »",
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-14",
       "theme": "arts-literature",
-      "text": "Nomme un héros de légende ou de folklore (hors mythologie grecque et légende arthurienne)"
+      "text": "Nomme un héros de légende ou de folklore (hors mythologie grecque et légende arthurienne)",
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-15",
       "theme": "arts-literature",
-      "text": "Nomme un lieu saint ou un lieu de pèlerinage (toutes religions)"
+      "text": "Nomme un lieu saint ou un lieu de pèlerinage (toutes religions)",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-01",
       "theme": "arts-literature",
-      "text": "Nomme un peintre espagnol (toutes époques)"
+      "text": "Nomme un peintre espagnol (toutes époques)",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-02",
       "theme": "arts-literature",
-      "text": "Nomme un peintre allemand ou autrichien (toutes époques)"
+      "text": "Nomme un peintre allemand ou autrichien (toutes époques)",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-03",
       "theme": "arts-literature",
-      "text": "Nomme un peintre américain (États-Unis)"
+      "text": "Nomme un peintre américain (États-Unis)",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-04",
       "theme": "arts-literature",
-      "text": "Nomme un peintre britannique"
+      "text": "Nomme un peintre britannique",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-05",
       "theme": "arts-literature",
-      "text": "Nomme un peintre russe ou né dans l'Empire russe"
+      "text": "Nomme un peintre russe ou né dans l'Empire russe",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-06",
       "theme": "arts-literature",
-      "text": "Nomme un peintre ou plasticien italien actif au XXe siècle"
+      "text": "Nomme un peintre ou plasticien italien actif au XXe siècle",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-07",
       "theme": "arts-literature",
-      "text": "Nomme une technique, un procédé ou un médium de peinture, de dessin ou de gravure"
+      "text": "Nomme une technique, un procédé ou un médium de peinture, de dessin ou de gravure",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-08",
       "theme": "arts-literature",
-      "text": "Nomme une femme peintre"
+      "text": "Nomme une femme peintre",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-09",
       "theme": "arts-literature",
-      "text": "Nomme un peintre japonais ou un maître japonais de l'estampe"
+      "text": "Nomme un peintre japonais ou un maître japonais de l'estampe",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-10",
       "theme": "arts-literature",
-      "text": "Nomme un peintre français actif au XVIIe ou au XVIIIe siècle"
+      "text": "Nomme un peintre français actif au XVIIe ou au XVIIIe siècle",
+      "difficulty": "easy"
     },
     {
       "id": "art-peinture-11",
       "theme": "arts-literature",
-      "text": "Nomme un peintre ou plasticien associé au mouvement surréaliste"
+      "text": "Nomme un peintre ou plasticien associé au mouvement surréaliste",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-12",
       "theme": "arts-literature",
-      "text": "Nomme un tableau de Vincent van Gogh"
+      "text": "Nomme un tableau de Vincent van Gogh",
+      "difficulty": "easy"
     },
     {
       "id": "art-peinture-13",
       "theme": "arts-literature",
-      "text": "Nomme un peintre ou plasticien d'Amérique latine"
+      "text": "Nomme un peintre ou plasticien d'Amérique latine",
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-14",
       "theme": "arts-literature",
-      "text": "Nomme un peintre nordique (Danemark, Norvège, Suède, Finlande ou Islande)"
+      "text": "Nomme un peintre nordique (Danemark, Norvège, Suède, Finlande ou Islande)",
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-15",
       "theme": "arts-literature",
-      "text": "Nomme un pigment ou une couleur de pigment utilisé en peinture"
+      "text": "Nomme un pigment ou une couleur de pigment utilisé en peinture",
+      "difficulty": "medium"
     }
   ],
   "sheets": {
