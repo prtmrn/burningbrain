@@ -94,6 +94,19 @@ def main() -> None:
     for pid in promoted:
         levels[pid] = "easy"
     print(f"facile relu : {len(confirmed)} confirmées · {len(demoted)} repassées en moyen · {len(promoted)} promues")
+
+    # Classement relu par l'éditeur (content/build/difficulty_overrides.tsv) : appliqué en dernier.
+    overrides = {}
+    for line in (ROOT / "content" / "build" / "difficulty_overrides.tsv").read_text(encoding="utf-8").splitlines():
+        if line.strip() and not line.startswith("#"):
+            pid, level = line.split("\t")
+            overrides[pid] = level
+    unknown_ov = sorted(set(overrides) - set(levels))
+    if unknown_ov:
+        raise SystemExit(f"difficulty_overrides.tsv : ids inconnus {unknown_ov[:5]}")
+    for pid, level in overrides.items():
+        levels[pid] = level
+    print(f"surcharges éditeur appliquées : {len(overrides)}")
     print(f"questions : {n} · seuils : hard ≤ {q1:.4f} < medium < {q2:.4f} ≤ easy")
     print("répartition :", dict(Counter(levels.values())))
 

@@ -1,0 +1,428 @@
+## Facile
+Nomme un type de chapeau ou de couvre-chef
+Nomme un type de chaussure
+Nomme un livre ou une série de livres pour enfants
+Nomme un musée célèbre dans le monde
+Nomme une onomatopée française
+Nomme un animal cité dans une expression française courante
+Nomme une fête religieuse (toutes religions)
+Nomme un tableau de Vincent van Gogh
+Nomme un jouet ou une marque de jouets célèbre
+Nomme un film familial ou pour enfants en prises de vues réelles
+Nomme un acteur ou une actrice apparu dans au moins un film de la saga Harry Potter
+Nomme un film d'animation japonais
+Nomme un animateur ou une animatrice de télévision français(e)
+Nomme un chanteur français (hors rappeur)
+Nomme une chanteuse française
+Nomme un mannequin célèbre
+Nomme un youtubeur ou une youtubeuse
+Nomme une émission de divertissement ou un jeu télévisé français
+Nomme une émission française d'information, un magazine ou un talk-show
+Nomme un rappeur ou une rappeuse français(e)
+Nomme un film dans lequel joue Jean-Paul Belmondo ou Alain Delon
+Nomme un film dans lequel joue Gérard Depardieu
+Nomme un film sorti au cinéma adapté d'une bande dessinée Marvel ou DC Comics
+Nomme un long-métrage d'animation produit par DreamWorks Animation ou Illumination
+Nomme un film dans lequel joue Tom Hanks ou Tom Cruise
+Nomme un long-métrage réalisé par Steven Spielberg ou par Ridley Scott
+Nomme une actrice française née après 1960
+Nomme une comédie française
+Nomme une comédie musicale
+Nomme un film d'horreur
+Nomme un humoriste français
+Nomme un personnage de l'univers Super Mario (Nintendo)
+Nomme une console de jeux vidéo (de salon ou portable) commercialisée
+Nomme un personnage des albums de Tintin (Hergé)
+Nomme une série de bande dessinée franco-belge
+Nomme un jeu vidéo de course (voitures, karts ou motos)
+Nomme une chanson de Michael Jackson en solo (hors Jackson 5 et The Jacksons)
+Nomme une chanson de Madonna
+Nomme un groupe de rock français
+Nomme un chanteur, une chanteuse ou un groupe de reggae (dancehall et dub compris)
+Nomme un film ayant remporté l'Oscar du meilleur film
+Nomme un groupe ou un artiste pop britannique
+Nomme une série télévisée française
+Nomme une série d'animation occidentale diffusée à la télévision
+Nomme un personnage de la série Les Simpson
+Nomme une sitcom américaine
+Nomme une série policière ou judiciaire (toutes nationalités)
+Nomme une série de science-fiction ou de fantastique
+Nomme une série originale Netflix
+Nomme une série télévisée française
+Nomme une chaîne de télévision française (hertzienne, TNT, câble ou satellite)
+Nomme un western
+Nomme un prénom féminin
+Nomme un prénom masculin
+Nomme un métier
+Nomme une race de cheval
+Nomme une marque de vêtements
+Nomme un mammifère sauvage vivant en Afrique subsaharienne
+Nomme un chanteur ou une chanteuse solo française née avant 1970
+Nomme un champignon
+Nomme une constellation
+Nomme un gâteau ou une pâtisserie française
+Nomme un dessin animé diffusé à la télévision française pendant les années 1980
+Nomme une émission de jeu diffusée à la télévision française
+Nomme une entreprise du CAC 40
+Nomme une expression française contenant le mot « main »
+Nomme un fromage au lait de vache produit en France
+Nomme un instrument de musique à cordes
+Nomme une invention française
+Nomme un appareil électroménager inventé au XXe siècle
+Nomme un jeu de société édité par Hasbro
+Nomme un légume
+Nomme une maladie infectieuse humaine due à un virus
+Nomme un muscle du corps humain
+Nomme une œuvre exposée au musée du Louvre
+Nomme une recette de la cuisine française traditionnelle à base de viande
+Nomme un poisson d'eau douce présent en France
+Nomme une race de chat
+Nomme un roi ou une reine d'Angleterre ou du Royaume-Uni
+Nomme un roi de France
+Nomme un roman de Jules Verne
+Nomme un personnage récurrent de la série Les Simpson
+Nomme une discipline des Jeux olympiques d'été ou d'hiver
+Nomme une capitale africaine
+Nomme un département français
+Nomme une commune de la région Bretagne
+Nomme une commune de la région Normandie
+Nomme une commune de la région Provence-Alpes-Côte d'Azur
+Nomme une commune de la région Occitanie
+Nomme une commune française de plus de 50 000 habitants
+Nomme une station de sports d'hiver française
+Nomme une commune de Corse
+Nomme une commune française dont le nom commence par « Saint- » ou « Sainte- »
+Nomme un État ou un territoire des États-Unis
+Nomme une organisation internationale (sigle ou nom complet)
+Nomme une tour ou un gratte-ciel célèbre dans le monde
+Nomme un musée célèbre dans le monde
+Nomme un monument, un temple ou un site célèbre d'Égypte
+Nomme un monument ou un site célèbre d'Espagne
+Nomme un monument ou un site célèbre des États-Unis
+Nomme un monument, un musée ou un lieu célèbre de Londres
+Nomme une cathédrale célèbre dans le monde
+Nomme une ville d'Australie
+Nomme un président de la République française ou un chef du gouvernement (président du Conseil, Premier ministre) depuis 1946
+Nomme un château situé dans le Val de Loire
+Nomme un monument, un palais ou un édifice de Paris lié à l'histoire de France
+Nomme un parti ou un mouvement politique français du XXe ou du XXIe siècle
+Nomme un écrivain ou poète français du XVIe, du XVIIe ou du XVIIIe siècle
+Nomme un pharaon égyptien
+Nomme un événement de la Seconde Guerre mondiale
+Nomme un pays actuel d'Afrique ayant été colonisé par une puissance européenne
+Nomme un écrivain français du XIXe siècle
+Nomme un pays belligérant de la Seconde Guerre mondiale
+Nomme un animal d'Amérique du Sud
+Nomme un animal d'Asie
+Nomme un animal d'Australie ou d'Océanie
+Nomme un primate
+Nomme un mammifère de l'ordre des carnivores (Carnivora)
+Nomme un rapace (oiseau de proie diurne ou nocturne)
+Nomme un mollusque
+Nomme un crustacé
+Nomme un animal venimeux
+Nomme un animal migrateur
+Nomme un verbe désignant le cri d'un animal
+Nomme un animal vivant dans les régions polaires (Arctique ou Antarctique)
+Nomme une spécialité médicale ou chirurgicale exercée par un médecin
+Nomme une maladie infectieuse humaine due à une bactérie
+Nomme un examen médical complémentaire (imagerie, endoscopie, analyse ou exploration fonctionnelle)
+Nomme une maladie ou une affection de la peau
+Nomme un trouble mental reconnu par la psychiatrie
+Nomme un type de cancer (par organe atteint ou par type de tumeur maligne)
+Nomme un inventeur célèbre
+Nomme un instrument de mesure
+Nomme un gaz
+Nomme un légume
+Nomme une fleur
+Nomme un arbre qui pousse en France
+Nomme un champignon
+Nomme une herbe aromatique ou une épice
+Nomme une céréale ou une légumineuse
+Nomme une plante d'intérieur
+Nomme une variété de pomme
+Nomme un conifère
+Nomme une plante grasse (cactus ou succulente)
+Nomme un arbuste
+Nomme un réseau social ou une plateforme de partage en ligne (hors messageries)
+Nomme un composant ou un périphérique d'ordinateur
+Nomme une extension de fichier informatique (ce qui suit le point dans un nom de fichier)
+Nomme un matériau de construction ou de revêtement utilisé dans le bâtiment
+Nomme un véhicule terrestre (à moteur, à pédales, sur rails ou tracté)
+Nomme un robot ou une intelligence artificielle célèbre (réelle ou de fiction)
+Nomme un fondateur ou un grand dirigeant d'une entreprise technologique
+Nomme un appareil électronique grand public
+Nomme un engin de chantier, de travaux publics ou une machine agricole
+Nomme un volcan du monde (actif, endormi ou éteint)
+Nomme une mer ou un océan
+Nomme un combustible ou un carburant
+Nomme une catastrophe naturelle célèbre de l'Histoire (séisme, éruption, tsunami, ouragan ou tempête)
+Nomme une pierre précieuse ou semi-précieuse
+Nomme un geste écologique du quotidien
+Nomme un athlète champion olympique
+Nomme un club de football portugais, néerlandais ou belge
+Nomme une équipe de NBA ou de WNBA (ou de la BAA, ancêtre de la NBA), actuelle ou disparue
+Nomme un équipement, un accessoire ou un élément de terrain utilisé dans un sport collectif (rugby, basket, handball, volley, hockey, baseball, football américain)
+Nomme un terme du vocabulaire du rugby (action, règle, geste technique ou tradition, hors noms de postes)
+Nomme un terme du vocabulaire du basket-ball (geste, règle, faute ou expression, hors noms de postes)
+Nomme un sport collectif (hors football), y compris les variantes et les sports peu connus
+Nomme un poste ou un rôle dans une équipe de sport collectif hors football (rugby, basket, handball, volley, hockey, baseball, football américain)
+Nomme un entraîneur de football célèbre
+Nomme un club ayant évolué en première division française (Division 1 ou Ligue 1)
+Nomme un club ayant joué en Premier League anglaise (depuis sa création en 1992)
+Nomme un joueur ayant marqué au moins un but avec l'équipe de France A masculine
+Nomme une sélection ayant disputé au moins une phase finale de Coupe du monde masculine
+Nomme une sélection nationale membre de l'UEFA
+Nomme une sélection nationale membre de la CAF (Confédération africaine de football)
+Nomme un terme du vocabulaire du tennis (coup, règle, score, rôle sur le court…)
+Nomme un terme du vocabulaire du golf (score, coup, terrain, matériel…)
+Nomme une course cycliste professionnelle sur route (grand tour, course par étapes ou classique d'un jour)
+Nomme un circuit ayant accueilli un Grand Prix du championnat du monde de Formule 1
+Nomme une écurie ou un constructeur ayant engagé des voitures en championnat du monde de Formule 1
+Nomme une course, un rallye ou un championnat de sport automobile ou moto
+Nomme un joueur ou une joueuse de tennis français(e) professionnel(le), actuel(le) ou passé(e)
+Nomme une épreuve d'athlétisme (piste, sauts, lancers, épreuves combinées, route ou marche), actuelle ou disparue
+Nomme un athlète français ayant remporté au moins une médaille d'or olympique
+Nomme une activité sportive ou de loisir de plein air
+Nomme un sport collectif
+Nomme un sport de combat ou un art martial
+Nomme un appareil ou un accessoire que l'on trouve dans une salle de sport
+Nomme un sport ou une activité nautique ou aquatique
+Nomme un passe-temps ou un loisir créatif
+Nomme un type de chaussure
+Nomme un terme du vocabulaire du sport automobile (pole position, chicane, paddock…)
+Nomme une marque de voitures de sport ou de supercars
+Nomme un nageur ou une nageuse célèbre
+Nomme un stade célèbre
+Nomme un archipel
+Nomme une capitale du continent américain
+Nomme une capitale qui n'est pas la plus grande ville de son pays
+Nomme une chaîne de montagnes
+Nomme un détroit
+Nomme un fleuve d'Afrique
+Nomme un fleuve des Amériques
+Nomme un fleuve d'Asie
+Nomme un fleuve d'Europe
+Nomme un fleuve ou une rivière de France
+Nomme un pays qui s'étend sur plusieurs fuseaux horaires
+Nomme un golfe
+Nomme une île de l'Atlantique
+Nomme une ville de plus de 10 millions d'habitants
+Nomme un pays traversé par l'équateur
+Nomme un pays insulaire
+Nomme un pays situé sur deux continents
+Nomme un grand port maritime
+Nomme une préfecture de région française
+Nomme une région française
+Nomme un site archéologique célèbre
+Nomme une ville ayant accueilli les Jeux olympiques
+## Moyenne
+Nomme un style ou un courant d'architecture
+Nomme une sculpture ou un monument sculpté célèbre (œuvre)
+Nomme une pièce de théâtre de Molière, de Racine ou de Pierre Corneille
+Nomme un architecte célèbre
+Nomme un auteur de science-fiction
+Nomme un compositeur classique allemand ou autrichien
+Nomme un compositeur classique italien
+Nomme un ballet
+Nomme un film d'Alfred Hitchcock
+Nomme un écrivain ou un poète russe
+Nomme un écrivain ou un poète de langue allemande (Allemagne, Autriche, Suisse alémanique)
+Nomme un écrivain ou un poète italien
+Nomme un écrivain ou un poète d'Espagne
+Nomme un écrivain ou un poète d'Amérique latine (Brésil compris)
+Nomme un roman d'un écrivain espagnol ou latino-américain
+Nomme un personnage d'une pièce de Molière
+Nomme un personnage d'un roman de Victor Hugo
+Nomme un personnage d'un roman d'Alexandre Dumas père
+Nomme un écrivain belge de langue française
+Nomme un écrivain ayant été élu à l'Académie française
+Nomme un mouvement artistique
+Nomme une figure de style (rhétorique)
+Nomme un personnage de la légende du roi Arthur et de la Table ronde
+Nomme une créature fantastique du folklore ou de la fantasy (hors mythologie grecque)
+Nomme un courant de pensée ou une doctrine philosophique en « -isme »
+Nomme un héros de légende ou de folklore (hors mythologie grecque et légende arthurienne)
+Nomme un lieu saint ou un lieu de pèlerinage (toutes religions)
+Nomme un peintre néerlandais ou flamand
+Nomme un peintre espagnol (toutes époques)
+Nomme une technique, un procédé ou un médium de peinture, de dessin ou de gravure
+Nomme une femme peintre
+Nomme un peintre ou plasticien associé au mouvement surréaliste
+Nomme un photographe célèbre
+Nomme un poète de langue anglaise
+Nomme un poète du XIXe siècle
+Nomme un prix littéraire
+Nomme un sculpteur célèbre
+Nomme un acteur ou une actrice britannique
+Nomme une série télévisée pour adolescents (toutes nationalités)
+Nomme un personnage du manga et anime My Hero Academia
+Nomme un personnage du manga et anime L'Attaque des Titans
+Nomme un personnage de la saga Twilight (romans et films)
+Nomme un personnage de la saga Hunger Games (romans et films)
+Nomme un festival (musique, cinéma, théâtre ou spectacle vivant) en France ou dans le monde
+Nomme une salle de spectacle ou un théâtre parisien
+Nomme un film ayant reçu la Palme d'or (ou le Grand Prix, son équivalent historique) au Festival de Cannes
+Nomme un film de fiction dont l'action se déroule principalement pendant la Seconde Guerre mondiale
+Nomme un film ou téléfilm adapté d'une œuvre de Stephen King
+Nomme un film réalisé par Clint Eastwood ou dans lequel il joue
+Nomme un jeu vidéo de rôle
+Nomme un personnage jouable de la série Street Fighter
+Nomme une chanson ayant remporté le Concours Eurovision de la chanson
+Nomme un groupe ou un artiste solo de K-pop
+Nomme un chanteur, une chanteuse ou un groupe québécois
+Nomme un chanteur, une chanteuse, un musicien ou un groupe belge
+Nomme un groupe ou un artiste de punk rock (proto-punk et pop-punk compris)
+Nomme un anime (série d'animation japonaise)
+Nomme une série télévisée américaine diffusée dans les années 1980
+Nomme une série télévisée adaptée d'un comics américain
+Nomme une série produite ou diffusée par HBO
+Nomme une bataille de la Première Guerre mondiale
+Nomme un vainqueur du Tour de France cycliste
+Nomme un écrivain russe
+Nomme un empereur romain
+Nomme un navigateur ou explorateur européen des XVe et XVIe siècles
+Nomme une femme ayant régné en Europe
+Nomme un footballeur ayant été champion d'Europe avec l'équipe de France
+Nomme un métier manuel dont le nom se termine par -ier
+Nomme une Église chrétienne
+Nomme un scientifique français né avant 1900
+Nomme une série télévisée américaine diffusée sur HBO
+Nomme un col routier de montagne situé en France
+Nomme un site classé au patrimoine mondial de l'UNESCO
+Nomme un parc national des États-Unis
+Nomme un jardin ou un parc urbain célèbre dans le monde
+Nomme une ville de France métropolitaine qui existait déjà à l'époque romaine
+Nomme un aviateur ou un pionnier de l'aviation
+Nomme une dynastie royale ou impériale européenne
+Nomme un explorateur du XVIIIe ou du XIXe siècle
+Nomme un résistant ou une figure de la France libre pendant la Seconde Guerre mondiale
+Nomme une colonie ou un territoire ayant fait partie de l'empire colonial français
+Nomme une affaire politique, judiciaire ou criminelle célèbre de l'histoire de France
+Nomme une reine, une régente ou une favorite royale de l'histoire de France
+Nomme un écrivain ou un penseur français du XVIIIe siècle
+Nomme un navigateur, explorateur ou conquistador européen actif entre 1492 et 1700
+Nomme un peintre, sculpteur ou architecte de la Renaissance (XVe-XVIe siècles)
+Nomme un philosophe ou un penseur des Lumières (XVIIIe siècle)
+Nomme un château fort médiéval situé en France métropolitaine
+Nomme une arme, une pièce d'armure ou une machine de siège utilisée dans l'Europe médiévale
+Nomme un Premier ministre britannique
+Nomme une invention ou une découverte de la révolution industrielle
+Nomme un traité célèbre de l'histoire
+Nomme un souverain (roi, reine, empereur, sultan…) ayant régné au XIXe siècle
+Nomme un monument, un édifice ou un ouvrage d'art construit au XIXe siècle
+Nomme un dirigeant politique de l'URSS ou d'un pays du bloc de l'Est
+Nomme une personnalité de la Résistance française ou de la France libre
+Nomme une organisation internationale, une alliance ou une communauté politique, militaire ou économique créée au XXe siècle
+Nomme une personnalité assassinée au XXe siècle ou au début du XXIe
+Nomme une femme ayant été cheffe d'État ou de gouvernement depuis 1900
+Nomme une race de cheval, de poney ou d'âne
+Nomme une espèce animale éteinte (hors dinosaures)
+Nomme une phobie dont le nom savant se termine par « -phobie »
+Nomme une hormone produite par le corps humain
+Nomme une plante médicinale
+Nomme une plante toxique ou vénéneuse
+Nomme une compétition, un championnat ou un trophée de sport collectif hors football (rugby, basket, handball, volley, hockey, baseball, football américain)
+## Difficile
+Nomme un compositeur classique russe ou d'Europe de l'Est (Pologne, Tchéquie, Hongrie, Roumanie, pays baltes, Ukraine, Caucase...)
+Nomme un compositeur classique espagnol, portugais, latino-américain ou nordique
+Nomme un écrivain d'un pays nordique (Danemark, Norvège, Suède, Finlande ou Islande)
+Nomme une œuvre de La Comédie humaine de Balzac
+Nomme un personnage de La Comédie humaine de Balzac
+Nomme un écrivain québécois de langue française
+Nomme un écrivain francophone originaire d'Afrique subsaharienne ou de Madagascar
+Nomme un écrivain de langue française né en Algérie, au Maroc ou en Tunisie
+Nomme un écrivain de langue française né aux Antilles, en Guyane ou en Haïti
+Nomme un ordre ou une congrégation religieuse
+Nomme un peintre allemand ou autrichien (toutes époques)
+Nomme un peintre russe ou né dans l'Empire russe
+Nomme un peintre ou plasticien italien actif au XXe siècle
+Nomme un peintre japonais ou un maître japonais de l'estampe
+Nomme un peintre français actif au XVIIe ou au XVIIIe siècle
+Nomme un peintre ou plasticien d'Amérique latine
+Nomme un peintre nordique (Danemark, Norvège, Suède, Finlande ou Islande)
+Nomme un pigment ou une couleur de pigment utilisé en peinture
+Nomme un personnage de Sailor Moon (manga et anime)
+Nomme un chanteur ou une chanteuse lyrique
+Nomme un film italien (ou coproduction italienne) sorti avant 2000
+Nomme un personnage jouable de la série Super Smash Bros.
+Nomme une chanson dont Serge Gainsbourg a écrit les paroles (chantée par lui ou par un autre interprète)
+Nomme un anglicisme du vocabulaire du football en français
+Nomme un jeu vidéo édité par Nintendo sur Game Boy
+Nomme une préfecture de département français qui n'est pas chef-lieu de région
+Nomme une spécialité culinaire française dont le nom fait référence à un lieu (hors vins et fromages)
+Nomme un peuple autochtone d'Amérique du Nord
+Nomme une cité grecque antique de Grèce continentale, des îles de la mer Égée ou de la côte égéenne de l'Asie Mineure
+Nomme une colonie grecque antique fondée hors du monde égéen (Italie, Sicile, Gaule, Espagne, mer Noire, Afrique...)
+Nomme un homme d'État, stratège, roi ou tyran de la Grèce antique (hors philosophes)
+Nomme un homme politique ou un général de la République romaine (509-27 av. J.-C.)
+Nomme un écrivain grec de l'Antiquité (poète, dramaturge, historien ou orateur, hors philosophes)
+Nomme un écrivain de langue latine de l'Antiquité
+Nomme une pièce de théâtre antique, grecque ou latine, parvenue jusqu'à nous
+Nomme une bataille de l'Antiquité (avant 476 apr. J.-C.)
+Nomme un souverain de la Mésopotamie ou de l'Iran antiques (de Sumer aux Sassanides)
+Nomme une femme réelle (non mythologique) ayant marqué l'Antiquité
+Nomme un savant de l'Antiquité (mathématicien, astronome, médecin, ingénieur ou géographe)
+Nomme une province de l'Empire romain (de 27 av. J.-C. à 284 apr. J.-C.)
+Nomme une langue de l'Antiquité aujourd'hui éteinte
+Nomme une loi française connue par le nom de son auteur (ministre ou parlementaire)
+Nomme un ministre ou un principal conseiller d'un roi de France avant 1789
+Nomme un personnage de la guerre de Cent Ans
+Nomme un général, un maréchal ou un amiral français d'avant 1789
+Nomme un général ou un maréchal de la Première Guerre mondiale
+Nomme un ministre, un conseiller ou un favori (ou une favorite) des rois de France entre 1515 et 1789
+Nomme une bataille livrée entre 1492 et 1789
+Nomme une ville d'Amérique fondée par des Européens entre 1492 et 1789
+Nomme un peuple, royaume, empire ou État non européen existant entre 1492 et 1789
+Nomme une personnalité de la Réforme protestante ou de la Contre-Réforme catholique (XVIe-XVIIe siècles)
+Nomme une plante ou un animal dont la diffusion entre l'Ancien et le Nouveau Monde date des grandes découvertes (échange colombien)
+Nomme une guerre, une révolte ou une rébellion survenue entre 1492 et 1789
+Nomme un titre, une fonction ou un statut social de la société médiévale européenne
+Nomme un empereur ou une impératrice byzantin ayant régné après l'an 600
+Nomme un royaume, un empire, une principauté ou une république d'Europe ayant existé au Moyen Âge
+Nomme un personnage ayant joué un rôle dans les croisades en Orient (1095-1291)
+Nomme une ville ayant été membre de la Hanse
+Nomme un ordre religieux, militaire ou de chevalerie fondé avant 1500
+Nomme une œuvre littéraire écrite en Europe au Moyen Âge (avant 1500)
+Nomme un personnage ayant joué un rôle dans la guerre de Cent Ans
+Nomme une abbaye fondée au Moyen Âge sur le territoire de la France actuelle
+Nomme une université fondée en Europe avant 1500
+Nomme un savant, penseur, poète ou voyageur du monde musulman médiéval (VIIe-XVe siècle)
+Nomme une cathédrale gothique d'Europe dont la construction a commencé avant 1500
+Nomme un général ou un maréchal de Napoléon Ier
+Nomme un homme politique français du XIXe siècle ou de la Belle Époque (hors souverains)
+Nomme un penseur, philosophe ou théoricien politique et social du XIXe siècle
+Nomme une femme ayant marqué le XIXe siècle
+Nomme un pays d'Afrique, d'Asie ou d'Océanie devenu indépendant entre 1945 et 1990
+Nomme un dirigeant, un dignitaire, un général ou un collaborateur de l'Allemagne nazie, de l'Italie fasciste, du Japon impérial ou de leurs alliés
+Nomme un camp d'internement, de concentration ou d'extermination en Europe pendant la Seconde Guerre mondiale
+Nomme un groupe armé, un mouvement de libération ou une organisation politique clandestine du XXe siècle
+Nomme une race bovine (race de vache)
+Nomme une race de mouton ou de chèvre
+Nomme un antibiotique (molécule)
+Nomme une structure anatomique de l'encéphale (cerveau, cervelet ou tronc cérébral)
+Nomme un parasite de l'être humain ou une maladie parasitaire humaine
+Nomme une maladie génétique ou une maladie rare
+Nomme un acide (chimique, organique ou biologique)
+Nomme une fusée ou un lanceur spatial
+Nomme une équipe de hockey sur glace de la LNH (NHL) ou de l'ancienne AMH (WHA), actuelle ou disparue
+Nomme une équipe de NFL, actuelle ou disparue
+Nomme un terme du vocabulaire du baseball (hors noms de postes)
+Nomme un terme du vocabulaire du football américain (hors noms de postes)
+Nomme un terme du vocabulaire du handball ou du volley-ball (hors noms de postes)
+Nomme une ville ayant accueilli une franchise de NBA, NFL, MLB ou NHL (actuelle ou passée)
+Nomme un club de football brésilien
+Nomme une équipe cycliste professionnelle sur route, actuelle ou passée (par son nom de sponsor)
+Nomme un pilote champion du monde de vitesse moto (MotoGP/500 cm³, Moto2/250 cm³, Moto3/125 cm³, 350 ou 50/80 cm³)
+Nomme une station ou un site ayant accueilli une épreuve de Coupe du monde de ski alpin
+Nomme un mot ou une expression du vocabulaire du cyclisme sur route
+Nomme un pilote de rallye (championnat du monde des rallyes WRC) connu
+Nomme un pilote vainqueur des 24 Heures du Mans (au classement général)
+Nomme un navigateur ou une navigatrice de course au large
+Nomme une course ou une compétition de voile
+Nomme un pilote vainqueur des 500 Miles d'Indianapolis
+Nomme un cap célèbre
+Nomme une capitale d'Océanie
+Nomme une grotte ou un gouffre célèbre
+Nomme une péninsule
+Nomme un sommet de plus de 8 000 mètres

@@ -1,0 +1,1046 @@
+# Effectifs relevés sur les pages publiées (lectures partielles : voir content/verify/repasse/README.md).
+# Format : un nom par ligne ; « Nom | alias1 ; alias2 » pour les variantes.
+## spo-football-03
+George Perrins
+Fred Erentz | Fredrick Erentz
+Bob Donaldson | Robert Donaldson
+Joe Cassidy
+James McNaught
+Dick Smith | Richard Smith
+Walter Cartwright
+Harry Stafford
+William Bryant | Willie Bryant
+Frank Barrett
+Billy Morgan | William Morgan
+Billy Griffiths | William Griffiths
+Alf Schofield | Alfred Schofield
+Vince Hayes
+Jack Peddie
+Alex Downie
+Alex Bell
+Bob Bonthron | Robert Bonthron
+Harry Moger
+Dick Duckworth | Richard Duckworth
+Charlie Roberts
+Dick Holden | Richard Holden
+Jack Picken | John Picken
+George Wall
+Billy Meredith
+Sandy Turnbull
+George Stacey
+Harold Halse
+Arthur Whalley
+Enoch West
+Bobby Beale | Robert Beale
+Jack Mew | John Mew
+Lal Hilditch | Clarence Hilditch
+Jack Silcock
+Joe Spence
+Charlie Moore
+John Grimwood
+Teddy Partridge | Edward Partridge
+Alf Steward | Alfred Steward
+Ray Bennion | Samuel Bennion
+Arthur Lochhead
+Harry Thomas
+Frank Barson
+Frank Mann
+Frank McPherson
+Tom Jones
+Jimmy Hanson | James Hanson
+Jack Wilson | John Wilson
+Hugh McLenahan
+Harry Rowley
+Tommy Reid | Thomas Reid
+George McLachlan
+Jack Mellor
+Tom Manley | Thomas Manley
+George Vose
+Jack Griffiths
+Bill McKay
+George Mutch
+Tommy Bamford
+Billy Bryant
+James Brown
+Johnny Carey
+Jack Rowley
+Stan Pearson
+Jack Warner
+John Aston Sr.
+Allenby Chilton
+Henry Cockburn
+Jack Crompton
+Jimmy Delaney
+Billy McGlen
+Charlie Mitten
+Johnny Downie
+Ray Wood
+Don Gibson
+Mark Jones
+Johnny Berry
+Jackie Blanchflower
+Roger Byrne
+David Pegg
+Bill Foulkes
+Tommy Taylor
+Duncan Edwards
+Dennis Viollet
+Freddie Goodwin
+Albert Scanlon
+Eddie Colman
+Ronnie Cope
+Bobby Charlton
+David Gaskell
+Harry Gregg
+Shay Brennan
+Albert Quixall
+Johnny Giles
+Nobby Stiles
+Maurice Setters
+Tony Dunne
+Noel Cantwell
+David Herd
+Denis Law
+David Sadler
+Paddy Crerand
+George Best
+John Connelly
+John Fitzpatrick
+John Aston Jr.
+Alex Stepney
+Brian Kidd
+Francis Burns
+Willie Morgan
+Steve James
+Sammy McIlroy
+Martin Buchan
+David McCreery
+Alex Forsyth
+Lou Macari
+Gerry Daly
+Brian Greenhoff
+Stewart Houston
+Stuart Pearson
+Arthur Albiston
+Steve Coppell
+Jimmy Nicholl
+Gordon Hill
+Jimmy Greenhoff
+Ashley Grimes
+Joe Jordan
+Gordon McQueen
+Gary Bailey
+Mickey Thomas
+Kevin Moran
+Ray Wilkins
+Mike Duxbury
+John Gidman
+Frank Stapleton
+Remi Moses
+Bryan Robson
+Norman Whiteside
+Paul McGrath
+Mark Hughes
+Graeme Hogg
+Clayton Blackmore
+Jesper Olsen
+Gordon Strachan
+Peter Davenport
+Brian McClair
+Steve Bruce
+Lee Martin
+Lee Sharpe
+Mal Donaghy
+Mike Phelan
+Neil Webb
+Gary Pallister
+Paul Ince
+Denis Irwin
+Ryan Giggs
+Andrei Kanchelskis
+Paul Parker
+Peter Schmeichel
+Gary Neville
+David Beckham
+Nicky Butt
+Eric Cantona
+Roy Keane
+David May
+Paul Scholes
+Andy Cole
+Phil Neville
+Ronny Johnsen
+Ole Gunnar Solskjær
+Teddy Sheringham
+Henning Berg
+Wes Brown
+Jaap Stam
+Dwight Yorke
+Quinton Fortune
+Mikaël Silvestre
+John O'Shea
+Fabien Barthez
+Ruud van Nistelrooy
+Rio Ferdinand
+Darren Fletcher
+Cristiano Ronaldo
+Louis Saha
+Wayne Rooney
+Edwin van der Sar
+Park Ji-sung
+Patrice Evra
+Nemanja Vidić
+Michael Carrick
+Nani
+Anderson
+Jonny Evans
+Dimitar Berbatov
+Rafael
+Danny Welbeck
+Antonio Valencia
+Javier Hernández
+Chris Smalling
+David de Gea
+Phil Jones
+Ashley Young
+Paul Pogba
+Robin van Persie
+Marouane Fellaini
+Juan Mata
+Daley Blind
+Jesse Lingard
+Ander Herrera
+Marcos Rojo
+Luke Shaw
+Anthony Martial
+Marcus Rashford
+Eric Bailly
+Nemanja Matić
+Victor Lindelöf
+Scott McTominay
+Fred
+Diogo Dalot
+Mason Greenwood
+Harry Maguire
+Aaron Wan-Bissaka
+Bruno Fernandes
+Amad Diallo
+Alejandro Garnacho
+Lisandro Martínez
+Casemiro
+Christian Eriksen
+André Onana
+Kobbie Mainoo
+## spo-football-04
+Angelo Alessio
+José Altafini
+Amauri
+Nicola Amoruso
+Pietro Anastasi
+Roberto Anzolin
+Kwadwo Asamoah
+Roberto Baggio
+Oreste Barale
+Andrea Barzagli
+Savino Bellini
+Romeo Benetti
+Rodrigo Bentancur
+Giancarlo Bercellino
+Federico Bernardeschi
+Luigi Bertolini
+Alberto Bertuccelli
+Roberto Bettega
+Carlo Bigatto
+Alessandro Birindelli
+Zbigniew Boniek
+Massimo Bonini
+Giampiero Boniperti
+Leonardo Bonucci
+Felice Borel
+Gleison Bremer
+Sergio Brio
+Gianluigi Buffon
+Antonio Cabrini
+Martín Cáceres
+Umberto Caligaris
+Andrea Cambiaso
+Mauro Camoranesi
+Fabio Cannavaro
+Fabio Capello
+Massimo Carrera
+Pierluigi Casiraghi
+Ernesto Càstano
+Franco Causio
+Renato Cesarini
+John Charles
+Giorgio Chiellini
+Federico Chiesa
+Cinesinho
+Umberto Colombo
+Gianpiero Combi
+Antonio Conte
+Giuseppe Corradi
+Douglas Costa
+Juan Cuadrado
+Antonello Cuccureddu
+Danilo
+Edgar Davids
+Luigi De Agostini
+Paolo De Ceglie
+Matthijs De Ligt
+Mattia De Sciglio
+Alessandro Del Piero
+Luis del Sol
+Teobaldo Depetrini
+Didier Deschamps
+Paolo Di Canio
+Angelo Di Livio
+Paulo Dybala
+Flavio Emoli
+Pietro Fanna
+Luciano Favero
+Ciro Ferrara
+Giovanni Ferrari
+Rino Ferrario
+Alfredo Foni
+Giuseppe Furino
+Guglielmo Gabetto
+Roberto Galìa
+Bruno Garzena
+Federico Gatti
+Claudio Gentile
+Sebastian Giovinco
+Adolfo Gori
+Zdeněk Grygera
+Helmut Haller
+John Hansen
+Gonzalo Higuaín
+Vincenzo Iaquinta
+Filippo Inzaghi
+Mark Iuliano
+Júlio César
+Moise Kean
+Sami Khedira
+Jürgen Kohler
+Filip Kostić
+Michael Laudrup
+Nicola Legrottaglie
+Gianfranco Leoncini
+Stephan Lichtsteiner
+Manuel Locatelli
+Ugo Locatelli
+Pietro Magni
+Sergio Manente
+Mario Mandžukić
+Giampietro Marchetti
+Claudio Marchisio
+Giacomo Mari
+Giancarlo Marocchi
+Domenico Marocchino
+Carlo Mattrel
+Blaise Matuidi
+Massimo Mauro
+Weston McKennie
+Giampaolo Menichelli
+Paolo Montero
+Luis Monti
+Antonio Montico
+Álvaro Morata
+Francesco Morini
+Ermes Muccinelli
+Federico Munerati
+Pavel Nedvěd
+Bruno Nicolè
+Raimundo Orsi
+Simone Padoin
+Carlo Parola
+Angelo Peruzzi
+Gianluca Pessotto
+Alberto Piccinini
+Andrea Pirlo
+Miralem Pjanić
+Michel Platini
+Paul Pogba
+Sergio Porrini
+Karl Aage Præst
+Claudio Prandelli
+Fabio Quagliarella
+Adrien Rabiot
+Pietro Rava
+Fabrizio Ravanelli
+Cristiano Ronaldo
+Virginio Rosetta
+Paolo Rossi
+Daniele Rugani
+Giovanni Sacco
+Sandro Salvadore
+Alex Sandro
+Benito Sarti
+Salvatore Schillaci
+Gaetano Scirea
+Lucidio Sentimenti
+Vittorio Sentimenti
+Mohamed Sissoko
+Omar Sívori
+Luciano Spinosi
+Gino Stacchini
+Wojciech Szczęsny
+Alessio Tacchinardi
+Stefano Tacconi
+Marco Tardelli
+Lilian Thuram
+Moreno Torricelli
+David Trezeguet
+Roberto Tricella
+Igor Tudor
+Giovanni Varglien
+Mario Varglien
+Gianluca Vialli
+Arturo Vidal
+Beniamino Vignola
+Giovanni Viola
+Pietro Paolo Virdis
+Dušan Vlahović
+Kenan Yıldız
+Marcelo Zalayeta
+Gianluca Zambrotta
+Jonathan Zebina
+Zinedine Zidane
+Gianfranco Zigoni
+Dino Zoff
+## spo-football-05
+Ernest Schultz
+Aimé Mignot
+Nestor Combin
+Ángel Rambert | Angel Rambert
+Fleury Di Nallo
+Yves Chauveau
+André Guy
+Bernard Lacombe
+Serge Chiesa
+Raymond Domenech
+Sima Nikolic | Simo Nikolic
+Eugène Kabongo Ngoy
+Rémi Garde
+Jacek Bąk
+Alain Caveglia
+Grégory Coupet
+Jérémie Bréchet
+Vikash Dhorasoo
+Sonny Anderson
+Edmílson
+Cláudio Caçapa
+Patrick Müller
+Éric Carrière
+Juninho Pernambucano | Juninho
+Mahamadou Diarra
+Michael Essien
+Florent Malouda
+Anthony Réveillère
+Sylvain Wiltord
+Éric Abidal
+Cris
+Tiago
+Fred
+Karim Benzema
+Jérémy Toulalan
+Kim Källström
+Miralem Pjanić
+Hugo Lloris
+Michel Bastos
+Lisandro López | Lisandro Lopez
+Bafétimbi Gomis
+Maxime Gonalons
+Alexandre Lacazette
+Samuel Umtiti
+Anthony Lopes
+Corentin Tolisso
+Nabil Fékir | Nabil Fekir
+Maxwel Cornet | Maxwell Cornet
+Houssem Aouar
+Memphis Depay
+Ferland Mendy
+Tanguy Ndombele
+Moussa Dembélé
+Maxence Caqueret
+Bruno Guimarães
+Lucas Paquetá
+Nicolás Tagliafico
+Sidney Govou
+Camille Ninel
+André Lerond
+Marc-Vivien Foé
+Yoann Gourcuff
+Marcel Le Borgne
+Lucien Degeorges
+Bernard Lhomme
+Alain Olio
+Ljubomir Mihajlović
+Philippe Violeau
+Florent Laville
+Laurent Fournier
+Pascal Fugier
+Bruno Ngotty
+Florian Maurice
+Jean-Pierre Orts
+Georges Dupraz
+Jacques Fatton
+Lucien Cossou
+Eugène N'Jo Léa
+Daniel Xuereb
+Albert Emon
+Franck Durix
+Éric Spadiny
+Roberto Cabañas
+Aziz Bouderbala
+Peguy Luyindula
+Ciprian Tătărușanu
+Mapou Yanga-Mbiwa
+Marcelo | Marcelo Antônio Guedes Filho
+Rafael da Silva
+Fernando Marçal
+Kenny Tete
+Oumar Solet
+Melvin Bard
+Lucas Tousart
+Jean Lucas | Jean Lucas Oliveira
+Thiago Mendes
+Jeff Reine-Adélaïde
+Rayan Cherki
+Bertrand Traoré
+Martin Terrier
+Amine Gouiri
+Karl Toko-Ekambi
+Joachim Andersen
+Jason Denayer
+Youssouf Koné
+Léo Dubois
+Tino Kadewere
+Mathieu Gorgelin
+Jérémy Morel
+Jordan Ferri
+Pape Cheikh Diop
+Christopher Martins Pereira
+Yassin Fékir
+Lenny Pintor
+Mariano Díaz
+Mouctar Diakhaby
+Sergi Darder
+Myziane Maolida
+Willem Geubbels
+Nicolas Nkoulou
+Emanuel Mammana
+Christophe Jallet
+Jordy Gaspar
+Maciej Rybus
+Gueïda Fofana
+Clément Grenier
+Olivier Kemen
+Rachid Ghezzal
+Jean-Philippe Mateta
+Gaëtan Perrin
+Aldo Kalulu
+## spo-football-09
+Marquinhos
+Jean-Marc Pilorget
+Marco Verratti
+Sylvain Armand
+Safet Sušić
+Paul Le Guen
+Bernard Lama
+Thiago Silva
+Mustapha Dahleb
+Kylian Mbappé
+Edinson Cavani
+Ángel Di María
+Blaise Matuidi
+Éric Renaut
+Joël Bats
+Dominique Baratelli
+Daniel Bravo
+Dominique Bathenay
+Luis Fernandez
+Javier Pastore
+Jean-Claude Lemoult
+Édouard Cissé
+Dominique Rocheteau
+Franck Tanasi
+Vincent Guérin
+Laurent Fournier
+Clément Chantôme
+Francis Llacer
+Bernard Mendy
+Presnel Kimpembe
+Thiago Motta
+Lucas Moura
+Adrien Rabiot
+Zoumana Camara
+Alain Roche
+Philippe Jeannol
+François M'Pelé
+Raí
+Maxwell
+Patrick Colleter
+Pauleta
+Achraf Hakimi
+Vitinha
+Mamadou Sakho
+Oumar Sène
+Julian Draxler
+Christophe Jallet
+Ceará
+Lionel Letizi
+Jérémy Clément
+Salvatore Sirigu
+Warren Zaïre-Emery
+Michel Bibard
+Zlatan Ibrahimović
+Peguy Luyindula
+Jérôme Rothen
+Nuno Mendes
+Jimmy Algerino
+Jacques Laposte
+Thierry Morin
+Neymar
+Nambatingue Toko
+Fabián Ruiz
+Frédéric Déhu
+Jérôme Leroy
+Ezequiel Lavezzi
+Guillaume Hoarau
+Gianluigi Donnarumma
+David Ginola
+Danilo Pereira
+Ricardo | Ricardo Gomes
+Layvin Kurzawa
+Valdo
+Bradley Barcola
+Mickaël Landreau
+Jean-François Charbonnier
+Dominique Lokoli
+Pierre Ducrocq
+Mario Yepes
+Christian Perez
+George Weah
+Antoine Kombouaré
+Ousmane Dembélé
+Éric Rabésandratana
+Gregory van der Wiel
+Fabrice Pancrate
+Gabriel Heinze
+Gonçalo Ramos
+Thilo Kehrer
+Thomas Meunier
+Juan Bernat
+Ludovic Giuly
+Pierre Reynaud
+Lee Kang-in
+Jacky Novi
+Philippe Col
+Claude Makélélé
+Leandro Paredes
+Patrice Loko
+Keylor Navas
+Didier Domi
+Boubacar Sarr
+Ilija Pantelić
+Fabrice Poullain
+Talal El Karkouri
+Jay-Jay Okocha
+Bruno Ngotty
+Gabriel Calderón
+Nenê
+Idrissa Gueye
+Jérémy Ménez
+Mevlüt Erdinç
+José Cobos
+Amara Simba
+Alphonse Areola
+Lucas Hernandez
+Stéphane Sessègnon
+Denis Bauda
+Désiré Doué
+Fabrice Fiorèse
+Willian Pacho
+Modeste M'bami
+Jérôme Alonzo
+Jean-Pierre Dogliani
+Pablo Sarabia
+João Neves
+Bernard Béréau
+Sammy Traoré
+Thierry Bacconnier
+David Rozehnal
+Laurent Leroy
+Pascal Nouma
+Ander Herrera
+Mauricio Pochettino
+Jean-Louis Brost
+Camille Choquier
+Mauro Icardi
+Daniel Xuereb
+Alex
+Kevin Trapp
+Mathieu Bodmer
+Michel N'Gom
+David Luiz
+Amara Diané
+Lucas Beraldo
+Alain Couriol
+François Brisson
+Igor Yanovsky
+Senny Mayulu
+José-Karl Pierre-Fanfan
+Louis Cardiet
+Laurent Robert
+Julio Dely Valdés
+Lyazid Sandjak
+Cristóbal Parralo
+Lorik Cana
+Serge Aurier
+Jean-Louis Leonetti
+Carlos Bianchi
+Marco Simone
+Khvicha Kvaratskhelia
+Francis Piasecki
+Thierry Rabat
+Reinaldo
+Aloísio | Aloísio Chulapa
+Colin Dagba
+Christopher Nkunku
+Kevin Gameiro
+Lionel Potillon
+Ronaldinho
+Yannick Guillochon
+Christian André
+Jean-Luc Sassus
+Lionel Messi
+Abdou Diallo
+Philippe Redon
+Siaka Tiéné
+Hugo Leal
+Bartholomew Ogbeche
+Pascal Zaremba
+Bernard Guignedoux
+Michel Prost
+Dani Alves
+Bonaventure Kalou
+Apoula Edel
+Zlatko Vujović
+Nicolas Anelka
+Roland Mitoraj
+Jean Djorkaeff
+Paulo César
+Jean-Noël Huck
+Carlos Soler
+Ali Benarbia
+Jacky Bade
+Aliou Cissé
+Jean-Pierre Bosser
+Jean-Claude Bras
+Michel Marella
+Jean-Pierre Tokoto
+Stéphane Pichot
+Sergio Ramos
+Bernard Allou
+Lionel Justier
+Yohan Cabaye
+Jean Deloffre
+Danijel Ljuboja
+Pierre Vermeulen
+Grégory Bourillon
+Randal Kolo Muani
+Giovani Lo Celso
+Alain Polaniok
+Jean-Christophe Bahebeck
+Mateja Kežman
+Jean-Eudes Maurice
+Mikel Arteta
+Oumar Dieng
+Eric Maxim Choupo-Moting
+Cristian Rodríguez
+Bruno Germain
+Gérard Janvion
+Othniel Dossevi
+Pierre-Alain Frau
+Benoît Cauet
+Xavier Gravelaine
+Humberto Coelho
+Louis Floch
+Marco Asensio
+Younousse Sankharé
+Branko Bošković
+Florian Maurice
+Youri Djorkaeff
+Kees Kist
+Mickaël Madar
+Franck Gava
+Leonardo | Leonardo Araújo
+Gérard Lanthier
+Abel Braga
+Bernard Bureau
+Armando Bianchi
+Lucas Digne
+Nordi Mukiele
+Mitchel Bakker
+Sylvain Distin
+Matvey Safonov
+Selim Benachour
+Jean-Pierre Adams
+Vikash Dhorasoo
+Nicolas Douchez
+Guy Nosibor
+Moise Kean
+Jacques Rémond
+Grégory Coupet
+Ivica Šurjak
+Jules Bocandé
+Ibrahim Mbaye
+Benjamin Stambouli
+Jocelyn Angloma
+Rafinha
+Kenedy | Daniel Kenedy
+Georginio Wijnaldum
+Peter Luccin
+Boukary Dramé
+Jean-Michel Moutier
+Antoine Garceran
+François Calderaro
+Albert Poli
+Mohamed Sissoko
+Illia Zabarnyi
+Milan Škriniar
+Manuel Ugarte
+Alain Goma
+Christophe Revault
+Jean-François Beltramini
+Bernard Dumot
+Alessandro Florenzi
+Alioune Touré
+Granddi Ngoyi
+Didier Toffolo
+Gérard Hallet
+Moussa Diaby
+Jean-Philippe Séchet
+Claude Arribas
+Jean-Pierre Destrumelle
+Romain Rocchi
+Hugo Ekitike
+Christian Wörns
+Stéphane Mahé
+Hatem Ben Arfa
+Yuri Berchiche
+Daniel Bernard
+Jean-Paul Rostagni
+Jean-Kévin Augustin
+Sergei Semak
+Michel Béhier
+Guy Delhumeau
+Loris Arnaud
+William Ayache
+Christophe Landrin
+Charles-Édouard Coridon
+Geraldão
+Nicolas Laspalles
+Claude Lowitz
+Robert Jacques
+Alex Dias
+Robin Leclerc
+Marcelo Gallardo
+Gérard Cenzato
+Bruno Roux
+Renato Sanches
+Tripy Makonda
+Michel Bensoussan
+Daniel Solas
+Fernando Cruz
+Martín Cardetti
+Juan Pablo Sorín
+Stéphane Dalmat
+Lucas Chevalier
+Bruno Carotti
+Vincent Fernandez
+Adaílton
+David Ngog
+Yann Lachuer
+Omar da Fonseca
+Filipe Teixeira
+Milan Biševac
+Jean-Michel Larqué
+Gianluigi Buffon
+Jocelyn Rico
+Daniel Guicci
+Jean-Claude Fitte-Duval
+Sergio Rico
+Alex Nyarko
+Edvin Murati
+Patrick Mboma
+Patrice Marquet
+Ramón Heredia
+André Luiz
+Grégory Paisley
+Dominique Casagrande
+Cyrille Pouget
+Jacky Planchard
+Youssouf Mulumbu
+Hélder
+Vahid Halilhodžić
+Jean-Luc Vasseur
+Richard Niederbacher
+Thierry Tinmar
+Raymond Domenech
+Daniel Sanchez
+João Alves
+Diego Lugano
+Godwin Okpara
+Pierre Dréossi
+Bernard Moraly
+Mordechai Spiegler
+Kaba Diawara
+Bruno Rodriguez
+Pascal Schmitt
+El Chadaille Bitshiabu
+Lassana Diarra
+Didier Digard
+David Hellebuyck
+Éric Cubilier
+Grzegorz Krychowiak
+Jesé
+Edmílson
+William N'Jo Léa
+Didier Ledunois
+Souza
+Stéphane Pédron
+Éric Martin
+Osvaldo Ardiles
+Stanley N'Soki | Stanley Nsoki
+Hervin Ongenda
+Carlos Bueno
+Gilles Cardinet
+Pierre Bajoc
+Patrice Zbinden
+Quentin Ndjantou
+Timothée Pembélé
+Sylvain Léandri
+Jean-Michel Badiane
+Nicolas Ouédec
+James Debbah
+Yvon Le Roux
+Dominique Berthaud
+Junior Dina Ebimbe
+David Beckham
+Richard Dutruel
+Philippe Jean
+Tanguy Nianzou
+Dro Fernández
+Larrys Mabiala
+Jean-Hugues Ateba
+Christian Zajaczkowski
+Manuel Abreu
+Gonçalo Guedes
+César Belli
+Ismaël Gharbi
+Rudy Haddad
+David Rinçon
+Jean-François Douis
+Yoram Zague
+Xavi Simons
+Salah Assad
+Agostinho
+Ray Wilkins
+Pascal Havet
+Hervé Porquet
+Armando Monteiro
+Neeskens Kebano
+André Travetto
+Christian Quéré
+Patrice Py
+Vampeta
+Arnau Tenas
+Thierry Laurey
+Édouard Michut
+Luc Borrelli
+Bernard Héréson
+Gilles Brisson
+Kays Ruiz-Atil
+Jonathan Ikoné
+Gaël Hiroux
+Hélder Baptista
+Pierre Bianconi
+Bernard Caron
+Mohamed Ali Messaoud
+Daniel Horlaville
+Thierry Carré
+Bandiougou Fadiga
+Timothy Weah
+Vedad Ibišević
+Bernard Pardo
+Alboury Lah
+Claude Barrabé
+Patrice Turpin
+Bernard Lambert
+Ethan Mbappé
+Arnaud Kalimuendo
+Albert Baning
+Franck Dja Djédjé
+Quique de Lucas
+Fabrice Abriel
+Didier Martel
+Roméo Calenda
+Alain Préfaci
+Thierry Coutard
+Claude Rivet
+Kévin Rimane
+Cher Ndour
+Kingsley Coman
+Yannick Boli
+Marko Pantelić
+Philippe Dehouck
+Patrice Ségura
+Marcel Defalco
+Dominique Barberat
+Pierre Phelipon
+Adil Aouchiche
+Maghnes Akliouche
+Renato Marin
+Noham Kamara
+Axel Tape
+Loïc Mbe Soh
+Antoine Bernède
+Florian Makhedjouf
+Éverton Santos
+Maxime Partouche
+Chiguy Lucau
+Fabrice Kelban
+Fabrice Moreau
+Olivier Martinez
+Michel Llodra
+Jantzen Derrick
+Stéphane Persol
+Laurent Pimond
+Pierre-Antoine Dossevi
+Dominique Delplanque
+Dimitri Lucea
+Noah Nsoki
+Mathis Jangéal
+Ilyes Housni
+Alexandre Letellier
+Marcin Bułka
+Samuel Piètre
+Cédric Pardeilhan
+Joel Camargo
+Ferran Torres
+Mika Godts
+Pierre Mounguengue
+David Boly
+Djeidi Gassama
+Sekou Yansané
+Kenny Nagera
+Nathan Bitumazala
+Metehan Güçlü
+Arthur Zagré
+Yacine Adli
+Antoine Conte
+Ronan Le Crom
+Kalifa Traoré
+Jérémi Kimmakon

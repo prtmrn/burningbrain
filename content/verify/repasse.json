@@ -1,0 +1,9378 @@
+{
+  "spo-football-03": {
+    "sources": [],
+    "answers": [
+      {
+        "answer": "George Perrins",
+        "aliases": []
+      },
+      {
+        "answer": "Fred Erentz",
+        "aliases": [
+          "Fredrick Erentz"
+        ]
+      },
+      {
+        "answer": "Bob Donaldson",
+        "aliases": [
+          "Robert Donaldson"
+        ]
+      },
+      {
+        "answer": "Joe Cassidy",
+        "aliases": []
+      },
+      {
+        "answer": "James McNaught",
+        "aliases": []
+      },
+      {
+        "answer": "Dick Smith",
+        "aliases": [
+          "Richard Smith"
+        ]
+      },
+      {
+        "answer": "Walter Cartwright",
+        "aliases": []
+      },
+      {
+        "answer": "Harry Stafford",
+        "aliases": []
+      },
+      {
+        "answer": "William Bryant",
+        "aliases": [
+          "Willie Bryant"
+        ]
+      },
+      {
+        "answer": "Frank Barrett",
+        "aliases": []
+      },
+      {
+        "answer": "Billy Morgan",
+        "aliases": [
+          "William Morgan"
+        ]
+      },
+      {
+        "answer": "Billy Griffiths",
+        "aliases": [
+          "William Griffiths"
+        ]
+      },
+      {
+        "answer": "Alf Schofield",
+        "aliases": [
+          "Alfred Schofield"
+        ]
+      },
+      {
+        "answer": "Vince Hayes",
+        "aliases": []
+      },
+      {
+        "answer": "Jack Peddie",
+        "aliases": []
+      },
+      {
+        "answer": "Alex Downie",
+        "aliases": []
+      },
+      {
+        "answer": "Alex Bell",
+        "aliases": []
+      },
+      {
+        "answer": "Bob Bonthron",
+        "aliases": [
+          "Robert Bonthron"
+        ]
+      },
+      {
+        "answer": "Harry Moger",
+        "aliases": []
+      },
+      {
+        "answer": "Dick Duckworth",
+        "aliases": [
+          "Richard Duckworth"
+        ]
+      },
+      {
+        "answer": "Charlie Roberts",
+        "aliases": []
+      },
+      {
+        "answer": "Dick Holden",
+        "aliases": [
+          "Richard Holden"
+        ]
+      },
+      {
+        "answer": "Jack Picken",
+        "aliases": [
+          "John Picken"
+        ]
+      },
+      {
+        "answer": "George Wall",
+        "aliases": []
+      },
+      {
+        "answer": "Billy Meredith",
+        "aliases": []
+      },
+      {
+        "answer": "Sandy Turnbull",
+        "aliases": []
+      },
+      {
+        "answer": "George Stacey",
+        "aliases": []
+      },
+      {
+        "answer": "Harold Halse",
+        "aliases": []
+      },
+      {
+        "answer": "Arthur Whalley",
+        "aliases": []
+      },
+      {
+        "answer": "Enoch West",
+        "aliases": []
+      },
+      {
+        "answer": "Bobby Beale",
+        "aliases": [
+          "Robert Beale"
+        ]
+      },
+      {
+        "answer": "Jack Mew",
+        "aliases": [
+          "John Mew"
+        ]
+      },
+      {
+        "answer": "Lal Hilditch",
+        "aliases": [
+          "Clarence Hilditch"
+        ]
+      },
+      {
+        "answer": "Jack Silcock",
+        "aliases": []
+      },
+      {
+        "answer": "Joe Spence",
+        "aliases": []
+      },
+      {
+        "answer": "Charlie Moore",
+        "aliases": []
+      },
+      {
+        "answer": "John Grimwood",
+        "aliases": []
+      },
+      {
+        "answer": "Teddy Partridge",
+        "aliases": [
+          "Edward Partridge"
+        ]
+      },
+      {
+        "answer": "Alf Steward",
+        "aliases": [
+          "Alfred Steward"
+        ]
+      },
+      {
+        "answer": "Ray Bennion",
+        "aliases": [
+          "Samuel Bennion"
+        ]
+      },
+      {
+        "answer": "Arthur Lochhead",
+        "aliases": []
+      },
+      {
+        "answer": "Harry Thomas",
+        "aliases": []
+      },
+      {
+        "answer": "Frank Barson",
+        "aliases": []
+      },
+      {
+        "answer": "Frank Mann",
+        "aliases": []
+      },
+      {
+        "answer": "Frank McPherson",
+        "aliases": []
+      },
+      {
+        "answer": "Tom Jones",
+        "aliases": []
+      },
+      {
+        "answer": "Jimmy Hanson",
+        "aliases": [
+          "James Hanson"
+        ]
+      },
+      {
+        "answer": "Jack Wilson",
+        "aliases": [
+          "John Wilson"
+        ]
+      },
+      {
+        "answer": "Hugh McLenahan",
+        "aliases": []
+      },
+      {
+        "answer": "Harry Rowley",
+        "aliases": []
+      },
+      {
+        "answer": "Tommy Reid",
+        "aliases": [
+          "Thomas Reid"
+        ]
+      },
+      {
+        "answer": "George McLachlan",
+        "aliases": []
+      },
+      {
+        "answer": "Jack Mellor",
+        "aliases": []
+      },
+      {
+        "answer": "Tom Manley",
+        "aliases": [
+          "Thomas Manley"
+        ]
+      },
+      {
+        "answer": "George Vose",
+        "aliases": []
+      },
+      {
+        "answer": "Jack Griffiths",
+        "aliases": []
+      },
+      {
+        "answer": "Bill McKay",
+        "aliases": []
+      },
+      {
+        "answer": "George Mutch",
+        "aliases": []
+      },
+      {
+        "answer": "Tommy Bamford",
+        "aliases": []
+      },
+      {
+        "answer": "Billy Bryant",
+        "aliases": []
+      },
+      {
+        "answer": "James Brown",
+        "aliases": []
+      },
+      {
+        "answer": "Johnny Carey",
+        "aliases": []
+      },
+      {
+        "answer": "Jack Rowley",
+        "aliases": []
+      },
+      {
+        "answer": "Stan Pearson",
+        "aliases": []
+      },
+      {
+        "answer": "Jack Warner",
+        "aliases": []
+      },
+      {
+        "answer": "John Aston Sr.",
+        "aliases": []
+      },
+      {
+        "answer": "Allenby Chilton",
+        "aliases": []
+      },
+      {
+        "answer": "Henry Cockburn",
+        "aliases": []
+      },
+      {
+        "answer": "Jack Crompton",
+        "aliases": []
+      },
+      {
+        "answer": "Jimmy Delaney",
+        "aliases": []
+      },
+      {
+        "answer": "Billy McGlen",
+        "aliases": []
+      },
+      {
+        "answer": "Charlie Mitten",
+        "aliases": []
+      },
+      {
+        "answer": "Johnny Downie",
+        "aliases": []
+      },
+      {
+        "answer": "Ray Wood",
+        "aliases": []
+      },
+      {
+        "answer": "Don Gibson",
+        "aliases": []
+      },
+      {
+        "answer": "Mark Jones",
+        "aliases": []
+      },
+      {
+        "answer": "Johnny Berry",
+        "aliases": []
+      },
+      {
+        "answer": "Jackie Blanchflower",
+        "aliases": []
+      },
+      {
+        "answer": "Roger Byrne",
+        "aliases": []
+      },
+      {
+        "answer": "David Pegg",
+        "aliases": []
+      },
+      {
+        "answer": "Bill Foulkes",
+        "aliases": []
+      },
+      {
+        "answer": "Tommy Taylor",
+        "aliases": []
+      },
+      {
+        "answer": "Duncan Edwards",
+        "aliases": []
+      },
+      {
+        "answer": "Dennis Viollet",
+        "aliases": []
+      },
+      {
+        "answer": "Freddie Goodwin",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Scanlon",
+        "aliases": []
+      },
+      {
+        "answer": "Eddie Colman",
+        "aliases": []
+      },
+      {
+        "answer": "Ronnie Cope",
+        "aliases": []
+      },
+      {
+        "answer": "Bobby Charlton",
+        "aliases": []
+      },
+      {
+        "answer": "David Gaskell",
+        "aliases": []
+      },
+      {
+        "answer": "Harry Gregg",
+        "aliases": []
+      },
+      {
+        "answer": "Shay Brennan",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Quixall",
+        "aliases": []
+      },
+      {
+        "answer": "Johnny Giles",
+        "aliases": []
+      },
+      {
+        "answer": "Nobby Stiles",
+        "aliases": []
+      },
+      {
+        "answer": "Maurice Setters",
+        "aliases": []
+      },
+      {
+        "answer": "Tony Dunne",
+        "aliases": []
+      },
+      {
+        "answer": "Noel Cantwell",
+        "aliases": []
+      },
+      {
+        "answer": "David Herd",
+        "aliases": []
+      },
+      {
+        "answer": "Denis Law",
+        "aliases": []
+      },
+      {
+        "answer": "David Sadler",
+        "aliases": []
+      },
+      {
+        "answer": "Paddy Crerand",
+        "aliases": []
+      },
+      {
+        "answer": "George Best",
+        "aliases": []
+      },
+      {
+        "answer": "John Connelly",
+        "aliases": []
+      },
+      {
+        "answer": "John Fitzpatrick",
+        "aliases": []
+      },
+      {
+        "answer": "John Aston Jr.",
+        "aliases": []
+      },
+      {
+        "answer": "Alex Stepney",
+        "aliases": []
+      },
+      {
+        "answer": "Brian Kidd",
+        "aliases": []
+      },
+      {
+        "answer": "Francis Burns",
+        "aliases": []
+      },
+      {
+        "answer": "Willie Morgan",
+        "aliases": []
+      },
+      {
+        "answer": "Steve James",
+        "aliases": []
+      },
+      {
+        "answer": "Sammy McIlroy",
+        "aliases": []
+      },
+      {
+        "answer": "Martin Buchan",
+        "aliases": []
+      },
+      {
+        "answer": "David McCreery",
+        "aliases": []
+      },
+      {
+        "answer": "Alex Forsyth",
+        "aliases": []
+      },
+      {
+        "answer": "Lou Macari",
+        "aliases": []
+      },
+      {
+        "answer": "Gerry Daly",
+        "aliases": []
+      },
+      {
+        "answer": "Brian Greenhoff",
+        "aliases": []
+      },
+      {
+        "answer": "Stewart Houston",
+        "aliases": []
+      },
+      {
+        "answer": "Stuart Pearson",
+        "aliases": []
+      },
+      {
+        "answer": "Arthur Albiston",
+        "aliases": []
+      },
+      {
+        "answer": "Steve Coppell",
+        "aliases": []
+      },
+      {
+        "answer": "Jimmy Nicholl",
+        "aliases": []
+      },
+      {
+        "answer": "Gordon Hill",
+        "aliases": []
+      },
+      {
+        "answer": "Jimmy Greenhoff",
+        "aliases": []
+      },
+      {
+        "answer": "Ashley Grimes",
+        "aliases": []
+      },
+      {
+        "answer": "Joe Jordan",
+        "aliases": []
+      },
+      {
+        "answer": "Gordon McQueen",
+        "aliases": []
+      },
+      {
+        "answer": "Gary Bailey",
+        "aliases": []
+      },
+      {
+        "answer": "Mickey Thomas",
+        "aliases": []
+      },
+      {
+        "answer": "Kevin Moran",
+        "aliases": []
+      },
+      {
+        "answer": "Ray Wilkins",
+        "aliases": []
+      },
+      {
+        "answer": "Mike Duxbury",
+        "aliases": []
+      },
+      {
+        "answer": "John Gidman",
+        "aliases": []
+      },
+      {
+        "answer": "Frank Stapleton",
+        "aliases": []
+      },
+      {
+        "answer": "Remi Moses",
+        "aliases": []
+      },
+      {
+        "answer": "Bryan Robson",
+        "aliases": []
+      },
+      {
+        "answer": "Norman Whiteside",
+        "aliases": []
+      },
+      {
+        "answer": "Paul McGrath",
+        "aliases": []
+      },
+      {
+        "answer": "Mark Hughes",
+        "aliases": []
+      },
+      {
+        "answer": "Graeme Hogg",
+        "aliases": []
+      },
+      {
+        "answer": "Clayton Blackmore",
+        "aliases": []
+      },
+      {
+        "answer": "Jesper Olsen",
+        "aliases": []
+      },
+      {
+        "answer": "Gordon Strachan",
+        "aliases": []
+      },
+      {
+        "answer": "Peter Davenport",
+        "aliases": []
+      },
+      {
+        "answer": "Brian McClair",
+        "aliases": []
+      },
+      {
+        "answer": "Steve Bruce",
+        "aliases": []
+      },
+      {
+        "answer": "Lee Martin",
+        "aliases": []
+      },
+      {
+        "answer": "Lee Sharpe",
+        "aliases": []
+      },
+      {
+        "answer": "Mal Donaghy",
+        "aliases": []
+      },
+      {
+        "answer": "Mike Phelan",
+        "aliases": []
+      },
+      {
+        "answer": "Neil Webb",
+        "aliases": []
+      },
+      {
+        "answer": "Gary Pallister",
+        "aliases": []
+      },
+      {
+        "answer": "Paul Ince",
+        "aliases": []
+      },
+      {
+        "answer": "Denis Irwin",
+        "aliases": []
+      },
+      {
+        "answer": "Ryan Giggs",
+        "aliases": []
+      },
+      {
+        "answer": "Andrei Kanchelskis",
+        "aliases": []
+      },
+      {
+        "answer": "Paul Parker",
+        "aliases": []
+      },
+      {
+        "answer": "Peter Schmeichel",
+        "aliases": []
+      },
+      {
+        "answer": "Gary Neville",
+        "aliases": []
+      },
+      {
+        "answer": "David Beckham",
+        "aliases": []
+      },
+      {
+        "answer": "Nicky Butt",
+        "aliases": []
+      },
+      {
+        "answer": "Eric Cantona",
+        "aliases": []
+      },
+      {
+        "answer": "Roy Keane",
+        "aliases": []
+      },
+      {
+        "answer": "David May",
+        "aliases": []
+      },
+      {
+        "answer": "Paul Scholes",
+        "aliases": []
+      },
+      {
+        "answer": "Andy Cole",
+        "aliases": []
+      },
+      {
+        "answer": "Phil Neville",
+        "aliases": []
+      },
+      {
+        "answer": "Ronny Johnsen",
+        "aliases": []
+      },
+      {
+        "answer": "Ole Gunnar Solskjær",
+        "aliases": []
+      },
+      {
+        "answer": "Teddy Sheringham",
+        "aliases": []
+      },
+      {
+        "answer": "Henning Berg",
+        "aliases": []
+      },
+      {
+        "answer": "Wes Brown",
+        "aliases": []
+      },
+      {
+        "answer": "Jaap Stam",
+        "aliases": []
+      },
+      {
+        "answer": "Dwight Yorke",
+        "aliases": []
+      },
+      {
+        "answer": "Quinton Fortune",
+        "aliases": []
+      },
+      {
+        "answer": "Mikaël Silvestre",
+        "aliases": []
+      },
+      {
+        "answer": "John O'Shea",
+        "aliases": []
+      },
+      {
+        "answer": "Fabien Barthez",
+        "aliases": []
+      },
+      {
+        "answer": "Ruud van Nistelrooy",
+        "aliases": []
+      },
+      {
+        "answer": "Rio Ferdinand",
+        "aliases": []
+      },
+      {
+        "answer": "Darren Fletcher",
+        "aliases": []
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "aliases": []
+      },
+      {
+        "answer": "Louis Saha",
+        "aliases": []
+      },
+      {
+        "answer": "Wayne Rooney",
+        "aliases": []
+      },
+      {
+        "answer": "Edwin van der Sar",
+        "aliases": []
+      },
+      {
+        "answer": "Park Ji-sung",
+        "aliases": []
+      },
+      {
+        "answer": "Patrice Evra",
+        "aliases": []
+      },
+      {
+        "answer": "Nemanja Vidić",
+        "aliases": []
+      },
+      {
+        "answer": "Michael Carrick",
+        "aliases": []
+      },
+      {
+        "answer": "Nani",
+        "aliases": []
+      },
+      {
+        "answer": "Anderson",
+        "aliases": []
+      },
+      {
+        "answer": "Jonny Evans",
+        "aliases": []
+      },
+      {
+        "answer": "Dimitar Berbatov",
+        "aliases": []
+      },
+      {
+        "answer": "Rafael",
+        "aliases": []
+      },
+      {
+        "answer": "Danny Welbeck",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Valencia",
+        "aliases": []
+      },
+      {
+        "answer": "Javier Hernández",
+        "aliases": []
+      },
+      {
+        "answer": "Chris Smalling",
+        "aliases": []
+      },
+      {
+        "answer": "David de Gea",
+        "aliases": []
+      },
+      {
+        "answer": "Phil Jones",
+        "aliases": []
+      },
+      {
+        "answer": "Ashley Young",
+        "aliases": []
+      },
+      {
+        "answer": "Paul Pogba",
+        "aliases": []
+      },
+      {
+        "answer": "Robin van Persie",
+        "aliases": []
+      },
+      {
+        "answer": "Marouane Fellaini",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Mata",
+        "aliases": []
+      },
+      {
+        "answer": "Daley Blind",
+        "aliases": []
+      },
+      {
+        "answer": "Jesse Lingard",
+        "aliases": []
+      },
+      {
+        "answer": "Ander Herrera",
+        "aliases": []
+      },
+      {
+        "answer": "Marcos Rojo",
+        "aliases": []
+      },
+      {
+        "answer": "Luke Shaw",
+        "aliases": []
+      },
+      {
+        "answer": "Anthony Martial",
+        "aliases": []
+      },
+      {
+        "answer": "Marcus Rashford",
+        "aliases": []
+      },
+      {
+        "answer": "Eric Bailly",
+        "aliases": []
+      },
+      {
+        "answer": "Nemanja Matić",
+        "aliases": []
+      },
+      {
+        "answer": "Victor Lindelöf",
+        "aliases": []
+      },
+      {
+        "answer": "Scott McTominay",
+        "aliases": []
+      },
+      {
+        "answer": "Fred",
+        "aliases": []
+      },
+      {
+        "answer": "Diogo Dalot",
+        "aliases": []
+      },
+      {
+        "answer": "Mason Greenwood",
+        "aliases": []
+      },
+      {
+        "answer": "Harry Maguire",
+        "aliases": []
+      },
+      {
+        "answer": "Aaron Wan-Bissaka",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Fernandes",
+        "aliases": []
+      },
+      {
+        "answer": "Amad Diallo",
+        "aliases": []
+      },
+      {
+        "answer": "Alejandro Garnacho",
+        "aliases": []
+      },
+      {
+        "answer": "Lisandro Martínez",
+        "aliases": []
+      },
+      {
+        "answer": "Casemiro",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Eriksen",
+        "aliases": []
+      },
+      {
+        "answer": "André Onana",
+        "aliases": []
+      },
+      {
+        "answer": "Kobbie Mainoo",
+        "aliases": []
+      }
+    ]
+  },
+  "spo-football-04": {
+    "sources": [],
+    "answers": [
+      {
+        "answer": "Angelo Alessio",
+        "aliases": []
+      },
+      {
+        "answer": "José Altafini",
+        "aliases": []
+      },
+      {
+        "answer": "Amauri",
+        "aliases": []
+      },
+      {
+        "answer": "Nicola Amoruso",
+        "aliases": []
+      },
+      {
+        "answer": "Pietro Anastasi",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Anzolin",
+        "aliases": []
+      },
+      {
+        "answer": "Kwadwo Asamoah",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Baggio",
+        "aliases": []
+      },
+      {
+        "answer": "Oreste Barale",
+        "aliases": []
+      },
+      {
+        "answer": "Andrea Barzagli",
+        "aliases": []
+      },
+      {
+        "answer": "Savino Bellini",
+        "aliases": []
+      },
+      {
+        "answer": "Romeo Benetti",
+        "aliases": []
+      },
+      {
+        "answer": "Rodrigo Bentancur",
+        "aliases": []
+      },
+      {
+        "answer": "Giancarlo Bercellino",
+        "aliases": []
+      },
+      {
+        "answer": "Federico Bernardeschi",
+        "aliases": []
+      },
+      {
+        "answer": "Luigi Bertolini",
+        "aliases": []
+      },
+      {
+        "answer": "Alberto Bertuccelli",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Bettega",
+        "aliases": []
+      },
+      {
+        "answer": "Carlo Bigatto",
+        "aliases": []
+      },
+      {
+        "answer": "Alessandro Birindelli",
+        "aliases": []
+      },
+      {
+        "answer": "Zbigniew Boniek",
+        "aliases": []
+      },
+      {
+        "answer": "Massimo Bonini",
+        "aliases": []
+      },
+      {
+        "answer": "Giampiero Boniperti",
+        "aliases": []
+      },
+      {
+        "answer": "Leonardo Bonucci",
+        "aliases": []
+      },
+      {
+        "answer": "Felice Borel",
+        "aliases": []
+      },
+      {
+        "answer": "Gleison Bremer",
+        "aliases": []
+      },
+      {
+        "answer": "Sergio Brio",
+        "aliases": []
+      },
+      {
+        "answer": "Gianluigi Buffon",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Cabrini",
+        "aliases": []
+      },
+      {
+        "answer": "Martín Cáceres",
+        "aliases": []
+      },
+      {
+        "answer": "Umberto Caligaris",
+        "aliases": []
+      },
+      {
+        "answer": "Andrea Cambiaso",
+        "aliases": []
+      },
+      {
+        "answer": "Mauro Camoranesi",
+        "aliases": []
+      },
+      {
+        "answer": "Fabio Cannavaro",
+        "aliases": []
+      },
+      {
+        "answer": "Fabio Capello",
+        "aliases": []
+      },
+      {
+        "answer": "Massimo Carrera",
+        "aliases": []
+      },
+      {
+        "answer": "Pierluigi Casiraghi",
+        "aliases": []
+      },
+      {
+        "answer": "Ernesto Càstano",
+        "aliases": []
+      },
+      {
+        "answer": "Franco Causio",
+        "aliases": []
+      },
+      {
+        "answer": "Renato Cesarini",
+        "aliases": []
+      },
+      {
+        "answer": "John Charles",
+        "aliases": []
+      },
+      {
+        "answer": "Giorgio Chiellini",
+        "aliases": []
+      },
+      {
+        "answer": "Federico Chiesa",
+        "aliases": []
+      },
+      {
+        "answer": "Cinesinho",
+        "aliases": []
+      },
+      {
+        "answer": "Umberto Colombo",
+        "aliases": []
+      },
+      {
+        "answer": "Gianpiero Combi",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Conte",
+        "aliases": []
+      },
+      {
+        "answer": "Giuseppe Corradi",
+        "aliases": []
+      },
+      {
+        "answer": "Douglas Costa",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Cuadrado",
+        "aliases": []
+      },
+      {
+        "answer": "Antonello Cuccureddu",
+        "aliases": []
+      },
+      {
+        "answer": "Danilo",
+        "aliases": []
+      },
+      {
+        "answer": "Edgar Davids",
+        "aliases": []
+      },
+      {
+        "answer": "Luigi De Agostini",
+        "aliases": []
+      },
+      {
+        "answer": "Paolo De Ceglie",
+        "aliases": []
+      },
+      {
+        "answer": "Matthijs De Ligt",
+        "aliases": []
+      },
+      {
+        "answer": "Mattia De Sciglio",
+        "aliases": []
+      },
+      {
+        "answer": "Alessandro Del Piero",
+        "aliases": []
+      },
+      {
+        "answer": "Luis del Sol",
+        "aliases": []
+      },
+      {
+        "answer": "Teobaldo Depetrini",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Deschamps",
+        "aliases": []
+      },
+      {
+        "answer": "Paolo Di Canio",
+        "aliases": []
+      },
+      {
+        "answer": "Angelo Di Livio",
+        "aliases": []
+      },
+      {
+        "answer": "Paulo Dybala",
+        "aliases": []
+      },
+      {
+        "answer": "Flavio Emoli",
+        "aliases": []
+      },
+      {
+        "answer": "Pietro Fanna",
+        "aliases": []
+      },
+      {
+        "answer": "Luciano Favero",
+        "aliases": []
+      },
+      {
+        "answer": "Ciro Ferrara",
+        "aliases": []
+      },
+      {
+        "answer": "Giovanni Ferrari",
+        "aliases": []
+      },
+      {
+        "answer": "Rino Ferrario",
+        "aliases": []
+      },
+      {
+        "answer": "Alfredo Foni",
+        "aliases": []
+      },
+      {
+        "answer": "Giuseppe Furino",
+        "aliases": []
+      },
+      {
+        "answer": "Guglielmo Gabetto",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Galìa",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Garzena",
+        "aliases": []
+      },
+      {
+        "answer": "Federico Gatti",
+        "aliases": []
+      },
+      {
+        "answer": "Claudio Gentile",
+        "aliases": []
+      },
+      {
+        "answer": "Sebastian Giovinco",
+        "aliases": []
+      },
+      {
+        "answer": "Adolfo Gori",
+        "aliases": []
+      },
+      {
+        "answer": "Zdeněk Grygera",
+        "aliases": []
+      },
+      {
+        "answer": "Helmut Haller",
+        "aliases": []
+      },
+      {
+        "answer": "John Hansen",
+        "aliases": []
+      },
+      {
+        "answer": "Gonzalo Higuaín",
+        "aliases": []
+      },
+      {
+        "answer": "Vincenzo Iaquinta",
+        "aliases": []
+      },
+      {
+        "answer": "Filippo Inzaghi",
+        "aliases": []
+      },
+      {
+        "answer": "Mark Iuliano",
+        "aliases": []
+      },
+      {
+        "answer": "Júlio César",
+        "aliases": []
+      },
+      {
+        "answer": "Moise Kean",
+        "aliases": []
+      },
+      {
+        "answer": "Sami Khedira",
+        "aliases": []
+      },
+      {
+        "answer": "Jürgen Kohler",
+        "aliases": []
+      },
+      {
+        "answer": "Filip Kostić",
+        "aliases": []
+      },
+      {
+        "answer": "Michael Laudrup",
+        "aliases": []
+      },
+      {
+        "answer": "Nicola Legrottaglie",
+        "aliases": []
+      },
+      {
+        "answer": "Gianfranco Leoncini",
+        "aliases": []
+      },
+      {
+        "answer": "Stephan Lichtsteiner",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Locatelli",
+        "aliases": []
+      },
+      {
+        "answer": "Ugo Locatelli",
+        "aliases": []
+      },
+      {
+        "answer": "Pietro Magni",
+        "aliases": []
+      },
+      {
+        "answer": "Sergio Manente",
+        "aliases": []
+      },
+      {
+        "answer": "Mario Mandžukić",
+        "aliases": []
+      },
+      {
+        "answer": "Giampietro Marchetti",
+        "aliases": []
+      },
+      {
+        "answer": "Claudio Marchisio",
+        "aliases": []
+      },
+      {
+        "answer": "Giacomo Mari",
+        "aliases": []
+      },
+      {
+        "answer": "Giancarlo Marocchi",
+        "aliases": []
+      },
+      {
+        "answer": "Domenico Marocchino",
+        "aliases": []
+      },
+      {
+        "answer": "Carlo Mattrel",
+        "aliases": []
+      },
+      {
+        "answer": "Blaise Matuidi",
+        "aliases": []
+      },
+      {
+        "answer": "Massimo Mauro",
+        "aliases": []
+      },
+      {
+        "answer": "Weston McKennie",
+        "aliases": []
+      },
+      {
+        "answer": "Giampaolo Menichelli",
+        "aliases": []
+      },
+      {
+        "answer": "Paolo Montero",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Monti",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Montico",
+        "aliases": []
+      },
+      {
+        "answer": "Álvaro Morata",
+        "aliases": []
+      },
+      {
+        "answer": "Francesco Morini",
+        "aliases": []
+      },
+      {
+        "answer": "Ermes Muccinelli",
+        "aliases": []
+      },
+      {
+        "answer": "Federico Munerati",
+        "aliases": []
+      },
+      {
+        "answer": "Pavel Nedvěd",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Nicolè",
+        "aliases": []
+      },
+      {
+        "answer": "Raimundo Orsi",
+        "aliases": []
+      },
+      {
+        "answer": "Simone Padoin",
+        "aliases": []
+      },
+      {
+        "answer": "Carlo Parola",
+        "aliases": []
+      },
+      {
+        "answer": "Angelo Peruzzi",
+        "aliases": []
+      },
+      {
+        "answer": "Gianluca Pessotto",
+        "aliases": []
+      },
+      {
+        "answer": "Alberto Piccinini",
+        "aliases": []
+      },
+      {
+        "answer": "Andrea Pirlo",
+        "aliases": []
+      },
+      {
+        "answer": "Miralem Pjanić",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Platini",
+        "aliases": []
+      },
+      {
+        "answer": "Paul Pogba",
+        "aliases": []
+      },
+      {
+        "answer": "Sergio Porrini",
+        "aliases": []
+      },
+      {
+        "answer": "Karl Aage Præst",
+        "aliases": []
+      },
+      {
+        "answer": "Claudio Prandelli",
+        "aliases": []
+      },
+      {
+        "answer": "Fabio Quagliarella",
+        "aliases": []
+      },
+      {
+        "answer": "Adrien Rabiot",
+        "aliases": []
+      },
+      {
+        "answer": "Pietro Rava",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrizio Ravanelli",
+        "aliases": []
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "aliases": []
+      },
+      {
+        "answer": "Virginio Rosetta",
+        "aliases": []
+      },
+      {
+        "answer": "Paolo Rossi",
+        "aliases": []
+      },
+      {
+        "answer": "Daniele Rugani",
+        "aliases": []
+      },
+      {
+        "answer": "Giovanni Sacco",
+        "aliases": []
+      },
+      {
+        "answer": "Sandro Salvadore",
+        "aliases": []
+      },
+      {
+        "answer": "Alex Sandro",
+        "aliases": []
+      },
+      {
+        "answer": "Benito Sarti",
+        "aliases": []
+      },
+      {
+        "answer": "Salvatore Schillaci",
+        "aliases": []
+      },
+      {
+        "answer": "Gaetano Scirea",
+        "aliases": []
+      },
+      {
+        "answer": "Lucidio Sentimenti",
+        "aliases": []
+      },
+      {
+        "answer": "Vittorio Sentimenti",
+        "aliases": []
+      },
+      {
+        "answer": "Mohamed Sissoko",
+        "aliases": []
+      },
+      {
+        "answer": "Omar Sívori",
+        "aliases": []
+      },
+      {
+        "answer": "Luciano Spinosi",
+        "aliases": []
+      },
+      {
+        "answer": "Gino Stacchini",
+        "aliases": []
+      },
+      {
+        "answer": "Wojciech Szczęsny",
+        "aliases": []
+      },
+      {
+        "answer": "Alessio Tacchinardi",
+        "aliases": []
+      },
+      {
+        "answer": "Stefano Tacconi",
+        "aliases": []
+      },
+      {
+        "answer": "Marco Tardelli",
+        "aliases": []
+      },
+      {
+        "answer": "Lilian Thuram",
+        "aliases": []
+      },
+      {
+        "answer": "Moreno Torricelli",
+        "aliases": []
+      },
+      {
+        "answer": "David Trezeguet",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Tricella",
+        "aliases": []
+      },
+      {
+        "answer": "Igor Tudor",
+        "aliases": []
+      },
+      {
+        "answer": "Giovanni Varglien",
+        "aliases": []
+      },
+      {
+        "answer": "Mario Varglien",
+        "aliases": []
+      },
+      {
+        "answer": "Gianluca Vialli",
+        "aliases": []
+      },
+      {
+        "answer": "Arturo Vidal",
+        "aliases": []
+      },
+      {
+        "answer": "Beniamino Vignola",
+        "aliases": []
+      },
+      {
+        "answer": "Giovanni Viola",
+        "aliases": []
+      },
+      {
+        "answer": "Pietro Paolo Virdis",
+        "aliases": []
+      },
+      {
+        "answer": "Dušan Vlahović",
+        "aliases": []
+      },
+      {
+        "answer": "Kenan Yıldız",
+        "aliases": []
+      },
+      {
+        "answer": "Marcelo Zalayeta",
+        "aliases": []
+      },
+      {
+        "answer": "Gianluca Zambrotta",
+        "aliases": []
+      },
+      {
+        "answer": "Jonathan Zebina",
+        "aliases": []
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "aliases": []
+      },
+      {
+        "answer": "Gianfranco Zigoni",
+        "aliases": []
+      },
+      {
+        "answer": "Dino Zoff",
+        "aliases": []
+      }
+    ]
+  },
+  "spo-football-05": {
+    "sources": [],
+    "answers": [
+      {
+        "answer": "Ernest Schultz",
+        "aliases": []
+      },
+      {
+        "answer": "Aimé Mignot",
+        "aliases": []
+      },
+      {
+        "answer": "Nestor Combin",
+        "aliases": []
+      },
+      {
+        "answer": "Ángel Rambert",
+        "aliases": [
+          "Angel Rambert"
+        ]
+      },
+      {
+        "answer": "Fleury Di Nallo",
+        "aliases": []
+      },
+      {
+        "answer": "Yves Chauveau",
+        "aliases": []
+      },
+      {
+        "answer": "André Guy",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Lacombe",
+        "aliases": []
+      },
+      {
+        "answer": "Serge Chiesa",
+        "aliases": []
+      },
+      {
+        "answer": "Raymond Domenech",
+        "aliases": []
+      },
+      {
+        "answer": "Sima Nikolic",
+        "aliases": [
+          "Simo Nikolic"
+        ]
+      },
+      {
+        "answer": "Eugène Kabongo Ngoy",
+        "aliases": []
+      },
+      {
+        "answer": "Rémi Garde",
+        "aliases": []
+      },
+      {
+        "answer": "Jacek Bąk",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Caveglia",
+        "aliases": []
+      },
+      {
+        "answer": "Grégory Coupet",
+        "aliases": []
+      },
+      {
+        "answer": "Jérémie Bréchet",
+        "aliases": []
+      },
+      {
+        "answer": "Vikash Dhorasoo",
+        "aliases": []
+      },
+      {
+        "answer": "Sonny Anderson",
+        "aliases": []
+      },
+      {
+        "answer": "Edmílson",
+        "aliases": []
+      },
+      {
+        "answer": "Cláudio Caçapa",
+        "aliases": []
+      },
+      {
+        "answer": "Patrick Müller",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Carrière",
+        "aliases": []
+      },
+      {
+        "answer": "Juninho Pernambucano",
+        "aliases": [
+          "Juninho"
+        ]
+      },
+      {
+        "answer": "Mahamadou Diarra",
+        "aliases": []
+      },
+      {
+        "answer": "Michael Essien",
+        "aliases": []
+      },
+      {
+        "answer": "Florent Malouda",
+        "aliases": []
+      },
+      {
+        "answer": "Anthony Réveillère",
+        "aliases": []
+      },
+      {
+        "answer": "Sylvain Wiltord",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Abidal",
+        "aliases": []
+      },
+      {
+        "answer": "Cris",
+        "aliases": []
+      },
+      {
+        "answer": "Tiago",
+        "aliases": []
+      },
+      {
+        "answer": "Fred",
+        "aliases": []
+      },
+      {
+        "answer": "Karim Benzema",
+        "aliases": []
+      },
+      {
+        "answer": "Jérémy Toulalan",
+        "aliases": []
+      },
+      {
+        "answer": "Kim Källström",
+        "aliases": []
+      },
+      {
+        "answer": "Miralem Pjanić",
+        "aliases": []
+      },
+      {
+        "answer": "Hugo Lloris",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Bastos",
+        "aliases": []
+      },
+      {
+        "answer": "Lisandro López",
+        "aliases": [
+          "Lisandro Lopez"
+        ]
+      },
+      {
+        "answer": "Bafétimbi Gomis",
+        "aliases": []
+      },
+      {
+        "answer": "Maxime Gonalons",
+        "aliases": []
+      },
+      {
+        "answer": "Alexandre Lacazette",
+        "aliases": []
+      },
+      {
+        "answer": "Samuel Umtiti",
+        "aliases": []
+      },
+      {
+        "answer": "Anthony Lopes",
+        "aliases": []
+      },
+      {
+        "answer": "Corentin Tolisso",
+        "aliases": []
+      },
+      {
+        "answer": "Nabil Fékir",
+        "aliases": [
+          "Nabil Fekir"
+        ]
+      },
+      {
+        "answer": "Maxwel Cornet",
+        "aliases": [
+          "Maxwell Cornet"
+        ]
+      },
+      {
+        "answer": "Houssem Aouar",
+        "aliases": []
+      },
+      {
+        "answer": "Memphis Depay",
+        "aliases": []
+      },
+      {
+        "answer": "Ferland Mendy",
+        "aliases": []
+      },
+      {
+        "answer": "Tanguy Ndombele",
+        "aliases": []
+      },
+      {
+        "answer": "Moussa Dembélé",
+        "aliases": []
+      },
+      {
+        "answer": "Maxence Caqueret",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Guimarães",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Paquetá",
+        "aliases": []
+      },
+      {
+        "answer": "Nicolás Tagliafico",
+        "aliases": []
+      },
+      {
+        "answer": "Sidney Govou",
+        "aliases": []
+      },
+      {
+        "answer": "Camille Ninel",
+        "aliases": []
+      },
+      {
+        "answer": "André Lerond",
+        "aliases": []
+      },
+      {
+        "answer": "Marc-Vivien Foé",
+        "aliases": []
+      },
+      {
+        "answer": "Yoann Gourcuff",
+        "aliases": []
+      },
+      {
+        "answer": "Marcel Le Borgne",
+        "aliases": []
+      },
+      {
+        "answer": "Lucien Degeorges",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Lhomme",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Olio",
+        "aliases": []
+      },
+      {
+        "answer": "Ljubomir Mihajlović",
+        "aliases": []
+      },
+      {
+        "answer": "Philippe Violeau",
+        "aliases": []
+      },
+      {
+        "answer": "Florent Laville",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Fournier",
+        "aliases": []
+      },
+      {
+        "answer": "Pascal Fugier",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Ngotty",
+        "aliases": []
+      },
+      {
+        "answer": "Florian Maurice",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Orts",
+        "aliases": []
+      },
+      {
+        "answer": "Georges Dupraz",
+        "aliases": []
+      },
+      {
+        "answer": "Jacques Fatton",
+        "aliases": []
+      },
+      {
+        "answer": "Lucien Cossou",
+        "aliases": []
+      },
+      {
+        "answer": "Eugène N'Jo Léa",
+        "aliases": []
+      },
+      {
+        "answer": "Daniel Xuereb",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Emon",
+        "aliases": []
+      },
+      {
+        "answer": "Franck Durix",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Spadiny",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Cabañas",
+        "aliases": []
+      },
+      {
+        "answer": "Aziz Bouderbala",
+        "aliases": []
+      },
+      {
+        "answer": "Peguy Luyindula",
+        "aliases": []
+      },
+      {
+        "answer": "Ciprian Tătărușanu",
+        "aliases": []
+      },
+      {
+        "answer": "Mapou Yanga-Mbiwa",
+        "aliases": []
+      },
+      {
+        "answer": "Marcelo",
+        "aliases": [
+          "Marcelo Antônio Guedes Filho"
+        ]
+      },
+      {
+        "answer": "Rafael da Silva",
+        "aliases": []
+      },
+      {
+        "answer": "Fernando Marçal",
+        "aliases": []
+      },
+      {
+        "answer": "Kenny Tete",
+        "aliases": []
+      },
+      {
+        "answer": "Oumar Solet",
+        "aliases": []
+      },
+      {
+        "answer": "Melvin Bard",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Tousart",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Lucas",
+        "aliases": [
+          "Jean Lucas Oliveira"
+        ]
+      },
+      {
+        "answer": "Thiago Mendes",
+        "aliases": []
+      },
+      {
+        "answer": "Jeff Reine-Adélaïde",
+        "aliases": []
+      },
+      {
+        "answer": "Rayan Cherki",
+        "aliases": []
+      },
+      {
+        "answer": "Bertrand Traoré",
+        "aliases": []
+      },
+      {
+        "answer": "Martin Terrier",
+        "aliases": []
+      },
+      {
+        "answer": "Amine Gouiri",
+        "aliases": []
+      },
+      {
+        "answer": "Karl Toko-Ekambi",
+        "aliases": []
+      },
+      {
+        "answer": "Joachim Andersen",
+        "aliases": []
+      },
+      {
+        "answer": "Jason Denayer",
+        "aliases": []
+      },
+      {
+        "answer": "Youssouf Koné",
+        "aliases": []
+      },
+      {
+        "answer": "Léo Dubois",
+        "aliases": []
+      },
+      {
+        "answer": "Tino Kadewere",
+        "aliases": []
+      },
+      {
+        "answer": "Mathieu Gorgelin",
+        "aliases": []
+      },
+      {
+        "answer": "Jérémy Morel",
+        "aliases": []
+      },
+      {
+        "answer": "Jordan Ferri",
+        "aliases": []
+      },
+      {
+        "answer": "Pape Cheikh Diop",
+        "aliases": []
+      },
+      {
+        "answer": "Christopher Martins Pereira",
+        "aliases": []
+      },
+      {
+        "answer": "Yassin Fékir",
+        "aliases": []
+      },
+      {
+        "answer": "Lenny Pintor",
+        "aliases": []
+      },
+      {
+        "answer": "Mariano Díaz",
+        "aliases": []
+      },
+      {
+        "answer": "Mouctar Diakhaby",
+        "aliases": []
+      },
+      {
+        "answer": "Sergi Darder",
+        "aliases": []
+      },
+      {
+        "answer": "Myziane Maolida",
+        "aliases": []
+      },
+      {
+        "answer": "Willem Geubbels",
+        "aliases": []
+      },
+      {
+        "answer": "Nicolas Nkoulou",
+        "aliases": []
+      },
+      {
+        "answer": "Emanuel Mammana",
+        "aliases": []
+      },
+      {
+        "answer": "Christophe Jallet",
+        "aliases": []
+      },
+      {
+        "answer": "Jordy Gaspar",
+        "aliases": []
+      },
+      {
+        "answer": "Maciej Rybus",
+        "aliases": []
+      },
+      {
+        "answer": "Gueïda Fofana",
+        "aliases": []
+      },
+      {
+        "answer": "Clément Grenier",
+        "aliases": []
+      },
+      {
+        "answer": "Olivier Kemen",
+        "aliases": []
+      },
+      {
+        "answer": "Rachid Ghezzal",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Philippe Mateta",
+        "aliases": []
+      },
+      {
+        "answer": "Gaëtan Perrin",
+        "aliases": []
+      },
+      {
+        "answer": "Aldo Kalulu",
+        "aliases": []
+      }
+    ]
+  },
+  "spo-football-09": {
+    "sources": [],
+    "answers": [
+      {
+        "answer": "Marquinhos",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Marc Pilorget",
+        "aliases": []
+      },
+      {
+        "answer": "Marco Verratti",
+        "aliases": []
+      },
+      {
+        "answer": "Sylvain Armand",
+        "aliases": []
+      },
+      {
+        "answer": "Safet Sušić",
+        "aliases": []
+      },
+      {
+        "answer": "Paul Le Guen",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Lama",
+        "aliases": []
+      },
+      {
+        "answer": "Thiago Silva",
+        "aliases": []
+      },
+      {
+        "answer": "Mustapha Dahleb",
+        "aliases": []
+      },
+      {
+        "answer": "Kylian Mbappé",
+        "aliases": []
+      },
+      {
+        "answer": "Edinson Cavani",
+        "aliases": []
+      },
+      {
+        "answer": "Ángel Di María",
+        "aliases": []
+      },
+      {
+        "answer": "Blaise Matuidi",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Renaut",
+        "aliases": []
+      },
+      {
+        "answer": "Joël Bats",
+        "aliases": []
+      },
+      {
+        "answer": "Dominique Baratelli",
+        "aliases": []
+      },
+      {
+        "answer": "Daniel Bravo",
+        "aliases": []
+      },
+      {
+        "answer": "Dominique Bathenay",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Fernandez",
+        "aliases": []
+      },
+      {
+        "answer": "Javier Pastore",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Claude Lemoult",
+        "aliases": []
+      },
+      {
+        "answer": "Édouard Cissé",
+        "aliases": []
+      },
+      {
+        "answer": "Dominique Rocheteau",
+        "aliases": []
+      },
+      {
+        "answer": "Franck Tanasi",
+        "aliases": []
+      },
+      {
+        "answer": "Vincent Guérin",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Fournier",
+        "aliases": []
+      },
+      {
+        "answer": "Clément Chantôme",
+        "aliases": []
+      },
+      {
+        "answer": "Francis Llacer",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Mendy",
+        "aliases": []
+      },
+      {
+        "answer": "Presnel Kimpembe",
+        "aliases": []
+      },
+      {
+        "answer": "Thiago Motta",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Moura",
+        "aliases": []
+      },
+      {
+        "answer": "Adrien Rabiot",
+        "aliases": []
+      },
+      {
+        "answer": "Zoumana Camara",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Roche",
+        "aliases": []
+      },
+      {
+        "answer": "Philippe Jeannol",
+        "aliases": []
+      },
+      {
+        "answer": "François M'Pelé",
+        "aliases": []
+      },
+      {
+        "answer": "Raí",
+        "aliases": []
+      },
+      {
+        "answer": "Maxwell",
+        "aliases": []
+      },
+      {
+        "answer": "Patrick Colleter",
+        "aliases": []
+      },
+      {
+        "answer": "Pauleta",
+        "aliases": []
+      },
+      {
+        "answer": "Achraf Hakimi",
+        "aliases": []
+      },
+      {
+        "answer": "Vitinha",
+        "aliases": []
+      },
+      {
+        "answer": "Mamadou Sakho",
+        "aliases": []
+      },
+      {
+        "answer": "Oumar Sène",
+        "aliases": []
+      },
+      {
+        "answer": "Julian Draxler",
+        "aliases": []
+      },
+      {
+        "answer": "Christophe Jallet",
+        "aliases": []
+      },
+      {
+        "answer": "Ceará",
+        "aliases": []
+      },
+      {
+        "answer": "Lionel Letizi",
+        "aliases": []
+      },
+      {
+        "answer": "Jérémy Clément",
+        "aliases": []
+      },
+      {
+        "answer": "Salvatore Sirigu",
+        "aliases": []
+      },
+      {
+        "answer": "Warren Zaïre-Emery",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Bibard",
+        "aliases": []
+      },
+      {
+        "answer": "Zlatan Ibrahimović",
+        "aliases": []
+      },
+      {
+        "answer": "Peguy Luyindula",
+        "aliases": []
+      },
+      {
+        "answer": "Jérôme Rothen",
+        "aliases": []
+      },
+      {
+        "answer": "Nuno Mendes",
+        "aliases": []
+      },
+      {
+        "answer": "Jimmy Algerino",
+        "aliases": []
+      },
+      {
+        "answer": "Jacques Laposte",
+        "aliases": []
+      },
+      {
+        "answer": "Thierry Morin",
+        "aliases": []
+      },
+      {
+        "answer": "Neymar",
+        "aliases": []
+      },
+      {
+        "answer": "Nambatingue Toko",
+        "aliases": []
+      },
+      {
+        "answer": "Fabián Ruiz",
+        "aliases": []
+      },
+      {
+        "answer": "Frédéric Déhu",
+        "aliases": []
+      },
+      {
+        "answer": "Jérôme Leroy",
+        "aliases": []
+      },
+      {
+        "answer": "Ezequiel Lavezzi",
+        "aliases": []
+      },
+      {
+        "answer": "Guillaume Hoarau",
+        "aliases": []
+      },
+      {
+        "answer": "Gianluigi Donnarumma",
+        "aliases": []
+      },
+      {
+        "answer": "David Ginola",
+        "aliases": []
+      },
+      {
+        "answer": "Danilo Pereira",
+        "aliases": []
+      },
+      {
+        "answer": "Ricardo",
+        "aliases": [
+          "Ricardo Gomes"
+        ]
+      },
+      {
+        "answer": "Layvin Kurzawa",
+        "aliases": []
+      },
+      {
+        "answer": "Valdo",
+        "aliases": []
+      },
+      {
+        "answer": "Bradley Barcola",
+        "aliases": []
+      },
+      {
+        "answer": "Mickaël Landreau",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-François Charbonnier",
+        "aliases": []
+      },
+      {
+        "answer": "Dominique Lokoli",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Ducrocq",
+        "aliases": []
+      },
+      {
+        "answer": "Mario Yepes",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Perez",
+        "aliases": []
+      },
+      {
+        "answer": "George Weah",
+        "aliases": []
+      },
+      {
+        "answer": "Antoine Kombouaré",
+        "aliases": []
+      },
+      {
+        "answer": "Ousmane Dembélé",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Rabésandratana",
+        "aliases": []
+      },
+      {
+        "answer": "Gregory van der Wiel",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Pancrate",
+        "aliases": []
+      },
+      {
+        "answer": "Gabriel Heinze",
+        "aliases": []
+      },
+      {
+        "answer": "Gonçalo Ramos",
+        "aliases": []
+      },
+      {
+        "answer": "Thilo Kehrer",
+        "aliases": []
+      },
+      {
+        "answer": "Thomas Meunier",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Bernat",
+        "aliases": []
+      },
+      {
+        "answer": "Ludovic Giuly",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Reynaud",
+        "aliases": []
+      },
+      {
+        "answer": "Lee Kang-in",
+        "aliases": []
+      },
+      {
+        "answer": "Jacky Novi",
+        "aliases": []
+      },
+      {
+        "answer": "Philippe Col",
+        "aliases": []
+      },
+      {
+        "answer": "Claude Makélélé",
+        "aliases": []
+      },
+      {
+        "answer": "Leandro Paredes",
+        "aliases": []
+      },
+      {
+        "answer": "Patrice Loko",
+        "aliases": []
+      },
+      {
+        "answer": "Keylor Navas",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Domi",
+        "aliases": []
+      },
+      {
+        "answer": "Boubacar Sarr",
+        "aliases": []
+      },
+      {
+        "answer": "Ilija Pantelić",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Poullain",
+        "aliases": []
+      },
+      {
+        "answer": "Talal El Karkouri",
+        "aliases": []
+      },
+      {
+        "answer": "Jay-Jay Okocha",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Ngotty",
+        "aliases": []
+      },
+      {
+        "answer": "Gabriel Calderón",
+        "aliases": []
+      },
+      {
+        "answer": "Nenê",
+        "aliases": []
+      },
+      {
+        "answer": "Idrissa Gueye",
+        "aliases": []
+      },
+      {
+        "answer": "Jérémy Ménez",
+        "aliases": []
+      },
+      {
+        "answer": "Mevlüt Erdinç",
+        "aliases": []
+      },
+      {
+        "answer": "José Cobos",
+        "aliases": []
+      },
+      {
+        "answer": "Amara Simba",
+        "aliases": []
+      },
+      {
+        "answer": "Alphonse Areola",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Hernandez",
+        "aliases": []
+      },
+      {
+        "answer": "Stéphane Sessègnon",
+        "aliases": []
+      },
+      {
+        "answer": "Denis Bauda",
+        "aliases": []
+      },
+      {
+        "answer": "Désiré Doué",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Fiorèse",
+        "aliases": []
+      },
+      {
+        "answer": "Willian Pacho",
+        "aliases": []
+      },
+      {
+        "answer": "Modeste M'bami",
+        "aliases": []
+      },
+      {
+        "answer": "Jérôme Alonzo",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Dogliani",
+        "aliases": []
+      },
+      {
+        "answer": "Pablo Sarabia",
+        "aliases": []
+      },
+      {
+        "answer": "João Neves",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Béréau",
+        "aliases": []
+      },
+      {
+        "answer": "Sammy Traoré",
+        "aliases": []
+      },
+      {
+        "answer": "Thierry Bacconnier",
+        "aliases": []
+      },
+      {
+        "answer": "David Rozehnal",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Leroy",
+        "aliases": []
+      },
+      {
+        "answer": "Pascal Nouma",
+        "aliases": []
+      },
+      {
+        "answer": "Ander Herrera",
+        "aliases": []
+      },
+      {
+        "answer": "Mauricio Pochettino",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Louis Brost",
+        "aliases": []
+      },
+      {
+        "answer": "Camille Choquier",
+        "aliases": []
+      },
+      {
+        "answer": "Mauro Icardi",
+        "aliases": []
+      },
+      {
+        "answer": "Daniel Xuereb",
+        "aliases": []
+      },
+      {
+        "answer": "Alex",
+        "aliases": []
+      },
+      {
+        "answer": "Kevin Trapp",
+        "aliases": []
+      },
+      {
+        "answer": "Mathieu Bodmer",
+        "aliases": []
+      },
+      {
+        "answer": "Michel N'Gom",
+        "aliases": []
+      },
+      {
+        "answer": "David Luiz",
+        "aliases": []
+      },
+      {
+        "answer": "Amara Diané",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Beraldo",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Couriol",
+        "aliases": []
+      },
+      {
+        "answer": "François Brisson",
+        "aliases": []
+      },
+      {
+        "answer": "Igor Yanovsky",
+        "aliases": []
+      },
+      {
+        "answer": "Senny Mayulu",
+        "aliases": []
+      },
+      {
+        "answer": "José-Karl Pierre-Fanfan",
+        "aliases": []
+      },
+      {
+        "answer": "Louis Cardiet",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Robert",
+        "aliases": []
+      },
+      {
+        "answer": "Julio Dely Valdés",
+        "aliases": []
+      },
+      {
+        "answer": "Lyazid Sandjak",
+        "aliases": []
+      },
+      {
+        "answer": "Cristóbal Parralo",
+        "aliases": []
+      },
+      {
+        "answer": "Lorik Cana",
+        "aliases": []
+      },
+      {
+        "answer": "Serge Aurier",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Louis Leonetti",
+        "aliases": []
+      },
+      {
+        "answer": "Carlos Bianchi",
+        "aliases": []
+      },
+      {
+        "answer": "Marco Simone",
+        "aliases": []
+      },
+      {
+        "answer": "Khvicha Kvaratskhelia",
+        "aliases": []
+      },
+      {
+        "answer": "Francis Piasecki",
+        "aliases": []
+      },
+      {
+        "answer": "Thierry Rabat",
+        "aliases": []
+      },
+      {
+        "answer": "Reinaldo",
+        "aliases": []
+      },
+      {
+        "answer": "Aloísio",
+        "aliases": [
+          "Aloísio Chulapa"
+        ]
+      },
+      {
+        "answer": "Colin Dagba",
+        "aliases": []
+      },
+      {
+        "answer": "Christopher Nkunku",
+        "aliases": []
+      },
+      {
+        "answer": "Kevin Gameiro",
+        "aliases": []
+      },
+      {
+        "answer": "Lionel Potillon",
+        "aliases": []
+      },
+      {
+        "answer": "Ronaldinho",
+        "aliases": []
+      },
+      {
+        "answer": "Yannick Guillochon",
+        "aliases": []
+      },
+      {
+        "answer": "Christian André",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Luc Sassus",
+        "aliases": []
+      },
+      {
+        "answer": "Lionel Messi",
+        "aliases": []
+      },
+      {
+        "answer": "Abdou Diallo",
+        "aliases": []
+      },
+      {
+        "answer": "Philippe Redon",
+        "aliases": []
+      },
+      {
+        "answer": "Siaka Tiéné",
+        "aliases": []
+      },
+      {
+        "answer": "Hugo Leal",
+        "aliases": []
+      },
+      {
+        "answer": "Bartholomew Ogbeche",
+        "aliases": []
+      },
+      {
+        "answer": "Pascal Zaremba",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Guignedoux",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Prost",
+        "aliases": []
+      },
+      {
+        "answer": "Dani Alves",
+        "aliases": []
+      },
+      {
+        "answer": "Bonaventure Kalou",
+        "aliases": []
+      },
+      {
+        "answer": "Apoula Edel",
+        "aliases": []
+      },
+      {
+        "answer": "Zlatko Vujović",
+        "aliases": []
+      },
+      {
+        "answer": "Nicolas Anelka",
+        "aliases": []
+      },
+      {
+        "answer": "Roland Mitoraj",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Djorkaeff",
+        "aliases": []
+      },
+      {
+        "answer": "Paulo César",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Noël Huck",
+        "aliases": []
+      },
+      {
+        "answer": "Carlos Soler",
+        "aliases": []
+      },
+      {
+        "answer": "Ali Benarbia",
+        "aliases": []
+      },
+      {
+        "answer": "Jacky Bade",
+        "aliases": []
+      },
+      {
+        "answer": "Aliou Cissé",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Bosser",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Claude Bras",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Marella",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Tokoto",
+        "aliases": []
+      },
+      {
+        "answer": "Stéphane Pichot",
+        "aliases": []
+      },
+      {
+        "answer": "Sergio Ramos",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Allou",
+        "aliases": []
+      },
+      {
+        "answer": "Lionel Justier",
+        "aliases": []
+      },
+      {
+        "answer": "Yohan Cabaye",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Deloffre",
+        "aliases": []
+      },
+      {
+        "answer": "Danijel Ljuboja",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Vermeulen",
+        "aliases": []
+      },
+      {
+        "answer": "Grégory Bourillon",
+        "aliases": []
+      },
+      {
+        "answer": "Randal Kolo Muani",
+        "aliases": []
+      },
+      {
+        "answer": "Giovani Lo Celso",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Polaniok",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Christophe Bahebeck",
+        "aliases": []
+      },
+      {
+        "answer": "Mateja Kežman",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Eudes Maurice",
+        "aliases": []
+      },
+      {
+        "answer": "Mikel Arteta",
+        "aliases": []
+      },
+      {
+        "answer": "Oumar Dieng",
+        "aliases": []
+      },
+      {
+        "answer": "Eric Maxim Choupo-Moting",
+        "aliases": []
+      },
+      {
+        "answer": "Cristian Rodríguez",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Germain",
+        "aliases": []
+      },
+      {
+        "answer": "Gérard Janvion",
+        "aliases": []
+      },
+      {
+        "answer": "Othniel Dossevi",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre-Alain Frau",
+        "aliases": []
+      },
+      {
+        "answer": "Benoît Cauet",
+        "aliases": []
+      },
+      {
+        "answer": "Xavier Gravelaine",
+        "aliases": []
+      },
+      {
+        "answer": "Humberto Coelho",
+        "aliases": []
+      },
+      {
+        "answer": "Louis Floch",
+        "aliases": []
+      },
+      {
+        "answer": "Marco Asensio",
+        "aliases": []
+      },
+      {
+        "answer": "Younousse Sankharé",
+        "aliases": []
+      },
+      {
+        "answer": "Branko Bošković",
+        "aliases": []
+      },
+      {
+        "answer": "Florian Maurice",
+        "aliases": []
+      },
+      {
+        "answer": "Youri Djorkaeff",
+        "aliases": []
+      },
+      {
+        "answer": "Kees Kist",
+        "aliases": []
+      },
+      {
+        "answer": "Mickaël Madar",
+        "aliases": []
+      },
+      {
+        "answer": "Franck Gava",
+        "aliases": []
+      },
+      {
+        "answer": "Leonardo",
+        "aliases": [
+          "Leonardo Araújo"
+        ]
+      },
+      {
+        "answer": "Gérard Lanthier",
+        "aliases": []
+      },
+      {
+        "answer": "Abel Braga",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Bureau",
+        "aliases": []
+      },
+      {
+        "answer": "Armando Bianchi",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Digne",
+        "aliases": []
+      },
+      {
+        "answer": "Nordi Mukiele",
+        "aliases": []
+      },
+      {
+        "answer": "Mitchel Bakker",
+        "aliases": []
+      },
+      {
+        "answer": "Sylvain Distin",
+        "aliases": []
+      },
+      {
+        "answer": "Matvey Safonov",
+        "aliases": []
+      },
+      {
+        "answer": "Selim Benachour",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Adams",
+        "aliases": []
+      },
+      {
+        "answer": "Vikash Dhorasoo",
+        "aliases": []
+      },
+      {
+        "answer": "Nicolas Douchez",
+        "aliases": []
+      },
+      {
+        "answer": "Guy Nosibor",
+        "aliases": []
+      },
+      {
+        "answer": "Moise Kean",
+        "aliases": []
+      },
+      {
+        "answer": "Jacques Rémond",
+        "aliases": []
+      },
+      {
+        "answer": "Grégory Coupet",
+        "aliases": []
+      },
+      {
+        "answer": "Ivica Šurjak",
+        "aliases": []
+      },
+      {
+        "answer": "Jules Bocandé",
+        "aliases": []
+      },
+      {
+        "answer": "Ibrahim Mbaye",
+        "aliases": []
+      },
+      {
+        "answer": "Benjamin Stambouli",
+        "aliases": []
+      },
+      {
+        "answer": "Jocelyn Angloma",
+        "aliases": []
+      },
+      {
+        "answer": "Rafinha",
+        "aliases": []
+      },
+      {
+        "answer": "Kenedy",
+        "aliases": [
+          "Daniel Kenedy"
+        ]
+      },
+      {
+        "answer": "Georginio Wijnaldum",
+        "aliases": []
+      },
+      {
+        "answer": "Peter Luccin",
+        "aliases": []
+      },
+      {
+        "answer": "Boukary Dramé",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Michel Moutier",
+        "aliases": []
+      },
+      {
+        "answer": "Antoine Garceran",
+        "aliases": []
+      },
+      {
+        "answer": "François Calderaro",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Poli",
+        "aliases": []
+      },
+      {
+        "answer": "Mohamed Sissoko",
+        "aliases": []
+      },
+      {
+        "answer": "Illia Zabarnyi",
+        "aliases": []
+      },
+      {
+        "answer": "Milan Škriniar",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Ugarte",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Goma",
+        "aliases": []
+      },
+      {
+        "answer": "Christophe Revault",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-François Beltramini",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Dumot",
+        "aliases": []
+      },
+      {
+        "answer": "Alessandro Florenzi",
+        "aliases": []
+      },
+      {
+        "answer": "Alioune Touré",
+        "aliases": []
+      },
+      {
+        "answer": "Granddi Ngoyi",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Toffolo",
+        "aliases": []
+      },
+      {
+        "answer": "Gérard Hallet",
+        "aliases": []
+      },
+      {
+        "answer": "Moussa Diaby",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Philippe Séchet",
+        "aliases": []
+      },
+      {
+        "answer": "Claude Arribas",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Destrumelle",
+        "aliases": []
+      },
+      {
+        "answer": "Romain Rocchi",
+        "aliases": []
+      },
+      {
+        "answer": "Hugo Ekitike",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Wörns",
+        "aliases": []
+      },
+      {
+        "answer": "Stéphane Mahé",
+        "aliases": []
+      },
+      {
+        "answer": "Hatem Ben Arfa",
+        "aliases": []
+      },
+      {
+        "answer": "Yuri Berchiche",
+        "aliases": []
+      },
+      {
+        "answer": "Daniel Bernard",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Paul Rostagni",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Kévin Augustin",
+        "aliases": []
+      },
+      {
+        "answer": "Sergei Semak",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Béhier",
+        "aliases": []
+      },
+      {
+        "answer": "Guy Delhumeau",
+        "aliases": []
+      },
+      {
+        "answer": "Loris Arnaud",
+        "aliases": []
+      },
+      {
+        "answer": "William Ayache",
+        "aliases": []
+      },
+      {
+        "answer": "Christophe Landrin",
+        "aliases": []
+      },
+      {
+        "answer": "Charles-Édouard Coridon",
+        "aliases": []
+      },
+      {
+        "answer": "Geraldão",
+        "aliases": []
+      },
+      {
+        "answer": "Nicolas Laspalles",
+        "aliases": []
+      },
+      {
+        "answer": "Claude Lowitz",
+        "aliases": []
+      },
+      {
+        "answer": "Robert Jacques",
+        "aliases": []
+      },
+      {
+        "answer": "Alex Dias",
+        "aliases": []
+      },
+      {
+        "answer": "Robin Leclerc",
+        "aliases": []
+      },
+      {
+        "answer": "Marcelo Gallardo",
+        "aliases": []
+      },
+      {
+        "answer": "Gérard Cenzato",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Roux",
+        "aliases": []
+      },
+      {
+        "answer": "Renato Sanches",
+        "aliases": []
+      },
+      {
+        "answer": "Tripy Makonda",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Bensoussan",
+        "aliases": []
+      },
+      {
+        "answer": "Daniel Solas",
+        "aliases": []
+      },
+      {
+        "answer": "Fernando Cruz",
+        "aliases": []
+      },
+      {
+        "answer": "Martín Cardetti",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Pablo Sorín",
+        "aliases": []
+      },
+      {
+        "answer": "Stéphane Dalmat",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Chevalier",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Carotti",
+        "aliases": []
+      },
+      {
+        "answer": "Vincent Fernandez",
+        "aliases": []
+      },
+      {
+        "answer": "Adaílton",
+        "aliases": []
+      },
+      {
+        "answer": "David Ngog",
+        "aliases": []
+      },
+      {
+        "answer": "Yann Lachuer",
+        "aliases": []
+      },
+      {
+        "answer": "Omar da Fonseca",
+        "aliases": []
+      },
+      {
+        "answer": "Filipe Teixeira",
+        "aliases": []
+      },
+      {
+        "answer": "Milan Biševac",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Michel Larqué",
+        "aliases": []
+      },
+      {
+        "answer": "Gianluigi Buffon",
+        "aliases": []
+      },
+      {
+        "answer": "Jocelyn Rico",
+        "aliases": []
+      },
+      {
+        "answer": "Daniel Guicci",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Claude Fitte-Duval",
+        "aliases": []
+      },
+      {
+        "answer": "Sergio Rico",
+        "aliases": []
+      },
+      {
+        "answer": "Alex Nyarko",
+        "aliases": []
+      },
+      {
+        "answer": "Edvin Murati",
+        "aliases": []
+      },
+      {
+        "answer": "Patrick Mboma",
+        "aliases": []
+      },
+      {
+        "answer": "Patrice Marquet",
+        "aliases": []
+      },
+      {
+        "answer": "Ramón Heredia",
+        "aliases": []
+      },
+      {
+        "answer": "André Luiz",
+        "aliases": []
+      },
+      {
+        "answer": "Grégory Paisley",
+        "aliases": []
+      },
+      {
+        "answer": "Dominique Casagrande",
+        "aliases": []
+      },
+      {
+        "answer": "Cyrille Pouget",
+        "aliases": []
+      },
+      {
+        "answer": "Jacky Planchard",
+        "aliases": []
+      },
+      {
+        "answer": "Youssouf Mulumbu",
+        "aliases": []
+      },
+      {
+        "answer": "Hélder",
+        "aliases": []
+      },
+      {
+        "answer": "Vahid Halilhodžić",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Luc Vasseur",
+        "aliases": []
+      },
+      {
+        "answer": "Richard Niederbacher",
+        "aliases": []
+      },
+      {
+        "answer": "Thierry Tinmar",
+        "aliases": []
+      },
+      {
+        "answer": "Raymond Domenech",
+        "aliases": []
+      },
+      {
+        "answer": "Daniel Sanchez",
+        "aliases": []
+      },
+      {
+        "answer": "João Alves",
+        "aliases": []
+      },
+      {
+        "answer": "Diego Lugano",
+        "aliases": []
+      },
+      {
+        "answer": "Godwin Okpara",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Dréossi",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Moraly",
+        "aliases": []
+      },
+      {
+        "answer": "Mordechai Spiegler",
+        "aliases": []
+      },
+      {
+        "answer": "Kaba Diawara",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Rodriguez",
+        "aliases": []
+      },
+      {
+        "answer": "Pascal Schmitt",
+        "aliases": []
+      },
+      {
+        "answer": "El Chadaille Bitshiabu",
+        "aliases": []
+      },
+      {
+        "answer": "Lassana Diarra",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Digard",
+        "aliases": []
+      },
+      {
+        "answer": "David Hellebuyck",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Cubilier",
+        "aliases": []
+      },
+      {
+        "answer": "Grzegorz Krychowiak",
+        "aliases": []
+      },
+      {
+        "answer": "Jesé",
+        "aliases": []
+      },
+      {
+        "answer": "Edmílson",
+        "aliases": []
+      },
+      {
+        "answer": "William N'Jo Léa",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Ledunois",
+        "aliases": []
+      },
+      {
+        "answer": "Souza",
+        "aliases": []
+      },
+      {
+        "answer": "Stéphane Pédron",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Martin",
+        "aliases": []
+      },
+      {
+        "answer": "Osvaldo Ardiles",
+        "aliases": []
+      },
+      {
+        "answer": "Stanley N'Soki",
+        "aliases": [
+          "Stanley Nsoki"
+        ]
+      },
+      {
+        "answer": "Hervin Ongenda",
+        "aliases": []
+      },
+      {
+        "answer": "Carlos Bueno",
+        "aliases": []
+      },
+      {
+        "answer": "Gilles Cardinet",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Bajoc",
+        "aliases": []
+      },
+      {
+        "answer": "Patrice Zbinden",
+        "aliases": []
+      },
+      {
+        "answer": "Quentin Ndjantou",
+        "aliases": []
+      },
+      {
+        "answer": "Timothée Pembélé",
+        "aliases": []
+      },
+      {
+        "answer": "Sylvain Léandri",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Michel Badiane",
+        "aliases": []
+      },
+      {
+        "answer": "Nicolas Ouédec",
+        "aliases": []
+      },
+      {
+        "answer": "James Debbah",
+        "aliases": []
+      },
+      {
+        "answer": "Yvon Le Roux",
+        "aliases": []
+      },
+      {
+        "answer": "Dominique Berthaud",
+        "aliases": []
+      },
+      {
+        "answer": "Junior Dina Ebimbe",
+        "aliases": []
+      },
+      {
+        "answer": "David Beckham",
+        "aliases": []
+      },
+      {
+        "answer": "Richard Dutruel",
+        "aliases": []
+      },
+      {
+        "answer": "Philippe Jean",
+        "aliases": []
+      },
+      {
+        "answer": "Tanguy Nianzou",
+        "aliases": []
+      },
+      {
+        "answer": "Dro Fernández",
+        "aliases": []
+      },
+      {
+        "answer": "Larrys Mabiala",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Hugues Ateba",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Zajaczkowski",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Abreu",
+        "aliases": []
+      },
+      {
+        "answer": "Gonçalo Guedes",
+        "aliases": []
+      },
+      {
+        "answer": "César Belli",
+        "aliases": []
+      },
+      {
+        "answer": "Ismaël Gharbi",
+        "aliases": []
+      },
+      {
+        "answer": "Rudy Haddad",
+        "aliases": []
+      },
+      {
+        "answer": "David Rinçon",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-François Douis",
+        "aliases": []
+      },
+      {
+        "answer": "Yoram Zague",
+        "aliases": []
+      },
+      {
+        "answer": "Xavi Simons",
+        "aliases": []
+      },
+      {
+        "answer": "Salah Assad",
+        "aliases": []
+      },
+      {
+        "answer": "Agostinho",
+        "aliases": []
+      },
+      {
+        "answer": "Ray Wilkins",
+        "aliases": []
+      },
+      {
+        "answer": "Pascal Havet",
+        "aliases": []
+      },
+      {
+        "answer": "Hervé Porquet",
+        "aliases": []
+      },
+      {
+        "answer": "Armando Monteiro",
+        "aliases": []
+      },
+      {
+        "answer": "Neeskens Kebano",
+        "aliases": []
+      },
+      {
+        "answer": "André Travetto",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Quéré",
+        "aliases": []
+      },
+      {
+        "answer": "Patrice Py",
+        "aliases": []
+      },
+      {
+        "answer": "Vampeta",
+        "aliases": []
+      },
+      {
+        "answer": "Arnau Tenas",
+        "aliases": []
+      },
+      {
+        "answer": "Thierry Laurey",
+        "aliases": []
+      },
+      {
+        "answer": "Édouard Michut",
+        "aliases": []
+      },
+      {
+        "answer": "Luc Borrelli",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Héréson",
+        "aliases": []
+      },
+      {
+        "answer": "Gilles Brisson",
+        "aliases": []
+      },
+      {
+        "answer": "Kays Ruiz-Atil",
+        "aliases": []
+      },
+      {
+        "answer": "Jonathan Ikoné",
+        "aliases": []
+      },
+      {
+        "answer": "Gaël Hiroux",
+        "aliases": []
+      },
+      {
+        "answer": "Hélder Baptista",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Bianconi",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Caron",
+        "aliases": []
+      },
+      {
+        "answer": "Mohamed Ali Messaoud",
+        "aliases": []
+      },
+      {
+        "answer": "Daniel Horlaville",
+        "aliases": []
+      },
+      {
+        "answer": "Thierry Carré",
+        "aliases": []
+      },
+      {
+        "answer": "Bandiougou Fadiga",
+        "aliases": []
+      },
+      {
+        "answer": "Timothy Weah",
+        "aliases": []
+      },
+      {
+        "answer": "Vedad Ibišević",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Pardo",
+        "aliases": []
+      },
+      {
+        "answer": "Alboury Lah",
+        "aliases": []
+      },
+      {
+        "answer": "Claude Barrabé",
+        "aliases": []
+      },
+      {
+        "answer": "Patrice Turpin",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Lambert",
+        "aliases": []
+      },
+      {
+        "answer": "Ethan Mbappé",
+        "aliases": []
+      },
+      {
+        "answer": "Arnaud Kalimuendo",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Baning",
+        "aliases": []
+      },
+      {
+        "answer": "Franck Dja Djédjé",
+        "aliases": []
+      },
+      {
+        "answer": "Quique de Lucas",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Abriel",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Martel",
+        "aliases": []
+      },
+      {
+        "answer": "Roméo Calenda",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Préfaci",
+        "aliases": []
+      },
+      {
+        "answer": "Thierry Coutard",
+        "aliases": []
+      },
+      {
+        "answer": "Claude Rivet",
+        "aliases": []
+      },
+      {
+        "answer": "Kévin Rimane",
+        "aliases": []
+      },
+      {
+        "answer": "Cher Ndour",
+        "aliases": []
+      },
+      {
+        "answer": "Kingsley Coman",
+        "aliases": []
+      },
+      {
+        "answer": "Yannick Boli",
+        "aliases": []
+      },
+      {
+        "answer": "Marko Pantelić",
+        "aliases": []
+      },
+      {
+        "answer": "Philippe Dehouck",
+        "aliases": []
+      },
+      {
+        "answer": "Patrice Ségura",
+        "aliases": []
+      },
+      {
+        "answer": "Marcel Defalco",
+        "aliases": []
+      },
+      {
+        "answer": "Dominique Barberat",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Phelipon",
+        "aliases": []
+      },
+      {
+        "answer": "Adil Aouchiche",
+        "aliases": []
+      },
+      {
+        "answer": "Maghnes Akliouche",
+        "aliases": []
+      },
+      {
+        "answer": "Renato Marin",
+        "aliases": []
+      },
+      {
+        "answer": "Noham Kamara",
+        "aliases": []
+      },
+      {
+        "answer": "Axel Tape",
+        "aliases": []
+      },
+      {
+        "answer": "Loïc Mbe Soh",
+        "aliases": []
+      },
+      {
+        "answer": "Antoine Bernède",
+        "aliases": []
+      },
+      {
+        "answer": "Florian Makhedjouf",
+        "aliases": []
+      },
+      {
+        "answer": "Éverton Santos",
+        "aliases": []
+      },
+      {
+        "answer": "Maxime Partouche",
+        "aliases": []
+      },
+      {
+        "answer": "Chiguy Lucau",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Kelban",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Moreau",
+        "aliases": []
+      },
+      {
+        "answer": "Olivier Martinez",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Llodra",
+        "aliases": []
+      },
+      {
+        "answer": "Jantzen Derrick",
+        "aliases": []
+      },
+      {
+        "answer": "Stéphane Persol",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Pimond",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre-Antoine Dossevi",
+        "aliases": []
+      },
+      {
+        "answer": "Dominique Delplanque",
+        "aliases": []
+      },
+      {
+        "answer": "Dimitri Lucea",
+        "aliases": []
+      },
+      {
+        "answer": "Noah Nsoki",
+        "aliases": []
+      },
+      {
+        "answer": "Mathis Jangéal",
+        "aliases": []
+      },
+      {
+        "answer": "Ilyes Housni",
+        "aliases": []
+      },
+      {
+        "answer": "Alexandre Letellier",
+        "aliases": []
+      },
+      {
+        "answer": "Marcin Bułka",
+        "aliases": []
+      },
+      {
+        "answer": "Samuel Piètre",
+        "aliases": []
+      },
+      {
+        "answer": "Cédric Pardeilhan",
+        "aliases": []
+      },
+      {
+        "answer": "Joel Camargo",
+        "aliases": []
+      },
+      {
+        "answer": "Ferran Torres",
+        "aliases": []
+      },
+      {
+        "answer": "Mika Godts",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Mounguengue",
+        "aliases": []
+      },
+      {
+        "answer": "David Boly",
+        "aliases": []
+      },
+      {
+        "answer": "Djeidi Gassama",
+        "aliases": []
+      },
+      {
+        "answer": "Sekou Yansané",
+        "aliases": []
+      },
+      {
+        "answer": "Kenny Nagera",
+        "aliases": []
+      },
+      {
+        "answer": "Nathan Bitumazala",
+        "aliases": []
+      },
+      {
+        "answer": "Metehan Güçlü",
+        "aliases": []
+      },
+      {
+        "answer": "Arthur Zagré",
+        "aliases": []
+      },
+      {
+        "answer": "Yacine Adli",
+        "aliases": []
+      },
+      {
+        "answer": "Antoine Conte",
+        "aliases": []
+      },
+      {
+        "answer": "Ronan Le Crom",
+        "aliases": []
+      },
+      {
+        "answer": "Kalifa Traoré",
+        "aliases": []
+      },
+      {
+        "answer": "Jérémi Kimmakon",
+        "aliases": []
+      }
+    ]
+  },
+  "spo-football-10": {
+    "sources": [],
+    "answers": [
+      {
+        "answer": "Jacques Abardonado",
+        "aliases": []
+      },
+      {
+        "answer": "Kassim Abdallah",
+        "aliases": []
+      },
+      {
+        "answer": "Keyliane Abdallah",
+        "aliases": []
+      },
+      {
+        "answer": "Himad Abdelli",
+        "aliases": []
+      },
+      {
+        "answer": "Aymen Abdennour",
+        "aliases": []
+      },
+      {
+        "answer": "Abderrahmane Boumedienne",
+        "aliases": [
+          "Abderrahmane"
+        ]
+      },
+      {
+        "answer": "Rafidine Abdullah",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Abergel",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Abriel",
+        "aliases": []
+      },
+      {
+        "answer": "Louis Achard",
+        "aliases": []
+      },
+      {
+        "answer": "Gilbert Adamis",
+        "aliases": []
+      },
+      {
+        "answer": "Adriano Gabiru",
+        "aliases": []
+      },
+      {
+        "answer": "Victor Agali",
+        "aliases": []
+      },
+      {
+        "answer": "Nayef Aguerd",
+        "aliases": []
+      },
+      {
+        "answer": "Kanga Akalé",
+        "aliases": []
+      },
+      {
+        "answer": "Marley Aké",
+        "aliases": []
+      },
+      {
+        "answer": "János Aknai Acht",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Alarcon",
+        "aliases": []
+      },
+      {
+        "answer": "Max Alauzun",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Albaladéjo",
+        "aliases": []
+      },
+      {
+        "answer": "Hans-Erich Albrecht",
+        "aliases": []
+      },
+      {
+        "answer": "Joseph Alcazar",
+        "aliases": []
+      },
+      {
+        "answer": "Romain Alessandrini",
+        "aliases": []
+      },
+      {
+        "answer": "Alfonso Pérez",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Allaix",
+        "aliases": []
+      },
+      {
+        "answer": "Charles Allé",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Allies",
+        "aliases": []
+      },
+      {
+        "answer": "Klaus Allofs",
+        "aliases": []
+      },
+      {
+        "answer": "Baptiste Aloé",
+        "aliases": []
+      },
+      {
+        "answer": "Norberto Alonso",
+        "aliases": []
+      },
+      {
+        "answer": "Jérôme Alonzo",
+        "aliases": []
+      },
+      {
+        "answer": "Álvaro Gonzalez",
+        "aliases": [
+          "Álvaro"
+        ]
+      },
+      {
+        "answer": "Yeso Amalfi",
+        "aliases": []
+      },
+      {
+        "answer": "Morgan Amalfitano",
+        "aliases": []
+      },
+      {
+        "answer": "Roland Amar",
+        "aliases": []
+      },
+      {
+        "answer": "Jordan Amavi",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Amoros",
+        "aliases": []
+      },
+      {
+        "answer": "Sonny Anderson",
+        "aliases": []
+      },
+      {
+        "answer": "Gunnar Andersson",
+        "aliases": []
+      },
+      {
+        "answer": "Gaël Andonian",
+        "aliases": []
+      },
+      {
+        "answer": "Elinton Andrade",
+        "aliases": []
+      },
+      {
+        "answer": "André Luís",
+        "aliases": []
+      },
+      {
+        "answer": "André Luiz",
+        "aliases": []
+      },
+      {
+        "answer": "Germain Andreis",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Angel",
+        "aliases": []
+      },
+      {
+        "answer": "Roger Angles",
+        "aliases": []
+      },
+      {
+        "answer": "Jocelyn Angloma",
+        "aliases": []
+      },
+      {
+        "answer": "Frank Anguissa",
+        "aliases": []
+      },
+      {
+        "answer": "José Anigo",
+        "aliases": []
+      },
+      {
+        "answer": "Slobodan Antić",
+        "aliases": []
+      },
+      {
+        "answer": "Étienne Antonelli",
+        "aliases": []
+      },
+      {
+        "answer": "Léon Appaix",
+        "aliases": []
+      },
+      {
+        "answer": "Patrick Appriou",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Apruzesse",
+        "aliases": []
+      },
+      {
+        "answer": "Auguste Aquaron",
+        "aliases": []
+      },
+      {
+        "answer": "Fernand Armenante",
+        "aliases": []
+      },
+      {
+        "answer": "Salim Arrache",
+        "aliases": []
+      },
+      {
+        "answer": "Marcel Artelesa",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Louis Asinari",
+        "aliases": []
+      },
+      {
+        "answer": "Ludovic Asuar",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre-Emerick Aubameyang",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Audrain",
+        "aliases": []
+      },
+      {
+        "answer": "Pascal Auréjac",
+        "aliases": []
+      },
+      {
+        "answer": "Armand Aurran",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Avellaneda",
+        "aliases": []
+      },
+      {
+        "answer": "William Ayache",
+        "aliases": []
+      },
+      {
+        "answer": "André Ayew",
+        "aliases": []
+      },
+      {
+        "answer": "Jordan Ayew",
+        "aliases": []
+      },
+      {
+        "answer": "Gérard Aygoui",
+        "aliases": []
+      },
+      {
+        "answer": "Filipe Azevedo",
+        "aliases": []
+      },
+      {
+        "answer": "Emmanuel Aznar",
+        "aliases": []
+      },
+      {
+        "answer": "Larry Azouni",
+        "aliases": []
+      },
+      {
+        "answer": "César Azpilicueta",
+        "aliases": []
+      },
+      {
+        "answer": "Ibrahim Ba",
+        "aliases": []
+      },
+      {
+        "answer": "Khalifa Elhadj Ba",
+        "aliases": []
+      },
+      {
+        "answer": "Gérard Bacconnier",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Bade",
+        "aliases": []
+      },
+      {
+        "answer": "Pascal Baills",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Bailly",
+        "aliases": []
+      },
+      {
+        "answer": "Félicien Bait",
+        "aliases": []
+      },
+      {
+        "answer": "Edouard Bakalian",
+        "aliases": []
+      },
+      {
+        "answer": "Cédric Bakambu",
+        "aliases": []
+      },
+      {
+        "answer": "Ibrahima Bakayoko",
+        "aliases": []
+      },
+      {
+        "answer": "Darryl Bakola",
+        "aliases": []
+      },
+      {
+        "answer": "Leonardo Balerdi",
+        "aliases": []
+      },
+      {
+        "answer": "Mario Balotelli",
+        "aliases": []
+      },
+      {
+        "answer": "Roger Bambacari",
+        "aliases": []
+      },
+      {
+        "answer": "Habib Bamogo",
+        "aliases": []
+      },
+      {
+        "answer": "Momar Bangoura",
+        "aliases": []
+      },
+      {
+        "answer": "Marie-Joseph Alexis Barats",
+        "aliases": []
+      },
+      {
+        "answer": "Paul Barbaroux",
+        "aliases": []
+      },
+      {
+        "answer": "Jules Barbier",
+        "aliases": []
+      },
+      {
+        "answer": "Robert Barellas",
+        "aliases": []
+      },
+      {
+        "answer": "Abdelaziz Barrada",
+        "aliases": []
+      },
+      {
+        "answer": "Rahmane Barry",
+        "aliases": []
+      },
+      {
+        "answer": "Fabien Barthez",
+        "aliases": []
+      },
+      {
+        "answer": "Joey Barton",
+        "aliases": []
+      },
+      {
+        "answer": "André Basile",
+        "aliases": []
+      },
+      {
+        "answer": "Robert Bastiani",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Bastien",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Batlles",
+        "aliases": []
+      },
+      {
+        "answer": "Michy Batshuayi",
+        "aliases": []
+      },
+      {
+        "answer": "Charles Baudran",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Baulier",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Claude Baulu",
+        "aliases": []
+      },
+      {
+        "answer": "Harry Baur",
+        "aliases": []
+      },
+      {
+        "answer": "Richard Beaudoux",
+        "aliases": []
+      },
+      {
+        "answer": "Miladin Bečanović",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Bedelian",
+        "aliases": []
+      },
+      {
+        "answer": "Henri Bedimo",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Begeorgi",
+        "aliases": []
+      },
+      {
+        "answer": "Joseph-Antoine Bell",
+        "aliases": []
+      },
+      {
+        "answer": "Robert Belloni",
+        "aliases": []
+      },
+      {
+        "answer": "Djamel Belmadi",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Belver",
+        "aliases": []
+      },
+      {
+        "answer": "Hatem Ben Arfa",
+        "aliases": []
+      },
+      {
+        "answer": "Ahmed Ben Bella",
+        "aliases": []
+      },
+      {
+        "answer": "Abdelkader Ben Bouali",
+        "aliases": []
+      },
+      {
+        "answer": "Salim Ben Seghir",
+        "aliases": []
+      },
+      {
+        "answer": "Mehdi Ben Slimane",
+        "aliases": []
+      },
+      {
+        "answer": "Larbi Benbarek",
+        "aliases": []
+      },
+      {
+        "answer": "Cesare Benedetti",
+        "aliases": []
+      },
+      {
+        "answer": "Darío Benedetto",
+        "aliases": []
+      },
+      {
+        "answer": "Ismaël Bennacer",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Benoit",
+        "aliases": []
+      },
+      {
+        "answer": "Justin Benoit",
+        "aliases": []
+      },
+      {
+        "answer": "Gaston Bensimon",
+        "aliases": []
+      },
+      {
+        "answer": "René Bérangé",
+        "aliases": []
+      },
+      {
+        "answer": "Marc Berdoll",
+        "aliases": []
+      },
+      {
+        "answer": "Georges Bereta",
+        "aliases": []
+      },
+      {
+        "answer": "Eduardo Berizzo",
+        "aliases": []
+      },
+      {
+        "answer": "Charles Bernard",
+        "aliases": []
+      },
+      {
+        "answer": "Fernand Bernard",
+        "aliases": []
+      },
+      {
+        "answer": "Jacques Bernard",
+        "aliases": []
+      },
+      {
+        "answer": "Louis Bernard",
+        "aliases": []
+      },
+      {
+        "answer": "Gérard Bernardet",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Bernardi",
+        "aliases": []
+      },
+      {
+        "answer": "Teddy Bertin",
+        "aliases": []
+      },
+      {
+        "answer": "Habib Beye",
+        "aliases": []
+      },
+      {
+        "answer": "Georges Beyner",
+        "aliases": []
+      },
+      {
+        "answer": "Kelyann Bezahaf",
+        "aliases": []
+      },
+      {
+        "answer": "Abdel Halim Bibi",
+        "aliases": []
+      },
+      {
+        "answer": "Arnold Bideleux",
+        "aliases": []
+      },
+      {
+        "answer": "Emile Bideleux",
+        "aliases": []
+      },
+      {
+        "answer": "René Bihel",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Bini",
+        "aliases": []
+      },
+      {
+        "answer": "Stéphano Bistolfi",
+        "aliases": []
+      },
+      {
+        "answer": "Nenad Bjeković",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Blanc",
+        "aliases": []
+      },
+      {
+        "answer": "Raoul Blanc",
+        "aliases": []
+      },
+      {
+        "answer": "Serge Blanc",
+        "aliases": []
+      },
+      {
+        "answer": "Rubén Blanco",
+        "aliases": []
+      },
+      {
+        "answer": "Patrick Blondeau",
+        "aliases": []
+      },
+      {
+        "answer": "Serge Blum",
+        "aliases": []
+      },
+      {
+        "answer": "György Bóbik",
+        "aliases": []
+      },
+      {
+        "answer": "Garry Bocaly",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Boghossian",
+        "aliases": []
+      },
+      {
+        "answer": "Alen Bokšić",
+        "aliases": []
+      },
+      {
+        "answer": "Basile Boli",
+        "aliases": []
+      },
+      {
+        "answer": "Angelo Bollano",
+        "aliases": []
+      },
+      {
+        "answer": "Antun Bonačić",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Bonnart",
+        "aliases": []
+      },
+      {
+        "answer": "Joseph Bonnel",
+        "aliases": []
+      },
+      {
+        "answer": "Louis Bonnel",
+        "aliases": []
+      },
+      {
+        "answer": "Georges Bonello",
+        "aliases": []
+      },
+      {
+        "answer": "François Bonnet",
+        "aliases": []
+      },
+      {
+        "answer": "Jacques Bonnet",
+        "aliases": []
+      },
+      {
+        "answer": "Jacky Bonnevay",
+        "aliases": []
+      },
+      {
+        "answer": "Jérôme Bonnissel",
+        "aliases": []
+      },
+      {
+        "answer": "Louis Bordere",
+        "aliases": []
+      },
+      {
+        "answer": "André Bordone",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Bosquier",
+        "aliases": []
+      },
+      {
+        "answer": "Ali Bouafia",
+        "aliases": []
+      },
+      {
+        "answer": "Sarr Boubacar",
+        "aliases": []
+      },
+      {
+        "answer": "Ben Mohamed Bouchaïb",
+        "aliases": []
+      },
+      {
+        "answer": "Richard Boucher",
+        "aliases": []
+      },
+      {
+        "answer": "Abdelhamid Bouchouk",
+        "aliases": []
+      },
+      {
+        "answer": "Edmond Boulle",
+        "aliases": []
+      },
+      {
+        "answer": "Philippe Bourrier",
+        "aliases": []
+      },
+      {
+        "answer": "Bilal Boutobba",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Bouze",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Boyer",
+        "aliases": []
+      },
+      {
+        "answer": "François Bracci",
+        "aliases": []
+      },
+      {
+        "answer": "Lilian Brassier",
+        "aliases": []
+      },
+      {
+        "answer": "Gennaro Bracigliano",
+        "aliases": []
+      },
+      {
+        "answer": "Henri Braizat",
+        "aliases": []
+      },
+      {
+        "answer": "Brandão",
+        "aliases": []
+      },
+      {
+        "answer": "Frédéric Brando",
+        "aliases": []
+      },
+      {
+        "answer": "Daniel Bravo",
+        "aliases": []
+      },
+      {
+        "answer": "François Brisson",
+        "aliases": []
+      },
+      {
+        "answer": "Edouard Brodeur",
+        "aliases": []
+      },
+      {
+        "answer": "Joseph Brotons",
+        "aliases": []
+      },
+      {
+        "answer": "Ferdinand Bruhin",
+        "aliases": []
+      },
+      {
+        "answer": "Philippe Brunel",
+        "aliases": []
+      },
+      {
+        "answer": "Régis Bruneton",
+        "aliases": []
+      },
+      {
+        "answer": "Eric Bruno",
+        "aliases": []
+      },
+      {
+        "answer": "Étienne Brusset",
+        "aliases": []
+      },
+      {
+        "answer": "Kenneth Brylle Larsen",
+        "aliases": []
+      },
+      {
+        "answer": "Robert Buigues",
+        "aliases": []
+      },
+      {
+        "answer": "Otto Bureš",
+        "aliases": []
+      },
+      {
+        "answer": "Auguste Burle",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Louis Buron",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Cabassu",
+        "aliases": []
+      },
+      {
+        "answer": "Joseph Cabassu",
+        "aliases": []
+      },
+      {
+        "answer": "Rémy Cabella",
+        "aliases": []
+      },
+      {
+        "answer": "Alfred Leonard Caiels",
+        "aliases": []
+      },
+      {
+        "answer": "Roger Caillol",
+        "aliases": []
+      },
+      {
+        "answer": "Pablo Calandria",
+        "aliases": []
+      },
+      {
+        "answer": "Duje Ćaleta-Car",
+        "aliases": []
+      },
+      {
+        "answer": "François Camara",
+        "aliases": []
+      },
+      {
+        "answer": "Hassoun Camara",
+        "aliases": []
+      },
+      {
+        "answer": "Titi Camara",
+        "aliases": []
+      },
+      {
+        "answer": "Zoumana Camara",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Caminiti",
+        "aliases": []
+      },
+      {
+        "answer": "Fabien Camus",
+        "aliases": []
+      },
+      {
+        "answer": "Lorik Cana",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Cantareil",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Cantona",
+        "aliases": []
+      },
+      {
+        "answer": "Joël Cantona",
+        "aliases": []
+      },
+      {
+        "answer": "Étienne Carasco",
+        "aliases": []
+      },
+      {
+        "answer": "Valentín Carboni",
+        "aliases": []
+      },
+      {
+        "answer": "Georges Carnus",
+        "aliases": []
+      },
+      {
+        "answer": "Cédric Carrasso",
+        "aliases": []
+      },
+      {
+        "answer": "Tony Cascarino",
+        "aliases": []
+      },
+      {
+        "answer": "Jacques Casolari",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Casoni",
+        "aliases": []
+      },
+      {
+        "answer": "Alphonse Cassar",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Castaneda",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Castellani",
+        "aliases": []
+      },
+      {
+        "answer": "Benoît Cauet",
+        "aliases": []
+      },
+      {
+        "answer": "Guy Caussemille",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Cavalli",
+        "aliases": []
+      },
+      {
+        "answer": "Jürgen Cavens",
+        "aliases": []
+      },
+      {
+        "answer": "René Caviglia",
+        "aliases": []
+      },
+      {
+        "answer": "Fabio Celestini",
+        "aliases": []
+      },
+      {
+        "answer": "Boštjan Cesar",
+        "aliases": []
+      },
+      {
+        "answer": "Florian Chabrolle",
+        "aliases": []
+      },
+      {
+        "answer": "Raoul Chaisaz",
+        "aliases": []
+      },
+      {
+        "answer": "Thierry Chancel",
+        "aliases": []
+      },
+      {
+        "answer": "Lionel Chancelier",
+        "aliases": []
+      },
+      {
+        "answer": "Cyril Chapuis",
+        "aliases": []
+      },
+      {
+        "answer": "Max Charbit",
+        "aliases": []
+      },
+      {
+        "answer": "Maurice Charpin",
+        "aliases": []
+      },
+      {
+        "answer": "René Charrier",
+        "aliases": []
+      },
+      {
+        "answer": "Benoît Cheyrou",
+        "aliases": []
+      },
+      {
+        "answer": "Larbi Chicha",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Cheyrou",
+        "aliases": []
+      },
+      {
+        "answer": "Josef Chloupek",
+        "aliases": []
+      },
+      {
+        "answer": "Philippe Christanval",
+        "aliases": []
+      },
+      {
+        "answer": "Nicolas Cicut",
+        "aliases": []
+      },
+      {
+        "answer": "Djibril Cissé",
+        "aliases": []
+      },
+      {
+        "answer": "Édouard Cissé",
+        "aliases": []
+      },
+      {
+        "answer": "Renato Civelli",
+        "aliases": []
+      },
+      {
+        "answer": "Jonathan Clauss",
+        "aliases": []
+      },
+      {
+        "answer": "Ernest Clère",
+        "aliases": []
+      },
+      {
+        "answer": "Aimé Cola",
+        "aliases": []
+      },
+      {
+        "answer": "Patrick Colleter",
+        "aliases": []
+      },
+      {
+        "answer": "Ferante Colnago",
+        "aliases": []
+      },
+      {
+        "answer": "Clément Colombani",
+        "aliases": []
+      },
+      {
+        "answer": "Henri Conchy",
+        "aliases": []
+      },
+      {
+        "answer": "Max Conchy",
+        "aliases": []
+      },
+      {
+        "answer": "Pires Constantino",
+        "aliases": []
+      },
+      {
+        "answer": "Dimítris Kontopános",
+        "aliases": []
+      },
+      {
+        "answer": "Alberto Corazza",
+        "aliases": []
+      },
+      {
+        "answer": "Derek Cornelius",
+        "aliases": []
+      },
+      {
+        "answer": "Joaquín Correa",
+        "aliases": []
+      },
+      {
+        "answer": "Eduardo Costa",
+        "aliases": []
+      },
+      {
+        "answer": "Léo Coti",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Couécou",
+        "aliases": []
+      },
+      {
+        "answer": "Dramane Coulibaly",
+        "aliases": []
+      },
+      {
+        "answer": "Rolland Courbis",
+        "aliases": []
+      },
+      {
+        "answer": "Eugène Crolle",
+        "aliases": []
+      },
+      {
+        "answer": "Édouard Crut",
+        "aliases": []
+      },
+      {
+        "answer": "Patrick Cubaynes",
+        "aliases": []
+      },
+      {
+        "answer": "Gaston Cuenod",
+        "aliases": []
+      },
+      {
+        "answer": "Michaël Cuisance",
+        "aliases": []
+      },
+      {
+        "answer": "Laurie Cunningham",
+        "aliases": []
+      },
+      {
+        "answer": "Antoine Curcuru",
+        "aliases": []
+      },
+      {
+        "answer": "Stanislas Curyl",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Cyprien",
+        "aliases": []
+      },
+      {
+        "answer": "Émile Dahan",
+        "aliases": []
+      },
+      {
+        "answer": "Karim Dahou",
+        "aliases": []
+      },
+      {
+        "answer": "Stéphane Dalmat",
+        "aliases": []
+      },
+      {
+        "answer": "Wilfried Dalmat",
+        "aliases": []
+      },
+      {
+        "answer": "Raimane Daou",
+        "aliases": []
+      },
+      {
+        "answer": "Georges Dard",
+        "aliases": []
+      },
+      {
+        "answer": "Roger Dard",
+        "aliases": []
+      },
+      {
+        "answer": "Yves David",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Charles De Bono",
+        "aliases": []
+      },
+      {
+        "answer": "Paolo De Ceglie",
+        "aliases": []
+      },
+      {
+        "answer": "Marcel De Falco",
+        "aliases": []
+      },
+      {
+        "answer": "Jeffrey de Lange",
+        "aliases": []
+      },
+      {
+        "answer": "Iván de la Peña",
+        "aliases": []
+      },
+      {
+        "answer": "Raymond de la Tour",
+        "aliases": []
+      },
+      {
+        "answer": "Louis de Sainte de Maréville",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre De Martino",
+        "aliases": []
+      },
+      {
+        "answer": "Aléxis De Nicola",
+        "aliases": []
+      },
+      {
+        "answer": "Michel De Wolf",
+        "aliases": []
+      },
+      {
+        "answer": "Noël Debouzy",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Decroix",
+        "aliases": []
+      },
+      {
+        "answer": "Amar Dedić",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Philippe Dehon",
+        "aliases": []
+      },
+      {
+        "answer": "Frédéric Déhu",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Delachet",
+        "aliases": []
+      },
+      {
+        "answer": "Jacques Delachet",
+        "aliases": []
+      },
+      {
+        "answer": "Konrad de la Fuente",
+        "aliases": []
+      },
+      {
+        "answer": "Patrick Delamontagne",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Delbet",
+        "aliases": []
+      },
+      {
+        "answer": "Laurens Deleuil",
+        "aliases": []
+      },
+      {
+        "answer": "Delfim",
+        "aliases": []
+      },
+      {
+        "answer": "Mohamed Amine Dennoun",
+        "aliases": []
+      },
+      {
+        "answer": "Thomas Deruda",
+        "aliases": []
+      },
+      {
+        "answer": "Marcel Desailly",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Deschamps",
+        "aliases": []
+      },
+      {
+        "answer": "Guillaume Deschamps",
+        "aliases": []
+      },
+      {
+        "answer": "Olivier Deso",
+        "aliases": []
+      },
+      {
+        "answer": "Hugues Despointes",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Destrumelle",
+        "aliases": []
+      },
+      {
+        "answer": "Jules Devaquez",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Dewilder",
+        "aliases": []
+      },
+      {
+        "answer": "Ange Di Caro",
+        "aliases": []
+      },
+      {
+        "answer": "Gérald Di Giorgio",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Di Lorto",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Di Martino",
+        "aliases": []
+      },
+      {
+        "answer": "Éric Di Meco",
+        "aliases": []
+      },
+      {
+        "answer": "Abou Diaby",
+        "aliases": []
+      },
+      {
+        "answer": "Abdoulaye Diallo",
+        "aliases": []
+      },
+      {
+        "answer": "Alou Diarra",
+        "aliases": []
+      },
+      {
+        "answer": "Lassana Diarra",
+        "aliases": []
+      },
+      {
+        "answer": "Kaba Diawara",
+        "aliases": []
+      },
+      {
+        "answer": "Souleymane Diawara",
+        "aliases": []
+      },
+      {
+        "answer": "Marcel Dib",
+        "aliases": []
+      },
+      {
+        "answer": "Bamba Dieng",
+        "aliases": []
+      },
+      {
+        "answer": "Dill",
+        "aliases": []
+      },
+      {
+        "answer": "Papa Moustapha Diop",
+        "aliases": []
+      },
+      {
+        "answer": "Brice Dja Djédjé",
+        "aliases": []
+      },
+      {
+        "answer": "Moncef Djebali",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Djorkaeff",
+        "aliases": []
+      },
+      {
+        "answer": "Igor Dobrovolski",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Pierre Dogliani",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Domenech",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-François Domergue",
+        "aliases": []
+      },
+      {
+        "answer": "Marcel Domingo",
+        "aliases": []
+      },
+      {
+        "answer": "Cyril Domoraud",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Donnat",
+        "aliases": []
+      },
+      {
+        "answer": "Friedrich Donenfeld",
+        "aliases": []
+      },
+      {
+        "answer": "Dória",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Dos Santos",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Drogba",
+        "aliases": []
+      },
+      {
+        "answer": "Leopold Drucker",
+        "aliases": []
+      },
+      {
+        "answer": "Guy Dubreuil",
+        "aliases": []
+      },
+      {
+        "answer": "Charles Ducasse",
+        "aliases": []
+      },
+      {
+        "answer": "Louis Duchene",
+        "aliases": []
+      },
+      {
+        "answer": "Christophe Dugarry",
+        "aliases": []
+      },
+      {
+        "answer": "Franck Dumas",
+        "aliases": []
+      },
+      {
+        "answer": "Marcel Dumas",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Durand",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Claude Durand",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Philippe Durand",
+        "aliases": []
+      },
+      {
+        "answer": "Raymond Durand",
+        "aliases": []
+      },
+      {
+        "answer": "Aimé Durbec",
+        "aliases": []
+      },
+      {
+        "answer": "Harry Durrell",
+        "aliases": []
+      },
+      {
+        "answer": "Daniel Dutuel",
+        "aliases": []
+      },
+      {
+        "answer": "Olivier Echouafni",
+        "aliases": []
+      },
+      {
+        "answer": "Johnny Ecker",
+        "aliases": []
+      },
+      {
+        "answer": "Édson",
+        "aliases": []
+      },
+      {
+        "answer": "CJ Egan-Riley",
+        "aliases": []
+      },
+      {
+        "answer": "Rolland Ehrhardt",
+        "aliases": []
+      },
+      {
+        "answer": "József Eisenhoffer",
+        "aliases": []
+      },
+      {
+        "answer": "Dan Ekner",
+        "aliases": []
+      },
+      {
+        "answer": "Paul El Hadidji",
+        "aliases": []
+      },
+      {
+        "answer": "Bartuğ Elmaz",
+        "aliases": []
+      },
+      {
+        "answer": "Emerson",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Emon",
+        "aliases": []
+      },
+      {
+        "answer": "Georges Eo",
+        "aliases": []
+      },
+      {
+        "answer": "Elamin Erbate",
+        "aliases": []
+      },
+      {
+        "answer": "Arménak Erévanian",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Paul Escale",
+        "aliases": []
+      },
+      {
+        "answer": "Florian Escales",
+        "aliases": []
+      },
+      {
+        "answer": "Norbert Eschmann",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Etchepare",
+        "aliases": []
+      },
+      {
+        "answer": "Serge Eussel",
+        "aliases": []
+      },
+      {
+        "answer": "Patrice Évra",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Jacques Eydelie",
+        "aliases": []
+      },
+      {
+        "answer": "Patrice Eyraud",
+        "aliases": []
+      },
+      {
+        "answer": "Pape Fall",
+        "aliases": []
+      },
+      {
+        "answer": "Rod Fanni",
+        "aliases": []
+      },
+      {
+        "answer": "Lucien Farmanian",
+        "aliases": []
+      },
+      {
+        "answer": "Jacques Faty",
+        "aliases": []
+      },
+      {
+        "answer": "Fernandão",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Fernandes",
+        "aliases": []
+      },
+      {
+        "answer": "Alfredo Fernandez",
+        "aliases": []
+      },
+      {
+        "answer": "Casiano Fernandez",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Fernandez",
+        "aliases": []
+      },
+      {
+        "answer": "Demetrius Ferreira",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Ferrer",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Marc Ferreri",
+        "aliases": []
+      },
+      {
+        "answer": "Franck Fiawoo",
+        "aliases": []
+      },
+      {
+        "answer": "Fabrice Fiorèse",
+        "aliases": []
+      },
+      {
+        "answer": "Camille Fischbach",
+        "aliases": []
+      },
+      {
+        "answer": "Yannick Fischer",
+        "aliases": []
+      },
+      {
+        "answer": "Anthony Flachi",
+        "aliases": []
+      },
+      {
+        "answer": "Hervé Flak",
+        "aliases": []
+      },
+      {
+        "answer": "Mathieu Flamini",
+        "aliases": []
+      },
+      {
+        "answer": "Pierre Flamion",
+        "aliases": []
+      },
+      {
+        "answer": "Steven Fletcher",
+        "aliases": []
+      },
+      {
+        "answer": "Hervé Florès",
+        "aliases": []
+      },
+      {
+        "answer": "Oscar Daniel Flores",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Flos",
+        "aliases": []
+      },
+      {
+        "answer": "Henri Fontaine",
+        "aliases": []
+      },
+      {
+        "answer": "Robert Forno",
+        "aliases": []
+      },
+      {
+        "answer": "Karl-Heinz Förster",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Fournier",
+        "aliases": []
+      },
+      {
+        "answer": "Maurice Fraissinet",
+        "aliases": []
+      },
+      {
+        "answer": "Georges Franceschetti",
+        "aliases": []
+      },
+      {
+        "answer": "Dominique Franceschi",
+        "aliases": []
+      },
+      {
+        "answer": "Ivan Franceschini",
+        "aliases": []
+      },
+      {
+        "answer": "Enzo Francescoli",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Yves Francini",
+        "aliases": []
+      },
+      {
+        "answer": "Joseph Freixas Costa",
+        "aliases": []
+      },
+      {
+        "answer": "Pascal Fugier",
+        "aliases": []
+      },
+      {
+        "answer": "Maxime Fulgenzy",
+        "aliases": []
+      },
+      {
+        "answer": "Paulo Futre",
+        "aliases": []
+      },
+      {
+        "answer": "Youssef Gabsi",
+        "aliases": []
+      },
+      {
+        "answer": "Chris Gadi",
+        "aliases": []
+      },
+      {
+        "answer": "Michel Gafour",
+        "aliases": []
+      },
+      {
+        "answer": "Marius Gairoard",
+        "aliases": []
+      },
+      {
+        "answer": "William Gallas",
+        "aliases": []
+      },
+      {
+        "answer": "Maurice Gallay",
+        "aliases": []
+      },
+      {
+        "answer": "René Gallian",
+        "aliases": []
+      },
+      {
+        "answer": "René Gallice",
+        "aliases": []
+      },
+      {
+        "answer": "Christophe Galtier",
+        "aliases": []
+      },
+      {
+        "answer": "André Gamonet",
+        "aliases": []
+      },
+      {
+        "answer": "Jean-Jacques Garcia",
+        "aliases": []
+      },
+      {
+        "answer": "Ulisses Garcia",
+        "aliases": []
+      },
+      {
+        "answer": "Georges Garrone",
+        "aliases": []
+      },
+      {
+        "answer": "André Gascard",
+        "aliases": []
+      },
+      {
+        "answer": "Pascal Gastien",
+        "aliases": []
+      },
+      {
+        "answer": "Vincent Gastine",
+        "aliases": []
+      },
+      {
+        "answer": "Orlando Gauthier",
+        "aliases": []
+      },
+      {
+        "answer": "Benjamin Gavanon",
+        "aliases": []
+      },
+      {
+        "answer": "Jérémy Gavanon",
+        "aliases": []
+      },
+      {
+        "answer": "Charles Gazagne",
+        "aliases": []
+      },
+      {
+        "answer": "Henri Gazagne",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Genghini",
+        "aliases": []
+      },
+      {
+        "answer": "Victor Gérard",
+        "aliases": []
+      },
+      {
+        "answer": "Bruno Germain",
+        "aliases": []
+      },
+      {
+        "answer": "Valère Germain",
+        "aliases": []
+      },
+      {
+        "answer": "Gerson",
+        "aliases": []
+      },
+      {
+        "answer": "Victor Gibson",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Giessner",
+        "aliases": []
+      },
+      {
+        "answer": "André-Pierre Gignac",
+        "aliases": []
+      },
+      {
+        "answer": "Samuel Gigot",
+        "aliases": []
+      },
+      {
+        "answer": "Gérard Gili",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Gilles",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Gilly",
+        "aliases": []
+      },
+      {
+        "answer": "Louis Gilly",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Giménez",
+        "aliases": []
+      },
+      {
+        "answer": "Victor Giral",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Giresse",
+        "aliases": []
+      },
+      {
+        "answer": "Gaël Givet",
+        "aliases": []
+      },
+      {
+        "answer": "Charles Glass",
+        "aliases": []
+      },
+      {
+        "answer": "Guy Gnabouyou",
+        "aliases": []
+      }
+    ]
+  },
+  "spo-football-11": {
+    "sources": [],
+    "answers": [
+      {
+        "answer": "Raúl",
+        "aliases": []
+      },
+      {
+        "answer": "Iker Casillas",
+        "aliases": []
+      },
+      {
+        "answer": "Manolo Sanchís",
+        "aliases": [
+          "Manuel Sanchís Hontiyuelo"
+        ]
+      },
+      {
+        "answer": "Sergio Ramos",
+        "aliases": []
+      },
+      {
+        "answer": "Karim Benzema",
+        "aliases": []
+      },
+      {
+        "answer": "Santillana",
+        "aliases": []
+      },
+      {
+        "answer": "Fernando Hierro",
+        "aliases": []
+      },
+      {
+        "answer": "Paco Gento",
+        "aliases": []
+      },
+      {
+        "answer": "Luka Modrić",
+        "aliases": []
+      },
+      {
+        "answer": "Camacho",
+        "aliases": [
+          "José Antonio Camacho"
+        ]
+      },
+      {
+        "answer": "Pirri",
+        "aliases": []
+      },
+      {
+        "answer": "Míchel",
+        "aliases": []
+      },
+      {
+        "answer": "Marcelo",
+        "aliases": []
+      },
+      {
+        "answer": "Guti",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Carlos",
+        "aliases": []
+      },
+      {
+        "answer": "Chendo",
+        "aliases": []
+      },
+      {
+        "answer": "Amancio",
+        "aliases": []
+      },
+      {
+        "answer": "Toni Kroos",
+        "aliases": []
+      },
+      {
+        "answer": "Emilio Butragueño",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco Buyo",
+        "aliases": []
+      },
+      {
+        "answer": "Dani Carvajal",
+        "aliases": []
+      },
+      {
+        "answer": "Cristiano Ronaldo",
+        "aliases": []
+      },
+      {
+        "answer": "Ignacio Zoco",
+        "aliases": []
+      },
+      {
+        "answer": "Goyo Benito",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Velázquez",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Vázquez",
+        "aliases": []
+      },
+      {
+        "answer": "Juanito",
+        "aliases": []
+      },
+      {
+        "answer": "Alfredo Di Stéfano",
+        "aliases": []
+      },
+      {
+        "answer": "Federico Valverde",
+        "aliases": []
+      },
+      {
+        "answer": "Vinícius Júnior",
+        "aliases": []
+      },
+      {
+        "answer": "Ricardo Gallego",
+        "aliases": []
+      },
+      {
+        "answer": "Míchel Salgado",
+        "aliases": []
+      },
+      {
+        "answer": "Ramón Grosso",
+        "aliases": []
+      },
+      {
+        "answer": "Nacho",
+        "aliases": []
+      },
+      {
+        "answer": "Raphaël Varane",
+        "aliases": []
+      },
+      {
+        "answer": "Isco",
+        "aliases": []
+      },
+      {
+        "answer": "Thibaut Courtois",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Ángel",
+        "aliases": []
+      },
+      {
+        "answer": "Iván Helguera",
+        "aliases": []
+      },
+      {
+        "answer": "Martín Vázquez",
+        "aliases": [
+          "Rafael Martín Vázquez"
+        ]
+      },
+      {
+        "answer": "Vicente del Bosque",
+        "aliases": []
+      },
+      {
+        "answer": "José Santamaría",
+        "aliases": []
+      },
+      {
+        "answer": "Casemiro",
+        "aliases": []
+      },
+      {
+        "answer": "Pepe",
+        "aliases": []
+      },
+      {
+        "answer": "Uli Stielike",
+        "aliases": []
+      },
+      {
+        "answer": "José María Zárraga",
+        "aliases": []
+      },
+      {
+        "answer": "Rodrygo",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Alonso",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Antonio Ipiña",
+        "aliases": []
+      },
+      {
+        "answer": "Marco Asensio",
+        "aliases": []
+      },
+      {
+        "answer": "Hugo Sánchez",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Muñoz",
+        "aliases": []
+      },
+      {
+        "answer": "Fernando Morientes",
+        "aliases": []
+      },
+      {
+        "answer": "Isidoro",
+        "aliases": [
+          "Isidoro San José"
+        ]
+      },
+      {
+        "answer": "Gonzalo Higuaín",
+        "aliases": []
+      },
+      {
+        "answer": "Ferenc Puskás",
+        "aliases": []
+      },
+      {
+        "answer": "Gareth Bale",
+        "aliases": []
+      },
+      {
+        "answer": "Rafael Gordillo",
+        "aliases": []
+      },
+      {
+        "answer": "Luís Figo",
+        "aliases": []
+      },
+      {
+        "answer": "Álvaro Arbeloa",
+        "aliases": []
+      },
+      {
+        "answer": "Ángel de los Santos",
+        "aliases": []
+      },
+      {
+        "answer": "Xabi Alonso",
+        "aliases": []
+      },
+      {
+        "answer": "Eduardo Camavinga",
+        "aliases": []
+      },
+      {
+        "answer": "García Remón",
+        "aliases": [
+          "Mariano García Remón"
+        ]
+      },
+      {
+        "answer": "Fernando Redondo",
+        "aliases": []
+      },
+      {
+        "answer": "Marquitos",
+        "aliases": []
+      },
+      {
+        "answer": "Zinedine Zidane",
+        "aliases": []
+      },
+      {
+        "answer": "Isidro Díaz",
+        "aliases": []
+      },
+      {
+        "answer": "Rafael Lesmes",
+        "aliases": []
+      },
+      {
+        "answer": "Joaquín Navarro",
+        "aliases": []
+      },
+      {
+        "answer": "Pachín",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Milla",
+        "aliases": []
+      },
+      {
+        "answer": "Dani Ceballos",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Sanchís",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Enrique",
+        "aliases": []
+      },
+      {
+        "answer": "Ferland Mendy",
+        "aliases": []
+      },
+      {
+        "answer": "Santiago Solari",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Molowny",
+        "aliases": []
+      },
+      {
+        "answer": "Aurélien Tchouaméni",
+        "aliases": []
+      },
+      {
+        "answer": "Éder Militão",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Martínez",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco Aguilar",
+        "aliases": []
+      },
+      {
+        "answer": "Ángel Di María",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Rüdiger",
+        "aliases": []
+      },
+      {
+        "answer": "José Luis",
+        "aliases": []
+      },
+      {
+        "answer": "Sabino Barinaga",
+        "aliases": []
+      },
+      {
+        "answer": "Félix Huete",
+        "aliases": []
+      },
+      {
+        "answer": "Mikel Lasa",
+        "aliases": []
+      },
+      {
+        "answer": "Joseíto",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Alsúa",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Betancort",
+        "aliases": []
+      },
+      {
+        "answer": "Jesús Solana",
+        "aliases": []
+      },
+      {
+        "answer": "Ronaldo",
+        "aliases": []
+      },
+      {
+        "answer": "Iván Zamorano",
+        "aliases": []
+      },
+      {
+        "answer": "Brahim Díaz",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro de Felipe",
+        "aliases": []
+      },
+      {
+        "answer": "Jacinto Quincoces",
+        "aliases": []
+      },
+      {
+        "answer": "Héctor Rial",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco Pavón",
+        "aliases": []
+      },
+      {
+        "answer": "Keylor Navas",
+        "aliases": []
+      },
+      {
+        "answer": "Sami Khedira",
+        "aliases": []
+      },
+      {
+        "answer": "Paco Llorente",
+        "aliases": []
+      },
+      {
+        "answer": "Sávio",
+        "aliases": []
+      },
+      {
+        "answer": "José Bañón",
+        "aliases": []
+      },
+      {
+        "answer": "Clarence Seedorf",
+        "aliases": []
+      },
+      {
+        "answer": "David Beckham",
+        "aliases": []
+      },
+      {
+        "answer": "Mesut Özil",
+        "aliases": []
+      },
+      {
+        "answer": "Steve McManaman",
+        "aliases": []
+      },
+      {
+        "answer": "Chus Alonso",
+        "aliases": []
+      },
+      {
+        "answer": "Jude Bellingham",
+        "aliases": []
+      },
+      {
+        "answer": "Pepe Corona",
+        "aliases": []
+      },
+      {
+        "answer": "Aitor Karanka",
+        "aliases": []
+      },
+      {
+        "answer": "Leoncito",
+        "aliases": []
+      },
+      {
+        "answer": "Vicente Miera",
+        "aliases": []
+      },
+      {
+        "answer": "Félix Quesada",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Tendillo",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco Pineda",
+        "aliases": []
+      },
+      {
+        "answer": "Claude Makélélé",
+        "aliases": []
+      },
+      {
+        "answer": "Clemente Fernández",
+        "aliases": []
+      },
+      {
+        "answer": "Félix Ruiz",
+        "aliases": []
+      },
+      {
+        "answer": "José Amavisca",
+        "aliases": []
+      },
+      {
+        "answer": "Pahiño",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Sol",
+        "aliases": []
+      },
+      {
+        "answer": "José Antonio Salguero",
+        "aliases": []
+      },
+      {
+        "answer": "Robinho",
+        "aliases": []
+      },
+      {
+        "answer": "Rafael Alkorta",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Carlos Touriño",
+        "aliases": []
+      },
+      {
+        "answer": "Raúl Bravo",
+        "aliases": []
+      },
+      {
+        "answer": "David Alaba",
+        "aliases": []
+      },
+      {
+        "answer": "García Hernández",
+        "aliases": [
+          "Francisco García Hernández"
+        ]
+      },
+      {
+        "answer": "Arda Güler",
+        "aliases": []
+      },
+      {
+        "answer": "Joaquín Oliva",
+        "aliases": []
+      },
+      {
+        "answer": "Mahamadou Diarra",
+        "aliases": []
+      },
+      {
+        "answer": "James Rodríguez",
+        "aliases": []
+      },
+      {
+        "answer": "José Ramón Sauto",
+        "aliases": []
+      },
+      {
+        "answer": "Roque Olsen",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro Casado",
+        "aliases": []
+      },
+      {
+        "answer": "Agustín",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Regueiro",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Calpe",
+        "aliases": []
+      },
+      {
+        "answer": "Toni Grande",
+        "aliases": []
+      },
+      {
+        "answer": "Fernando Gago",
+        "aliases": []
+      },
+      {
+        "answer": "Manolín Bueno",
+        "aliases": []
+      },
+      {
+        "answer": "Jorge Valdano",
+        "aliases": []
+      },
+      {
+        "answer": "Kaká",
+        "aliases": []
+      },
+      {
+        "answer": "Alfonso Pérez",
+        "aliases": []
+      },
+      {
+        "answer": "Bodo Illgner",
+        "aliases": []
+      },
+      {
+        "answer": "Kylian Mbappé",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco Villarroya",
+        "aliases": []
+      },
+      {
+        "answer": "Predrag Mijatović",
+        "aliases": []
+      },
+      {
+        "answer": "Fabio Cannavaro",
+        "aliases": []
+      },
+      {
+        "answer": "Raúl Albiol",
+        "aliases": []
+      },
+      {
+        "answer": "Andrés Sabido",
+        "aliases": []
+      },
+      {
+        "answer": "Lassana Diarra",
+        "aliases": []
+      },
+      {
+        "answer": "Pruden",
+        "aliases": []
+      },
+      {
+        "answer": "Jaime Lazcano",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Santisteban",
+        "aliases": []
+      },
+      {
+        "answer": "Ricardo Zamora",
+        "aliases": []
+      },
+      {
+        "answer": "Fernando Zunzunegui",
+        "aliases": []
+      },
+      {
+        "answer": "Davor Šuker",
+        "aliases": []
+      },
+      {
+        "answer": "Mateo Kovačić",
+        "aliases": []
+      },
+      {
+        "answer": "Fran García",
+        "aliases": []
+      },
+      {
+        "answer": "Pablo Olmedo",
+        "aliases": []
+      },
+      {
+        "answer": "Eugenio",
+        "aliases": [
+          "Eugenio Hilario"
+        ]
+      },
+      {
+        "answer": "Moleiro",
+        "aliases": []
+      },
+      {
+        "answer": "Fábio Coentrão",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro Regueiro",
+        "aliases": []
+      },
+      {
+        "answer": "Raymond Kopa",
+        "aliases": []
+      },
+      {
+        "answer": "Isidro Sánchez",
+        "aliases": []
+      },
+      {
+        "answer": "Simón Lecue",
+        "aliases": []
+      },
+      {
+        "answer": "José Mardones",
+        "aliases": [
+          "José Mardones Llorente"
+        ]
+      },
+      {
+        "answer": "Henning Jensen",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Celades",
+        "aliases": []
+      },
+      {
+        "answer": "José Vicente",
+        "aliases": []
+      },
+      {
+        "answer": "Günter Netzer",
+        "aliases": []
+      },
+      {
+        "answer": "Paul Breitner",
+        "aliases": []
+      },
+      {
+        "answer": "Ángel Atienza",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Bonet",
+        "aliases": []
+      },
+      {
+        "answer": "Benito Rubiñán",
+        "aliases": []
+      },
+      {
+        "answer": "Guillermo Pont",
+        "aliases": []
+      },
+      {
+        "answer": "José Araquistáin",
+        "aliases": []
+      },
+      {
+        "answer": "Adolfo Aldana",
+        "aliases": []
+      },
+      {
+        "answer": "José María Peña",
+        "aliases": []
+      },
+      {
+        "answer": "Luis del Sol",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Panucci",
+        "aliases": []
+      },
+      {
+        "answer": "Ruud van Nistelrooy",
+        "aliases": []
+      },
+      {
+        "answer": "Esteban Granero",
+        "aliases": []
+      },
+      {
+        "answer": "Iván Campo",
+        "aliases": []
+      },
+      {
+        "answer": "Álvaro Morata",
+        "aliases": []
+      },
+      {
+        "answer": "Enrique Mateos",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Verdugo",
+        "aliases": []
+      },
+      {
+        "answer": "Jesé",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Alday",
+        "aliases": []
+      },
+      {
+        "answer": "Nazario Belmar",
+        "aliases": []
+      },
+      {
+        "answer": "Lucien Muller",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Ruiz",
+        "aliases": []
+      },
+      {
+        "answer": "Enrique Wolff",
+        "aliases": []
+      },
+      {
+        "answer": "Asier Illarramendi",
+        "aliases": []
+      },
+      {
+        "answer": "Hilario",
+        "aliases": []
+      },
+      {
+        "answer": "Alberto Vitoria",
+        "aliases": []
+      },
+      {
+        "answer": "Bernd Schuster",
+        "aliases": []
+      },
+      {
+        "answer": "Ricardo Rocha",
+        "aliases": []
+      },
+      {
+        "answer": "Desiderio Esparza",
+        "aliases": []
+      },
+      {
+        "answer": "Ciriaco Errasti",
+        "aliases": []
+      },
+      {
+        "answer": "José Montalvo",
+        "aliases": []
+      },
+      {
+        "answer": "José María Vidal",
+        "aliases": []
+      },
+      {
+        "answer": "Pablo Vidal",
+        "aliases": [
+          "Pablo Vidal Oliver"
+        ]
+      },
+      {
+        "answer": "Fernando Serena",
+        "aliases": []
+      },
+      {
+        "answer": "Rogelio Domínguez",
+        "aliases": []
+      },
+      {
+        "answer": "Carlos Guerini",
+        "aliases": []
+      },
+      {
+        "answer": "John Metgod",
+        "aliases": []
+      },
+      {
+        "answer": "Gheorghe Hagi",
+        "aliases": []
+      },
+      {
+        "answer": "Mariano Díaz",
+        "aliases": []
+      },
+      {
+        "answer": "Pachuco Prats",
+        "aliases": []
+      },
+      {
+        "answer": "Juan José",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Karembeu",
+        "aliases": []
+      },
+      {
+        "answer": "Quique Sánchez Flores",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro Munitis",
+        "aliases": []
+      },
+      {
+        "answer": "Rafael García Cortés",
+        "aliases": []
+      },
+      {
+        "answer": "Víctor Sánchez",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro María Arsuaga",
+        "aliases": []
+      },
+      {
+        "answer": "Jesús Narro",
+        "aliases": []
+      },
+      {
+        "answer": "Raúl Asencio",
+        "aliases": []
+      },
+      {
+        "answer": "Júlio Baptista",
+        "aliases": []
+      },
+      {
+        "answer": "Pascual Botella",
+        "aliases": []
+      },
+      {
+        "answer": "Sebastián Fleitas",
+        "aliases": []
+      },
+      {
+        "answer": "Ricardo Carvalho",
+        "aliases": []
+      },
+      {
+        "answer": "José Callejón",
+        "aliases": []
+      },
+      {
+        "answer": "Robert Prosinečki",
+        "aliases": []
+      },
+      {
+        "answer": "Michael Laudrup",
+        "aliases": []
+      },
+      {
+        "answer": "Geremi",
+        "aliases": []
+      },
+      {
+        "answer": "Eden Hazard",
+        "aliases": []
+      },
+      {
+        "answer": "Andriy Lunin",
+        "aliases": []
+      },
+      {
+        "answer": "Andrés Junquera",
+        "aliases": []
+      },
+      {
+        "answer": "Flávio Conceição",
+        "aliases": []
+      },
+      {
+        "answer": "Chus Herrera",
+        "aliases": []
+      },
+      {
+        "answer": "Diego López",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Cabrera",
+        "aliases": [
+          "Miguel Cabrera Pérez"
+        ]
+      },
+      {
+        "answer": "Rafael van der Vaart",
+        "aliases": []
+      },
+      {
+        "answer": "José María Querejeta",
+        "aliases": [
+          "José María Querejeta Alberro"
+        ]
+      },
+      {
+        "answer": "Nando",
+        "aliases": []
+      },
+      {
+        "answer": "Macala",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Torres",
+        "aliases": []
+      },
+      {
+        "answer": "Paco Bonet",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Pérez",
+        "aliases": []
+      },
+      {
+        "answer": "Marañón",
+        "aliases": []
+      },
+      {
+        "answer": "Esteban Cambiasso",
+        "aliases": []
+      },
+      {
+        "answer": "Laurie Cunningham",
+        "aliases": []
+      },
+      {
+        "answer": "Jaime",
+        "aliases": [
+          "Jaime Sánchez"
+        ]
+      },
+      {
+        "answer": "Wesley Sneijder",
+        "aliases": []
+      },
+      {
+        "answer": "Arjen Robben",
+        "aliases": []
+      },
+      {
+        "answer": "Royston Drenthe",
+        "aliases": []
+      },
+      {
+        "answer": "Alfonso Fraile",
+        "aliases": [
+          "Alfonso Fraile Sánchez"
+        ]
+      },
+      {
+        "answer": "Juan José Maqueda",
+        "aliases": []
+      },
+      {
+        "answer": "Ito",
+        "aliases": []
+      },
+      {
+        "answer": "Gabriel Heinze",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Olaso",
+        "aliases": []
+      },
+      {
+        "answer": "Gonzalo Marzá",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Azcárate",
+        "aliases": []
+      },
+      {
+        "answer": "Gabriel Alonso",
+        "aliases": []
+      },
+      {
+        "answer": "Ramón Marsal",
+        "aliases": []
+      },
+      {
+        "answer": "César Sánchez",
+        "aliases": []
+      },
+      {
+        "answer": "Javier Portillo",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio García",
+        "aliases": [
+          "Antonio García Navajas"
+        ]
+      },
+      {
+        "answer": "Álvaro Mejía",
+        "aliases": []
+      },
+      {
+        "answer": "Dean Huijsen",
+        "aliases": []
+      },
+      {
+        "answer": "Miche",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco Uría",
+        "aliases": []
+      },
+      {
+        "answer": "Danilo",
+        "aliases": []
+      },
+      {
+        "answer": "Gaspar Rubio",
+        "aliases": []
+      },
+      {
+        "answer": "Emilín",
+        "aliases": []
+      },
+      {
+        "answer": "José Macanás",
+        "aliases": []
+      },
+      {
+        "answer": "Sebastián Losada",
+        "aliases": []
+      },
+      {
+        "answer": "Santiago Cañizares",
+        "aliases": []
+      },
+      {
+        "answer": "Gerónimo del Campo",
+        "aliases": []
+      },
+      {
+        "answer": "Esteban Fernández",
+        "aliases": [
+          "Esteban Gutiérrez Fernández"
+        ]
+      },
+      {
+        "answer": "Manuel Olivares",
+        "aliases": []
+      },
+      {
+        "answer": "Milan Janković",
+        "aliases": []
+      },
+      {
+        "answer": "Emilio Sánchez",
+        "aliases": [
+          "Emilio Sánchez Díaz"
+        ]
+      },
+      {
+        "answer": "Justo Tejada",
+        "aliases": []
+      },
+      {
+        "answer": "Joselu",
+        "aliases": []
+      },
+      {
+        "answer": "Luka Jović",
+        "aliases": []
+      },
+      {
+        "answer": "Gonzalo García",
+        "aliases": []
+      },
+      {
+        "answer": "Rafael Yunta",
+        "aliases": []
+      },
+      {
+        "answer": "Pérez Payá",
+        "aliases": [
+          "José Luis Pérez-Payá"
+        ]
+      },
+      {
+        "answer": "Thomas Gravesen",
+        "aliases": []
+      },
+      {
+        "answer": "Álvaro Odriozola",
+        "aliases": []
+      },
+      {
+        "answer": "Álvaro Carreras",
+        "aliases": []
+      },
+      {
+        "answer": "Fernando Sañudo",
+        "aliases": []
+      },
+      {
+        "answer": "Enrique Esquiva",
+        "aliases": [
+          "Enrique Esquiva González"
+        ]
+      },
+      {
+        "answer": "Ángel Arzanegui",
+        "aliases": []
+      },
+      {
+        "answer": "Louis Hon",
+        "aliases": []
+      },
+      {
+        "answer": "Endrick",
+        "aliases": []
+      },
+      {
+        "answer": "Felo",
+        "aliases": []
+      },
+      {
+        "answer": "José Ochotorena",
+        "aliases": []
+      },
+      {
+        "answer": "Rafael Morera",
+        "aliases": []
+      },
+      {
+        "answer": "Peter Dubovský",
+        "aliases": []
+      },
+      {
+        "answer": "Fernando Sanz",
+        "aliases": []
+      },
+      {
+        "answer": "Michael Owen",
+        "aliases": []
+      },
+      {
+        "answer": "Rafael Vidal",
+        "aliases": [
+          "Rafael Vidal Castillo"
+        ]
+      },
+      {
+        "answer": "Juan Esnáider",
+        "aliases": []
+      },
+      {
+        "answer": "Kiko Casilla",
+        "aliases": []
+      },
+      {
+        "answer": "Trent Alexander-Arnold",
+        "aliases": []
+      },
+      {
+        "answer": "José Torregrosa",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Valle Benítez",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Gurruchaga",
+        "aliases": [
+          "Manuel Gurruchaga Lavín"
+        ]
+      },
+      {
+        "answer": "José Luis Veloso",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Maceda",
+        "aliases": []
+      },
+      {
+        "answer": "Cándido Martínez",
+        "aliases": []
+      },
+      {
+        "answer": "Vicente Olivares",
+        "aliases": [
+          "Vicente Olivares Laguna"
+        ]
+      },
+      {
+        "answer": "Pedro Jaro",
+        "aliases": []
+      },
+      {
+        "answer": "Walter Samuel",
+        "aliases": []
+      },
+      {
+        "answer": "Hermenegildo Elices",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Pardeza",
+        "aliases": []
+      },
+      {
+        "answer": "Oscar Ruggeri",
+        "aliases": []
+      },
+      {
+        "answer": "Marcos Llorente",
+        "aliases": []
+      },
+      {
+        "answer": "Patricio Escobal",
+        "aliases": []
+      },
+      {
+        "answer": "Borja Fernández",
+        "aliases": []
+      },
+      {
+        "answer": "José Antonio Reyes",
+        "aliases": []
+      },
+      {
+        "answer": "Félix Pérez",
+        "aliases": []
+      },
+      {
+        "answer": "Lope Peña",
+        "aliases": []
+      },
+      {
+        "answer": "José Luis Borja",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Miguel Ramis",
+        "aliases": []
+      },
+      {
+        "answer": "Óscar Miñambres",
+        "aliases": []
+      },
+      {
+        "answer": "Monchín Triana",
+        "aliases": []
+      },
+      {
+        "answer": "José Becerril",
+        "aliases": []
+      },
+      {
+        "answer": "Robert Jarni",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Urquizu",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Marín",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Lozano",
+        "aliases": []
+      },
+      {
+        "answer": "Michael Essien",
+        "aliases": []
+      },
+      {
+        "answer": "Jesús Vallejo",
+        "aliases": []
+      },
+      {
+        "answer": "Franco Mastantuono",
+        "aliases": []
+      },
+      {
+        "answer": "Canário",
+        "aliases": []
+      },
+      {
+        "answer": "Emerson",
+        "aliases": []
+      },
+      {
+        "answer": "José María Muñagorri",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Ángel Portugal",
+        "aliases": []
+      },
+      {
+        "answer": "Julio Llorente",
+        "aliases": []
+      },
+      {
+        "answer": "Nicolas Anelka",
+        "aliases": []
+      },
+      {
+        "answer": "Júlio César",
+        "aliases": []
+      },
+      {
+        "answer": "Chicharito",
+        "aliases": [
+          "Javier Hernández"
+        ]
+      },
+      {
+        "answer": "Borja Mayoral",
+        "aliases": []
+      },
+      {
+        "answer": "Eduardo Anzarda",
+        "aliases": []
+      },
+      {
+        "answer": "Alberto Bernardo",
+        "aliases": []
+      },
+      {
+        "answer": "Javi García",
+        "aliases": []
+      },
+      {
+        "answer": "Cicinho",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio González",
+        "aliases": [
+          "Antonio González González"
+        ]
+      },
+      {
+        "answer": "Christoph Metzelder",
+        "aliases": []
+      },
+      {
+        "answer": "Javier Saviola",
+        "aliases": []
+      },
+      {
+        "answer": "Ezequiel Garay",
+        "aliases": []
+      },
+      {
+        "answer": "Cosme Vázquez",
+        "aliases": []
+      },
+      {
+        "answer": "Pepillo",
+        "aliases": []
+      },
+      {
+        "answer": "Mino",
+        "aliases": []
+      },
+      {
+        "answer": "Oscar Más",
+        "aliases": []
+      },
+      {
+        "answer": "Santiago Aragón",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Cassano",
+        "aliases": []
+      },
+      {
+        "answer": "Uribe",
+        "aliases": [
+          "Luis María Uribe"
+        ]
+      },
+      {
+        "answer": "Santiago Bernabéu",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio de Miguel",
+        "aliases": []
+      },
+      {
+        "answer": "Ernesto Mejía",
+        "aliases": []
+      },
+      {
+        "answer": "Marcial Arbiza",
+        "aliases": []
+      },
+      {
+        "answer": "Sandro",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Soldado",
+        "aliases": []
+      },
+      {
+        "answer": "Rubén de la Red",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Monjardín",
+        "aliases": []
+      },
+      {
+        "answer": "Eduardo Sobrado",
+        "aliases": []
+      },
+      {
+        "answer": "Pablo García",
+        "aliases": []
+      },
+      {
+        "answer": "Adolfo Atienza",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Planelles",
+        "aliases": []
+      },
+      {
+        "answer": "Predrag Spasić",
+        "aliases": []
+      },
+      {
+        "answer": "Ángel Pérez García",
+        "aliases": []
+      },
+      {
+        "answer": "Álvaro Benito",
+        "aliases": []
+      },
+      {
+        "answer": "Gyula Alberty",
+        "aliases": []
+      },
+      {
+        "answer": "Théo Hernandez",
+        "aliases": []
+      },
+      {
+        "answer": "José Mariscal",
+        "aliases": []
+      },
+      {
+        "answer": "Sánchez Barrios",
+        "aliases": [
+          "José Luis Sánchez Barrios"
+        ]
+      },
+      {
+        "answer": "Hipólito Rincón",
+        "aliases": []
+      },
+      {
+        "answer": "Perica Ognjenović",
+        "aliases": []
+      },
+      {
+        "answer": "Emmanuel Adebayor",
+        "aliases": []
+      },
+      {
+        "answer": "Sergio Reguilón",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Ortiz Alonso",
+        "aliases": []
+      },
+      {
+        "answer": "Jean Luciano",
+        "aliases": []
+      },
+      {
+        "answer": "Chato González",
+        "aliases": []
+      },
+      {
+        "answer": "Cholo",
+        "aliases": [
+          "José Ángel Ruiz López"
+        ]
+      },
+      {
+        "answer": "Freddy Rincón",
+        "aliases": []
+      },
+      {
+        "answer": "Zé Roberto",
+        "aliases": []
+      },
+      {
+        "answer": "Eulogio Aranguren",
+        "aliases": []
+      },
+      {
+        "answer": "Javier Berasaluce",
+        "aliases": []
+      },
+      {
+        "answer": "Yanko Daucik",
+        "aliases": []
+      },
+      {
+        "answer": "Joaquín Parra",
+        "aliases": []
+      },
+      {
+        "answer": "Carlos Diogo",
+        "aliases": []
+      },
+      {
+        "answer": "Klaas-Jan Huntelaar",
+        "aliases": []
+      },
+      {
+        "answer": "Kepa Arrizabalaga",
+        "aliases": []
+      },
+      {
+        "answer": "Didi",
+        "aliases": []
+      },
+      {
+        "answer": "Evaristo",
+        "aliases": []
+      },
+      {
+        "answer": "Andrés González",
+        "aliases": [
+          "Andrés González Ponce"
+        ]
+      },
+      {
+        "answer": "Miquel Soler",
+        "aliases": []
+      },
+      {
+        "answer": "José García Calvo",
+        "aliases": []
+      },
+      {
+        "answer": "Elvir Baljić",
+        "aliases": []
+      },
+      {
+        "answer": "Isidro Rovira",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Adán",
+        "aliases": []
+      },
+      {
+        "answer": "José Cabo",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco López",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Pazos",
+        "aliases": []
+      },
+      {
+        "answer": "Heliodoro Castaño",
+        "aliases": [
+          "Heliodoro Castaño Pedrosa"
+        ]
+      },
+      {
+        "answer": "Juan Antonio Carcelén",
+        "aliases": []
+      },
+      {
+        "answer": "Dani García",
+        "aliases": []
+      },
+      {
+        "answer": "Carlos Secretário",
+        "aliases": []
+      },
+      {
+        "answer": "Achraf Hakimi",
+        "aliases": []
+      },
+      {
+        "answer": "Josep Samitier",
+        "aliases": []
+      },
+      {
+        "answer": "Rubén González",
+        "aliases": []
+      },
+      {
+        "answer": "Thiago Pitarch",
+        "aliases": []
+      },
+      {
+        "answer": "Marc Cucurella",
+        "aliases": []
+      },
+      {
+        "answer": "Yan Diomande",
+        "aliases": []
+      },
+      {
+        "answer": "Sotero Aranguren",
+        "aliases": []
+      },
+      {
+        "answer": "José María Castell",
+        "aliases": []
+      },
+      {
+        "answer": "Eduardo Teus",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco Moraleda",
+        "aliases": []
+      },
+      {
+        "answer": "Manolín",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Núñez",
+        "aliases": []
+      },
+      {
+        "answer": "Javi Balboa",
+        "aliases": []
+      },
+      {
+        "answer": "Sergio Canales",
+        "aliases": []
+      },
+      {
+        "answer": "Enrique Normand",
+        "aliases": []
+      },
+      {
+        "answer": "René Petit",
+        "aliases": []
+      },
+      {
+        "answer": "Sansinenea",
+        "aliases": [
+          "José María Sansinenea"
+        ]
+      },
+      {
+        "answer": "Gonzalo Galé",
+        "aliases": []
+      },
+      {
+        "answer": "Pedrín",
+        "aliases": [
+          "Pedro Mori Cuartas"
+        ]
+      },
+      {
+        "answer": "Meca",
+        "aliases": []
+      },
+      {
+        "answer": "Tote",
+        "aliases": []
+      },
+      {
+        "answer": "Jonathan Woodgate",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro León",
+        "aliases": []
+      },
+      {
+        "answer": "Sergio Arribas",
+        "aliases": []
+      },
+      {
+        "answer": "Federico Revuelto",
+        "aliases": []
+      },
+      {
+        "answer": "José Erice",
+        "aliases": [
+          "José Antonio Erice Castroviejo"
+        ]
+      },
+      {
+        "answer": "Vilmos Kelemen",
+        "aliases": []
+      },
+      {
+        "answer": "Mariano Terán",
+        "aliases": []
+      },
+      {
+        "answer": "José Marín Aznar",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Gallardo",
+        "aliases": [
+          "Juan Rodríguez Gallardo"
+        ]
+      },
+      {
+        "answer": "Ramón Tejada",
+        "aliases": []
+      },
+      {
+        "answer": "Pascual Babiloni",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Morgado",
+        "aliases": []
+      },
+      {
+        "answer": "Ibrahima Konaté",
+        "aliases": []
+      },
+      {
+        "answer": "Bernardo Silva",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro Parages",
+        "aliases": []
+      },
+      {
+        "answer": "Ricardo Álvarez",
+        "aliases": [
+          "Ricardo Álvarez Lobo"
+        ]
+      },
+      {
+        "answer": "San Miguel",
+        "aliases": [
+          "Evaristo San Miguel Cobián"
+        ]
+      },
+      {
+        "answer": "García Puerta",
+        "aliases": [
+          "Rafael García de la Puerta"
+        ]
+      },
+      {
+        "answer": "Elías Paramio",
+        "aliases": [
+          "Elías Paramio Álvarez"
+        ]
+      },
+      {
+        "answer": "Francisco Muñoz",
+        "aliases": [
+          "Francisco Muñoz Martín"
+        ]
+      },
+      {
+        "answer": "Javier Marcet",
+        "aliases": []
+      },
+      {
+        "answer": "Adauto Iglesias",
+        "aliases": []
+      },
+      {
+        "answer": "Cosme",
+        "aliases": []
+      },
+      {
+        "answer": "Pipi Suárez",
+        "aliases": []
+      },
+      {
+        "answer": "Jesús Velasco",
+        "aliases": []
+      },
+      {
+        "answer": "Albano Bizzarri",
+        "aliases": []
+      },
+      {
+        "answer": "Jerzy Dudek",
+        "aliases": []
+      },
+      {
+        "answer": "Hamit Altıntop",
+        "aliases": []
+      },
+      {
+        "answer": "Armando Giralt",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Prast",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Sicilia",
+        "aliases": [
+          "Antonio Sicilia Mendo"
+        ]
+      },
+      {
+        "answer": "Cándido Urretavizcaya",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Díaz Ateca",
+        "aliases": []
+      },
+      {
+        "answer": "Alfonso Sanz",
+        "aliases": []
+      },
+      {
+        "answer": "Castor Elzo",
+        "aliases": []
+      },
+      {
+        "answer": "Rubio",
+        "aliases": [
+          "José Antonio Rubio Fernández"
+        ]
+      },
+      {
+        "answer": "Rafael de Diego",
+        "aliases": []
+      },
+      {
+        "answer": "José Luis Morales",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Rojas",
+        "aliases": []
+      },
+      {
+        "answer": "Juanfran",
+        "aliases": []
+      },
+      {
+        "answer": "Martin Ødegaard",
+        "aliases": []
+      },
+      {
+        "answer": "Denzel Dumfries",
+        "aliases": []
+      },
+      {
+        "answer": "Carlos Espí",
+        "aliases": []
+      },
+      {
+        "answer": "Paco González",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Valderrama",
+        "aliases": []
+      },
+      {
+        "answer": "Guillermo Yllera",
+        "aliases": [
+          "Guillermo Yllera Cacho"
+        ]
+      },
+      {
+        "answer": "Cuca II",
+        "aliases": [
+          "Senén García Martínez"
+        ]
+      },
+      {
+        "answer": "Antonio Imbelloni",
+        "aliases": []
+      },
+      {
+        "answer": "Emilio Soto",
+        "aliases": [
+          "Emilio Soto Herrera"
+        ]
+      },
+      {
+        "answer": "Nuri Şahin",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Gutiérrez",
+        "aliases": []
+      },
+      {
+        "answer": "Álvaro Rodríguez",
+        "aliases": []
+      },
+      {
+        "answer": "José Giralt",
+        "aliases": []
+      },
+      {
+        "answer": "Joaquín Yarza",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro Llorente",
+        "aliases": []
+      },
+      {
+        "answer": "Rafael Lozano",
+        "aliases": [
+          "Rafael Lozano Gómez"
+        ]
+      },
+      {
+        "answer": "Luis Villanueva",
+        "aliases": [
+          "Luis Villanueva Márquez"
+        ]
+      },
+      {
+        "answer": "Manuel García",
+        "aliases": [
+          "Manuel García González"
+        ]
+      },
+      {
+        "answer": "Pantaleón",
+        "aliases": [
+          "Manuel Quevedo"
+        ]
+      },
+      {
+        "answer": "Juan Agüero",
+        "aliases": [
+          "Juan Bautista Agüero"
+        ]
+      },
+      {
+        "answer": "Fernando Ortuño",
+        "aliases": []
+      },
+      {
+        "answer": "Alberto Rivera",
+        "aliases": []
+      },
+      {
+        "answer": "Rolando Zárate",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Silva",
+        "aliases": []
+      },
+      {
+        "answer": "Alphonse Areola",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Yarza",
+        "aliases": []
+      },
+      {
+        "answer": "Alberto Machimbarrena",
+        "aliases": []
+      },
+      {
+        "answer": "José Múgica",
+        "aliases": [
+          "José Esteban Múgica"
+        ]
+      },
+      {
+        "answer": "Pepín Menéndez",
+        "aliases": []
+      },
+      {
+        "answer": "José Ramón Nebot",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco Diz",
+        "aliases": [
+          "Francisco Diz Vázquez"
+        ]
+      },
+      {
+        "answer": "Alberto Marcos",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Gómez",
+        "aliases": []
+      },
+      {
+        "answer": "Javier Dorado",
+        "aliases": []
+      },
+      {
+        "answer": "Nico Paz",
+        "aliases": []
+      },
+      {
+        "answer": "José Berraondo",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Alcalde",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Posada",
+        "aliases": []
+      },
+      {
+        "answer": "Adolphe Mengotti",
+        "aliases": []
+      },
+      {
+        "answer": "Valentín Gual",
+        "aliases": []
+      },
+      {
+        "answer": "Avelino Álvarez",
+        "aliases": []
+      },
+      {
+        "answer": "Ángel Tamargo",
+        "aliases": []
+      },
+      {
+        "answer": "José María Castivia",
+        "aliases": []
+      },
+      {
+        "answer": "Rafa Verdú",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Torres",
+        "aliases": []
+      },
+      {
+        "answer": "Fermín Gutiérrez",
+        "aliases": []
+      },
+      {
+        "answer": "Julio Suárez",
+        "aliases": []
+      },
+      {
+        "answer": "Arthur Johnson",
+        "aliases": []
+      }
+    ]
+  },
+  "spo-football-12": {
+    "sources": [],
+    "answers": [
+      {
+        "answer": "Joan Gamper",
+        "aliases": []
+      },
+      {
+        "answer": "Carles Comamala",
+        "aliases": []
+      },
+      {
+        "answer": "Paulino Alcántara",
+        "aliases": []
+      },
+      {
+        "answer": "Ramón Torralba",
+        "aliases": []
+      },
+      {
+        "answer": "Josep Samitier",
+        "aliases": []
+      },
+      {
+        "answer": "Vicenc Piera",
+        "aliases": []
+      },
+      {
+        "answer": "Ferenc Plattkó",
+        "aliases": []
+      },
+      {
+        "answer": "Juan José Nogués",
+        "aliases": []
+      },
+      {
+        "answer": "Alejandro Morera Soto",
+        "aliases": []
+      },
+      {
+        "answer": "Martí Ventolrà",
+        "aliases": []
+      },
+      {
+        "answer": "Josep Raich",
+        "aliases": []
+      },
+      {
+        "answer": "Josep Escolà",
+        "aliases": []
+      },
+      {
+        "answer": "Mariano Martín",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco Calvet",
+        "aliases": []
+      },
+      {
+        "answer": "José Bravo",
+        "aliases": []
+      },
+      {
+        "answer": "César Rodríguez",
+        "aliases": [
+          "César Rodríguez Álvarez"
+        ]
+      },
+      {
+        "answer": "José Puig Puig",
+        "aliases": []
+      },
+      {
+        "answer": "Marià Gonzalvo",
+        "aliases": [
+          "Mariano Gonzalvo"
+        ]
+      },
+      {
+        "answer": "Jaume Elías",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Velasco",
+        "aliases": [
+          "Juan Zambudio Velasco"
+        ]
+      },
+      {
+        "answer": "Josep Seguer",
+        "aliases": []
+      },
+      {
+        "answer": "Josep Gonzalvo",
+        "aliases": [
+          "José Gonzalvo"
+        ]
+      },
+      {
+        "answer": "Estanislao Basora",
+        "aliases": []
+      },
+      {
+        "answer": "Antoni Ramallets",
+        "aliases": []
+      },
+      {
+        "answer": "Joan Segarra",
+        "aliases": []
+      },
+      {
+        "answer": "László Kubala",
+        "aliases": []
+      },
+      {
+        "answer": "Eduardo Manchón",
+        "aliases": []
+      },
+      {
+        "answer": "Gustau Biosca",
+        "aliases": []
+      },
+      {
+        "answer": "Sígfrid Gràcia",
+        "aliases": []
+      },
+      {
+        "answer": "Justo Tejada",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Suárez",
+        "aliases": [
+          "Luis Suárez Miramontes"
+        ]
+      },
+      {
+        "answer": "Ramón Villaverde",
+        "aliases": [
+          "Ramón Alberto Villaverde"
+        ]
+      },
+      {
+        "answer": "Eulogio Martínez",
+        "aliases": []
+      },
+      {
+        "answer": "Enric Gensana",
+        "aliases": []
+      },
+      {
+        "answer": "Martí Vergés",
+        "aliases": []
+      },
+      {
+        "answer": "Ferran Olivella",
+        "aliases": []
+      },
+      {
+        "answer": "Evaristo de Macedo",
+        "aliases": []
+      },
+      {
+        "answer": "Sándor Kocsis",
+        "aliases": []
+      },
+      {
+        "answer": "Zoltán Czibor",
+        "aliases": []
+      },
+      {
+        "answer": "José Manuel Pesudo",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro Zaballa",
+        "aliases": []
+      },
+      {
+        "answer": "Julio César Benítez",
+        "aliases": []
+      },
+      {
+        "answer": "Chus Pereda",
+        "aliases": []
+      },
+      {
+        "answer": "Salvador Sadurní",
+        "aliases": []
+      },
+      {
+        "answer": "José Antonio Zaldúa",
+        "aliases": [
+          "Jose Antonio Zaldua"
+        ]
+      },
+      {
+        "answer": "Cayetano Ré",
+        "aliases": []
+      },
+      {
+        "answer": "Josep Maria Fusté",
+        "aliases": []
+      },
+      {
+        "answer": "Eladio Silvestre",
+        "aliases": []
+      },
+      {
+        "answer": "Joaquim Rifé",
+        "aliases": []
+      },
+      {
+        "answer": "Antoni Torres",
+        "aliases": []
+      },
+      {
+        "answer": "Gallego",
+        "aliases": []
+      },
+      {
+        "answer": "Carles Rexach",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Reina",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro María Zabalza",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Carlos Pérez",
+        "aliases": [
+          "Juan Carlos Pérez López",
+          "Juan Carlos Perez"
+        ]
+      },
+      {
+        "answer": "Marcial Pina",
+        "aliases": []
+      },
+      {
+        "answer": "Juan Manuel Asensi",
+        "aliases": []
+      },
+      {
+        "answer": "Quique Costas",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio de la Cruz",
+        "aliases": []
+      },
+      {
+        "answer": "Hugo Sotil",
+        "aliases": []
+      },
+      {
+        "answer": "Johan Cruyff",
+        "aliases": []
+      },
+      {
+        "answer": "Migueli",
+        "aliases": []
+      },
+      {
+        "answer": "Johan Neeskens",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro María Artola",
+        "aliases": []
+      },
+      {
+        "answer": "José Vicente Sánchez",
+        "aliases": [
+          "Tente Sánchez"
+        ]
+      },
+      {
+        "answer": "José Antonio Ramos Huete",
+        "aliases": []
+      },
+      {
+        "answer": "Antonio Olmo",
+        "aliases": []
+      },
+      {
+        "answer": "Esteban Vigo",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco José Carrasco",
+        "aliases": []
+      },
+      {
+        "answer": "Hans Krankl",
+        "aliases": []
+      },
+      {
+        "answer": "Allan Simonsen",
+        "aliases": []
+      },
+      {
+        "answer": "José Ramón Alexanko",
+        "aliases": []
+      },
+      {
+        "answer": "Quini",
+        "aliases": []
+      },
+      {
+        "answer": "Bernd Schuster",
+        "aliases": []
+      },
+      {
+        "answer": "Josep Moratalla",
+        "aliases": []
+      },
+      {
+        "answer": "Javier Urruticoechea",
+        "aliases": []
+      },
+      {
+        "answer": "Gerardo Miranda",
+        "aliases": []
+      },
+      {
+        "answer": "Víctor Muñoz",
+        "aliases": []
+      },
+      {
+        "answer": "Diego Maradona",
+        "aliases": []
+      },
+      {
+        "answer": "Marcos Alonso Peña",
+        "aliases": []
+      },
+      {
+        "answer": "Julio Alberto",
+        "aliases": []
+      },
+      {
+        "answer": "Urbano Ortega",
+        "aliases": []
+      },
+      {
+        "answer": "Ramón Calderé",
+        "aliases": []
+      },
+      {
+        "answer": "Gary Lineker",
+        "aliases": []
+      },
+      {
+        "answer": "Roberto Fernández",
+        "aliases": [
+          "Roberto Fernández Bonillo"
+        ]
+      },
+      {
+        "answer": "Andoni Zubizarreta",
+        "aliases": []
+      },
+      {
+        "answer": "Guillermo Amor",
+        "aliases": []
+      },
+      {
+        "answer": "Txiki Begiristain",
+        "aliases": []
+      },
+      {
+        "answer": "Ricardo Serna",
+        "aliases": []
+      },
+      {
+        "answer": "Andoni Goikoetxea",
+        "aliases": [
+          "Ion Andoni Goikoetxea"
+        ]
+      },
+      {
+        "answer": "Julio Salinas",
+        "aliases": []
+      },
+      {
+        "answer": "Eusebio Sacristán",
+        "aliases": []
+      },
+      {
+        "answer": "José Mari Bakero",
+        "aliases": []
+      },
+      {
+        "answer": "Michael Laudrup",
+        "aliases": []
+      },
+      {
+        "answer": "Ronald Koeman",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Ferrer",
+        "aliases": []
+      },
+      {
+        "answer": "Hristo Stoichkov",
+        "aliases": []
+      },
+      {
+        "answer": "Pep Guardiola",
+        "aliases": []
+      },
+      {
+        "answer": "Miguel Ángel Nadal",
+        "aliases": []
+      },
+      {
+        "answer": "Sergi",
+        "aliases": [
+          "Sergi Barjuán"
+        ]
+      },
+      {
+        "answer": "Romário",
+        "aliases": []
+      },
+      {
+        "answer": "Abelardo",
+        "aliases": [
+          "Abelardo Fernández"
+        ]
+      },
+      {
+        "answer": "Luís Figo",
+        "aliases": []
+      },
+      {
+        "answer": "Ronaldo",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Enrique",
+        "aliases": []
+      },
+      {
+        "answer": "Michael Reiziger",
+        "aliases": []
+      },
+      {
+        "answer": "Ruud Hesp",
+        "aliases": []
+      },
+      {
+        "answer": "Rivaldo",
+        "aliases": []
+      },
+      {
+        "answer": "Frank de Boer",
+        "aliases": []
+      },
+      {
+        "answer": "Phillip Cocu",
+        "aliases": []
+      },
+      {
+        "answer": "Patrick Kluivert",
+        "aliases": []
+      },
+      {
+        "answer": "Xavi",
+        "aliases": [
+          "Xavi Hernández"
+        ]
+      },
+      {
+        "answer": "Gabri",
+        "aliases": [
+          "Gabri García"
+        ]
+      },
+      {
+        "answer": "Carles Puyol",
+        "aliases": []
+      },
+      {
+        "answer": "Thiago Motta",
+        "aliases": []
+      },
+      {
+        "answer": "Javier Saviola",
+        "aliases": []
+      },
+      {
+        "answer": "Oleguer",
+        "aliases": [
+          "Oleguer Presas"
+        ]
+      },
+      {
+        "answer": "Víctor Valdés",
+        "aliases": []
+      },
+      {
+        "answer": "Andrés Iniesta",
+        "aliases": []
+      },
+      {
+        "answer": "Ronaldinho",
+        "aliases": []
+      },
+      {
+        "answer": "Giovanni van Bronckhorst",
+        "aliases": []
+      },
+      {
+        "answer": "Rafael Márquez",
+        "aliases": []
+      },
+      {
+        "answer": "Deco",
+        "aliases": []
+      },
+      {
+        "answer": "Samuel Eto'o",
+        "aliases": []
+      },
+      {
+        "answer": "Lionel Messi",
+        "aliases": []
+      },
+      {
+        "answer": "Sylvinho",
+        "aliases": []
+      },
+      {
+        "answer": "Eiður Guðjohnsen",
+        "aliases": [
+          "Eidur Gudjohnsen",
+          "Gudjohnsen"
+        ]
+      },
+      {
+        "answer": "Thierry Henry",
+        "aliases": []
+      },
+      {
+        "answer": "Bojan Krkić",
+        "aliases": []
+      },
+      {
+        "answer": "Yaya Touré",
+        "aliases": []
+      },
+      {
+        "answer": "Eric Abidal",
+        "aliases": []
+      },
+      {
+        "answer": "Dani Alves",
+        "aliases": []
+      },
+      {
+        "answer": "Seydou Keita",
+        "aliases": []
+      },
+      {
+        "answer": "Sergio Busquets",
+        "aliases": []
+      },
+      {
+        "answer": "Gerard Piqué",
+        "aliases": []
+      },
+      {
+        "answer": "Pedro",
+        "aliases": []
+      },
+      {
+        "answer": "Zlatan Ibrahimović",
+        "aliases": []
+      },
+      {
+        "answer": "Thiago Alcântara",
+        "aliases": []
+      },
+      {
+        "answer": "Adriano",
+        "aliases": []
+      },
+      {
+        "answer": "David Villa",
+        "aliases": []
+      },
+      {
+        "answer": "Javier Mascherano",
+        "aliases": []
+      },
+      {
+        "answer": "Sergi Roberto",
+        "aliases": []
+      },
+      {
+        "answer": "Cesc Fàbregas",
+        "aliases": []
+      },
+      {
+        "answer": "Alexis Sánchez",
+        "aliases": []
+      },
+      {
+        "answer": "Jordi Alba",
+        "aliases": []
+      },
+      {
+        "answer": "Neymar",
+        "aliases": []
+      },
+      {
+        "answer": "Ivan Rakitić",
+        "aliases": []
+      },
+      {
+        "answer": "Marc-André ter Stegen",
+        "aliases": []
+      },
+      {
+        "answer": "Samuel Umtiti",
+        "aliases": []
+      },
+      {
+        "answer": "Ousmane Dembélé",
+        "aliases": []
+      },
+      {
+        "answer": "Nélson Semedo",
+        "aliases": []
+      },
+      {
+        "answer": "Philippe Coutinho",
+        "aliases": []
+      },
+      {
+        "answer": "Clément Lenglet",
+        "aliases": []
+      },
+      {
+        "answer": "Ronald Araújo",
+        "aliases": [
+          "Ronald Araujo"
+        ]
+      },
+      {
+        "answer": "Frenkie de Jong",
+        "aliases": []
+      },
+      {
+        "answer": "Ansu Fati",
+        "aliases": []
+      },
+      {
+        "answer": "Antoine Griezmann",
+        "aliases": []
+      },
+      {
+        "answer": "Sergiño Dest",
+        "aliases": [
+          "Sergi Dest",
+          "Dest"
+        ]
+      },
+      {
+        "answer": "Pedri",
+        "aliases": []
+      },
+      {
+        "answer": "Alejandro Balde",
+        "aliases": []
+      },
+      {
+        "answer": "Gavi",
+        "aliases": []
+      },
+      {
+        "answer": "Eric García",
+        "aliases": []
+      },
+      {
+        "answer": "Jules Koundé",
+        "aliases": []
+      },
+      {
+        "answer": "Andreas Christensen",
+        "aliases": []
+      },
+      {
+        "answer": "Robert Lewandowski",
+        "aliases": []
+      },
+      {
+        "answer": "Raphinha",
+        "aliases": []
+      },
+      {
+        "answer": "Ferran Torres",
+        "aliases": []
+      },
+      {
+        "answer": "Marc Casadó",
+        "aliases": []
+      },
+      {
+        "answer": "Lamine Yamal",
+        "aliases": []
+      },
+      {
+        "answer": "Iñigo Martínez",
+        "aliases": []
+      },
+      {
+        "answer": "Fermín López",
+        "aliases": []
+      },
+      {
+        "answer": "João Cancelo",
+        "aliases": []
+      },
+      {
+        "answer": "Pau Cubarsí",
+        "aliases": []
+      },
+      {
+        "answer": "Gerard Martín",
+        "aliases": []
+      },
+      {
+        "answer": "Dani Olmo",
+        "aliases": []
+      },
+      {
+        "answer": "Wojciech Szczęsny",
+        "aliases": []
+      },
+      {
+        "answer": "Joan Garcia",
+        "aliases": []
+      },
+      {
+        "answer": "Roony Bardghji",
+        "aliases": []
+      },
+      {
+        "answer": "Marcus Rashford",
+        "aliases": []
+      },
+      {
+        "answer": "Anthony Gordon",
+        "aliases": []
+      },
+      {
+        "answer": "Karim Adeyemi",
+        "aliases": []
+      },
+      {
+        "answer": "Rodrygo",
+        "aliases": []
+      },
+      {
+        "answer": "Gabriel Jesús",
+        "aliases": []
+      },
+      {
+        "answer": "Francisco Trincão",
+        "aliases": [
+          "Trincão",
+          "Trincao",
+          "Francisco Trincao"
+        ]
+      }
+    ]
+  },
+  "gen-footballeur-fr": {
+    "sources": [],
+    "answers": [
+      {
+        "answer": "Joël Bats",
+        "aliases": [
+          "Bats"
+        ]
+      },
+      {
+        "answer": "Philippe Bergeroo",
+        "aliases": []
+      },
+      {
+        "answer": "Albert Rust",
+        "aliases": []
+      },
+      {
+        "answer": "Manuel Amoros",
+        "aliases": [
+          "Amoros"
+        ]
+      },
+      {
+        "answer": "Patrick Battiston",
+        "aliases": [
+          "Battiston"
+        ]
+      },
+      {
+        "answer": "Maxime Bossis",
+        "aliases": [
+          "Bossis"
+        ]
+      },
+      {
+        "answer": "Jean-François Domergue",
+        "aliases": [
+          "Domergue"
+        ]
+      },
+      {
+        "answer": "Yvon Le Roux",
+        "aliases": [
+          "Le Roux"
+        ]
+      },
+      {
+        "answer": "Thierry Tusseau",
+        "aliases": []
+      },
+      {
+        "answer": "Luis Fernandez",
+        "aliases": [
+          "Fernandez"
+        ]
+      },
+      {
+        "answer": "Jean-Marc Ferreri",
+        "aliases": [
+          "Ferreri"
+        ]
+      },
+      {
+        "answer": "Bernard Genghini",
+        "aliases": []
+      },
+      {
+        "answer": "Alain Giresse",
+        "aliases": [
+          "Giresse"
+        ]
+      },
+      {
+        "answer": "Michel Platini",
+        "aliases": [
+          "Platini"
+        ]
+      },
+      {
+        "answer": "Jean Tigana",
+        "aliases": [
+          "Tigana"
+        ]
+      },
+      {
+        "answer": "Bruno Bellone",
+        "aliases": [
+          "Bellone"
+        ]
+      },
+      {
+        "answer": "Daniel Bravo",
+        "aliases": []
+      },
+      {
+        "answer": "Bernard Lacombe",
+        "aliases": [
+          "Lacombe"
+        ]
+      },
+      {
+        "answer": "Dominique Rocheteau",
+        "aliases": []
+      },
+      {
+        "answer": "Didier Six",
+        "aliases": [
+          "Six"
+        ]
+      },
+      {
+        "answer": "Bernard Lama",
+        "aliases": []
+      },
+      {
+        "answer": "Fabien Barthez",
+        "aliases": []
+      },
+      {
+        "answer": "Ulrich Ramé",
+        "aliases": []
+      },
+      {
+        "answer": "Vincent Candela",
+        "aliases": []
+      },
+      {
+        "answer": "Bixente Lizarazu",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Blanc",
+        "aliases": []
+      },
+      {
+        "answer": "Marcel Desailly",
+        "aliases": []
+      },
+      {
+        "answer": "Frank Lebœuf",
+        "aliases": []
+      },
+      {
+        "answer": "Lilian Thuram",
+        "aliases": []
+      },
+      {
+        "answer": "Patrick Vieira",
+        "aliases": [
+          "Vieira"
+        ]
+      },
+      {
+        "answer": "Youri Djorkaeff",
+        "aliases": [
+          "Y. Djorkaeff"
+        ]
+      },
+      {
+        "answer": "Didier Deschamps",
+        "aliases": []
+      },
+      {
+        "answer": "Zinédine Zidane",
+        "aliases": [
+          "Zinedine Zidane",
+          "Zidane"
+        ]
+      },
+      {
+        "answer": "Robert Pirès",
+        "aliases": [
+          "Pirès"
+        ]
+      },
+      {
+        "answer": "Johan Micoud",
+        "aliases": []
+      },
+      {
+        "answer": "Emmanuel Petit",
+        "aliases": []
+      },
+      {
+        "answer": "Christian Karembeu",
+        "aliases": []
+      },
+      {
+        "answer": "Nicolas Anelka",
+        "aliases": [
+          "Anelka"
+        ]
+      },
+      {
+        "answer": "Thierry Henry",
+        "aliases": [
+          "Henry"
+        ]
+      },
+      {
+        "answer": "Sylvain Wiltord",
+        "aliases": []
+      },
+      {
+        "answer": "David Trezeguet",
+        "aliases": [
+          "Trezeguet"
+        ]
+      },
+      {
+        "answer": "Christophe Dugarry",
+        "aliases": [
+          "Dugarry"
+        ]
+      },
+      {
+        "answer": "Hugo Lloris",
+        "aliases": []
+      },
+      {
+        "answer": "Steve Mandanda",
+        "aliases": []
+      },
+      {
+        "answer": "Benoît Costil",
+        "aliases": []
+      },
+      {
+        "answer": "Christophe Jallet",
+        "aliases": []
+      },
+      {
+        "answer": "Patrice Évra",
+        "aliases": []
+      },
+      {
+        "answer": "Adil Rami",
+        "aliases": []
+      },
+      {
+        "answer": "Eliaquim Mangala",
+        "aliases": []
+      },
+      {
+        "answer": "Lucas Digne",
+        "aliases": []
+      },
+      {
+        "answer": "Bacary Sagna",
+        "aliases": []
+      },
+      {
+        "answer": "Laurent Koscielny",
+        "aliases": []
+      },
+      {
+        "answer": "Samuel Umtiti",
+        "aliases": []
+      },
+      {
+        "answer": "N'Golo Kanté",
+        "aliases": []
+      },
+      {
+        "answer": "Yohan Cabaye",
+        "aliases": []
+      },
+      {
+        "answer": "Dimitri Payet",
+        "aliases": []
+      },
+      {
+        "answer": "Morgan Schneiderlin",
+        "aliases": []
+      },
+      {
+        "answer": "Blaise Matuidi",
+        "aliases": []
+      },
+      {
+        "answer": "Paul Pogba",
+        "aliases": []
+      },
+      {
+        "answer": "Moussa Sissoko",
+        "aliases": []
+      },
+      {
+        "answer": "Kingsley Coman",
+        "aliases": []
+      },
+      {
+        "answer": "Antoine Griezmann",
+        "aliases": []
+      },
+      {
+        "answer": "Olivier Giroud",
+        "aliases": []
+      },
+      {
+        "answer": "André-Pierre Gignac",
+        "aliases": []
+      },
+      {
+        "answer": "Anthony Martial",
+        "aliases": []
+      }
+    ]
+  }
+}

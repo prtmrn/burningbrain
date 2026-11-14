@@ -18,25 +18,25 @@
       "id": "sci-maladie-rare",
       "theme": "science-nature",
       "text": "Nomme une maladie génétique ou une maladie rare",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "sci-animal-amerique-sud",
       "theme": "science-nature",
       "text": "Nomme un animal d'Amérique du Sud",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animal-asie",
       "theme": "science-nature",
       "text": "Nomme un animal d'Asie",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animal-oceanie",
       "theme": "science-nature",
       "text": "Nomme un animal d'Australie ou d'Océanie",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-arbre-fruitier",
@@ -78,13 +78,13 @@
       "id": "sci-inventeur",
       "theme": "science-nature",
       "text": "Nomme un inventeur célèbre",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-01",
       "theme": "science-nature",
       "text": "Nomme une race bovine (race de vache)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "sci-animaux-02",
@@ -102,7 +102,7 @@
       "id": "sci-animaux-04",
       "theme": "science-nature",
       "text": "Nomme une race de mouton ou de chèvre",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "sci-animaux-05",
@@ -114,43 +114,43 @@
       "id": "sci-animaux-06",
       "theme": "science-nature",
       "text": "Nomme un primate",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-07",
       "theme": "science-nature",
       "text": "Nomme un mammifère de l'ordre des carnivores (Carnivora)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-08",
       "theme": "science-nature",
       "text": "Nomme un rapace (oiseau de proie diurne ou nocturne)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-09",
       "theme": "science-nature",
       "text": "Nomme un mollusque",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-10",
       "theme": "science-nature",
       "text": "Nomme un crustacé",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-11",
       "theme": "science-nature",
       "text": "Nomme un animal venimeux",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-12",
       "theme": "science-nature",
       "text": "Nomme un animal migrateur",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-13",
@@ -162,19 +162,19 @@
       "id": "sci-animaux-14",
       "theme": "science-nature",
       "text": "Nomme un verbe désignant le cri d'un animal",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-animaux-15",
       "theme": "science-nature",
       "text": "Nomme un animal vivant dans les régions polaires (Arctique ou Antarctique)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-01",
       "theme": "science-nature",
       "text": "Nomme une spécialité médicale ou chirurgicale exercée par un médecin",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-02",
@@ -186,13 +186,13 @@
       "id": "sci-corps-03",
       "theme": "science-nature",
       "text": "Nomme une maladie infectieuse humaine due à une bactérie",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-04",
       "theme": "science-nature",
       "text": "Nomme un antibiotique (molécule)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "sci-corps-05",
@@ -210,19 +210,19 @@
       "id": "sci-corps-07",
       "theme": "science-nature",
       "text": "Nomme un examen médical complémentaire (imagerie, endoscopie, analyse ou exploration fonctionnelle)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-08",
       "theme": "science-nature",
       "text": "Nomme une structure anatomique de l'encéphale (cerveau, cervelet ou tronc cérébral)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "sci-corps-09",
       "theme": "science-nature",
       "text": "Nomme une maladie ou une affection de la peau",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-10",
@@ -240,19 +240,19 @@
       "id": "sci-corps-12",
       "theme": "science-nature",
       "text": "Nomme un parasite de l'être humain ou une maladie parasitaire humaine",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "sci-corps-13",
       "theme": "science-nature",
       "text": "Nomme un trouble mental reconnu par la psychiatrie",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-14",
       "theme": "science-nature",
       "text": "Nomme un type de cancer (par organe atteint ou par type de tumeur maligne)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-corps-15",
@@ -288,13 +288,13 @@
       "id": "sci-physchim-05",
       "theme": "science-nature",
       "text": "Nomme un instrument de mesure",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-physchim-06",
       "theme": "science-nature",
       "text": "Nomme un gaz",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-physchim-07",
@@ -306,7 +306,7 @@
       "id": "sci-physchim-08",
       "theme": "science-nature",
       "text": "Nomme un acide (chimique, organique ou biologique)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "sci-physchim-09",
@@ -360,43 +360,43 @@
       "id": "sci-plantes-02",
       "theme": "science-nature",
       "text": "Nomme un légume",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-03",
       "theme": "science-nature",
       "text": "Nomme une fleur",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-04",
       "theme": "science-nature",
       "text": "Nomme un arbre qui pousse en France",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-05",
       "theme": "science-nature",
       "text": "Nomme un champignon",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-06",
       "theme": "science-nature",
       "text": "Nomme une herbe aromatique ou une épice",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-07",
       "theme": "science-nature",
       "text": "Nomme une céréale ou une légumineuse",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-08",
       "theme": "science-nature",
       "text": "Nomme une plante d'intérieur",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-09",
@@ -408,7 +408,7 @@
       "id": "sci-plantes-10",
       "theme": "science-nature",
       "text": "Nomme une variété de pomme",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-11",
@@ -420,19 +420,19 @@
       "id": "sci-plantes-12",
       "theme": "science-nature",
       "text": "Nomme un conifère",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-13",
       "theme": "science-nature",
       "text": "Nomme une plante grasse (cactus ou succulente)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-14",
       "theme": "science-nature",
       "text": "Nomme un arbuste",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-plantes-15",
@@ -444,7 +444,7 @@
       "id": "sci-techno-01",
       "theme": "science-nature",
       "text": "Nomme un réseau social ou une plateforme de partage en ligne (hors messageries)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-techno-02",
@@ -456,13 +456,13 @@
       "id": "sci-techno-03",
       "theme": "science-nature",
       "text": "Nomme un composant ou un périphérique d'ordinateur",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-techno-04",
       "theme": "science-nature",
       "text": "Nomme une extension de fichier informatique (ce qui suit le point dans un nom de fichier)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-techno-05",
@@ -474,7 +474,7 @@
       "id": "sci-techno-06",
       "theme": "science-nature",
       "text": "Nomme un matériau de construction ou de revêtement utilisé dans le bâtiment",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-techno-07",
@@ -486,19 +486,19 @@
       "id": "sci-techno-08",
       "theme": "science-nature",
       "text": "Nomme un véhicule terrestre (à moteur, à pédales, sur rails ou tracté)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-techno-09",
       "theme": "science-nature",
       "text": "Nomme un robot ou une intelligence artificielle célèbre (réelle ou de fiction)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-techno-10",
       "theme": "science-nature",
       "text": "Nomme un fondateur ou un grand dirigeant d'une entreprise technologique",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-techno-11",
@@ -516,13 +516,13 @@
       "id": "sci-techno-13",
       "theme": "science-nature",
       "text": "Nomme un appareil électronique grand public",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-techno-14",
       "theme": "science-nature",
       "text": "Nomme un engin de chantier, de travaux publics ou une machine agricole",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-techno-15",
@@ -534,13 +534,13 @@
       "id": "sci-terre-01",
       "theme": "science-nature",
       "text": "Nomme un volcan du monde (actif, endormi ou éteint)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-terre-02",
       "theme": "science-nature",
       "text": "Nomme une mer ou un océan",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-terre-03",
@@ -564,13 +564,13 @@
       "id": "sci-terre-06",
       "theme": "science-nature",
       "text": "Nomme une fusée ou un lanceur spatial",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "sci-terre-07",
       "theme": "science-nature",
       "text": "Nomme un combustible ou un carburant",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-terre-08",
@@ -582,7 +582,7 @@
       "id": "sci-terre-09",
       "theme": "science-nature",
       "text": "Nomme une catastrophe naturelle célèbre de l'Histoire (séisme, éruption, tsunami, ouragan ou tempête)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-terre-10",
@@ -594,7 +594,7 @@
       "id": "sci-terre-11",
       "theme": "science-nature",
       "text": "Nomme une pierre précieuse ou semi-précieuse",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "sci-terre-12",
@@ -618,7 +618,7 @@
       "id": "sci-terre-15",
       "theme": "science-nature",
       "text": "Nomme un geste écologique du quotidien",
-      "difficulty": "medium"
+      "difficulty": "easy"
     }
   ],
   "sheets": {

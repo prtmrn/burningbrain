@@ -66,7 +66,7 @@
       "id": "art-livre-enfants",
       "theme": "arts-literature",
       "text": "Nomme un livre ou une série de livres pour enfants",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-prix-litteraire",
@@ -84,13 +84,13 @@
       "id": "art-musee",
       "theme": "arts-literature",
       "text": "Nomme un musée célèbre dans le monde",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-peintre-flamand",
       "theme": "arts-literature",
       "text": "Nomme un peintre néerlandais ou flamand",
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "id": "art-archi-01",
@@ -156,7 +156,7 @@
       "id": "art-archi-11",
       "theme": "arts-literature",
       "text": "Nomme un type de chapeau ou de couvre-chef",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-archi-12",
@@ -168,7 +168,7 @@
       "id": "art-archi-13",
       "theme": "arts-literature",
       "text": "Nomme un type de chaussure",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-archi-14",
@@ -198,7 +198,7 @@
       "id": "art-classique-03",
       "theme": "arts-literature",
       "text": "Nomme un compositeur classique russe ou d'Europe de l'Est (Pologne, Tchéquie, Hongrie, Roumanie, pays baltes, Ukraine, Caucase...)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-04",
@@ -210,7 +210,7 @@
       "id": "art-classique-05",
       "theme": "arts-literature",
       "text": "Nomme un compositeur classique espagnol, portugais, latino-américain ou nordique",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-06",
@@ -348,7 +348,7 @@
       "id": "art-littetr-13",
       "theme": "arts-literature",
       "text": "Nomme un écrivain d'un pays nordique (Danemark, Norvège, Suède, Finlande ou Islande)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-14",
@@ -384,13 +384,13 @@
       "id": "art-littfr-04",
       "theme": "arts-literature",
       "text": "Nomme une œuvre de La Comédie humaine de Balzac",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-05",
       "theme": "arts-literature",
       "text": "Nomme un personnage de La Comédie humaine de Balzac",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-06",
@@ -426,19 +426,19 @@
       "id": "art-littfr-11",
       "theme": "arts-literature",
       "text": "Nomme un écrivain québécois de langue française",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-12",
       "theme": "arts-literature",
       "text": "Nomme un écrivain francophone originaire d'Afrique subsaharienne ou de Madagascar",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-13",
       "theme": "arts-literature",
       "text": "Nomme un écrivain de langue française né en Algérie, au Maroc ou en Tunisie",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-14",
@@ -450,7 +450,7 @@
       "id": "art-littfr-15",
       "theme": "arts-literature",
       "text": "Nomme un écrivain de langue française né aux Antilles, en Guyane ou en Haïti",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-mythes-01",
@@ -462,7 +462,7 @@
       "id": "art-mythes-02",
       "theme": "arts-literature",
       "text": "Nomme une onomatopée française",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-03",
@@ -480,7 +480,7 @@
       "id": "art-mythes-05",
       "theme": "arts-literature",
       "text": "Nomme un animal cité dans une expression française courante",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-06",
@@ -510,13 +510,13 @@
       "id": "art-mythes-10",
       "theme": "arts-literature",
       "text": "Nomme une fête religieuse (toutes religions)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-11",
       "theme": "arts-literature",
       "text": "Nomme un ordre ou une congrégation religieuse",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-mythes-12",
@@ -552,7 +552,7 @@
       "id": "art-peinture-02",
       "theme": "arts-literature",
       "text": "Nomme un peintre allemand ou autrichien (toutes époques)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-03",
@@ -570,13 +570,13 @@
       "id": "art-peinture-05",
       "theme": "arts-literature",
       "text": "Nomme un peintre russe ou né dans l'Empire russe",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-06",
       "theme": "arts-literature",
       "text": "Nomme un peintre ou plasticien italien actif au XXe siècle",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-07",
@@ -594,13 +594,13 @@
       "id": "art-peinture-09",
       "theme": "arts-literature",
       "text": "Nomme un peintre japonais ou un maître japonais de l'estampe",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-10",
       "theme": "arts-literature",
       "text": "Nomme un peintre français actif au XVIIe ou au XVIIIe siècle",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-11",
@@ -612,13 +612,13 @@
       "id": "art-peinture-12",
       "theme": "arts-literature",
       "text": "Nomme un tableau de Vincent van Gogh",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-peinture-13",
       "theme": "arts-literature",
       "text": "Nomme un peintre ou plasticien d'Amérique latine",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-14",
@@ -630,7 +630,7 @@
       "id": "art-peinture-15",
       "theme": "arts-literature",
       "text": "Nomme un pigment ou une couleur de pigment utilisé en peinture",
-      "difficulty": "medium"
+      "difficulty": "hard"
     }
   ],
   "sheets": {

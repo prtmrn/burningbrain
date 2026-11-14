@@ -30,19 +30,19 @@
       "id": "geo-pays-equateur",
       "theme": "geography",
       "text": "Nomme un pays traversé par l'équateur",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-pays-insulaire",
       "theme": "geography",
       "text": "Nomme un pays insulaire",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-pays-transcontinental",
       "theme": "geography",
       "text": "Nomme un pays situé sur deux continents",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-pays-ue",
@@ -66,61 +66,61 @@
       "id": "geo-capitale-afrique",
       "theme": "geography",
       "text": "Nomme une capitale africaine",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-capitale-amerique",
       "theme": "geography",
       "text": "Nomme une capitale du continent américain",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-capitale-pas-plus-grande",
       "theme": "geography",
       "text": "Nomme une capitale qui n'est pas la plus grande ville de son pays",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-capitale-oceanie",
       "theme": "geography",
       "text": "Nomme une capitale d'Océanie",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "geo-fleuve-afrique",
       "theme": "geography",
       "text": "Nomme un fleuve d'Afrique",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-fleuve-europe",
       "theme": "geography",
       "text": "Nomme un fleuve d'Europe",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-fleuve-france",
       "theme": "geography",
       "text": "Nomme un fleuve ou une rivière de France",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-fleuve-asie",
       "theme": "geography",
       "text": "Nomme un fleuve d'Asie",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-fleuve-amerique",
       "theme": "geography",
       "text": "Nomme un fleuve des Amériques",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-sommet-8000",
       "theme": "geography",
       "text": "Nomme un sommet de plus de 8 000 mètres",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "geo-sommet-4000",
@@ -132,7 +132,7 @@
       "id": "geo-chaine",
       "theme": "geography",
       "text": "Nomme une chaîne de montagnes",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-volcan",
@@ -162,7 +162,7 @@
       "id": "geo-grotte",
       "theme": "geography",
       "text": "Nomme une grotte ou un gouffre célèbre",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "geo-ile-mediterranee",
@@ -180,13 +180,13 @@
       "id": "geo-archipel",
       "theme": "geography",
       "text": "Nomme un archipel",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-ile-atlantique",
       "theme": "geography",
       "text": "Nomme une île de l'Atlantique",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-ocean-ou-mer",
@@ -198,49 +198,49 @@
       "id": "geo-detroit",
       "theme": "geography",
       "text": "Nomme un détroit",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-golfe",
       "theme": "geography",
       "text": "Nomme un golfe",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-cap",
       "theme": "geography",
       "text": "Nomme un cap célèbre",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "geo-peninsule",
       "theme": "geography",
       "text": "Nomme une péninsule",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "geo-megapole",
       "theme": "geography",
       "text": "Nomme une ville de plus de 10 millions d'habitants",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-prefecture-region",
       "theme": "geography",
       "text": "Nomme une préfecture de région française",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-ville-olympique",
       "theme": "geography",
       "text": "Nomme une ville ayant accueilli les Jeux olympiques",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-port",
       "theme": "geography",
       "text": "Nomme un grand port maritime",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-monument-unesco",
@@ -282,19 +282,19 @@
       "id": "geo-site-antique",
       "theme": "geography",
       "text": "Nomme un site archéologique célèbre",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-region-francaise",
       "theme": "geography",
       "text": "Nomme une région française",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-fuseau",
       "theme": "geography",
       "text": "Nomme un pays qui s'étend sur plusieurs fuseaux horaires",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-frontiere-france",
@@ -306,25 +306,25 @@
       "id": "geo-france-01",
       "theme": "geography",
       "text": "Nomme un département français",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-02",
       "theme": "geography",
       "text": "Nomme une préfecture de département français qui n'est pas chef-lieu de région",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "geo-france-03",
       "theme": "geography",
       "text": "Nomme une commune de la région Bretagne",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-04",
       "theme": "geography",
       "text": "Nomme une commune de la région Normandie",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-05",
@@ -336,25 +336,25 @@
       "id": "geo-france-06",
       "theme": "geography",
       "text": "Nomme une commune de la région Provence-Alpes-Côte d'Azur",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-07",
       "theme": "geography",
       "text": "Nomme une commune de la région Occitanie",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-08",
       "theme": "geography",
       "text": "Nomme une commune française de plus de 50 000 habitants",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-09",
       "theme": "geography",
       "text": "Nomme une station de sports d'hiver française",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-10",
@@ -372,7 +372,7 @@
       "id": "geo-france-12",
       "theme": "geography",
       "text": "Nomme une spécialité culinaire française dont le nom fait référence à un lieu (hors vins et fromages)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "geo-france-13",
@@ -384,13 +384,13 @@
       "id": "geo-france-14",
       "theme": "geography",
       "text": "Nomme une commune de Corse",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-france-15",
       "theme": "geography",
       "text": "Nomme une commune française dont le nom commence par « Saint- » ou « Sainte- »",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-monde-01",
@@ -408,7 +408,7 @@
       "id": "geo-monde-03",
       "theme": "geography",
       "text": "Nomme un État ou un territoire des États-Unis",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-monde-04",
@@ -432,13 +432,13 @@
       "id": "geo-monde-07",
       "theme": "geography",
       "text": "Nomme une organisation internationale (sigle ou nom complet)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-monde-08",
       "theme": "geography",
       "text": "Nomme un peuple autochtone d'Amérique du Nord",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "geo-monde-09",
@@ -522,13 +522,13 @@
       "id": "geo-reliefs-07",
       "theme": "geography",
       "text": "Nomme une tour ou un gratte-ciel célèbre dans le monde",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-reliefs-08",
       "theme": "geography",
       "text": "Nomme un musée célèbre dans le monde",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-reliefs-09",
@@ -540,19 +540,19 @@
       "id": "geo-reliefs-10",
       "theme": "geography",
       "text": "Nomme un monument, un temple ou un site célèbre d'Égypte",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-reliefs-11",
       "theme": "geography",
       "text": "Nomme un monument ou un site célèbre d'Espagne",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-reliefs-12",
       "theme": "geography",
       "text": "Nomme un monument ou un site célèbre des États-Unis",
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
       "id": "geo-reliefs-13",
@@ -564,13 +564,13 @@
       "id": "geo-reliefs-14",
       "theme": "geography",
       "text": "Nomme un monument, un musée ou un lieu célèbre de Londres",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-reliefs-15",
       "theme": "geography",
       "text": "Nomme une cathédrale célèbre dans le monde",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-villes-01",
@@ -654,7 +654,7 @@
       "id": "geo-villes-14",
       "theme": "geography",
       "text": "Nomme une ville d'Australie",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "geo-villes-15",

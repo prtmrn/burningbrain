@@ -6,7 +6,7 @@
       "id": "ent-oscar-film",
       "theme": "entertainment",
       "text": "Nomme un film ayant remporté l'Oscar du meilleur film",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-acteur-uk",
@@ -18,19 +18,19 @@
       "id": "ent-film-horreur",
       "theme": "entertainment",
       "text": "Nomme un film d'horreur",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-comedie-fr",
       "theme": "entertainment",
       "text": "Nomme une comédie française",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-pop-uk",
       "theme": "entertainment",
       "text": "Nomme un groupe ou un artiste pop britannique",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-metal",
@@ -42,25 +42,25 @@
       "id": "ent-comedie-musicale",
       "theme": "entertainment",
       "text": "Nomme une comédie musicale",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-humoriste-fr",
       "theme": "entertainment",
       "text": "Nomme un humoriste français",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-serie-fr",
       "theme": "entertainment",
       "text": "Nomme une série télévisée française",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-anime-film",
       "theme": "entertainment",
       "text": "Nomme un film d'animation japonais",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-jeu-role",
@@ -84,7 +84,7 @@
       "id": "ent-western",
       "theme": "entertainment",
       "text": "Nomme un western",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-01",
@@ -96,7 +96,7 @@
       "id": "ent-anim-02",
       "theme": "entertainment",
       "text": "Nomme un jouet ou une marque de jouets célèbre",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-03",
@@ -138,7 +138,7 @@
       "id": "ent-anim-09",
       "theme": "entertainment",
       "text": "Nomme un film familial ou pour enfants en prises de vues réelles",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-10",
@@ -156,13 +156,13 @@
       "id": "ent-anim-12",
       "theme": "entertainment",
       "text": "Nomme un acteur ou une actrice apparu dans au moins un film de la saga Harry Potter",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-13",
       "theme": "entertainment",
       "text": "Nomme un personnage de Sailor Moon (manga et anime)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-14",
@@ -180,43 +180,43 @@
       "id": "ent-celebs-01",
       "theme": "entertainment",
       "text": "Nomme un animateur ou une animatrice de télévision français(e)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-celebs-02",
       "theme": "entertainment",
       "text": "Nomme un chanteur français (hors rappeur)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-celebs-03",
       "theme": "entertainment",
       "text": "Nomme une chanteuse française",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-celebs-04",
       "theme": "entertainment",
       "text": "Nomme un mannequin célèbre",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-celebs-05",
       "theme": "entertainment",
       "text": "Nomme un youtubeur ou une youtubeuse",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-celebs-06",
       "theme": "entertainment",
       "text": "Nomme une émission de divertissement ou un jeu télévisé français",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-celebs-07",
       "theme": "entertainment",
       "text": "Nomme une émission française d'information, un magazine ou un talk-show",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-celebs-08",
@@ -258,13 +258,13 @@
       "id": "ent-celebs-14",
       "theme": "entertainment",
       "text": "Nomme un chanteur ou une chanteuse lyrique",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "ent-celebs-15",
       "theme": "entertainment",
       "text": "Nomme un rappeur ou une rappeuse français(e)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-cinema-01",
@@ -288,25 +288,25 @@
       "id": "ent-cinema-04",
       "theme": "entertainment",
       "text": "Nomme un film dans lequel joue Jean-Paul Belmondo ou Alain Delon",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-cinema-05",
       "theme": "entertainment",
       "text": "Nomme un film dans lequel joue Gérard Depardieu",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-cinema-06",
       "theme": "entertainment",
       "text": "Nomme un film sorti au cinéma adapté d'une bande dessinée Marvel ou DC Comics",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-cinema-07",
       "theme": "entertainment",
       "text": "Nomme un long-métrage d'animation produit par DreamWorks Animation ou Illumination",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-cinema-08",
@@ -324,13 +324,13 @@
       "id": "ent-cinema-10",
       "theme": "entertainment",
       "text": "Nomme un film dans lequel joue Tom Hanks ou Tom Cruise",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-cinema-11",
       "theme": "entertainment",
       "text": "Nomme un long-métrage réalisé par Steven Spielberg ou par Ridley Scott",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-cinema-12",
@@ -342,13 +342,13 @@
       "id": "ent-cinema-13",
       "theme": "entertainment",
       "text": "Nomme une actrice française née après 1960",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-cinema-14",
       "theme": "entertainment",
       "text": "Nomme un film italien (ou coproduction italienne) sorti avant 2000",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "ent-cinema-15",
@@ -360,7 +360,7 @@
       "id": "ent-jeux-01",
       "theme": "entertainment",
       "text": "Nomme un personnage de l'univers Super Mario (Nintendo)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-jeux-02",
@@ -372,7 +372,7 @@
       "id": "ent-jeux-03",
       "theme": "entertainment",
       "text": "Nomme une console de jeux vidéo (de salon ou portable) commercialisée",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-jeux-04",
@@ -414,19 +414,19 @@
       "id": "ent-jeux-10",
       "theme": "entertainment",
       "text": "Nomme un personnage des albums de Tintin (Hergé)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-jeux-11",
       "theme": "entertainment",
       "text": "Nomme une série de bande dessinée franco-belge",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-jeux-12",
       "theme": "entertainment",
       "text": "Nomme un jeu vidéo de course (voitures, karts ou motos)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-jeux-13",
@@ -438,7 +438,7 @@
       "id": "ent-jeux-14",
       "theme": "entertainment",
       "text": "Nomme un personnage jouable de la série Super Smash Bros.",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "ent-jeux-15",
@@ -450,7 +450,7 @@
       "id": "ent-musique-01",
       "theme": "entertainment",
       "text": "Nomme une chanson de Michael Jackson en solo (hors Jackson 5 et The Jacksons)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-musique-02",
@@ -468,7 +468,7 @@
       "id": "ent-musique-04",
       "theme": "entertainment",
       "text": "Nomme une chanson dont Serge Gainsbourg a écrit les paroles (chantée par lui ou par un autre interprète)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "ent-musique-05",
@@ -486,13 +486,13 @@
       "id": "ent-musique-07",
       "theme": "entertainment",
       "text": "Nomme une chanson de Madonna",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-musique-08",
       "theme": "entertainment",
       "text": "Nomme un groupe de rock français",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-musique-09",
@@ -504,7 +504,7 @@
       "id": "ent-musique-10",
       "theme": "entertainment",
       "text": "Nomme un chanteur, une chanteuse ou un groupe de reggae (dancehall et dub compris)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-musique-11",
@@ -540,13 +540,13 @@
       "id": "ent-series-01",
       "theme": "entertainment",
       "text": "Nomme une série d'animation occidentale diffusée à la télévision",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-series-02",
       "theme": "entertainment",
       "text": "Nomme un personnage de la série Les Simpson",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-series-03",
@@ -558,25 +558,25 @@
       "id": "ent-series-04",
       "theme": "entertainment",
       "text": "Nomme une sitcom américaine",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-series-05",
       "theme": "entertainment",
       "text": "Nomme une série policière ou judiciaire (toutes nationalités)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-series-06",
       "theme": "entertainment",
       "text": "Nomme une série de science-fiction ou de fantastique",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-series-07",
       "theme": "entertainment",
       "text": "Nomme une série originale Netflix",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-series-08",
@@ -612,7 +612,7 @@
       "id": "ent-series-13",
       "theme": "entertainment",
       "text": "Nomme une série télévisée française",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-series-14",
@@ -624,7 +624,7 @@
       "id": "ent-series-15",
       "theme": "entertainment",
       "text": "Nomme une chaîne de télévision française (hertzienne, TNT, câble ou satellite)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     }
   ],
   "sheets": {

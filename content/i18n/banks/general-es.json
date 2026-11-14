@@ -48,7 +48,7 @@
       "id": "art-archi-11",
       "theme": "general-es",
       "text": "Nombra un tipo de sombrero o de prenda para la cabeza",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-archi-12",
@@ -60,7 +60,7 @@
       "id": "art-archi-13",
       "theme": "general-es",
       "text": "Nombra un tipo de zapato",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-archi-14",
@@ -102,7 +102,7 @@
       "id": "art-classique-03",
       "theme": "general-es",
       "text": "Nombra un compositor clásico de Rusia o de Europa del Este (Polonia, Chequia, Hungría, Rumanía, países bálticos, Ucrania, el Cáucaso...)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-04",
@@ -114,7 +114,7 @@
       "id": "art-classique-05",
       "theme": "general-es",
       "text": "Nombra un compositor clásico español, portugués, latinoamericano o nórdico",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-classique-06",
@@ -264,7 +264,7 @@
       "id": "art-littetr-13",
       "theme": "general-es",
       "text": "Nombra un escritor de un país nórdico (Dinamarca, Noruega, Suecia, Finlandia o Islandia)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-littetr-14",
@@ -288,13 +288,13 @@
       "id": "art-littfr-04",
       "theme": "general-es",
       "text": "Nombra una obra de La comedia humana de Balzac",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-05",
       "theme": "general-es",
       "text": "Nombra un personaje de La comedia humana de Balzac",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-littfr-06",
@@ -318,13 +318,13 @@
       "id": "art-littfr-12",
       "theme": "general-es",
       "text": "Nombra un escritor en lengua francesa originario de África subsahariana o de Madagascar",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-livre-enfants",
       "theme": "general-es",
       "text": "Nombra un libro o una serie de libros infantiles",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-mouvement",
@@ -336,7 +336,7 @@
       "id": "art-musee",
       "theme": "general-es",
       "text": "Nombra un museo famoso del mundo",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-01",
@@ -360,13 +360,13 @@
       "id": "art-mythes-10",
       "theme": "general-es",
       "text": "Nombra una fiesta religiosa (de cualquier religión)",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-mythes-11",
       "theme": "general-es",
       "text": "Nombra una orden o congregación religiosa",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-mythes-13",
@@ -390,7 +390,7 @@
       "id": "art-peintre-flamand",
       "theme": "general-es",
       "text": "Nombra un pintor neerlandés o flamenco",
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-01",
@@ -402,7 +402,7 @@
       "id": "art-peinture-02",
       "theme": "general-es",
       "text": "Nombra un pintor alemán o austriaco (de cualquier época)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-03",
@@ -420,13 +420,13 @@
       "id": "art-peinture-05",
       "theme": "general-es",
       "text": "Nombra un pintor ruso o nacido en el Imperio ruso",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-06",
       "theme": "general-es",
       "text": "Nombra un pintor o artista plástico italiano activo en el siglo XX",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-07",
@@ -444,7 +444,7 @@
       "id": "art-peinture-09",
       "theme": "general-es",
       "text": "Nombra un pintor japonés o un maestro japonés del grabado ukiyo-e",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-11",
@@ -456,13 +456,13 @@
       "id": "art-peinture-12",
       "theme": "general-es",
       "text": "Nombra un cuadro de Vincent van Gogh",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "art-peinture-13",
       "theme": "general-es",
       "text": "Nombra un pintor o artista plástico de América Latina",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-peinture-14",
@@ -474,7 +474,7 @@
       "id": "art-peinture-15",
       "theme": "general-es",
       "text": "Nombra un pigmento o color de pigmento utilizado en la pintura",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "art-photographe",
@@ -528,7 +528,7 @@
       "id": "ent-anim-02",
       "theme": "general-es",
       "text": "Nombra un juguete o una marca de juguetes famosos",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-03",
@@ -570,7 +570,7 @@
       "id": "ent-anim-09",
       "theme": "general-es",
       "text": "Nombra una película familiar o infantil de imagen real",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-10",
@@ -588,13 +588,13 @@
       "id": "ent-anim-12",
       "theme": "general-es",
       "text": "Nombra un actor o actriz que haya aparecido en al menos una película de la saga Harry Potter",
-      "difficulty": "medium"
+      "difficulty": "easy"
     },
     {
       "id": "ent-anim-13",
       "theme": "general-es",
       "text": "Nombra un personaje de Sailor Moon (manga y anime)",
-      "difficulty": "medium"
+      "difficulty": "hard"
     },
     {
       "id": "ent-anim-14",

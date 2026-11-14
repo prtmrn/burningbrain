@@ -1,0 +1,427 @@
+# Une ligne par question moyenne. Pour passer une question en facile, copier son identifiant dans content/build/easy_ids.txt puis relancer assign_difficulty.py.
+id	thème	réponses	question
+art-archi-03	arts-literature	84	Nomme un style ou un courant d'architecture
+art-archi-07	arts-literature	83	Nomme une sculpture ou un monument sculpté célèbre (œuvre)
+art-archi-11	arts-literature	78	Nomme un type de chapeau ou de couvre-chef
+art-archi-13	arts-literature	72	Nomme un type de chaussure
+art-architecte	arts-literature	128	Nomme un architecte célèbre
+art-auteur-sf	arts-literature	114	Nomme un auteur de science-fiction
+art-classique-01	arts-literature	66	Nomme un compositeur classique allemand ou autrichien
+art-classique-02	arts-literature	71	Nomme un compositeur classique italien
+art-classique-03	arts-literature	76	Nomme un compositeur classique russe ou d'Europe de l'Est (Pologne, Tchéquie, Hongrie, Roumanie, pays baltes, Ukraine, Caucase...)
+art-classique-05	arts-literature	81	Nomme un compositeur classique espagnol, portugais, latino-américain ou nordique
+art-classique-07	arts-literature	91	Nomme un ballet
+art-classique-12	arts-literature	52	Nomme un film d'Alfred Hitchcock
+art-littetr-01	arts-literature	68	Nomme un écrivain ou un poète russe
+art-littetr-02	arts-literature	90	Nomme un écrivain ou un poète de langue allemande (Allemagne, Autriche, Suisse alémanique)
+art-littetr-03	arts-literature	73	Nomme un écrivain ou un poète italien
+art-littetr-04	arts-literature	88	Nomme un écrivain ou un poète d'Espagne
+art-littetr-05	arts-literature	90	Nomme un écrivain ou un poète d'Amérique latine (Brésil compris)
+art-littetr-13	arts-literature	82	Nomme un écrivain d'un pays nordique (Danemark, Norvège, Suède, Finlande ou Islande)
+art-littetr-14	arts-literature	87	Nomme un roman d'un écrivain espagnol ou latino-américain
+art-littfr-02	arts-literature	76	Nomme une pièce de théâtre de Molière, de Racine ou de Pierre Corneille
+art-littfr-03	arts-literature	97	Nomme un personnage d'une pièce de Molière
+art-littfr-04	arts-literature	87	Nomme une œuvre de La Comédie humaine de Balzac
+art-littfr-05	arts-literature	95	Nomme un personnage de La Comédie humaine de Balzac
+art-littfr-07	arts-literature	81	Nomme un personnage d'un roman de Victor Hugo
+art-littfr-08	arts-literature	72	Nomme un personnage d'un roman d'Alexandre Dumas père
+art-littfr-10	arts-literature	70	Nomme un écrivain belge de langue française
+art-littfr-11	arts-literature	73	Nomme un écrivain québécois de langue française
+art-littfr-12	arts-literature	75	Nomme un écrivain francophone originaire d'Afrique subsaharienne ou de Madagascar
+art-littfr-13	arts-literature	59	Nomme un écrivain de langue française né en Algérie, au Maroc ou en Tunisie
+art-littfr-14	arts-literature	109	Nomme un écrivain ayant été élu à l'Académie française
+art-littfr-15	arts-literature	63	Nomme un écrivain de langue française né aux Antilles, en Guyane ou en Haïti
+art-livre-enfants	arts-literature	58	Nomme un livre ou une série de livres pour enfants
+art-mouvement	arts-literature	84	Nomme un mouvement artistique
+art-musee	arts-literature	76	Nomme un musée célèbre dans le monde
+art-mythes-01	arts-literature	67	Nomme une figure de style (rhétorique)
+art-mythes-02	arts-literature	90	Nomme une onomatopée française
+art-mythes-03	arts-literature	63	Nomme un personnage de la légende du roi Arthur et de la Table ronde
+art-mythes-04	arts-literature	79	Nomme une créature fantastique du folklore ou de la fantasy (hors mythologie grecque)
+art-mythes-05	arts-literature	106	Nomme un animal cité dans une expression française courante
+art-mythes-10	arts-literature	94	Nomme une fête religieuse (toutes religions)
+art-mythes-11	arts-literature	76	Nomme un ordre ou une congrégation religieuse
+art-mythes-13	arts-literature	101	Nomme un courant de pensée ou une doctrine philosophique en « -isme »
+art-mythes-14	arts-literature	71	Nomme un héros de légende ou de folklore (hors mythologie grecque et légende arthurienne)
+art-mythes-15	arts-literature	115	Nomme un lieu saint ou un lieu de pèlerinage (toutes religions)
+art-peintre-flamand	arts-literature	106	Nomme un peintre néerlandais ou flamand
+art-peinture-01	arts-literature	87	Nomme un peintre espagnol (toutes époques)
+art-peinture-02	arts-literature	86	Nomme un peintre allemand ou autrichien (toutes époques)
+art-peinture-05	arts-literature	81	Nomme un peintre russe ou né dans l'Empire russe
+art-peinture-06	arts-literature	74	Nomme un peintre ou plasticien italien actif au XXe siècle
+art-peinture-07	arts-literature	70	Nomme une technique, un procédé ou un médium de peinture, de dessin ou de gravure
+art-peinture-08	arts-literature	89	Nomme une femme peintre
+art-peinture-09	arts-literature	67	Nomme un peintre japonais ou un maître japonais de l'estampe
+art-peinture-10	arts-literature	76	Nomme un peintre français actif au XVIIe ou au XVIIIe siècle
+art-peinture-11	arts-literature	60	Nomme un peintre ou plasticien associé au mouvement surréaliste
+art-peinture-12	arts-literature	67	Nomme un tableau de Vincent van Gogh
+art-peinture-13	arts-literature	81	Nomme un peintre ou plasticien d'Amérique latine
+art-peinture-14	arts-literature	74	Nomme un peintre nordique (Danemark, Norvège, Suède, Finlande ou Islande)
+art-peinture-15	arts-literature	67	Nomme un pigment ou une couleur de pigment utilisé en peinture
+art-photographe	arts-literature	112	Nomme un photographe célèbre
+art-poete-anglophone	arts-literature	104	Nomme un poète de langue anglaise
+art-poete-xixe	arts-literature	100	Nomme un poète du XIXe siècle
+art-prix-litteraire	arts-literature	66	Nomme un prix littéraire
+art-sculpteur	arts-literature	96	Nomme un sculpteur célèbre
+ent-acteur-uk	entertainment	107	Nomme un acteur ou une actrice britannique
+ent-anim-02	entertainment	92	Nomme un jouet ou une marque de jouets célèbre
+ent-anim-08	entertainment	83	Nomme une série télévisée pour adolescents (toutes nationalités)
+ent-anim-09	entertainment	80	Nomme un film familial ou pour enfants en prises de vues réelles
+ent-anim-10	entertainment	99	Nomme un personnage du manga et anime My Hero Academia
+ent-anim-11	entertainment	84	Nomme un personnage du manga et anime L'Attaque des Titans
+ent-anim-12	entertainment	85	Nomme un acteur ou une actrice apparu dans au moins un film de la saga Harry Potter
+ent-anim-13	entertainment	78	Nomme un personnage de Sailor Moon (manga et anime)
+ent-anim-14	entertainment	94	Nomme un personnage de la saga Twilight (romans et films)
+ent-anim-15	entertainment	85	Nomme un personnage de la saga Hunger Games (romans et films)
+ent-anime-film	entertainment	63	Nomme un film d'animation japonais
+ent-celebs-01	entertainment	78	Nomme un animateur ou une animatrice de télévision français(e)
+ent-celebs-02	entertainment	95	Nomme un chanteur français (hors rappeur)
+ent-celebs-03	entertainment	76	Nomme une chanteuse française
+ent-celebs-04	entertainment	95	Nomme un mannequin célèbre
+ent-celebs-05	entertainment	79	Nomme un youtubeur ou une youtubeuse
+ent-celebs-06	entertainment	60	Nomme une émission de divertissement ou un jeu télévisé français
+ent-celebs-07	entertainment	54	Nomme une émission française d'information, un magazine ou un talk-show
+ent-celebs-08	entertainment	81	Nomme un festival (musique, cinéma, théâtre ou spectacle vivant) en France ou dans le monde
+ent-celebs-13	entertainment	79	Nomme une salle de spectacle ou un théâtre parisien
+ent-celebs-14	entertainment	83	Nomme un chanteur ou une chanteuse lyrique
+ent-celebs-15	entertainment	86	Nomme un rappeur ou une rappeuse français(e)
+ent-cinema-02	entertainment	89	Nomme un film ayant reçu la Palme d'or (ou le Grand Prix, son équivalent historique) au Festival de Cannes
+ent-cinema-04	entertainment	102	Nomme un film dans lequel joue Jean-Paul Belmondo ou Alain Delon
+ent-cinema-05	entertainment	73	Nomme un film dans lequel joue Gérard Depardieu
+ent-cinema-06	entertainment	112	Nomme un film sorti au cinéma adapté d'une bande dessinée Marvel ou DC Comics
+ent-cinema-07	entertainment	65	Nomme un long-métrage d'animation produit par DreamWorks Animation ou Illumination
+ent-cinema-08	entertainment	86	Nomme un film de fiction dont l'action se déroule principalement pendant la Seconde Guerre mondiale
+ent-cinema-09	entertainment	53	Nomme un film ou téléfilm adapté d'une œuvre de Stephen King
+ent-cinema-10	entertainment	93	Nomme un film dans lequel joue Tom Hanks ou Tom Cruise
+ent-cinema-11	entertainment	63	Nomme un long-métrage réalisé par Steven Spielberg ou par Ridley Scott
+ent-cinema-12	entertainment	65	Nomme un film réalisé par Clint Eastwood ou dans lequel il joue
+ent-cinema-13	entertainment	69	Nomme une actrice française née après 1960
+ent-cinema-14	entertainment	97	Nomme un film italien (ou coproduction italienne) sorti avant 2000
+ent-comedie-fr	entertainment	88	Nomme une comédie française
+ent-comedie-musicale	entertainment	86	Nomme une comédie musicale
+ent-film-horreur	entertainment	92	Nomme un film d'horreur
+ent-humoriste-fr	entertainment	71	Nomme un humoriste français
+ent-jeu-role	entertainment	116	Nomme un jeu vidéo de rôle
+ent-jeux-01	entertainment	75	Nomme un personnage de l'univers Super Mario (Nintendo)
+ent-jeux-03	entertainment	86	Nomme une console de jeux vidéo (de salon ou portable) commercialisée
+ent-jeux-04	entertainment	79	Nomme un personnage jouable de la série Street Fighter
+ent-jeux-10	entertainment	52	Nomme un personnage des albums de Tintin (Hergé)
+ent-jeux-11	entertainment	107	Nomme une série de bande dessinée franco-belge
+ent-jeux-12	entertainment	91	Nomme un jeu vidéo de course (voitures, karts ou motos)
+ent-jeux-14	entertainment	89	Nomme un personnage jouable de la série Super Smash Bros.
+ent-musique-01	entertainment	103	Nomme une chanson de Michael Jackson en solo (hors Jackson 5 et The Jacksons)
+ent-musique-04	entertainment	103	Nomme une chanson dont Serge Gainsbourg a écrit les paroles (chantée par lui ou par un autre interprète)
+ent-musique-05	entertainment	72	Nomme une chanson ayant remporté le Concours Eurovision de la chanson
+ent-musique-07	entertainment	101	Nomme une chanson de Madonna
+ent-musique-08	entertainment	68	Nomme un groupe de rock français
+ent-musique-09	entertainment	116	Nomme un groupe ou un artiste solo de K-pop
+ent-musique-10	entertainment	114	Nomme un chanteur, une chanteuse ou un groupe de reggae (dancehall et dub compris)
+ent-musique-11	entertainment	80	Nomme un chanteur, une chanteuse ou un groupe québécois
+ent-musique-12	entertainment	81	Nomme un chanteur, une chanteuse, un musicien ou un groupe belge
+ent-musique-14	entertainment	92	Nomme un groupe ou un artiste de punk rock (proto-punk et pop-punk compris)
+ent-oscar-film	entertainment	96	Nomme un film ayant remporté l'Oscar du meilleur film
+ent-pop-uk	entertainment	109	Nomme un groupe ou un artiste pop britannique
+ent-serie-fr	entertainment	71	Nomme une série télévisée française
+ent-series-01	entertainment	95	Nomme une série d'animation occidentale diffusée à la télévision
+ent-series-02	entertainment	79	Nomme un personnage de la série Les Simpson
+ent-series-04	entertainment	95	Nomme une sitcom américaine
+ent-series-05	entertainment	96	Nomme une série policière ou judiciaire (toutes nationalités)
+ent-series-06	entertainment	110	Nomme une série de science-fiction ou de fantastique
+ent-series-07	entertainment	101	Nomme une série originale Netflix
+ent-series-08	entertainment	90	Nomme un anime (série d'animation japonaise)
+ent-series-09	entertainment	57	Nomme une série télévisée américaine diffusée dans les années 1980
+ent-series-10	entertainment	84	Nomme une série télévisée adaptée d'un comics américain
+ent-series-11	entertainment	97	Nomme une série produite ou diffusée par HBO
+ent-series-13	entertainment	104	Nomme une série télévisée française
+ent-series-15	entertainment	91	Nomme une chaîne de télévision française (hertzienne, TNT, câble ou satellite)
+ent-western	entertainment	92	Nomme un western
+gen-add-01	general	82	Nomme un prénom féminin
+gen-add-02	general	82	Nomme un prénom masculin
+gen-add-09	general	82	Nomme un métier
+gen-add-14	general	64	Nomme une race de cheval
+gen-add-16	general	82	Nomme une marque de vêtements
+gen-anglicisme	general	53	Nomme un anglicisme du vocabulaire du football en français
+gen-animal-afrique	general	93	Nomme un mammifère sauvage vivant en Afrique subsaharienne
+gen-artiste-fr	general	114	Nomme un chanteur ou une chanteuse solo française née avant 1970
+gen-bataille	general	67	Nomme une bataille de la Première Guerre mondiale
+gen-champignon	general	88	Nomme un champignon
+gen-constellation	general	88	Nomme une constellation
+gen-cycliste-tdf	general	64	Nomme un vainqueur du Tour de France cycliste
+gen-dessert-monde	general	95	Nomme un gâteau ou une pâtisserie française
+gen-dessin-anime-80-90	general	63	Nomme un dessin animé diffusé à la télévision française pendant les années 1980
+gen-ecrivain-russe	general	110	Nomme un écrivain russe
+gen-emission-tele-fr	general	50	Nomme une émission de jeu diffusée à la télévision française
+gen-empereur-romain	general	97	Nomme un empereur romain
+gen-entreprise-fr	general	65	Nomme une entreprise du CAC 40
+gen-explorateur	general	69	Nomme un navigateur ou explorateur européen des XVe et XVIe siècles
+gen-expression-corps	general	71	Nomme une expression française contenant le mot « main »
+gen-femme-historique	general	50	Nomme une femme ayant régné en Europe
+gen-footballeur-fr	general	73	Nomme un footballeur ayant été champion d'Europe avec l'équipe de France
+gen-fromage	general	103	Nomme un fromage au lait de vache produit en France
+gen-instrument-cordes	general	110	Nomme un instrument de musique à cordes
+gen-invention-francaise	general	92	Nomme une invention française
+gen-invention-xxe	general	52	Nomme un appareil électroménager inventé au XXe siècle
+gen-jeu-nintendo	general	56	Nomme un jeu vidéo édité par Nintendo sur Game Boy
+gen-jeu-societe	general	50	Nomme un jeu de société édité par Hasbro
+gen-legume	general	85	Nomme un légume
+gen-maladie	general	70	Nomme une maladie infectieuse humaine due à un virus
+gen-metier-ier	general	74	Nomme un métier manuel dont le nom se termine par -ier
+gen-muscle	general	116	Nomme un muscle du corps humain
+gen-oeuvre-art	general	91	Nomme une œuvre exposée au musée du Louvre
+gen-plat-francais	general	110	Nomme une recette de la cuisine française traditionnelle à base de viande
+gen-poisson	general	62	Nomme un poisson d'eau douce présent en France
+gen-race-chat	general	92	Nomme une race de chat
+gen-religion	general	64	Nomme une Église chrétienne
+gen-roi-angleterre	general	57	Nomme un roi ou une reine d'Angleterre ou du Royaume-Uni
+gen-roi-france	general	94	Nomme un roi de France
+gen-roman-francais	general	65	Nomme un roman de Jules Verne
+gen-scientifique	general	107	Nomme un scientifique français né avant 1900
+gen-serie-us	general	98	Nomme une série télévisée américaine diffusée sur HBO
+gen-simpson-perso	general	102	Nomme un personnage récurrent de la série Les Simpson
+gen-sport-olympique	general	87	Nomme une discipline des Jeux olympiques d'été ou d'hiver
+geo-capitale-afrique	general	64	Nomme une capitale africaine
+geo-france-01	general	101	Nomme un département français
+geo-france-02	general	83	Nomme une préfecture de département français qui n'est pas chef-lieu de région
+geo-france-03	general	94	Nomme une commune de la région Bretagne
+geo-france-04	general	76	Nomme une commune de la région Normandie
+geo-france-06	general	97	Nomme une commune de la région Provence-Alpes-Côte d'Azur
+geo-france-07	general	96	Nomme une commune de la région Occitanie
+geo-france-08	general	111	Nomme une commune française de plus de 50 000 habitants
+geo-france-09	general	91	Nomme une station de sports d'hiver française
+geo-france-12	general	75	Nomme une spécialité culinaire française dont le nom fait référence à un lieu (hors vins et fromages)
+geo-france-13	general	80	Nomme un col routier de montagne situé en France
+geo-france-14	general	73	Nomme une commune de Corse
+geo-france-15	general	104	Nomme une commune française dont le nom commence par « Saint- » ou « Sainte- »
+geo-monde-03	general	65	Nomme un État ou un territoire des États-Unis
+geo-monde-07	general	89	Nomme une organisation internationale (sigle ou nom complet)
+geo-monde-08	general	94	Nomme un peuple autochtone d'Amérique du Nord
+geo-monument-unesco	general	77	Nomme un site classé au patrimoine mondial de l'UNESCO
+geo-reliefs-02	general	63	Nomme un parc national des États-Unis
+geo-reliefs-07	general	104	Nomme une tour ou un gratte-ciel célèbre dans le monde
+geo-reliefs-08	general	101	Nomme un musée célèbre dans le monde
+geo-reliefs-09	general	93	Nomme un jardin ou un parc urbain célèbre dans le monde
+geo-reliefs-10	general	76	Nomme un monument, un temple ou un site célèbre d'Égypte
+geo-reliefs-11	general	91	Nomme un monument ou un site célèbre d'Espagne
+geo-reliefs-12	general	106	Nomme un monument ou un site célèbre des États-Unis
+geo-reliefs-14	general	93	Nomme un monument, un musée ou un lieu célèbre de Londres
+geo-reliefs-15	general	104	Nomme une cathédrale célèbre dans le monde
+geo-villes-14	general	86	Nomme une ville d'Australie
+his-antiquite-01	general	92	Nomme une cité grecque antique de Grèce continentale, des îles de la mer Égée ou de la côte égéenne de l'Asie Mineure
+his-antiquite-02	general	79	Nomme une colonie grecque antique fondée hors du monde égéen (Italie, Sicile, Gaule, Espagne, mer Noire, Afrique...)
+his-antiquite-03	general	79	Nomme un homme d'État, stratège, roi ou tyran de la Grèce antique (hors philosophes)
+his-antiquite-04	general	70	Nomme un homme politique ou un général de la République romaine (509-27 av. J.-C.)
+his-antiquite-05	general	91	Nomme un écrivain grec de l'Antiquité (poète, dramaturge, historien ou orateur, hors philosophes)
+his-antiquite-06	general	86	Nomme un écrivain de langue latine de l'Antiquité
+his-antiquite-07	general	81	Nomme une pièce de théâtre antique, grecque ou latine, parvenue jusqu'à nous
+his-antiquite-08	general	87	Nomme une bataille de l'Antiquité (avant 476 apr. J.-C.)
+his-antiquite-09	general	77	Nomme un souverain de la Mésopotamie ou de l'Iran antiques (de Sumer aux Sassanides)
+his-antiquite-10	general	85	Nomme une femme réelle (non mythologique) ayant marqué l'Antiquité
+his-antiquite-11	general	70	Nomme un savant de l'Antiquité (mathématicien, astronome, médecin, ingénieur ou géographe)
+his-antiquite-13	general	54	Nomme une province de l'Empire romain (de 27 av. J.-C. à 284 apr. J.-C.)
+his-antiquite-14	general	113	Nomme une ville de France métropolitaine qui existait déjà à l'époque romaine
+his-antiquite-15	general	70	Nomme une langue de l'Antiquité aujourd'hui éteinte
+his-aviateur	general	86	Nomme un aviateur ou un pionnier de l'aviation
+his-dynastie	general	70	Nomme une dynastie royale ou impériale européenne
+his-explorateur-xviii-xix	general	99	Nomme un explorateur du XVIIIe ou du XIXe siècle
+his-france-01	general	54	Nomme un président de la République française ou un chef du gouvernement (président du Conseil, Premier ministre) depuis 1946
+his-france-03	general	53	Nomme un résistant ou une figure de la France libre pendant la Seconde Guerre mondiale
+his-france-04	general	66	Nomme un château situé dans le Val de Loire
+his-france-06	general	71	Nomme une loi française connue par le nom de son auteur (ministre ou parlementaire)
+his-france-07	general	74	Nomme un ministre ou un principal conseiller d'un roi de France avant 1789
+his-france-08	general	85	Nomme un monument, un palais ou un édifice de Paris lié à l'histoire de France
+his-france-09	general	81	Nomme une colonie ou un territoire ayant fait partie de l'empire colonial français
+his-france-10	general	79	Nomme une affaire politique, judiciaire ou criminelle célèbre de l'histoire de France
+his-france-11	general	69	Nomme une reine, une régente ou une favorite royale de l'histoire de France
+his-france-12	general	73	Nomme un personnage de la guerre de Cent Ans
+his-france-13	general	76	Nomme un général, un maréchal ou un amiral français d'avant 1789
+his-france-14	general	70	Nomme un écrivain ou un penseur français du XVIIIe siècle
+his-france-15	general	70	Nomme un parti ou un mouvement politique français du XXe ou du XXIe siècle
+his-general-ww1	general	105	Nomme un général ou un maréchal de la Première Guerre mondiale
+his-modernes-01	general	92	Nomme un navigateur, explorateur ou conquistador européen actif entre 1492 et 1700
+his-modernes-02	general	97	Nomme un peintre, sculpteur ou architecte de la Renaissance (XVe-XVIe siècles)
+his-modernes-04	general	77	Nomme un ministre, un conseiller ou un favori (ou une favorite) des rois de France entre 1515 et 1789
+his-modernes-06	general	109	Nomme une bataille livrée entre 1492 et 1789
+his-modernes-07	general	115	Nomme une ville d'Amérique fondée par des Européens entre 1492 et 1789
+his-modernes-08	general	101	Nomme un écrivain ou poète français du XVIe, du XVIIe ou du XVIIIe siècle
+his-modernes-10	general	68	Nomme un philosophe ou un penseur des Lumières (XVIIIe siècle)
+his-modernes-11	general	97	Nomme un peuple, royaume, empire ou État non européen existant entre 1492 et 1789
+his-modernes-12	general	91	Nomme une personnalité de la Réforme protestante ou de la Contre-Réforme catholique (XVIe-XVIIe siècles)
+his-modernes-13	general	87	Nomme une plante ou un animal dont la diffusion entre l'Ancien et le Nouveau Monde date des grandes découvertes (échange colombien)
+his-modernes-15	general	69	Nomme une guerre, une révolte ou une rébellion survenue entre 1492 et 1789
+his-moyenage-02	general	94	Nomme un titre, une fonction ou un statut social de la société médiévale européenne
+his-moyenage-03	general	71	Nomme un empereur ou une impératrice byzantin ayant régné après l'an 600
+his-moyenage-04	general	115	Nomme un royaume, un empire, une principauté ou une république d'Europe ayant existé au Moyen Âge
+his-moyenage-05	general	91	Nomme un personnage ayant joué un rôle dans les croisades en Orient (1095-1291)
+his-moyenage-06	general	73	Nomme une ville ayant été membre de la Hanse
+his-moyenage-07	general	61	Nomme un ordre religieux, militaire ou de chevalerie fondé avant 1500
+his-moyenage-08	general	86	Nomme un château fort médiéval situé en France métropolitaine
+his-moyenage-09	general	85	Nomme une œuvre littéraire écrite en Europe au Moyen Âge (avant 1500)
+his-moyenage-10	general	87	Nomme un personnage ayant joué un rôle dans la guerre de Cent Ans
+his-moyenage-11	general	102	Nomme une abbaye fondée au Moyen Âge sur le territoire de la France actuelle
+his-moyenage-12	general	66	Nomme une université fondée en Europe avant 1500
+his-moyenage-13	general	89	Nomme une arme, une pièce d'armure ou une machine de siège utilisée dans l'Europe médiévale
+his-moyenage-14	general	78	Nomme un savant, penseur, poète ou voyageur du monde musulman médiéval (VIIe-XVe siècle)
+his-moyenage-15	general	100	Nomme une cathédrale gothique d'Europe dont la construction a commencé avant 1500
+his-napoleon-general	general	75	Nomme un général ou un maréchal de Napoléon Ier
+his-pharaon	general	109	Nomme un pharaon égyptien
+his-pm-britannique	general	59	Nomme un Premier ministre britannique
+his-revolution-industrielle	general	72	Nomme une invention ou une découverte de la révolution industrielle
+his-traite	general	78	Nomme un traité célèbre de l'histoire
+his-wwii-evenement	general	89	Nomme un événement de la Seconde Guerre mondiale
+his-xixe-02	general	84	Nomme un homme politique français du XIXe siècle ou de la Belle Époque (hors souverains)
+his-xixe-03	general	95	Nomme un souverain (roi, reine, empereur, sultan…) ayant régné au XIXe siècle
+his-xixe-05	general	72	Nomme un monument, un édifice ou un ouvrage d'art construit au XIXe siècle
+his-xixe-07	general	98	Nomme un penseur, philosophe ou théoricien politique et social du XIXe siècle
+his-xixe-08	general	52	Nomme un pays actuel d'Afrique ayant été colonisé par une puissance européenne
+his-xixe-09	general	103	Nomme une femme ayant marqué le XIXe siècle
+his-xixe-11	general	102	Nomme un écrivain français du XIXe siècle
+his-xxe-01	general	79	Nomme un pays d'Afrique, d'Asie ou d'Océanie devenu indépendant entre 1945 et 1990
+his-xxe-02	general	71	Nomme un dirigeant politique de l'URSS ou d'un pays du bloc de l'Est
+his-xxe-03	general	87	Nomme un dirigeant, un dignitaire, un général ou un collaborateur de l'Allemagne nazie, de l'Italie fasciste, du Japon impérial ou de leurs alliés
+his-xxe-04	general	75	Nomme une personnalité de la Résistance française ou de la France libre
+his-xxe-08	general	88	Nomme une organisation internationale, une alliance ou une communauté politique, militaire ou économique créée au XXe siècle
+his-xxe-09	general	77	Nomme une personnalité assassinée au XXe siècle ou au début du XXIe
+his-xxe-11	general	64	Nomme un camp d'internement, de concentration ou d'extermination en Europe pendant la Seconde Guerre mondiale
+his-xxe-13	general	63	Nomme un pays belligérant de la Seconde Guerre mondiale
+his-xxe-14	general	87	Nomme une femme ayant été cheffe d'État ou de gouvernement depuis 1900
+his-xxe-15	general	98	Nomme un groupe armé, un mouvement de libération ou une organisation politique clandestine du XXe siècle
+sci-animal-amerique-sud	general	102	Nomme un animal d'Amérique du Sud
+sci-animal-asie	general	78	Nomme un animal d'Asie
+sci-animal-oceanie	general	64	Nomme un animal d'Australie ou d'Océanie
+sci-animaux-01	general	69	Nomme une race bovine (race de vache)
+sci-animaux-02	general	79	Nomme une race de cheval, de poney ou d'âne
+sci-animaux-04	general	83	Nomme une race de mouton ou de chèvre
+sci-animaux-06	general	53	Nomme un primate
+sci-animaux-07	general	81	Nomme un mammifère de l'ordre des carnivores (Carnivora)
+sci-animaux-08	general	74	Nomme un rapace (oiseau de proie diurne ou nocturne)
+sci-animaux-09	general	65	Nomme un mollusque
+sci-animaux-10	general	55	Nomme un crustacé
+sci-animaux-11	general	57	Nomme un animal venimeux
+sci-animaux-12	general	70	Nomme un animal migrateur
+sci-animaux-13	general	73	Nomme une espèce animale éteinte (hors dinosaures)
+sci-animaux-14	general	66	Nomme un verbe désignant le cri d'un animal
+sci-animaux-15	general	62	Nomme un animal vivant dans les régions polaires (Arctique ou Antarctique)
+sci-corps-01	general	67	Nomme une spécialité médicale ou chirurgicale exercée par un médecin
+sci-corps-02	general	94	Nomme une phobie dont le nom savant se termine par « -phobie »
+sci-corps-03	general	64	Nomme une maladie infectieuse humaine due à une bactérie
+sci-corps-04	general	81	Nomme un antibiotique (molécule)
+sci-corps-05	general	63	Nomme une hormone produite par le corps humain
+sci-corps-07	general	95	Nomme un examen médical complémentaire (imagerie, endoscopie, analyse ou exploration fonctionnelle)
+sci-corps-08	general	95	Nomme une structure anatomique de l'encéphale (cerveau, cervelet ou tronc cérébral)
+sci-corps-09	general	79	Nomme une maladie ou une affection de la peau
+sci-corps-12	general	57	Nomme un parasite de l'être humain ou une maladie parasitaire humaine
+sci-corps-13	general	82	Nomme un trouble mental reconnu par la psychiatrie
+sci-corps-14	general	80	Nomme un type de cancer (par organe atteint ou par type de tumeur maligne)
+sci-inventeur	general	90	Nomme un inventeur célèbre
+sci-maladie-rare	general	108	Nomme une maladie génétique ou une maladie rare
+sci-physchim-05	general	95	Nomme un instrument de mesure
+sci-physchim-06	general	64	Nomme un gaz
+sci-physchim-08	general	77	Nomme un acide (chimique, organique ou biologique)
+sci-plante-medicinale	general	109	Nomme une plante médicinale
+sci-plantes-02	general	89	Nomme un légume
+sci-plantes-03	general	111	Nomme une fleur
+sci-plantes-04	general	107	Nomme un arbre qui pousse en France
+sci-plantes-05	general	98	Nomme un champignon
+sci-plantes-06	general	93	Nomme une herbe aromatique ou une épice
+sci-plantes-07	general	77	Nomme une céréale ou une légumineuse
+sci-plantes-08	general	116	Nomme une plante d'intérieur
+sci-plantes-10	general	101	Nomme une variété de pomme
+sci-plantes-12	general	90	Nomme un conifère
+sci-plantes-13	general	100	Nomme une plante grasse (cactus ou succulente)
+sci-plantes-14	general	103	Nomme un arbuste
+sci-plantes-15	general	91	Nomme une plante toxique ou vénéneuse
+sci-techno-01	general	73	Nomme un réseau social ou une plateforme de partage en ligne (hors messageries)
+sci-techno-03	general	88	Nomme un composant ou un périphérique d'ordinateur
+sci-techno-04	general	105	Nomme une extension de fichier informatique (ce qui suit le point dans un nom de fichier)
+sci-techno-06	general	84	Nomme un matériau de construction ou de revêtement utilisé dans le bâtiment
+sci-techno-08	general	95	Nomme un véhicule terrestre (à moteur, à pédales, sur rails ou tracté)
+sci-techno-09	general	86	Nomme un robot ou une intelligence artificielle célèbre (réelle ou de fiction)
+sci-techno-10	general	85	Nomme un fondateur ou un grand dirigeant d'une entreprise technologique
+sci-techno-13	general	79	Nomme un appareil électronique grand public
+sci-techno-14	general	67	Nomme un engin de chantier, de travaux publics ou une machine agricole
+sci-terre-01	general	97	Nomme un volcan du monde (actif, endormi ou éteint)
+sci-terre-02	general	91	Nomme une mer ou un océan
+sci-terre-06	general	103	Nomme une fusée ou un lanceur spatial
+sci-terre-07	general	86	Nomme un combustible ou un carburant
+sci-terre-09	general	99	Nomme une catastrophe naturelle célèbre de l'Histoire (séisme, éruption, tsunami, ouragan ou tempête)
+sci-terre-11	general	114	Nomme une pierre précieuse ou semi-précieuse
+sci-terre-15	general	112	Nomme un geste écologique du quotidien
+spo-athlete-olympique	general	104	Nomme un athlète champion olympique
+spo-club-foot-benelux-portugal	general	107	Nomme un club de football portugais, néerlandais ou belge
+spo-collectifs-01	general	65	Nomme une équipe de NBA ou de WNBA (ou de la BAA, ancêtre de la NBA), actuelle ou disparue
+spo-collectifs-02	general	80	Nomme un équipement, un accessoire ou un élément de terrain utilisé dans un sport collectif (rugby, basket, handball, volley, hockey, baseball, football américain)
+spo-collectifs-04	general	76	Nomme un terme du vocabulaire du rugby (action, règle, geste technique ou tradition, hors noms de postes)
+spo-collectifs-05	general	85	Nomme un terme du vocabulaire du basket-ball (geste, règle, faute ou expression, hors noms de postes)
+spo-collectifs-06	general	66	Nomme une équipe de hockey sur glace de la LNH (NHL) ou de l'ancienne AMH (WHA), actuelle ou disparue
+spo-collectifs-07	general	68	Nomme une équipe de NFL, actuelle ou disparue
+spo-collectifs-08	general	73	Nomme un terme du vocabulaire du baseball (hors noms de postes)
+spo-collectifs-09	general	92	Nomme un terme du vocabulaire du football américain (hors noms de postes)
+spo-collectifs-10	general	91	Nomme un terme du vocabulaire du handball ou du volley-ball (hors noms de postes)
+spo-collectifs-11	general	83	Nomme une compétition, un championnat ou un trophée de sport collectif hors football (rugby, basket, handball, volley, hockey, baseball, football américain)
+spo-collectifs-13	general	96	Nomme une ville ayant accueilli une franchise de NBA, NFL, MLB ou NHL (actuelle ou passée)
+spo-collectifs-14	general	53	Nomme un sport collectif (hors football), y compris les variantes et les sports peu connus
+spo-collectifs-15	general	87	Nomme un poste ou un rôle dans une équipe de sport collectif hors football (rugby, basket, handball, volley, hockey, baseball, football américain)
+spo-entraineur-foot	general	95	Nomme un entraîneur de football célèbre
+spo-football-01	general	58	Nomme un club ayant évolué en première division française (Division 1 ou Ligue 1)
+spo-football-02	general	51	Nomme un club ayant joué en Premier League anglaise (depuis sa création en 1992)
+spo-football-06	general	74	Nomme un joueur ayant marqué au moins un but avec l'équipe de France A masculine
+spo-football-07	general	87	Nomme une sélection ayant disputé au moins une phase finale de Coupe du monde masculine
+spo-football-13	general	55	Nomme une sélection nationale membre de l'UEFA
+spo-football-14	general	54	Nomme une sélection nationale membre de la CAF (Confédération africaine de football)
+spo-football-15	general	56	Nomme un club de football brésilien
+spo-individuels-02	general	80	Nomme un terme du vocabulaire du tennis (coup, règle, score, rôle sur le court…)
+spo-individuels-03	general	77	Nomme un terme du vocabulaire du golf (score, coup, terrain, matériel…)
+spo-individuels-04	general	84	Nomme une course cycliste professionnelle sur route (grand tour, course par étapes ou classique d'un jour)
+spo-individuels-06	general	98	Nomme une équipe cycliste professionnelle sur route, actuelle ou passée (par son nom de sponsor)
+spo-individuels-07	general	77	Nomme un circuit ayant accueilli un Grand Prix du championnat du monde de Formule 1
+spo-individuels-08	general	93	Nomme une écurie ou un constructeur ayant engagé des voitures en championnat du monde de Formule 1
+spo-individuels-09	general	97	Nomme un pilote champion du monde de vitesse moto (MotoGP/500 cm³, Moto2/250 cm³, Moto3/125 cm³, 350 ou 50/80 cm³)
+spo-individuels-10	general	89	Nomme une course, un rallye ou un championnat de sport automobile ou moto
+spo-individuels-11	general	90	Nomme un joueur ou une joueuse de tennis français(e) professionnel(le), actuel(le) ou passé(e)
+spo-individuels-12	general	53	Nomme une station ou un site ayant accueilli une épreuve de Coupe du monde de ski alpin
+spo-individuels-13	general	66	Nomme une épreuve d'athlétisme (piste, sauts, lancers, épreuves combinées, route ou marche), actuelle ou disparue
+spo-individuels-15	general	92	Nomme un mot ou une expression du vocabulaire du cyclisme sur route
+spo-jo-04	general	68	Nomme un athlète français ayant remporté au moins une médaille d'or olympique
+spo-jo-09	general	83	Nomme une activité sportive ou de loisir de plein air
+spo-jo-11	general	57	Nomme un sport collectif
+spo-jo-12	general	82	Nomme un sport de combat ou un art martial
+spo-jo-13	general	75	Nomme un appareil ou un accessoire que l'on trouve dans une salle de sport
+spo-jo-15	general	67	Nomme un sport ou une activité nautique ou aquatique
+spo-loisir-creatif	general	110	Nomme un passe-temps ou un loisir créatif
+spo-loisirs-09	general	105	Nomme un type de chaussure
+spo-meca-01	general	84	Nomme un pilote de rallye (championnat du monde des rallyes WRC) connu
+spo-meca-02	general	89	Nomme un pilote vainqueur des 24 Heures du Mans (au classement général)
+spo-meca-03	general	87	Nomme un terme du vocabulaire du sport automobile (pole position, chicane, paddock…)
+spo-meca-07	general	91	Nomme un navigateur ou une navigatrice de course au large
+spo-meca-08	general	61	Nomme une course ou une compétition de voile
+spo-meca-11	general	94	Nomme une marque de voitures de sport ou de supercars
+spo-meca-15	general	76	Nomme un pilote vainqueur des 500 Miles d'Indianapolis
+spo-nageur	general	99	Nomme un nageur ou une nageuse célèbre
+spo-stade	general	81	Nomme un stade célèbre
+geo-archipel	geography	44	Nomme un archipel
+geo-cap	geography	28	Nomme un cap célèbre
+geo-capitale-amerique	geography	38	Nomme une capitale du continent américain
+geo-capitale-oceanie	geography	14	Nomme une capitale d'Océanie
+geo-capitale-pas-plus-grande	geography	24	Nomme une capitale qui n'est pas la plus grande ville de son pays
+geo-chaine	geography	33	Nomme une chaîne de montagnes
+geo-detroit	geography	33	Nomme un détroit
+geo-fleuve-afrique	geography	25	Nomme un fleuve d'Afrique
+geo-fleuve-amerique	geography	31	Nomme un fleuve des Amériques
+geo-fleuve-asie	geography	30	Nomme un fleuve d'Asie
+geo-fleuve-europe	geography	40	Nomme un fleuve d'Europe
+geo-fleuve-france	geography	38	Nomme un fleuve ou une rivière de France
+geo-fuseau	geography	23	Nomme un pays qui s'étend sur plusieurs fuseaux horaires
+geo-golfe	geography	31	Nomme un golfe
+geo-grotte	geography	26	Nomme une grotte ou un gouffre célèbre
+geo-ile-atlantique	geography	34	Nomme une île de l'Atlantique
+geo-megapole	geography	37	Nomme une ville de plus de 10 millions d'habitants
+geo-pays-equateur	geography	13	Nomme un pays traversé par l'équateur
+geo-pays-insulaire	geography	41	Nomme un pays insulaire
+geo-pays-transcontinental	geography	16	Nomme un pays situé sur deux continents
+geo-peninsule	geography	32	Nomme une péninsule
+geo-port	geography	40	Nomme un grand port maritime
+geo-prefecture-region	geography	19	Nomme une préfecture de région française
+geo-region-francaise	geography	18	Nomme une région française
+geo-site-antique	geography	46	Nomme un site archéologique célèbre
+geo-sommet-8000	geography	14	Nomme un sommet de plus de 8 000 mètres
+geo-ville-olympique	geography	43	Nomme une ville ayant accueilli les Jeux olympiques

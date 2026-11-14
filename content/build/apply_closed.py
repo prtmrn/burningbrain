@@ -76,7 +76,8 @@ def apply_to_sheet(sheet: dict, verified: list[dict]) -> dict:
 
 def main() -> None:
     write = "--write" in sys.argv
-    verify = json.loads(VERIFY.read_text(encoding="utf-8"))
+    source = pathlib.Path(sys.argv[1]) if len(sys.argv) > 1 and not sys.argv[1].startswith("--") else VERIFY
+    verify = json.loads(source.read_text(encoding="utf-8"))
     targets = {k: v for k, v in verify.items() if not k.startswith("_")}
 
     for path in sorted(BANKS_DIR.glob("*.json")):
