@@ -1736,43 +1736,60 @@
           "answer": "Cœur",
           "tier": "t1",
           "aliases": [
-            "Coeur"
+            "Coeur",
+            "Heart",
+            "Corazón"
           ]
         },
         {
           "answer": "Foie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Liver",
+            "Hígado"
+          ]
         },
         {
           "answer": "Poumon",
           "tier": "t1",
           "aliases": [
-            "Poumons"
+            "Poumons",
+            "Lung",
+            "Pulmón"
           ]
         },
         {
           "answer": "Cerveau",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Brain",
+            "Cerebro"
+          ]
         },
         {
           "answer": "Rein",
           "tier": "t1",
           "aliases": [
-            "Reins"
+            "Reins",
+            "Kidney",
+            "Riñón"
           ]
         },
         {
           "answer": "Estomac",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Stomach",
+            "Estómago"
+          ]
         },
         {
           "answer": "Intestin",
           "tier": "t1",
           "aliases": [
-            "Intestins"
+            "Intestins",
+            "Intestine",
+            "Intestino"
           ]
         },
         {
@@ -1785,20 +1802,28 @@
         {
           "answer": "Rate",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Spleen",
+            "Bazo"
+          ]
         },
         {
           "answer": "Thyroïde",
           "tier": "t1",
           "aliases": [
             "Thyroide",
-            "Glande thyroïde"
+            "Glande thyroïde",
+            "Thyroid",
+            "Tiroides"
           ]
         },
         {
           "answer": "Peau",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "Skin",
+            "Piel"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
@@ -1810,13 +1835,18 @@
         {
           "answer": "Vessie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Bladder",
+            "Vejiga"
+          ]
         },
         {
           "answer": "Vésicule biliaire",
           "tier": "t3",
           "aliases": [
-            "Vesicule biliaire"
+            "Vesicule biliaire",
+            "Gallbladder",
+            "Vesícula biliar"
           ]
         },
         {
@@ -1831,46 +1861,60 @@
           "answer": "Intestin grêle",
           "tier": "t3",
           "aliases": [
-            "Grêle"
+            "Grêle",
+            "Small intestine",
+            "Intestino delgado"
           ]
         },
         {
           "answer": "Œsophage",
           "tier": "t3",
           "aliases": [
-            "Oesophage"
+            "Oesophage",
+            "Oesophagus",
+            "Esófago"
           ]
         },
         {
           "answer": "Utérus",
           "tier": "t3",
           "aliases": [
-            "Uterus"
+            "Uterus",
+            "Útero"
           ]
         },
         {
           "answer": "Ovaire",
           "tier": "t3",
           "aliases": [
-            "Ovaires"
+            "Ovaires",
+            "Ovary",
+            "Ovario"
           ]
         },
         {
           "answer": "Testicule",
           "tier": "t3",
           "aliases": [
-            "Testicules"
+            "Testicules",
+            "Testicle",
+            "Testículo"
           ]
         },
         {
           "answer": "Prostate",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Próstata"
+          ]
         },
         {
           "answer": "Langue",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Tongue",
+            "Lengua"
+          ]
         },
         {
           "answer": "Larynx",
@@ -1880,13 +1924,17 @@
         {
           "answer": "Pharynx",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Faringe"
+          ]
         },
         {
           "answer": "Trachée",
           "tier": "t3",
           "aliases": [
-            "Trachee"
+            "Trachee",
+            "Trachea",
+            "Tráquea"
           ]
         },
         {
@@ -1894,25 +1942,35 @@
           "tier": "t3",
           "aliases": [
             "Oeil",
-            "Yeux"
+            "Yeux",
+            "Eye",
+            "Ojo"
           ]
         },
         {
           "answer": "Oreille",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ear",
+            "Oreja"
+          ]
         },
         {
           "answer": "Nez",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Nose",
+            "Nariz"
+          ]
         },
         {
           "answer": "Hypophyse",
           "tier": "t3",
           "aliases": [
             "Glande pituitaire",
-            "Pituitaire"
+            "Pituitaire",
+            "Pituitary gland",
+            "Hipófisis"
           ]
         },
         {
@@ -1921,7 +1979,9 @@
           "aliases": [
             "Glande surrénale",
             "Surrénales",
-            "Glandes surrénales"
+            "Glandes surrénales",
+            "Adrenal gland",
+            "Glándula suprarrenal"
           ]
         },
         {
@@ -1933,35 +1993,45 @@
           "answer": "Glande salivaire",
           "tier": "t3",
           "aliases": [
-            "Glandes salivaires"
+            "Glandes salivaires",
+            "Salivary gland",
+            "Glándula salival"
           ]
         },
         {
           "answer": "Parotide",
           "tier": "t3",
           "aliases": [
-            "Glande parotide"
+            "Glande parotide",
+            "Parotid gland",
+            "Glándula parótida"
           ]
         },
         {
           "answer": "Glande lacrymale",
           "tier": "t3",
           "aliases": [
-            "Glandes lacrymales"
+            "Glandes lacrymales",
+            "Lacrimal gland",
+            "Glándula lagrimal"
           ]
         },
         {
           "answer": "Glande sudoripare",
           "tier": "t3",
           "aliases": [
-            "Glandes sudoripares"
+            "Glandes sudoripares",
+            "Sweat gland",
+            "Glándula sudorípara"
           ]
         },
         {
           "answer": "Glande sébacée",
           "tier": "t3",
           "aliases": [
-            "Glandes sébacées"
+            "Glandes sébacées",
+            "Sebaceous gland",
+            "Glándula sebácea"
           ]
         },
         {
@@ -1970,7 +2040,9 @@
           "aliases": [
             "Glande pinéale",
             "Pinéale",
-            "Épiphyse cérébrale"
+            "Épiphyse cérébrale",
+            "Pineal gland",
+            "Glándula pineal"
           ]
         },
         {
@@ -1978,23 +2050,34 @@
           "tier": "t3",
           "aliases": [
             "Parathyroides",
-            "Glandes parathyroïdes"
+            "Glandes parathyroïdes",
+            "Parathyroid gland",
+            "Glándula paratiroides"
           ]
         },
         {
           "answer": "Cervelet",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Cerebellum",
+            "Cerebelo"
+          ]
         },
         {
           "answer": "Appendice",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Appendix",
+            "Apéndice"
+          ]
         },
         {
           "answer": "Diaphragme",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Diaphragm",
+            "Diafragma"
+          ]
         },
         {
           "answer": "Hypothalamus",
@@ -2010,21 +2093,24 @@
           "answer": "Duodénum",
           "tier": "t4",
           "aliases": [
-            "Duodenum"
+            "Duodenum",
+            "Duodeno"
           ]
         },
         {
           "answer": "Jéjunum",
           "tier": "t4",
           "aliases": [
-            "Jejunum"
+            "Jejunum",
+            "Yeyuno"
           ]
         },
         {
           "answer": "Iléon",
           "tier": "t4",
           "aliases": [
-            "Ileon"
+            "Ileon",
+            "Ileum"
           ]
         },
         {
@@ -2041,26 +2127,35 @@
           "answer": "Bronches",
           "tier": "t4",
           "aliases": [
-            "Bronche"
+            "Bronche",
+            "Bronchi",
+            "Bronquios"
           ]
         },
         {
           "answer": "Moelle épinière",
           "tier": "t4",
           "aliases": [
-            "Moelle epiniere"
+            "Moelle epiniere",
+            "Spinal cord",
+            "Médula espinal"
           ]
         },
         {
           "answer": "Moelle osseuse",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Bone marrow",
+            "Médula ósea"
+          ]
         },
         {
           "answer": "Urètre",
           "tier": "t4",
           "aliases": [
-            "Uretre"
+            "Uretre",
+            "Urethra",
+            "Uretra"
           ]
         },
         {
@@ -2068,7 +2163,8 @@
           "tier": "t4",
           "aliases": [
             "Uretere",
-            "Uretères"
+            "Uretères",
+            "Ureter"
           ]
         },
         {
@@ -2080,7 +2176,8 @@
           "answer": "Pénis",
           "tier": "t4",
           "aliases": [
-            "Penis"
+            "Penis",
+            "Pene"
           ]
         },
         {
@@ -2089,68 +2186,88 @@
           "aliases": [
             "Trompes de Fallope",
             "Trompes utérines",
-            "Trompe utérine"
+            "Trompe utérine",
+            "Fallopian tube",
+            "Trompa de Falopio"
           ]
         },
         {
           "answer": "Glande mammaire",
           "tier": "t4",
           "aliases": [
-            "Glandes mammaires"
+            "Glandes mammaires",
+            "Mammary gland",
+            "Glándula mamaria"
           ]
         },
         {
           "answer": "Amygdales",
           "tier": "t4",
           "aliases": [
-            "Amygdale palatine"
+            "Amygdale palatine",
+            "Tonsils",
+            "Amígdalas"
           ]
         },
         {
           "answer": "Épiglotte",
           "tier": "t4",
           "aliases": [
-            "Epiglotte"
+            "Epiglotte",
+            "Epiglottis",
+            "Epiglotis"
           ]
         },
         {
           "answer": "Cordes vocales",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Vocal cords",
+            "Cuerdas vocales"
+          ]
         },
         {
           "answer": "Cortex cérébral",
           "tier": "t4",
           "aliases": [
-            "Cortex"
+            "Cortex",
+            "Cerebral cortex",
+            "Corteza cerebral"
           ]
         },
         {
           "answer": "Bulbe rachidien",
           "tier": "t4",
           "aliases": [
-            "Moelle allongée"
+            "Moelle allongée",
+            "Medulla oblongata",
+            "Bulbo raquídeo"
           ]
         },
         {
           "answer": "Tronc cérébral",
           "tier": "t4",
           "aliases": [
-            "Tronc cerebral"
+            "Tronc cerebral",
+            "Brainstem",
+            "Tronco encefálico"
           ]
         },
         {
           "answer": "Rétine",
           "tier": "t4",
           "aliases": [
-            "Retine"
+            "Retine",
+            "Retina"
           ]
         },
         {
           "answer": "Cochlée",
           "tier": "t4",
           "aliases": [
-            "Cochlee"
+            "Cochlee",
+            "Cochlea",
+            "Cóclea"
           ]
         },
         {
@@ -2158,7 +2275,9 @@
           "tier": "t4",
           "aliases": [
             "Col utérin",
-            "Col de l'uterus"
+            "Col de l'uterus",
+            "Cervix",
+            "Cuello uterino"
           ]
         },
         {
@@ -2166,7 +2285,9 @@
           "tier": "t5",
           "aliases": [
             "Bartholin",
-            "Glandes de Bartholin"
+            "Glandes de Bartholin",
+            "Bartholin's gland",
+            "Glándula de Bartholin"
           ]
         },
         {
@@ -2175,7 +2296,9 @@
           "aliases": [
             "Cowper",
             "Glandes de Cowper",
-            "Glandes bulbo-urétrales"
+            "Glandes bulbo-urétrales",
+            "Cowper's gland",
+            "Glándula de Cowper"
           ]
         },
         {
@@ -2183,7 +2306,9 @@
           "tier": "t5",
           "aliases": [
             "Skene",
-            "Glande de Skene"
+            "Glande de Skene",
+            "Skene's glands",
+            "Glándulas de Skene"
           ]
         },
         {
@@ -2191,21 +2316,27 @@
           "tier": "t5",
           "aliases": [
             "Vésicule séminale",
-            "Vesicules seminales"
+            "Vesicules seminales",
+            "Seminal vesicles",
+            "Vesículas seminales"
           ]
         },
         {
           "answer": "Épididyme",
           "tier": "t5",
           "aliases": [
-            "Epididyme"
+            "Epididyme",
+            "Epididymis",
+            "Epidídimo"
           ]
         },
         {
           "answer": "Canal déférent",
           "tier": "t5",
           "aliases": [
-            "Canaux déférents"
+            "Canaux déférents",
+            "Vas deferens",
+            "Conducto deferente"
           ]
         },
         {
@@ -2213,89 +2344,120 @@
           "tier": "t5",
           "aliases": [
             "Meibomius",
-            "Glandes de Meibomius"
+            "Glandes de Meibomius",
+            "Meibomian gland",
+            "Glándula de Meibomio"
           ]
         },
         {
           "answer": "Hippocampe",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Hippocampus",
+            "Hipocampo"
+          ]
         },
         {
           "answer": "Pylore",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Pylorus",
+            "Píloro"
+          ]
         },
         {
           "answer": "Cæcum",
           "tier": "t5",
           "aliases": [
             "Caecum",
-            "Cecum"
+            "Cecum",
+            "Ciego"
           ]
         },
         {
           "answer": "Glande de Brunner",
           "tier": "t5",
           "aliases": [
-            "Glandes de Brunner"
+            "Glandes de Brunner",
+            "Brunner's gland",
+            "Glándula de Brunner"
           ]
         },
         {
           "answer": "Plexus choroïde",
           "tier": "t5",
           "aliases": [
-            "Plexus choroide"
+            "Plexus choroide",
+            "Choroid plexus",
+            "Plexo coroideo"
           ]
         },
         {
           "answer": "Corps pinéal",
           "tier": "t5",
           "aliases": [
-            "Corps pineal"
+            "Corps pineal",
+            "Pineal body",
+            "Cuerpo pineal"
           ]
         },
         {
           "answer": "Tympan",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Eardrum",
+            "Tímpano"
+          ]
         },
         {
           "answer": "Utricule",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Utricle",
+            "Utrículo"
+          ]
         },
         {
           "answer": "Glande apocrine",
           "tier": "t5",
           "aliases": [
-            "Glandes apocrines"
+            "Glandes apocrines",
+            "Apocrine gland",
+            "Glándula apocrina"
           ]
         },
         {
           "answer": "Glande eccrine",
           "tier": "t5",
           "aliases": [
-            "Glandes eccrines"
+            "Glandes eccrines",
+            "Eccrine gland",
+            "Glándula ecrina"
           ]
         },
         {
           "answer": "Glande de Littré",
           "tier": "t5",
           "aliases": [
-            "Glandes de Littré"
+            "Glandes de Littré",
+            "Littré's gland",
+            "Glándula de Littré"
           ]
         },
         {
           "answer": "Cristallin",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Lens",
+            "Cristalino"
+          ]
         },
         {
           "answer": "Cornée",
           "tier": "t5",
           "aliases": [
-            "Cornee"
+            "Cornee",
+            "Cornea"
           ]
         },
         {
@@ -4536,57 +4698,90 @@
         {
           "answer": "Pommier",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Apple tree",
+            "Manzano"
+          ]
         },
         {
           "answer": "Poirier",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Pear tree",
+            "Peral"
+          ]
         },
         {
           "answer": "Cerisier",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Cherry tree",
+            "Cerezo"
+          ]
         },
         {
           "answer": "Prunier",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Plum tree",
+            "Ciruelo"
+          ]
         },
         {
           "answer": "Pêcher",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Peach tree",
+            "Melocotonero"
+          ]
         },
         {
           "answer": "Abricotier",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Apricot tree",
+            "Albaricoquero"
+          ]
         },
         {
           "answer": "Figuier",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Fig tree",
+            "Higuera"
+          ]
         },
         {
           "answer": "Oranger",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Orange tree",
+            "Naranjo"
+          ]
         },
         {
           "answer": "Citronnier",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Lemon tree",
+            "Limonero"
+          ]
         },
         {
           "answer": "Framboisier",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Raspberry bush",
+            "Frambueso"
+          ]
         },
         {
           "answer": "Olivier",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "Olive tree",
+            "Olivo"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
@@ -4594,220 +4789,335 @@
           "tier": "t6",
           "aliases": [
             "jaboticabier",
-            "jabuticaba"
+            "jabuticaba",
+            "Jaboticaba tree",
+            "Jabuticabo"
           ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
           "answer": "Mandarinier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mandarin tree",
+            "Mandarino"
+          ]
         },
         {
           "answer": "Pamplemoussier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Grapefruit tree",
+            "Toronjo"
+          ]
         },
         {
           "answer": "Noyer",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Walnut tree",
+            "Nogal"
+          ]
         },
         {
           "answer": "Noisetier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hazel tree",
+            "Avellano"
+          ]
         },
         {
           "answer": "Châtaignier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Chestnut tree",
+            "Castaño"
+          ]
         },
         {
           "answer": "Amandier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Almond tree",
+            "Almendro"
+          ]
         },
         {
           "answer": "Cognassier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Quince tree",
+            "Membrillero"
+          ]
         },
         {
           "answer": "Néflier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Medlar tree",
+            "Níspero"
+          ]
         },
         {
           "answer": "Mûrier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mulberry tree",
+            "Morera"
+          ]
         },
         {
           "answer": "Groseillier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Currant bush",
+            "Grosellero"
+          ]
         },
         {
           "answer": "Cassissier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Blackcurrant bush",
+            "Grosellero negro"
+          ]
         },
         {
           "answer": "Myrtillier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Blueberry bush",
+            "Arándano"
+          ]
         },
         {
           "answer": "Grenadier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pomegranate tree",
+            "Granado"
+          ]
         },
         {
           "answer": "Plaqueminier",
           "tier": "t3",
           "aliases": [
             "kaki",
-            "kakier"
+            "kakier",
+            "Persimmon tree",
+            "Caqui"
           ]
         },
         {
           "answer": "Manguier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mango tree",
+            "Mango"
+          ]
         },
         {
           "answer": "Avocatier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Avocado tree",
+            "Aguacate"
+          ]
         },
         {
           "answer": "Goyavier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Guava tree",
+            "Guayabo"
+          ]
         },
         {
           "answer": "Mirabellier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mirabelle plum tree",
+            "Mirabelo"
+          ]
         },
         {
           "answer": "Cocotier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Coconut palm",
+            "Cocotero"
+          ]
         },
         {
           "answer": "Dattier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Date palm",
+            "Palmera datilera"
+          ]
         },
         {
           "answer": "Limettier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Lime tree",
+            "Limero"
+          ]
         },
         {
           "answer": "Prunellier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Blackthorn",
+            "Endrino"
+          ]
         },
         {
           "answer": "Griottier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Morello cherry tree",
+            "Guindo"
+          ]
         },
         {
           "answer": "Merisier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Wild cherry tree",
+            "Cerezo silvestre"
+          ]
         },
         {
           "answer": "Bigarreautier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sweet cherry tree",
+            "Cerezo dulce"
+          ]
         },
         {
           "answer": "Litchi",
           "tier": "t4",
           "aliases": [
             "letchi",
-            "lichi"
+            "lichi",
+            "Lychee tree"
           ]
         },
         {
           "answer": "Longanier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Longan tree",
+            "Longán"
+          ]
         },
         {
           "answer": "Ramboutan",
           "tier": "t4",
           "aliases": [
-            "ramboutanier"
+            "ramboutanier",
+            "Rambutan tree",
+            "Rambután"
           ]
         },
         {
           "answer": "Jacquier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Jackfruit tree",
+            "Yaca"
+          ]
         },
         {
           "answer": "Corossolier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Soursop tree",
+            "Guanábana"
+          ]
         },
         {
           "answer": "Pistachier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Pistachio tree",
+            "Pistachero"
+          ]
         },
         {
           "answer": "Jujubier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Jujube tree",
+            "Azufaifo"
+          ]
         },
         {
           "answer": "Sureau",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Elder",
+            "Saúco"
+          ]
         },
         {
           "answer": "Cornouiller mâle",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Cornelian cherry",
+            "Cornejo macho"
+          ]
         },
         {
           "answer": "Azerolier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Azarole",
+            "Acerolo"
+          ]
         },
         {
           "answer": "Arbousier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Strawberry tree",
+            "Madroño"
+          ]
         },
         {
           "answer": "Argousier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Sea buckthorn",
+            "Espino amarillo"
+          ]
         },
         {
           "answer": "Lyciet",
           "tier": "t4",
           "aliases": [
-            "goji"
+            "goji",
+            "Boxthorn",
+            "Cambronera"
           ]
         },
         {
           "answer": "Aronia",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Chokeberry"
+          ]
         },
         {
           "answer": "Groseillier à maquereau",
           "tier": "t4",
           "aliases": [
-            "groseillier épineux"
+            "groseillier épineux",
+            "Gooseberry bush",
+            "Grosellero espinoso"
           ]
         },
         {
@@ -4820,71 +5130,99 @@
         {
           "answer": "Cédratier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Citron tree",
+            "Cidro"
+          ]
         },
         {
           "answer": "Bergamotier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Bergamot tree",
+            "Bergamoto"
+          ]
         },
         {
           "answer": "Combava",
           "tier": "t4",
           "aliases": [
-            "combavier"
+            "combavier",
+            "Kaffir lime tree"
           ]
         },
         {
           "answer": "Carambolier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Star fruit tree",
+            "Carambolo"
+          ]
         },
         {
           "answer": "Tamarinier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Tamarind tree",
+            "Tamarindo"
+          ]
         },
         {
           "answer": "Néflier du Japon",
           "tier": "t4",
           "aliases": [
-            "bibassier"
+            "bibassier",
+            "Loquat tree",
+            "Níspero japonés"
           ]
         },
         {
           "answer": "Anacardier",
           "tier": "t4",
           "aliases": [
-            "noix de cajou"
+            "noix de cajou",
+            "Cashew tree",
+            "Anacardo"
           ]
         },
         {
           "answer": "Amélanchier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Serviceberry"
+          ]
         },
         {
           "answer": "Mûrier blanc",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "White mulberry",
+            "Morera blanca"
+          ]
         },
         {
           "answer": "Mûrier noir",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Black mulberry",
+            "Morera negra"
+          ]
         },
         {
           "answer": "Pacanier",
           "tier": "t4",
           "aliases": [
-            "noyer pécan"
+            "noyer pécan",
+            "Pecan tree",
+            "Pacanero"
           ]
         },
         {
           "answer": "Macadamia",
           "tier": "t4",
           "aliases": [
-            "noyer du Queensland"
+            "noyer du Queensland",
+            "Macadamia tree"
           ]
         },
         {
@@ -4895,41 +5233,58 @@
         {
           "answer": "Sapotillier",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Sapodilla tree",
+            "Zapotillo"
+          ]
         },
         {
           "answer": "Mangoustanier",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Mangosteen tree",
+            "Mangostán"
+          ]
         },
         {
           "answer": "Durian",
           "tier": "t5",
           "aliases": [
-            "durianier"
+            "durianier",
+            "Durian tree"
           ]
         },
         {
           "answer": "Arbre à pain",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Breadfruit tree",
+            "Árbol del pan"
+          ]
         },
         {
           "answer": "Attier",
           "tier": "t5",
           "aliases": [
-            "pommier-cannelle"
+            "pommier-cannelle",
+            "Atemoya",
+            "Ate"
           ]
         },
         {
           "answer": "Chérimolier",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Cherimoya tree",
+            "Chirimoyo"
+          ]
         },
         {
           "answer": "Noni",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Noni tree"
+          ]
         },
         {
           "answer": "Baobab",
@@ -4947,7 +5302,9 @@
           "answer": "Bigaradier",
           "tier": "t5",
           "aliases": [
-            "oranger amer"
+            "oranger amer",
+            "Bitter orange tree",
+            "Naranjo amargo"
           ]
         },
         {
@@ -4961,13 +5318,17 @@
           "answer": "Pitanga",
           "tier": "t5",
           "aliases": [
-            "cerisier de Cayenne"
+            "cerisier de Cayenne",
+            "Surinam cherry"
           ]
         },
         {
           "answer": "Caroubier",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Carob tree",
+            "Algarrobo"
+          ]
         },
         {
           "answer": "Yuzu",
@@ -4984,24 +5345,35 @@
         {
           "answer": "Nashi",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Nashi pear",
+            "Pera nashi"
+          ]
         },
         {
           "answer": "Canneberge",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Cranberry",
+            "Arándano americano"
+          ]
         },
         {
           "answer": "Airelle",
           "tier": "t5",
           "aliases": [
-            "vaccinium"
+            "vaccinium",
+            "Lingonberry",
+            "Arándano rojo"
           ]
         },
         {
           "answer": "Ronce",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Bramble",
+            "Zarzamora"
+          ]
         }
       ]
     },
@@ -6242,54 +6614,81 @@
         {
           "answer": "Pluie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Rain",
+            "Lluvia"
+          ]
         },
         {
           "answer": "Neige",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Snow",
+            "Nieve"
+          ]
         },
         {
           "answer": "Orage",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Thunderstorm",
+            "Tormenta"
+          ]
         },
         {
           "answer": "Tempête",
           "tier": "t1",
           "aliases": [
-            "tempete"
+            "tempete",
+            "Storm",
+            "Tempestad"
           ]
         },
         {
           "answer": "Ouragan",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Hurricane",
+            "Huracán"
+          ]
         },
         {
           "answer": "Tornade",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Tornado"
+          ]
         },
         {
           "answer": "Brouillard",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Fog",
+            "Niebla"
+          ]
         },
         {
           "answer": "Grêle",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Hail",
+            "Granizo"
+          ]
         },
         {
           "answer": "Canicule",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Heatwave",
+            "Canícula"
+          ]
         },
         {
           "answer": "Cyclone",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Ciclón"
+          ]
         },
         {
           "answer": "El Niño",
@@ -6305,85 +6704,126 @@
           "tier": "t6",
           "aliases": [
             "feu saint-elme",
-            "feux de saint-elme"
+            "feux de saint-elme",
+            "St. Elmo's fire",
+            "Fuego de San Telmo"
           ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
           "answer": "Typhon",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Typhoon",
+            "Tifón"
+          ]
         },
         {
           "answer": "Sécheresse",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Drought",
+            "Sequía"
+          ]
         },
         {
           "answer": "Inondation",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Flood",
+            "Inundación"
+          ]
         },
         {
           "answer": "Vent",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Wind",
+            "Viento"
+          ]
         },
         {
           "answer": "Foudre",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Lightning",
+            "Rayo"
+          ]
         },
         {
           "answer": "Éclair",
           "tier": "t3",
           "aliases": [
-            "eclairs"
+            "eclairs",
+            "Lightning flash",
+            "Relámpago"
           ]
         },
         {
           "answer": "Arc-en-ciel",
           "tier": "t3",
           "aliases": [
-            "arc en ciel"
+            "arc en ciel",
+            "Rainbow",
+            "Arcoíris"
           ]
         },
         {
           "answer": "Mousson",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Monsoon",
+            "Monzón"
+          ]
         },
         {
           "answer": "Verglas",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Glaze ice",
+            "Hielo vidrioso"
+          ]
         },
         {
           "answer": "Gel",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Frost",
+            "Helada"
+          ]
         },
         {
           "answer": "Givre",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hoarfrost",
+            "Escarcha"
+          ]
         },
         {
           "answer": "Rosée",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Dew",
+            "Rocío"
+          ]
         },
         {
           "answer": "Bruine",
           "tier": "t3",
           "aliases": [
-            "crachin"
+            "crachin",
+            "Drizzle",
+            "Llovizna"
           ]
         },
         {
           "answer": "Averse",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Shower",
+            "Chubasco"
+          ]
         },
         {
           "answer": "Mistral",
@@ -6393,47 +6833,65 @@
         {
           "answer": "Tramontane",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Tramontana"
+          ]
         },
         {
           "answer": "Blizzard",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ventisca"
+          ]
         },
         {
           "answer": "Vague de froid",
           "tier": "t3",
           "aliases": [
-            "coup de froid"
+            "coup de froid",
+            "Cold wave",
+            "Ola de frío"
           ]
         },
         {
           "answer": "Vague de chaleur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Heat wave",
+            "Ola de calor"
+          ]
         },
         {
           "answer": "Brume",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mist",
+            "Bruma"
+          ]
         },
         {
           "answer": "Anticyclone",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Anticiclón"
+          ]
         },
         {
           "answer": "Dépression",
           "tier": "t3",
           "aliases": [
-            "depression atmospherique"
+            "depression atmospherique",
+            "Low-pressure system",
+            "Depresión"
           ]
         },
         {
           "answer": "Trombe marine",
           "tier": "t3",
           "aliases": [
-            "trombe"
+            "trombe",
+            "Waterspout",
+            "Tromba marina"
           ]
         },
         {
@@ -6441,61 +6899,85 @@
           "tier": "t3",
           "aliases": [
             "tempete de sable",
-            "vent de sable"
+            "vent de sable",
+            "Sandstorm",
+            "Tormenta de arena"
           ]
         },
         {
           "answer": "Tempête de neige",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Snowstorm",
+            "Tormenta de nieve"
+          ]
         },
         {
           "answer": "Réchauffement climatique",
           "tier": "t3",
           "aliases": [
             "rechauffement global",
-            "changement climatique"
+            "changement climatique",
+            "Global warming",
+            "Calentamiento global"
           ]
         },
         {
           "answer": "Effet de serre",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Greenhouse effect",
+            "Efecto invernadero"
+          ]
         },
         {
           "answer": "Sirocco",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Siroco"
+          ]
         },
         {
           "answer": "Rafale",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Gust",
+            "Ráfaga"
+          ]
         },
         {
           "answer": "Gelée blanche",
           "tier": "t3",
           "aliases": [
-            "gelee"
+            "gelee",
+            "Radiation frost",
+            "Helada blanca"
           ]
         },
         {
           "answer": "Grésil",
           "tier": "t3",
           "aliases": [
-            "gresil"
+            "gresil",
+            "Sleet",
+            "Aguanieve"
           ]
         },
         {
           "answer": "Tonnerre",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Thunder",
+            "Trueno"
+          ]
         },
         {
           "answer": "Tempête tropicale",
           "tier": "t3",
           "aliases": [
-            "tempete tropicale"
+            "tempete tropicale",
+            "Tropical storm",
+            "Tormenta tropical"
           ]
         },
         {
@@ -6509,37 +6991,51 @@
           "answer": "Pluie verglaçante",
           "tier": "t3",
           "aliases": [
-            "pluie verglacante"
+            "pluie verglacante",
+            "Freezing rain",
+            "Lluvia engelante"
           ]
         },
         {
           "answer": "Pluie acide",
           "tier": "t3",
           "aliases": [
-            "pluies acides"
+            "pluies acides",
+            "Acid rain",
+            "Lluvia ácida"
           ]
         },
         {
           "answer": "Orage de grêle",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hailstorm",
+            "Tormenta de granizo"
+          ]
         },
         {
           "answer": "Front froid",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Cold front",
+            "Frente frío"
+          ]
         },
         {
           "answer": "Front chaud",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Warm front",
+            "Frente cálido"
+          ]
         },
         {
           "answer": "Courant-jet",
           "tier": "t3",
           "aliases": [
             "jet stream",
-            "courant jet"
+            "courant jet",
+            "Corriente en chorro"
           ]
         },
         {
@@ -6553,7 +7049,9 @@
         {
           "answer": "Harmattan",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Harmatán"
+          ]
         },
         {
           "answer": "Chinook",
@@ -6580,61 +7078,86 @@
         {
           "answer": "Cellule orageuse",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Thunderstorm cell",
+            "Célula de tormenta"
+          ]
         },
         {
           "answer": "Supercellule",
           "tier": "t4",
           "aliases": [
-            "orage supercellulaire"
+            "orage supercellulaire",
+            "Supercell",
+            "Supercélula"
           ]
         },
         {
           "answer": "Inversion thermique",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Temperature inversion",
+            "Inversión térmica"
+          ]
         },
         {
           "answer": "Dôme de chaleur",
           "tier": "t4",
           "aliases": [
-            "dome de chaleur"
+            "dome de chaleur",
+            "Heat dome",
+            "Domo de calor"
           ]
         },
         {
           "answer": "Rivière atmosphérique",
           "tier": "t4",
           "aliases": [
-            "riviere atmospherique"
+            "riviere atmospherique",
+            "Atmospheric river",
+            "Río atmosférico"
           ]
         },
         {
           "answer": "Brouillard givrant",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Freezing fog",
+            "Niebla engelante"
+          ]
         },
         {
           "answer": "Zone de convergence intertropicale",
           "tier": "t4",
           "aliases": [
-            "zcit"
+            "zcit",
+            "Intertropical convergence zone",
+            "Zona de convergencia intertropical"
           ]
         },
         {
           "answer": "Onde tropicale",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Tropical wave",
+            "Onda tropical"
+          ]
         },
         {
           "answer": "Cyclone extratropical",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Extratropical cyclone",
+            "Ciclón extratropical"
+          ]
         },
         {
           "answer": "Tempête hivernale",
           "tier": "t4",
           "aliases": [
-            "tempete hivernale"
+            "tempete hivernale",
+            "Winter storm",
+            "Tormenta invernal"
           ]
         },
         {
@@ -6646,45 +7169,61 @@
           "answer": "Parhélie",
           "tier": "t4",
           "aliases": [
-            "faux soleil"
+            "faux soleil",
+            "Parhelion",
+            "Parhelio"
           ]
         },
         {
           "answer": "Orage sec",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Dry thunderstorm",
+            "Tormenta seca"
+          ]
         },
         {
           "answer": "Neige fondante",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Wet snow",
+            "Nieve húmeda"
+          ]
         },
         {
           "answer": "Tempête Xynthia",
           "tier": "t4",
           "aliases": [
-            "xynthia"
+            "xynthia",
+            "Storm Xynthia",
+            "Tormenta Xynthia"
           ]
         },
         {
           "answer": "Ouragan Katrina",
           "tier": "t4",
           "aliases": [
-            "katrina"
+            "katrina",
+            "Hurricane Katrina",
+            "Huracán Katrina"
           ]
         },
         {
           "answer": "Ouragan Sandy",
           "tier": "t4",
           "aliases": [
-            "sandy"
+            "sandy",
+            "Hurricane Sandy",
+            "Huracán Sandy"
           ]
         },
         {
           "answer": "Tempête Ciarán",
           "tier": "t4",
           "aliases": [
-            "ciaran"
+            "ciaran",
+            "Storm Ciarán",
+            "Tormenta Ciarán"
           ]
         },
         {
@@ -6698,7 +7237,8 @@
           "aliases": [
             "bombe météorologique",
             "bombe meteorologique",
-            "bombogenese"
+            "bombogenese",
+            "Bombogenesis"
           ]
         },
         {
@@ -6706,7 +7246,9 @@
           "tier": "t5",
           "aliases": [
             "éclair en boule",
-            "eclair en boule"
+            "eclair en boule",
+            "Ball lightning",
+            "Rayo globular"
           ]
         },
         {
@@ -6718,7 +7260,9 @@
           "answer": "Oscillation nord-atlantique",
           "tier": "t5",
           "aliases": [
-            "nao"
+            "nao",
+            "North Atlantic Oscillation",
+            "Oscilación del Atlántico Norte"
           ]
         },
         {
@@ -6732,14 +7276,18 @@
           "answer": "Microrafale",
           "tier": "t5",
           "aliases": [
-            "micro-rafale"
+            "micro-rafale",
+            "Microburst",
+            "Microrráfaga"
           ]
         },
         {
           "answer": "Neige roulée",
           "tier": "t5",
           "aliases": [
-            "neige roulee"
+            "neige roulee",
+            "Snow roller",
+            "Rodillo de nieve"
           ]
         }
       ]
@@ -11529,17 +12077,25 @@
         {
           "answer": "Souris",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Mouse",
+            "Ratón"
+          ]
         },
         {
           "answer": "Rat",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Rata"
+          ]
         },
         {
           "answer": "Écureuil",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Squirrel",
+            "Ardilla"
+          ]
         },
         {
           "answer": "Hamster",
@@ -11549,18 +12105,25 @@
         {
           "answer": "Castor",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Beaver"
+          ]
         },
         {
           "answer": "Marmotte",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Marmot",
+            "Marmota"
+          ]
         },
         {
           "answer": "Cochon d'Inde",
           "tier": "t1",
           "aliases": [
-            "Cobaye"
+            "Cobaye",
+            "Guinea pig",
+            "Cobaya"
           ]
         },
         {
@@ -11572,84 +12135,119 @@
           "answer": "Capybara",
           "tier": "t1",
           "aliases": [
-            "Cabiai"
+            "Cabiai",
+            "Carpincho"
           ]
         },
         {
           "answer": "Porc-épic",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "Porcupine",
+            "Puerco espín"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "Rat-taupe nu",
           "tier": "t6",
           "aliases": [
-            "Hétérocéphale"
+            "Hétérocéphale",
+            "Naked mole-rat",
+            "Rata topo desnuda"
           ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
           "answer": "Gerbille",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Gerbil",
+            "Gerbo"
+          ]
         },
         {
           "answer": "Loir",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Dormouse",
+            "Lirón"
+          ]
         },
         {
           "answer": "Lérot",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Garden dormouse",
+            "Lirón careto"
+          ]
         },
         {
           "answer": "Muscardin",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hazel dormouse",
+            "Muscardino"
+          ]
         },
         {
           "answer": "Campagnol",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Vole",
+            "Topillo"
+          ]
         },
         {
           "answer": "Mulot",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Wood mouse",
+            "Ratón de campo"
+          ]
         },
         {
           "answer": "Ragondin",
           "tier": "t3",
           "aliases": [
-            "Coypou"
+            "Coypou",
+            "Coypu",
+            "Coipú"
           ]
         },
         {
           "answer": "Rat musqué",
           "tier": "t3",
           "aliases": [
-            "Ondatra"
+            "Ondatra",
+            "Muskrat",
+            "Rata almizclera"
           ]
         },
         {
           "answer": "Gerboise",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Jerboa",
+            "Jerbo"
+          ]
         },
         {
           "answer": "Tamia",
           "tier": "t3",
           "aliases": [
             "Suisse",
-            "Écureuil de Corée"
+            "Écureuil de Corée",
+            "Chipmunk"
           ]
         },
         {
           "answer": "Chien de prairie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Prairie dog",
+            "Perrito de las praderas"
+          ]
         },
         {
           "answer": "Lemming",
@@ -11660,13 +12258,16 @@
           "answer": "Octodon",
           "tier": "t3",
           "aliases": [
-            "Dègue"
+            "Dègue",
+            "Degu"
           ]
         },
         {
           "answer": "Agouti",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Agutí"
+          ]
         },
         {
           "answer": "Paca",
@@ -11677,42 +12278,60 @@
           "answer": "Hamster doré",
           "tier": "t3",
           "aliases": [
-            "Hamster syrien"
+            "Hamster syrien",
+            "Golden hamster",
+            "Hámster dorado"
           ]
         },
         {
           "answer": "Écureuil roux",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Red squirrel",
+            "Ardilla roja"
+          ]
         },
         {
           "answer": "Écureuil gris",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Gray squirrel",
+            "Ardilla gris"
+          ]
         },
         {
           "answer": "Polatouche",
           "tier": "t3",
           "aliases": [
-            "Écureuil volant"
+            "Écureuil volant",
+            "Flying squirrel",
+            "Ardilla voladora"
           ]
         },
         {
           "answer": "Spermophile",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ground squirrel",
+            "Espermófilo"
+          ]
         },
         {
           "answer": "Rat noir",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Black rat",
+            "Rata negra"
+          ]
         },
         {
           "answer": "Surmulot",
           "tier": "t3",
           "aliases": [
             "Rat brun",
-            "Rat d'égout"
+            "Rat d'égout",
+            "Brown rat",
+            "Rata parda"
           ]
         },
         {
@@ -11725,47 +12344,68 @@
         {
           "answer": "Viscache",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Viscacha",
+            "Vizcacha"
+          ]
         },
         {
           "answer": "Hamster russe",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Dwarf hamster",
+            "Hámster ruso"
+          ]
         },
         {
           "answer": "Campagnol des champs",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Field vole",
+            "Topillo campestre"
+          ]
         },
         {
           "answer": "Rat taupier",
           "tier": "t4",
           "aliases": [
-            "Campagnol terrestre"
+            "Campagnol terrestre",
+            "Mole rat",
+            "Rata topo"
           ]
         },
         {
           "answer": "Campagnol amphibie",
           "tier": "t4",
           "aliases": [
-            "Rat d'eau"
+            "Rat d'eau",
+            "Water vole",
+            "Topillo de agua"
           ]
         },
         {
           "answer": "Campagnol roussâtre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Bank vole",
+            "Topillo rojizo"
+          ]
         },
         {
           "answer": "Campagnol des neiges",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Snow vole",
+            "Topillo de las nieves"
+          ]
         },
         {
           "answer": "Rat des moissons",
           "tier": "t4",
           "aliases": [
-            "Souris des moissons"
+            "Souris des moissons",
+            "Harvest mouse",
+            "Ratón de las cosechas"
           ]
         },
         {
@@ -11773,7 +12413,9 @@
           "tier": "t4",
           "aliases": [
             "Grand hamster",
-            "Hamster commun"
+            "Hamster commun",
+            "European hamster",
+            "Hámster europeo"
           ]
         },
         {
@@ -11786,56 +12428,76 @@
         {
           "answer": "Rat-kangourou",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Kangaroo rat",
+            "Rata canguro"
+          ]
         },
         {
           "answer": "Écureuil fouisseur",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Burrowing squirrel",
+            "Ardilla excavadora"
+          ]
         },
         {
           "answer": "Hamster de Roborovski",
           "tier": "t4",
           "aliases": [
-            "Roborovski"
+            "Roborovski",
+            "Roborovski hamster"
           ]
         },
         {
           "answer": "Souris épineuse",
           "tier": "t4",
           "aliases": [
-            "Acomys"
+            "Acomys",
+            "Spiny mouse",
+            "Ratón espinoso"
           ]
         },
         {
           "answer": "Rat géant de Gambie",
           "tier": "t4",
           "aliases": [
-            "Cricétome"
+            "Cricétome",
+            "Gambian giant rat",
+            "Rata gigante de Gambia"
           ]
         },
         {
           "answer": "Aulacode",
           "tier": "t4",
           "aliases": [
-            "Rat de canne"
+            "Rat de canne",
+            "Grasscutter",
+            "Aulacodo"
           ]
         },
         {
           "answer": "Écureuil de Barbarie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Barbary ground squirrel",
+            "Ardilla de Berbería"
+          ]
         },
         {
           "answer": "Anomalure",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Anomalurus"
+          ]
         },
         {
           "answer": "Lièvre sauteur",
           "tier": "t5",
           "aliases": [
-            "Pédète"
+            "Pédète",
+            "Springhare",
+            "Liebre saltarina"
           ]
         },
         {
@@ -11851,7 +12513,10 @@
         {
           "answer": "Rat des bambous",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Bamboo rat",
+            "Rata de bambú"
+          ]
         },
         {
           "answer": "Gundi",
@@ -11862,7 +12527,9 @@
           "answer": "Aplodontie",
           "tier": "t5",
           "aliases": [
-            "Castor de montagne"
+            "Castor de montagne",
+            "Mountain beaver",
+            "Aplodontia"
           ]
         }
       ]
@@ -24891,333 +25558,515 @@
         {
           "answer": "cercle",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "circle",
+            "círculo"
+          ]
         },
         {
           "answer": "triangle",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "triángulo"
+          ]
         },
         {
           "answer": "rectangle",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "rectángulo"
+          ]
         },
         {
           "answer": "cube",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "cubo"
+          ]
         },
         {
           "answer": "sphère",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "esfera"
+          ]
         },
         {
           "answer": "pyramide",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "pyramid",
+            "pirámide"
+          ]
         },
         {
           "answer": "cylindre",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "cylinder",
+            "cilindro"
+          ]
         },
         {
           "answer": "cône",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "cono"
+          ]
         },
         {
           "answer": "carré",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "square",
+            "cuadrado"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "ruban de Möbius",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "Möbius strip",
+            "cinta de Möbius"
+          ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
           "answer": "losange",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "rhombus",
+            "rombo"
+          ]
         },
         {
           "answer": "trapèze",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "trapezoid",
+            "trapecio"
+          ]
         },
         {
           "answer": "parallélogramme",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "parallelogram",
+            "paralelogramo"
+          ]
         },
         {
           "answer": "pentagone",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "pentagon",
+            "pentágono"
+          ]
         },
         {
           "answer": "hexagone",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "hexagon",
+            "hexágono"
+          ]
         },
         {
           "answer": "octogone",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "octagon",
+            "octógono"
+          ]
         },
         {
           "answer": "ellipse",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "elipse"
+          ]
         },
         {
           "answer": "ovale",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "oval",
+            "óvalo"
+          ]
         },
         {
           "answer": "disque",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "disk",
+            "disco"
+          ]
         },
         {
           "answer": "polygone",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "polygon",
+            "polígono"
+          ]
         },
         {
           "answer": "prisme",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "prism",
+            "prisma"
+          ]
         },
         {
           "answer": "pavé droit",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "cuboid",
+            "ortoedro"
+          ]
         },
         {
           "answer": "parallélépipède",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "parallelepiped",
+            "paralelepípedo"
+          ]
         },
         {
           "answer": "quadrilatère",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "quadrilateral",
+            "cuadrilátero"
+          ]
         },
         {
           "answer": "boule",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "ball",
+            "bola"
+          ]
         },
         {
           "answer": "triangle équilatéral",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "equilateral triangle",
+            "triángulo equilátero"
+          ]
         },
         {
           "answer": "triangle isocèle",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "isosceles triangle",
+            "triángulo isósceles"
+          ]
         },
         {
           "answer": "triangle rectangle",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "right triangle",
+            "triángulo rectángulo"
+          ]
         },
         {
           "answer": "étoile",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "star",
+            "estrella"
+          ]
         },
         {
           "answer": "heptagone",
           "tier": "t4",
           "aliases": [
-            "septagone"
+            "septagone",
+            "heptagon",
+            "heptágono"
           ]
         },
         {
           "answer": "décagone",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "decagon",
+            "decágono"
+          ]
         },
         {
           "answer": "dodécagone",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "dodecagon",
+            "dodecágono"
+          ]
         },
         {
           "answer": "tétraèdre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "tetrahedron",
+            "tetraedro"
+          ]
         },
         {
           "answer": "octaèdre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "octahedron",
+            "octaedro"
+          ]
         },
         {
           "answer": "dodécaèdre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "dodecahedron",
+            "dodecaedro"
+          ]
         },
         {
           "answer": "icosaèdre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "icosahedron",
+            "icosaedro"
+          ]
         },
         {
           "answer": "polyèdre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "polyhedron",
+            "poliedro"
+          ]
         },
         {
           "answer": "tronc de cône",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "truncated cone",
+            "tronco de cono"
+          ]
         },
         {
           "answer": "tronc de pyramide",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "truncated pyramid",
+            "tronco de pirámide"
+          ]
         },
         {
           "answer": "hémisphère",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "hemisferio"
+          ]
         },
         {
           "answer": "triangle scalène",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "scalene triangle",
+            "triángulo escaleno"
+          ]
         },
         {
           "answer": "cerf-volant",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "kite",
+            "cometa"
+          ]
         },
         {
           "answer": "parabole",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "parabola"
+          ]
         },
         {
           "answer": "hyperbole",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "hyperbola",
+            "hipérbola"
+          ]
         },
         {
           "answer": "spirale",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "spiral",
+            "espiral"
+          ]
         },
         {
           "answer": "secteur circulaire",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "circular sector",
+            "sector circular"
+          ]
         },
         {
           "answer": "segment circulaire",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "circular segment",
+            "segmento circular"
+          ]
         },
         {
           "answer": "couronne",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "annulus",
+            "corona circular"
+          ]
         },
         {
           "answer": "pentagramme",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "pentagram",
+            "pentagrama"
+          ]
         },
         {
           "answer": "hexagramme",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "hexagram",
+            "hexagrama"
+          ]
         },
         {
           "answer": "tore",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "torus",
+            "toro"
+          ]
         },
         {
           "answer": "ennéagone",
           "tier": "t5",
           "aliases": [
-            "nonagone"
+            "nonagone",
+            "nonagon",
+            "eneágono"
           ]
         },
         {
           "answer": "hendécagone",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "hendecagon",
+            "hendecágono"
+          ]
         },
         {
           "answer": "ellipsoïde",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "ellipsoid",
+            "elipsoide"
+          ]
         },
         {
           "answer": "paraboloïde",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "paraboloid"
+          ]
         },
         {
           "answer": "hyperboloïde",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "hyperboloid",
+            "hiperboloide"
+          ]
         },
         {
           "answer": "cuboctaèdre",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "cuboctahedron",
+            "cuboctaedro"
+          ]
         },
         {
           "answer": "antiprisme",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "antiprism",
+            "antiprisma"
+          ]
         },
         {
           "answer": "calotte sphérique",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "spherical cap",
+            "casquete esférico"
+          ]
         },
         {
           "answer": "polyèdre régulier",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "regular polyhedron",
+            "poliedro regular"
+          ]
         },
         {
           "answer": "bouteille de Klein",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Klein bottle",
+            "botella de Klein"
+          ]
         },
         {
           "answer": "arc de cercle",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "circular arc",
+            "arco de circunferencia"
+          ]
         },
         {
           "answer": "cycloïde",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "cycloid",
+            "cicloide"
+          ]
         },
         {
           "answer": "astroïde",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "astroid"
+          ]
         },
         {
           "answer": "cardioïde",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "cardioid"
+          ]
         }
       ]
     },
@@ -29786,22 +30635,34 @@
         {
           "answer": "or",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "gold",
+            "oro"
+          ]
         },
         {
           "answer": "argent",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "silver",
+            "plata"
+          ]
         },
         {
           "answer": "cuivre",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "copper",
+            "cobre"
+          ]
         },
         {
           "answer": "aluminium",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "aluminum",
+            "aluminio"
+          ]
         },
         {
           "answer": "zinc",
@@ -29811,381 +30672,545 @@
         {
           "answer": "plomb",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "lead",
+            "plomo"
+          ]
         },
         {
           "answer": "étain",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "tin",
+            "estaño"
+          ]
         },
         {
           "answer": "mercure",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "mercury",
+            "mercurio"
+          ]
         },
         {
           "answer": "platine",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "platinum",
+            "platino"
+          ]
         },
         {
           "answer": "fer",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "iron",
+            "hierro"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "gallium",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "galio"
+          ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
           "answer": "nickel",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "níquel"
+          ]
         },
         {
           "answer": "titane",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "titanium",
+            "titanio"
+          ]
         },
         {
           "answer": "chrome",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "chromium",
+            "cromo"
+          ]
         },
         {
           "answer": "cobalt",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "cobalto"
+          ]
         },
         {
           "answer": "manganèse",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "manganeso"
+          ]
         },
         {
           "answer": "magnésium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "magnesio"
+          ]
         },
         {
           "answer": "sodium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "sodio"
+          ]
         },
         {
           "answer": "potassium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "potasio"
+          ]
         },
         {
           "answer": "lithium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "litio"
+          ]
         },
         {
           "answer": "calcium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "calcio"
+          ]
         },
         {
           "answer": "uranium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "uranio"
+          ]
         },
         {
           "answer": "tungstène",
           "tier": "t3",
           "aliases": [
-            "wolfram"
+            "wolfram",
+            "tungsten",
+            "tungsteno"
           ]
         },
         {
           "answer": "plutonium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "plutonio"
+          ]
         },
         {
           "answer": "cadmium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "cadmio"
+          ]
         },
         {
           "answer": "palladium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "paladio"
+          ]
         },
         {
           "answer": "molybdène",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "molybdenum",
+            "molibdeno"
+          ]
         },
         {
           "answer": "radium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "radio"
+          ]
         },
         {
           "answer": "thorium",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "torio"
+          ]
         },
         {
           "answer": "césium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "cesio"
+          ]
         },
         {
           "answer": "rubidium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "rubidio"
+          ]
         },
         {
           "answer": "béryllium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "berilio"
+          ]
         },
         {
           "answer": "strontium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "estroncio"
+          ]
         },
         {
           "answer": "baryum",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "barium",
+            "bario"
+          ]
         },
         {
           "answer": "scandium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "escandio"
+          ]
         },
         {
           "answer": "vanadium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "vanadio"
+          ]
         },
         {
           "answer": "zirconium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "circonio"
+          ]
         },
         {
           "answer": "niobium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "niobio"
+          ]
         },
         {
           "answer": "rhodium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "rodio"
+          ]
         },
         {
           "answer": "iridium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "iridio"
+          ]
         },
         {
           "answer": "osmium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "osmio"
+          ]
         },
         {
           "answer": "ruthénium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "rutenio"
+          ]
         },
         {
           "answer": "tantale",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "tantalum",
+            "tantalio"
+          ]
         },
         {
           "answer": "hafnium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "hafnio"
+          ]
         },
         {
           "answer": "indium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "indio"
+          ]
         },
         {
           "answer": "thallium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "talio"
+          ]
         },
         {
           "answer": "bismuth",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "bismuto"
+          ]
         },
         {
           "answer": "lanthane",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "lanthanum",
+            "lantano"
+          ]
         },
         {
           "answer": "cérium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "cerio"
+          ]
         },
         {
           "answer": "néodyme",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "neodymium",
+            "neodimio"
+          ]
         },
         {
           "answer": "francium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "francio"
+          ]
         },
         {
           "answer": "yttrium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "itrio"
+          ]
         },
         {
           "answer": "rhénium",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "renio"
+          ]
         },
         {
           "answer": "technétium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "tecnecio"
+          ]
         },
         {
           "answer": "praséodyme",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "praseodymium",
+            "praseodimio"
+          ]
         },
         {
           "answer": "prométhium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "prometio"
+          ]
         },
         {
           "answer": "samarium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "samario"
+          ]
         },
         {
           "answer": "europium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "europio"
+          ]
         },
         {
           "answer": "gadolinium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "gadolinio"
+          ]
         },
         {
           "answer": "terbium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "terbio"
+          ]
         },
         {
           "answer": "dysprosium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "disprosio"
+          ]
         },
         {
           "answer": "holmium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "holmio"
+          ]
         },
         {
           "answer": "erbium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "erbio"
+          ]
         },
         {
           "answer": "thulium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "tulio"
+          ]
         },
         {
           "answer": "ytterbium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "iterbio"
+          ]
         },
         {
           "answer": "lutécium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "lutetium",
+            "lutecio"
+          ]
         },
         {
           "answer": "actinium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "actinio"
+          ]
         },
         {
           "answer": "protactinium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "protactinio"
+          ]
         },
         {
           "answer": "neptunium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "neptunio"
+          ]
         },
         {
           "answer": "américium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "americio"
+          ]
         },
         {
           "answer": "curium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "curio"
+          ]
         },
         {
           "answer": "berkélium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "berkelio"
+          ]
         },
         {
           "answer": "californium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "californio"
+          ]
         },
         {
           "answer": "einsteinium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "einstenio"
+          ]
         },
         {
           "answer": "fermium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "fermio"
+          ]
         },
         {
           "answer": "mendélévium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "mendelevio"
+          ]
         },
         {
           "answer": "nobélium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "nobelio"
+          ]
         },
         {
           "answer": "lawrencium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "laurencio"
+          ]
         },
         {
           "answer": "rutherfordium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "rutherfordio"
+          ]
         },
         {
           "answer": "dubnium",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "dubnio"
+          ]
         }
       ]
     },
@@ -31467,37 +32492,57 @@
         {
           "answer": "fraise",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Strawberry",
+            "Fresa"
+          ]
         },
         {
           "answer": "banane",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Banana",
+            "Plátano"
+          ]
         },
         {
           "answer": "orange",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Naranja"
+          ]
         },
         {
           "answer": "citron",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Lemon",
+            "Limón"
+          ]
         },
         {
           "answer": "raisin",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Grape",
+            "Uva"
+          ]
         },
         {
           "answer": "cerise",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Cherry",
+            "Cereza"
+          ]
         },
         {
           "answer": "poire",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Pear",
+            "Pera"
+          ]
         },
         {
           "answer": "kiwi",
@@ -31507,44 +32552,66 @@
         {
           "answer": "ananas",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Pineapple",
+            "Piña"
+          ]
         },
         {
           "answer": "pêche",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Peach",
+            "Melocotón"
+          ]
         },
         {
           "answer": "pomme",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "Apple",
+            "Manzana"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "tomate",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "Tomato"
+          ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
           "answer": "abricot",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Apricot",
+            "Albaricoque"
+          ]
         },
         {
           "answer": "prune",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Plum",
+            "Ciruela"
+          ]
         },
         {
           "answer": "framboise",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Raspberry",
+            "Frambuesa"
+          ]
         },
         {
           "answer": "mangue",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mango"
+          ]
         },
         {
           "answer": "melon",
@@ -31555,161 +32622,233 @@
           "answer": "pastèque",
           "tier": "t3",
           "aliases": [
-            "melon d'eau"
+            "melon d'eau",
+            "Watermelon",
+            "Sandía"
           ]
         },
         {
           "answer": "clémentine",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Clementina"
+          ]
         },
         {
           "answer": "mandarine",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mandarin",
+            "Mandarina"
+          ]
         },
         {
           "answer": "pamplemousse",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Grapefruit"
+          ]
         },
         {
           "answer": "myrtille",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Blueberry",
+            "Arándano"
+          ]
         },
         {
           "answer": "figue",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Fig",
+            "Higo"
+          ]
         },
         {
           "answer": "noix de coco",
           "tier": "t3",
           "aliases": [
-            "coco"
+            "coco",
+            "Coconut"
           ]
         },
         {
           "answer": "citron vert",
           "tier": "t3",
           "aliases": [
-            "lime"
+            "lime",
+            "Lima"
           ]
         },
         {
           "answer": "groseille",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Redcurrant",
+            "Grosella"
+          ]
         },
         {
           "answer": "mûre",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Blackberry",
+            "Mora"
+          ]
         },
         {
           "answer": "papaye",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Papaya"
+          ]
         },
         {
           "answer": "grenade",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pomegranate",
+            "Granada"
+          ]
         },
         {
           "answer": "nectarine",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Nectarina"
+          ]
         },
         {
           "answer": "avocat",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Avocado",
+            "Aguacate"
+          ]
         },
         {
           "answer": "litchi",
           "tier": "t3",
           "aliases": [
-            "letchi"
+            "letchi",
+            "Lychee",
+            "Lichi"
           ]
         },
         {
           "answer": "cassis",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Blackcurrant",
+            "Grosella negra"
+          ]
         },
         {
           "answer": "datte",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Date",
+            "Dátil"
+          ]
         },
         {
           "answer": "fruit de la passion",
           "tier": "t4",
           "aliases": [
             "maracuja",
-            "passiflore"
+            "passiflore",
+            "Passion fruit",
+            "Maracuyá"
           ]
         },
         {
           "answer": "goyave",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Guava",
+            "Guayaba"
+          ]
         },
         {
           "answer": "kaki",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Persimmon",
+            "Caqui"
+          ]
         },
         {
           "answer": "mirabelle",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Mirabelle plum",
+            "Mirabel"
+          ]
         },
         {
           "answer": "quetsche",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Damson",
+            "Ciruela damascena"
+          ]
         },
         {
           "answer": "reine-claude",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Greengage",
+            "Ciruela claudia"
+          ]
         },
         {
           "answer": "coing",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Quince",
+            "Membrillo"
+          ]
         },
         {
           "answer": "nèfle",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Medlar",
+            "Níspero"
+          ]
         },
         {
           "answer": "physalis",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Aguaymanto"
+          ]
         },
         {
           "answer": "canneberge",
           "tier": "t4",
           "aliases": [
-            "cranberry"
+            "cranberry",
+            "Arándano rojo"
           ]
         },
         {
           "answer": "fruit du dragon",
           "tier": "t4",
           "aliases": [
-            "pitaya"
+            "pitaya",
+            "Dragon fruit",
+            "Pitahaya"
           ]
         },
         {
           "answer": "carambole",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Starfruit",
+            "Carambola"
+          ]
         },
         {
           "answer": "kumquat",
@@ -31719,7 +32858,10 @@
         {
           "answer": "bergamote",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Bergamot",
+            "Bergamota"
+          ]
         },
         {
           "answer": "pomelo",
@@ -31729,74 +32871,110 @@
         {
           "answer": "mangoustan",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Mangosteen",
+            "Mangostán"
+          ]
         },
         {
           "answer": "ramboutan",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Rambutan"
+          ]
         },
         {
           "answer": "tamarin",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Tamarind",
+            "Tamarindo"
+          ]
         },
         {
           "answer": "airelle",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lingonberry",
+            "Arándano encarnado"
+          ]
         },
         {
           "answer": "baie de goji",
           "tier": "t4",
           "aliases": [
-            "goji"
+            "goji",
+            "Goji berry",
+            "Baya de goji"
           ]
         },
         {
           "answer": "olive",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Aceituna"
+          ]
         },
         {
           "answer": "grenadille",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Granadilla"
+          ]
         },
         {
           "answer": "tangerine",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Tangerina"
+          ]
         },
         {
           "answer": "jujube",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Azufaifa"
+          ]
         },
         {
           "answer": "nashi",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Nashi pear",
+            "Pera nashi"
+          ]
         },
         {
           "answer": "arbouse",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Strawberry tree fruit",
+            "Madroño"
+          ]
         },
         {
           "answer": "cornouille",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Cornelian cherry",
+            "Cornejo"
+          ]
         },
         {
           "answer": "sorbe",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Service berry",
+            "Serba"
+          ]
         },
         {
           "answer": "azerole",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Azarole",
+            "Acerolo"
+          ]
         },
         {
           "answer": "durian",
@@ -31808,25 +32986,34 @@
           "tier": "t5",
           "aliases": [
             "jacque",
-            "jackfruit"
+            "jackfruit",
+            "Yaca"
           ]
         },
         {
           "answer": "corossol",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Soursop",
+            "Guanábana"
+          ]
         },
         {
           "answer": "pomme-cannelle",
           "tier": "t5",
           "aliases": [
-            "anone"
+            "anone",
+            "Sugar apple",
+            "Anona"
           ]
         },
         {
           "answer": "chérimole",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Cherimoya",
+            "Chirimoya"
+          ]
         },
         {
           "answer": "feijoa",
@@ -31848,7 +33035,10 @@
         {
           "answer": "figue de Barbarie",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Prickly pear",
+            "Tuna"
+          ]
         },
         {
           "answer": "tamarillo",
@@ -31863,12 +33053,18 @@
         {
           "answer": "sapotille",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Sapodilla",
+            "Zapote"
+          ]
         },
         {
           "answer": "groseille à maquereau",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Gooseberry",
+            "Grosella espinosa"
+          ]
         },
         {
           "answer": "yuzu",
@@ -31883,12 +33079,16 @@
         {
           "answer": "combava",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Kaffir lime"
+          ]
         },
         {
           "answer": "cédrat",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Cidra"
+          ]
         },
         {
           "answer": "noni",
@@ -31898,24 +33098,35 @@
         {
           "answer": "prunelle",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Sloe",
+            "Endrina"
+          ]
         },
         {
           "answer": "cynorrhodon",
           "tier": "t5",
           "aliases": [
-            "gratte-cul"
+            "gratte-cul",
+            "Rose hip",
+            "Escaramujo"
           ]
         },
         {
           "answer": "main de Bouddha",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Buddha's hand",
+            "Mano de Buda"
+          ]
         },
         {
           "answer": "citron caviar",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Finger lime",
+            "Limón caviar"
+          ]
         }
       ]
     },
@@ -35632,329 +36843,512 @@
         {
           "answer": "bêche",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Spade",
+            "Laya"
+          ]
         },
         {
           "answer": "pelle",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Shovel",
+            "Pala"
+          ]
         },
         {
           "answer": "arrosoir",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Watering can",
+            "Regadera"
+          ]
         },
         {
           "answer": "sécateur",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Pruning shears",
+            "Tijeras de podar"
+          ]
         },
         {
           "answer": "tondeuse",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Lawnmower",
+            "Cortacésped"
+          ]
         },
         {
           "answer": "tuyau d'arrosage",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Garden hose",
+            "Manguera"
+          ]
         },
         {
           "answer": "brouette",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Wheelbarrow",
+            "Carretilla"
+          ]
         },
         {
           "answer": "binette",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Hoe",
+            "Azada"
+          ]
         },
         {
           "answer": "fourche",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Garden fork",
+            "Horca"
+          ]
         },
         {
           "answer": "gants",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Gloves",
+            "Guantes"
+          ]
         },
         {
           "answer": "râteau",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "Rake",
+            "Rastrillo"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "grelinette",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "Broadfork",
+            "Horca de campo"
+          ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
           "answer": "serfouette",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Weeding hoe",
+            "Escarda"
+          ]
         },
         {
           "answer": "griffe",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hand cultivator",
+            "Garra de mano"
+          ]
         },
         {
           "answer": "plantoir",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Dibber",
+            "Plantador"
+          ]
         },
         {
           "answer": "transplantoir",
           "tier": "t3",
           "aliases": [
-            "déplantoir"
+            "déplantoir",
+            "Transplanting trowel",
+            "Trasplantador"
           ]
         },
         {
           "answer": "taille-haie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hedge trimmer",
+            "Cortasetos"
+          ]
         },
         {
           "answer": "tronçonneuse",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Chainsaw",
+            "Motosierra"
+          ]
         },
         {
           "answer": "scie d'élagage",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pruning saw",
+            "Sierra de poda"
+          ]
         },
         {
           "answer": "cisaille",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Shears",
+            "Cizalla"
+          ]
         },
         {
           "answer": "coupe-bordure",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Edge trimmer",
+            "Cortabordes"
+          ]
         },
         {
           "answer": "débroussailleuse",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Brush cutter",
+            "Desbrozadora"
+          ]
         },
         {
           "answer": "souffleur de feuilles",
           "tier": "t3",
           "aliases": [
-            "souffleur"
+            "souffleur",
+            "Leaf blower",
+            "Soplador de hojas"
           ]
         },
         {
           "answer": "motoculteur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Rotary tiller",
+            "Motocultor"
+          ]
         },
         {
           "answer": "truelle",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Trowel",
+            "Paletina"
+          ]
         },
         {
           "answer": "pulvérisateur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sprayer",
+            "Pulverizador"
+          ]
         },
         {
           "answer": "enrouleur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hose reel",
+            "Enrollador de manguera"
+          ]
         },
         {
           "answer": "asperseur",
           "tier": "t3",
           "aliases": [
-            "arroseur"
+            "arroseur",
+            "Sprinkler",
+            "Aspersor"
           ]
         },
         {
           "answer": "goutte-à-goutte",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Drip irrigation",
+            "Riego por goteo"
+          ]
         },
         {
           "answer": "serre",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Greenhouse",
+            "Invernadero"
+          ]
         },
         {
           "answer": "composteur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Compost bin",
+            "Compostador"
+          ]
         },
         {
           "answer": "tamis",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sieve",
+            "Tamiz"
+          ]
         },
         {
           "answer": "pioche",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pickaxe",
+            "Pico"
+          ]
         },
         {
           "answer": "ébrancheur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Loppers",
+            "Podadera"
+          ]
         },
         {
           "answer": "perche élagueuse",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pole pruner",
+            "Podadora telescópica"
+          ]
         },
         {
           "answer": "sarcloir",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Weeder",
+            "Escardadora"
+          ]
         },
         {
           "answer": "scarificateur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Scarifier",
+            "Escarificador"
+          ]
         },
         {
           "answer": "serpette",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pruning knife",
+            "Navaja de jardinero"
+          ]
         },
         {
           "answer": "faucille",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sickle",
+            "Hoz"
+          ]
         },
         {
           "answer": "faux",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Scythe",
+            "Guadaña"
+          ]
         },
         {
           "answer": "hache",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Axe",
+            "Hacha"
+          ]
         },
         {
           "answer": "tuteur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Plant stake",
+            "Tutor"
+          ]
         },
         {
           "answer": "cordeau",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "String line",
+            "Cordel"
+          ]
         },
         {
           "answer": "croc",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Digging hook",
+            "Garfio de jardinero"
+          ]
         },
         {
           "answer": "pic",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Garden pick",
+            "Piqueta"
+          ]
         },
         {
           "answer": "cisaille à gazon",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lawn shears",
+            "Cizalla para césped"
+          ]
         },
         {
           "answer": "rotofil",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "String trimmer",
+            "Desbrozadora de hilo"
+          ]
         },
         {
           "answer": "aérateur",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lawn aerator",
+            "Aireador de césped"
+          ]
         },
         {
           "answer": "rouleau à gazon",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lawn roller",
+            "Rodillo de césped"
+          ]
         },
         {
           "answer": "épandeur",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Spreader",
+            "Esparcidor"
+          ]
         },
         {
           "answer": "seau",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Bucket",
+            "Cubo"
+          ]
         },
         {
           "answer": "serpe",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Billhook",
+            "Podón"
+          ]
         },
         {
           "answer": "piquet",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Stake",
+            "Estaca"
+          ]
         },
         {
           "answer": "ficelle",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Twine",
+            "Bramante"
+          ]
         },
         {
           "answer": "cloche à légumes",
           "tier": "t4",
           "aliases": [
-            "cloche"
+            "cloche",
+            "Campana de cultivo"
           ]
         },
         {
           "answer": "châssis",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Cold frame",
+            "Cajón de cultivo"
+          ]
         },
         {
           "answer": "bâche",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Tarpaulin",
+            "Lona"
+          ]
         },
         {
           "answer": "filet anti-oiseaux",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Bird netting",
+            "Malla antipájaros"
+          ]
         },
         {
           "answer": "voile d'hivernage",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Winter fleece",
+            "Manta térmica"
+          ]
         },
         {
           "answer": "râteau à gazon",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lawn rake",
+            "Rastrillo de césped"
+          ]
         },
         {
           "answer": "balai à feuilles",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Leaf rake",
+            "Rastrillo de hojas"
+          ]
         },
         {
           "answer": "arrache-pissenlits",
           "tier": "t4",
           "aliases": [
-            "gouge à pissenlits"
+            "gouge à pissenlits",
+            "Dandelion puller",
+            "Arrancador de dientes de león"
           ]
         },
         {
           "answer": "bineuse",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Wheel hoe",
+            "Cultivador de rueda"
+          ]
         },
         {
           "answer": "houe",
@@ -35964,109 +37358,171 @@
         {
           "answer": "hoyau",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Mattock",
+            "Azadón"
+          ]
         },
         {
           "answer": "cultivateur",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Cultivator",
+            "Cultivador"
+          ]
         },
         {
           "answer": "sécateur à enclume",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Anvil pruner",
+            "Tijeras de podar de yunque"
+          ]
         },
         {
           "answer": "coupe-branches",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Branch cutters",
+            "Tijeras de podar de ramas"
+          ]
         },
         {
           "answer": "échenilloir",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Caterpillar nest cutter",
+            "Cortador de nidos de orugas"
+          ]
         },
         {
           "answer": "greffoir",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Grafting knife",
+            "Navaja de injertar"
+          ]
         },
         {
           "answer": "genouillère",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Knee pad",
+            "Rodillera"
+          ]
         },
         {
           "answer": "tondeuse robot",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Robotic lawnmower",
+            "Robot cortacésped"
+          ]
         },
         {
           "answer": "tondeuse autoportée",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Ride-on mower",
+            "Cortacésped de asiento"
+          ]
         },
         {
           "answer": "chariot",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Trolley",
+            "Carro"
+          ]
         },
         {
           "answer": "sac à déchets verts",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Garden waste bag",
+            "Bolsa de residuos verdes"
+          ]
         },
         {
           "answer": "mini-serre",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Mini greenhouse",
+            "Mini invernadero"
+          ]
         },
         {
           "answer": "pluviomètre",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Rain gauge",
+            "Pluviómetro"
+          ]
         },
         {
           "answer": "sécateur de vigne",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Grape pruning shears",
+            "Tijeras de viña"
+          ]
         },
         {
           "answer": "treillage",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Trellis",
+            "Enrejado"
+          ]
         },
         {
           "answer": "rame",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Bean pole",
+            "Tutor de judías"
+          ]
         },
         {
           "answer": "cage à tomates",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Tomato cage",
+            "Jaula para tomates"
+          ]
         },
         {
           "answer": "pH-mètre",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "pH meter",
+            "Medidor de pH"
+          ]
         },
         {
           "answer": "fourche-bêche",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Digging fork",
+            "Horca-laya"
+          ]
         },
         {
           "answer": "déplantoir à bulbes",
           "tier": "t5",
           "aliases": [
-            "plantoir à bulbes"
+            "plantoir à bulbes",
+            "Bulb planter",
+            "Plantador de bulbos"
           ]
         },
         {
           "answer": "fourche à fumier",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Manure fork",
+            "Horca de estiércol"
+          ]
         }
       ]
     },
@@ -46664,63 +48120,96 @@
         {
           "answer": "Voilier",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Sailboat",
+            "Velero"
+          ]
         },
         {
           "answer": "Paquebot",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Ocean liner",
+            "Transatlántico"
+          ]
         },
         {
           "answer": "Cargo",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Cargo ship",
+            "Buque de carga"
+          ]
         },
         {
           "answer": "Pétrolier",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Oil tanker",
+            "Petrolero"
+          ]
         },
         {
           "answer": "Yacht",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Yate"
+          ]
         },
         {
           "answer": "Canot",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Small boat",
+            "Bote"
+          ]
         },
         {
           "answer": "Barque",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Barca"
+          ]
         },
         {
           "answer": "Péniche",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Canal barge",
+            "Barcaza"
+          ]
         },
         {
           "answer": "Sous-marin",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Submarine",
+            "Submarino"
+          ]
         },
         {
           "answer": "Porte-avions",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Aircraft carrier",
+            "Portaaviones"
+          ]
         },
         {
           "answer": "Bateau",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "Boat",
+            "Barco"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "Bathyscaphe",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "Batiscafo"
+          ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
@@ -46744,59 +48233,87 @@
         {
           "answer": "Frégate",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Frigate",
+            "Fragata"
+          ]
         },
         {
           "answer": "Destroyer",
           "tier": "t3",
           "aliases": [
-            "contre-torpilleur"
+            "contre-torpilleur",
+            "Destructor"
           ]
         },
         {
           "answer": "Croiseur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Cruiser",
+            "Crucero"
+          ]
         },
         {
           "answer": "Corvette",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Corbeta"
+          ]
         },
         {
           "answer": "Cuirassé",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Battleship",
+            "Acorazado"
+          ]
         },
         {
           "answer": "Chalutier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Trawler",
+            "Arrastrero"
+          ]
         },
         {
           "answer": "Remorqueur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Tug",
+            "Remolcador"
+          ]
         },
         {
           "answer": "Brise-glace",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Icebreaker",
+            "Rompehielos"
+          ]
         },
         {
           "answer": "Bateau-mouche",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sightseeing boat",
+            "Barco turístico"
+          ]
         },
         {
           "answer": "Gondole",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Gondola"
+          ]
         },
         {
           "answer": "Pirogue",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Piragua"
+          ]
         },
         {
           "answer": "Kayak",
@@ -46806,22 +48323,33 @@
         {
           "answer": "Canoë",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Canoa"
+          ]
         },
         {
           "answer": "Radeau",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Raft",
+            "Balsa"
+          ]
         },
         {
           "answer": "Galion",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Galleon",
+            "Galeón"
+          ]
         },
         {
           "answer": "Galère",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Galley",
+            "Galera"
+          ]
         },
         {
           "answer": "Drakkar",
@@ -46831,32 +48359,49 @@
         {
           "answer": "Caravelle",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Caravel",
+            "Carabela"
+          ]
         },
         {
           "answer": "Goélette",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Schooner",
+            "Goleta"
+          ]
         },
         {
           "answer": "Brick",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Brig",
+            "Bergantín"
+          ]
         },
         {
           "answer": "Clipper",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Clíper"
+          ]
         },
         {
           "answer": "Trois-mâts",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Three-masted ship",
+            "Barco de tres mástiles"
+          ]
         },
         {
           "answer": "Felouque",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Felucca",
+            "Falúa"
+          ]
         },
         {
           "answer": "Boutre",
@@ -46866,7 +48411,10 @@
         {
           "answer": "Jonque",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Junk",
+            "Junco"
+          ]
         },
         {
           "answer": "Sampan",
@@ -46883,17 +48431,26 @@
         {
           "answer": "Hors-bord",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Outboard motorboat",
+            "Fueraborda"
+          ]
         },
         {
           "answer": "Vedette",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Launch",
+            "Lancha"
+          ]
         },
         {
           "answer": "Chaloupe",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Longboat",
+            "Chalupa"
+          ]
         },
         {
           "answer": "Barge",
@@ -46903,109 +48460,163 @@
         {
           "answer": "Thonier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Tuna boat",
+            "Atunero"
+          ]
         },
         {
           "answer": "Caboteur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Coaster",
+            "Buque de cabotaje"
+          ]
         },
         {
           "answer": "Méthanier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "LNG carrier",
+            "Metanero"
+          ]
         },
         {
           "answer": "Porte-conteneurs",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Container ship",
+            "Buque portacontenedores"
+          ]
         },
         {
           "answer": "Vraquier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Bulk carrier",
+            "Granelero"
+          ]
         },
         {
           "answer": "Aéroglisseur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hovercraft",
+            "Aerodeslizador"
+          ]
         },
         {
           "answer": "Hydroglisseur",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Hydroplane",
+            "Hidrodeslizador"
+          ]
         },
         {
           "answer": "Jet-ski",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Moto acuática"
+          ]
         },
         {
           "answer": "Baleinier",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Whaleboat",
+            "Ballenero"
+          ]
         },
         {
           "answer": "Pédalo",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pedal boat"
+          ]
         },
         {
           "answer": "Dériveur",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Centreboard sailboat",
+            "Balandro de deriva"
+          ]
         },
         {
           "answer": "Lougre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lugger",
+            "Lugre"
+          ]
         },
         {
           "answer": "Cotre",
           "tier": "t4",
           "aliases": [
-            "cutter"
+            "cutter",
+            "Cúter"
           ]
         },
         {
           "answer": "Ketch",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Queche"
+          ]
         },
         {
           "answer": "Yawl",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Yola"
+          ]
         },
         {
           "answer": "Sloop",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Balandra"
+          ]
         },
         {
           "answer": "Pinasse",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Pinnace",
+            "Pinaza"
+          ]
         },
         {
           "answer": "Navire-école",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Training ship",
+            "Buque escuela"
+          ]
         },
         {
           "answer": "Nef",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Nao"
+          ]
         },
         {
           "answer": "Birème",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Birreme"
+          ]
         },
         {
           "answer": "Trière",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Trireme",
+            "Trirreme"
+          ]
         },
         {
           "answer": "Knarr",
@@ -47020,7 +48631,9 @@
         {
           "answer": "Tartane",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Tartana"
+          ]
         },
         {
           "answer": "Vaporetto",
@@ -47030,50 +48643,74 @@
         {
           "answer": "Bac",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Punt ferry",
+            "Barcaza de cruce"
+          ]
         },
         {
           "answer": "Canot de sauvetage",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lifeboat",
+            "Bote salvavidas"
+          ]
         },
         {
           "answer": "Hydrofoil",
           "tier": "t4",
           "aliases": [
-            "hydroptère"
+            "hydroptère",
+            "Hidroala"
           ]
         },
         {
           "answer": "Gabare",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lighter",
+            "Gabarra"
+          ]
         },
         {
           "answer": "Bateau-pompe",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Fireboat",
+            "Bote de bomberos"
+          ]
         },
         {
           "answer": "Navire-hôpital",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Hospital ship",
+            "Buque hospital"
+          ]
         },
         {
           "answer": "Roulier",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Ro-ro ship",
+            "Buque ro-ro"
+          ]
         },
         {
           "answer": "Navire-citerne",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Tanker ship",
+            "Buque cisterna"
+          ]
         },
         {
           "answer": "Navire de croisière",
           "tier": "t4",
           "aliases": [
-            "bateau de croisière"
+            "bateau de croisière",
+            "Cruise ship",
+            "Buque de cruceros"
           ]
         },
         {
@@ -47084,36 +48721,52 @@
         {
           "answer": "Bateau-feu",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lightship",
+            "Buque faro"
+          ]
         },
         {
           "answer": "Bateau à aubes",
           "tier": "t4",
           "aliases": [
-            "bateau à roues"
+            "bateau à roues",
+            "Paddle steamer",
+            "Vapor de ruedas"
           ]
         },
         {
           "answer": "Remorqueur-pousseur",
           "tier": "t4",
           "aliases": [
-            "pousseur"
+            "pousseur",
+            "Pusher tug",
+            "Remolcador empujador"
           ]
         },
         {
           "answer": "Sous-marin nucléaire",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Nuclear submarine",
+            "Submarino nuclear"
+          ]
         },
         {
           "answer": "Patrouilleur",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Patrol boat",
+            "Patrullero"
+          ]
         },
         {
           "answer": "Chasseur de mines",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Minehunter",
+            "Cazaminas"
+          ]
         }
       ]
     },
@@ -48211,7 +49864,9 @@
           "tier": "t1",
           "aliases": [
             "Rub al-Khali",
-            "Quart vide"
+            "Quart vide",
+            "Arabian Desert",
+            "Desierto de Arabia"
           ]
         },
         {
@@ -48243,7 +49898,8 @@
           "answer": "Désert Noir",
           "tier": "t6",
           "aliases": [
-            "Black Desert"
+            "Black Desert",
+            "Desierto Negro"
           ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
@@ -48251,7 +49907,9 @@
           "answer": "Désert de Libye",
           "tier": "t3",
           "aliases": [
-            "désert Libyque"
+            "désert Libyque",
+            "Libyan Desert",
+            "Desierto de Libia"
           ]
         },
         {
@@ -48283,48 +49941,65 @@
           "answer": "Grand Désert Victoria",
           "tier": "t3",
           "aliases": [
-            "Great Victoria Desert"
+            "Great Victoria Desert",
+            "Gran Desierto de Victoria"
           ]
         },
         {
           "answer": "Grand Désert de Sable",
           "tier": "t3",
           "aliases": [
-            "Great Sandy Desert"
+            "Great Sandy Desert",
+            "Gran Desierto Arenoso"
           ]
         },
         {
           "answer": "Désert de Gibson",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Gibson Desert",
+            "Desierto de Gibson"
+          ]
         },
         {
           "answer": "Désert de Simpson",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Simpson Desert",
+            "Desierto de Simpson"
+          ]
         },
         {
           "answer": "Désert de Tanami",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Tanami Desert",
+            "Desierto de Tanami"
+          ]
         },
         {
           "answer": "Désert de Patagonie",
           "tier": "t3",
           "aliases": [
-            "Patagonie"
+            "Patagonie",
+            "Patagonian Desert",
+            "Desierto de la Patagonia"
           ]
         },
         {
           "answer": "Désert de Sechura",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sechura Desert",
+            "Desierto de Sechura"
+          ]
         },
         {
           "answer": "An-Nefoud",
           "tier": "t3",
           "aliases": [
-            "Nefoud"
+            "Nefoud",
+            "An Nefud"
           ]
         },
         {
@@ -48344,23 +50019,33 @@
         {
           "answer": "Désert du Sinaï",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sinai Desert",
+            "Desierto del Sinaí"
+          ]
         },
         {
           "answer": "Désert de Judée",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Judean Desert",
+            "Desierto de Judea"
+          ]
         },
         {
           "answer": "Désert de Nubie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Nubian Desert",
+            "Desierto de Nubia"
+          ]
         },
         {
           "answer": "Désert Arabique",
           "tier": "t3",
           "aliases": [
-            "désert Oriental"
+            "désert Oriental",
+            "Desierto arábigo"
           ]
         },
         {
@@ -48387,20 +50072,26 @@
           "answer": "Grand Bassin",
           "tier": "t3",
           "aliases": [
-            "Great Basin"
+            "Great Basin",
+            "Great Basin Desert",
+            "Gran Cuenca"
           ]
         },
         {
           "answer": "Désert Peint",
           "tier": "t3",
           "aliases": [
-            "Painted Desert"
+            "Painted Desert",
+            "Desierto Pintado"
           ]
         },
         {
           "answer": "Désert Blanc",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "White Desert",
+            "Desierto Blanco"
+          ]
         },
         {
           "answer": "Ordos",
@@ -48426,18 +50117,26 @@
           "answer": "Désert de Syrie",
           "tier": "t3",
           "aliases": [
-            "désert syrien"
+            "désert syrien",
+            "Syrian Desert",
+            "Desierto sirio"
           ]
         },
         {
           "answer": "Antarctique",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Antarctic Desert",
+            "Desierto Antártico"
+          ]
         },
         {
           "answer": "Arctique",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Arctic Desert",
+            "Desierto Ártico"
+          ]
         },
         {
           "answer": "Tabernas",
@@ -48454,27 +50153,42 @@
         {
           "answer": "Désert de Black Rock",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Black Rock Desert",
+            "Desierto de Black Rock"
+          ]
         },
         {
           "answer": "Désert du Colorado",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Colorado Desert",
+            "Desierto de Colorado"
+          ]
         },
         {
           "answer": "Désert de Sturt",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Sturt Stony Desert",
+            "Desierto de Sturt"
+          ]
         },
         {
           "answer": "Désert de Little Sandy",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Little Sandy Desert",
+            "Desierto de Little Sandy"
+          ]
         },
         {
           "answer": "Désert de Strzelecki",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Strzelecki Desert",
+            "Desierto de Strzelecki"
+          ]
         },
         {
           "answer": "Cholistan",
@@ -48532,7 +50246,9 @@
           "answer": "Désert d'Alvord",
           "tier": "t5",
           "aliases": [
-            "Alvord"
+            "Alvord",
+            "Alvord Desert",
+            "Desierto de Alvord"
           ]
         },
         {

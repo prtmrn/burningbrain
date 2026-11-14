@@ -12,9 +12,9 @@ describe('allowedPromptIds', () => {
   it('salon mixte : seulement les questions traduites, sans les très françaises', () => {
     expect(allowedPromptIds([fr, translated, untranslated], ['fr', 'es'])).toEqual([translated]);
   });
-  it('les 100 questions traduites ne sont pas françaises', () => {
+  it('les questions traduites ne sont pas françaises', () => {
     for (const id of I18N_IDS) expect(FR_ONLY_IDS.has(id)).toBe(false);
-    expect(I18N_IDS.size).toBe(100);
+    expect(I18N_IDS.size).toBeGreaterThanOrEqual(163); // 100 d'origine + 63 faciles traduites (6 très françaises restent FR)
   });
   it('la liste très française contient des questions', () => {
     expect(FR_ONLY_IDS.size).toBeGreaterThan(100);

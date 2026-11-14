@@ -676,17 +676,25 @@
         {
           "answer": "Belgique",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Belgium",
+            "Bélgica"
+          ]
         },
         {
           "answer": "Brésil",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Brazil",
+            "Brasil"
+          ]
         },
         {
           "answer": "Bulgarie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Bulgaria"
+          ]
         },
         {
           "answer": "Bénin",
@@ -696,26 +704,33 @@
         {
           "answer": "Bolivie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Bolivia"
+          ]
         },
         {
           "answer": "Bosnie-Herzégovine",
           "tier": "t3",
           "aliases": [
-            "bosnie"
+            "bosnie",
+            "Bosnia and Herzegovina",
+            "Bosnia y Herzegovina"
           ]
         },
         {
           "answer": "Botswana",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Botsuana"
+          ]
         },
         {
           "answer": "Bahreïn",
           "tier": "t4",
           "aliases": [
             "bahrein",
-            "bahrain"
+            "bahrain",
+            "Baréin"
           ]
         },
         {
@@ -726,26 +741,32 @@
         {
           "answer": "Barbade",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Barbados"
+          ]
         },
         {
           "answer": "Belize",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Belice"
+          ]
         },
         {
           "answer": "Biélorussie",
           "tier": "t4",
           "aliases": [
             "bélarus",
-            "belarus"
+            "belarus",
+            "Bielorrusia"
           ]
         },
         {
           "answer": "Birmanie",
           "tier": "t4",
           "aliases": [
-            "myanmar"
+            "myanmar",
+            "Birmania"
           ]
         },
         {
@@ -771,20 +792,24 @@
         {
           "answer": "Bhoutan",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "Bhutan",
+            "Bután"
+          ],
           "quip": "Le pays du bonheur national brut. B comme… bonheur."
         }
       ]
     },
     "geo-pays-europe": {
       "promptId": "geo-pays-europe",
-      "contentVersion": 1,
+      "contentVersion": 2,
       "entries": [
         {
           "answer": "France",
           "tier": "t1",
           "aliases": [
-            "République française"
+            "République française",
+            "Francia"
           ]
         },
         {
@@ -792,7 +817,9 @@
           "tier": "t1",
           "aliases": [
             "Deutschland",
-            "République fédérale d'Allemagne"
+            "République fédérale d'Allemagne",
+            "Germany",
+            "Alemania"
           ]
         },
         {
@@ -800,7 +827,8 @@
           "tier": "t1",
           "aliases": [
             "España",
-            "Royaume d'Espagne"
+            "Royaume d'Espagne",
+            "Spain"
           ]
         },
         {
@@ -808,7 +836,8 @@
           "tier": "t1",
           "aliases": [
             "Italia",
-            "République italienne"
+            "République italienne",
+            "Italy"
           ]
         },
         {
@@ -823,7 +852,9 @@
           "tier": "t1",
           "aliases": [
             "Belgien",
-            "Royaume de Belgique"
+            "Royaume de Belgique",
+            "Belgium",
+            "Bélgica"
           ]
         },
         {
@@ -833,7 +864,9 @@
             "Confédération suisse",
             "Schweiz",
             "Svizzera",
-            "Svizra"
+            "Svizra",
+            "Switzerland",
+            "Suiza"
           ]
         },
         {
@@ -843,7 +876,8 @@
             "grande-bretagne",
             "uk",
             "United Kingdom",
-            "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord"
+            "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+            "Reino Unido"
           ]
         },
         {
@@ -853,7 +887,9 @@
             "hollande",
             "pays bas",
             "Nederland",
-            "Royaume des Pays-Bas"
+            "Royaume des Pays-Bas",
+            "Netherlands",
+            "Países Bajos"
           ]
         },
         {
@@ -861,7 +897,9 @@
           "tier": "t1",
           "aliases": [
             "Ελλάδα",
-            "République hellénique"
+            "République hellénique",
+            "Greece",
+            "Grecia"
           ]
         },
         {
@@ -869,7 +907,8 @@
           "tier": "t3",
           "aliases": [
             "Österreich",
-            "République d'Autriche"
+            "République d'Autriche",
+            "Austria"
           ]
         },
         {
@@ -877,7 +916,9 @@
           "tier": "t3",
           "aliases": [
             "Sverige",
-            "Royaume de Suède"
+            "Royaume de Suède",
+            "Sweden",
+            "Suecia"
           ]
         },
         {
@@ -886,7 +927,9 @@
           "aliases": [
             "Norge",
             "Noreg",
-            "Royaume de Norvège"
+            "Royaume de Norvège",
+            "Norway",
+            "Noruega"
           ]
         },
         {
@@ -894,7 +937,9 @@
           "tier": "t3",
           "aliases": [
             "Danmark",
-            "Royaume de Danemark"
+            "Royaume de Danemark",
+            "Denmark",
+            "Dinamarca"
           ]
         },
         {
@@ -902,7 +947,9 @@
           "tier": "t3",
           "aliases": [
             "Suomi",
-            "République de Finlande"
+            "République de Finlande",
+            "Finland",
+            "Finlandia"
           ]
         },
         {
@@ -910,7 +957,8 @@
           "tier": "t3",
           "aliases": [
             "eire",
-            "Ireland"
+            "Ireland",
+            "Irlanda"
           ]
         },
         {
@@ -918,7 +966,9 @@
           "tier": "t3",
           "aliases": [
             "Ísland",
-            "République d'Islande"
+            "République d'Islande",
+            "Iceland",
+            "Islandia"
           ]
         },
         {
@@ -926,14 +976,18 @@
           "tier": "t3",
           "aliases": [
             "Polska",
-            "République de Pologne"
+            "République de Pologne",
+            "Poland",
+            "Polonia"
           ]
         },
         {
           "answer": "Hongrie",
           "tier": "t3",
           "aliases": [
-            "Magyarország"
+            "Magyarország",
+            "Hungary",
+            "Hungría"
           ]
         },
         {
@@ -942,7 +996,9 @@
           "aliases": [
             "république tchèque",
             "tchécoslovaquie",
-            "Česko"
+            "Česko",
+            "Czechia",
+            "Chequia"
           ]
         },
         {
@@ -950,21 +1006,25 @@
           "tier": "t3",
           "aliases": [
             "Slovensko",
-            "République slovaque"
+            "République slovaque",
+            "Slovakia",
+            "Eslovaquia"
           ]
         },
         {
           "answer": "Roumanie",
           "tier": "t3",
           "aliases": [
-            "România"
+            "România",
+            "Rumanía"
           ]
         },
         {
           "answer": "Bulgarie",
           "tier": "t3",
           "aliases": [
-            "République de Bulgarie"
+            "République de Bulgarie",
+            "Bulgaria"
           ]
         },
         {
@@ -972,7 +1032,9 @@
           "tier": "t3",
           "aliases": [
             "Hrvatska",
-            "République de Croatie"
+            "République de Croatie",
+            "Croatia",
+            "Croacia"
           ]
         },
         {
@@ -980,21 +1042,25 @@
           "tier": "t3",
           "aliases": [
             "Srbija",
-            "République de Serbie"
+            "République de Serbie",
+            "Serbia"
           ]
         },
         {
           "answer": "Ukraine",
           "tier": "t3",
           "aliases": [
-            "Ukraina"
+            "Ukraina",
+            "Ucrania"
           ]
         },
         {
           "answer": "Russie",
           "tier": "t3",
           "aliases": [
-            "Fédération de Russie"
+            "Fédération de Russie",
+            "Russia",
+            "Rusia"
           ]
         },
         {
@@ -1003,7 +1069,8 @@
           "aliases": [
             "bélarus",
             "belarus",
-            "République du Biélorussie"
+            "République du Biélorussie",
+            "Bielorrusia"
           ]
         },
         {
@@ -1011,7 +1078,8 @@
           "tier": "t4",
           "aliases": [
             "Shqipëria",
-            "République d'Albanie"
+            "République d'Albanie",
+            "Albania"
           ]
         },
         {
@@ -1019,7 +1087,9 @@
           "tier": "t4",
           "aliases": [
             "bosnie",
-            "Bosna i Hercegovina"
+            "Bosna i Hercegovina",
+            "Bosnia and Herzegovina",
+            "Bosnia y Herzegovina"
           ]
         },
         {
@@ -1027,7 +1097,9 @@
           "tier": "t4",
           "aliases": [
             "Slovenija",
-            "République de Slovénie"
+            "République de Slovénie",
+            "Slovenia",
+            "Eslovenia"
           ]
         },
         {
@@ -1042,7 +1114,9 @@
           "tier": "t4",
           "aliases": [
             "macédoine",
-            "République de Macédoine du Nord"
+            "République de Macédoine du Nord",
+            "North Macedonia",
+            "Macedonia del Norte"
           ]
         },
         {
@@ -1050,7 +1124,8 @@
           "tier": "t4",
           "aliases": [
             "Moldova",
-            "République de Moldavie"
+            "République de Moldavie",
+            "Moldavia"
           ]
         },
         {
@@ -1058,7 +1133,8 @@
           "tier": "t4",
           "aliases": [
             "Eesti",
-            "République d'Estonie"
+            "République d'Estonie",
+            "Estonia"
           ]
         },
         {
@@ -1066,7 +1142,9 @@
           "tier": "t4",
           "aliases": [
             "Latvija",
-            "République de Lettonie"
+            "République de Lettonie",
+            "Latvia",
+            "Letonia"
           ]
         },
         {
@@ -1074,7 +1152,9 @@
           "tier": "t4",
           "aliases": [
             "Lietuva",
-            "République de Lituanie"
+            "République de Lituanie",
+            "Lithuania",
+            "Lituania"
           ]
         },
         {
@@ -1082,7 +1162,9 @@
           "tier": "t4",
           "aliases": [
             "Kıbrıs",
-            "République de Chypre"
+            "République de Chypre",
+            "Cyprus",
+            "Chipre"
           ]
         },
         {
@@ -1098,7 +1180,8 @@
           "tier": "t4",
           "aliases": [
             "Lëtzebuerg",
-            "Grand-Duché de Luxembourg"
+            "Grand-Duché de Luxembourg",
+            "Luxemburgo"
           ]
         },
         {
@@ -1130,7 +1213,9 @@
           "aliases": [
             "cité du vatican",
             "saint-siège",
-            "État de la Cité du Vatican"
+            "État de la Cité du Vatican",
+            "Vatican City",
+            "Ciudad del Vaticano"
           ],
           "quip": "Le plus petit État du monde, cité par tous les malins."
         },
@@ -1150,14 +1235,17 @@
           "aliases": [
             "türkiye",
             "turkiye",
-            "République de Turquie"
+            "République de Turquie",
+            "Turkey",
+            "Turquía"
           ]
         },
         {
           "answer": "Géorgie",
           "tier": "t4",
           "aliases": [
-            "Sakartvelo"
+            "Sakartvelo",
+            "Georgia"
           ]
         },
         {
@@ -1165,7 +1253,8 @@
           "tier": "t4",
           "aliases": [
             "Hayastan",
-            "République d'Arménie"
+            "République d'Arménie",
+            "Armenia"
           ]
         },
         {
@@ -1173,7 +1262,9 @@
           "tier": "t4",
           "aliases": [
             "Azǝrbaycan",
-            "République d'Azerbaïdjan"
+            "République d'Azerbaïdjan",
+            "Azerbaijan",
+            "Azerbaiyán"
           ]
         },
         {
@@ -1181,7 +1272,8 @@
           "tier": "t5",
           "aliases": [
             "Qazaqstan",
-            "République du Kazakhstan"
+            "République du Kazakhstan",
+            "Kazajistán"
           ],
           "quip": "Un bout à l'ouest de l'Oural : techniquement européen."
         },
@@ -1194,14 +1286,19 @@
         {
           "answer": "Angleterre",
           "tier": "t3",
-          "aliases": [],
+          "aliases": [
+            "England",
+            "Inglaterra"
+          ],
           "quip": "Pays constitutif du Royaume-Uni — accepté, on sait ce que vous vouliez dire."
         },
         {
           "answer": "Écosse",
           "tier": "t4",
           "aliases": [
-            "ecosse"
+            "ecosse",
+            "Scotland",
+            "Escocia"
           ],
           "quip": "Pays constitutif du Royaume-Uni — accepté, on sait ce que vous vouliez dire."
         },
@@ -1209,7 +1306,9 @@
           "answer": "Pays de Galles",
           "tier": "t5",
           "aliases": [
-            "galles"
+            "galles",
+            "Wales",
+            "Gales"
           ],
           "quip": "Pays constitutif du Royaume-Uni — accepté, on sait ce que vous vouliez dire."
         }
@@ -1217,27 +1316,30 @@
     },
     "geo-pays-afrique": {
       "promptId": "geo-pays-afrique",
-      "contentVersion": 1,
+      "contentVersion": 2,
       "entries": [
         {
           "answer": "Maroc",
           "tier": "t1",
           "aliases": [
-            "Morocco"
+            "Morocco",
+            "Marruecos"
           ]
         },
         {
           "answer": "Algérie",
           "tier": "t1",
           "aliases": [
-            "Algeria"
+            "Algeria",
+            "Argelia"
           ]
         },
         {
           "answer": "Tunisie",
           "tier": "t1",
           "aliases": [
-            "Tunisia"
+            "Tunisia",
+            "Túnez"
           ]
         },
         {
@@ -1245,7 +1347,8 @@
           "tier": "t1",
           "aliases": [
             "egypte",
-            "Egypt"
+            "Egypt",
+            "Egipto"
           ]
         },
         {
@@ -1259,14 +1362,16 @@
           "aliases": [
             "ivoire",
             "cote d'ivoire",
-            "Ivory Coast"
+            "Ivory Coast",
+            "Costa de Marfil"
           ]
         },
         {
           "answer": "Cameroun",
           "tier": "t1",
           "aliases": [
-            "Cameroon"
+            "Cameroon",
+            "Camerún"
           ]
         },
         {
@@ -1284,7 +1389,8 @@
           "tier": "t1",
           "aliases": [
             "South Africa",
-            "RSA"
+            "RSA",
+            "Sudáfrica"
           ]
         },
         {
@@ -1297,14 +1403,17 @@
         {
           "answer": "Kenya",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Kenia"
+          ]
         },
         {
           "answer": "Éthiopie",
           "tier": "t3",
           "aliases": [
             "ethiopie",
-            "Ethiopia"
+            "Ethiopia",
+            "Etiopía"
           ]
         },
         {
@@ -1338,7 +1447,9 @@
             "congo-kinshasa",
             "zaïre",
             "zaire",
-            "DR Congo"
+            "DR Congo",
+            "Democratic Republic of the Congo",
+            "República Democrática del Congo"
           ]
         },
         {
@@ -1354,7 +1465,9 @@
         {
           "answer": "Zimbabwe",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Zimbabue"
+          ]
         },
         {
           "answer": "Zambie",
@@ -1373,7 +1486,9 @@
         {
           "answer": "Botswana",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Botsuana"
+          ]
         },
         {
           "answer": "Tanzanie",
@@ -1392,7 +1507,9 @@
         {
           "answer": "Rwanda",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ruanda"
+          ]
         },
         {
           "answer": "Burundi",
@@ -1422,7 +1539,8 @@
           "answer": "Libye",
           "tier": "t3",
           "aliases": [
-            "Libya"
+            "Libya",
+            "Libia"
           ]
         },
         {
@@ -1456,7 +1574,9 @@
         {
           "answer": "Malawi",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Malaui"
+          ]
         },
         {
           "answer": "Maurice",
@@ -1464,7 +1584,8 @@
           "aliases": [
             "île maurice",
             "ile maurice",
-            "Mauritius"
+            "Mauritius",
+            "Mauricio"
           ]
         },
         {
@@ -1476,7 +1597,8 @@
           "answer": "Cap-Vert",
           "tier": "t2",
           "aliases": [
-            "cabo verde"
+            "cabo verde",
+            "Cape Verde"
           ],
           "quip": "Le petit archipel que tout le monde sort pour briller."
         },
@@ -1485,7 +1607,8 @@
           "tier": "t4",
           "aliases": [
             "les comores",
-            "Comoros"
+            "Comoros",
+            "Comoras"
           ]
         },
         {
@@ -1495,13 +1618,16 @@
             "sao tomé-et-principe",
             "sao tome",
             "sao tomé",
-            "Sao Tome and Principe"
+            "Sao Tome and Principe",
+            "Santo Tomé y Príncipe"
           ]
         },
         {
           "answer": "Djibouti",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Yibuti"
+          ]
         },
         {
           "answer": "Érythrée",
@@ -1522,7 +1648,8 @@
           "answer": "Soudan du Sud",
           "tier": "t4",
           "aliases": [
-            "South Sudan"
+            "South Sudan",
+            "Sudán del Sur"
           ]
         },
         {
@@ -1531,7 +1658,8 @@
           "aliases": [
             "centrafrique",
             "rca",
-            "Central African Republic"
+            "Central African Republic",
+            "República Centroafricana"
           ]
         },
         {
@@ -1544,7 +1672,9 @@
         {
           "answer": "Sierra Leone",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Sierra Leona"
+          ]
         },
         {
           "answer": "Gambie",
@@ -1559,7 +1689,8 @@
           "aliases": [
             "guinée bissau",
             "Guinea-Bissau",
-            "Guiné-Bissau"
+            "Guiné-Bissau",
+            "Guinea-Bisáu"
           ]
         },
         {
@@ -1567,26 +1698,32 @@
           "tier": "t4",
           "aliases": [
             "guinée equatoriale",
-            "Equatorial Guinea"
+            "Equatorial Guinea",
+            "Guinea Ecuatorial"
           ]
         },
         {
           "answer": "Lesotho",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Lesoto"
+          ]
         },
         {
           "answer": "Eswatini",
           "tier": "t6",
           "aliases": [
-            "swaziland"
+            "swaziland",
+            "Esuatini"
           ],
           "quip": "L'ex-Swaziland, rebaptisé en 2018. Les nostalgiques diront Swaziland."
         },
         {
           "answer": "Somaliland",
           "tier": "t5",
-          "aliases": [],
+          "aliases": [
+            "Somalilandia"
+          ],
           "quip": "Reconnu par quasiment personne, stable depuis 1991. Accepté au sens large."
         }
       ]
@@ -2330,7 +2467,8 @@
           "answer": "France",
           "tier": "t1",
           "aliases": [
-            "République française"
+            "République française",
+            "Francia"
           ]
         },
         {
@@ -2338,7 +2476,8 @@
           "tier": "t1",
           "aliases": [
             "Germany",
-            "République fédérale d'Allemagne"
+            "République fédérale d'Allemagne",
+            "Alemania"
           ]
         },
         {
@@ -2346,7 +2485,8 @@
           "tier": "t1",
           "aliases": [
             "Spain",
-            "Royaume d'Espagne"
+            "Royaume d'Espagne",
+            "España"
           ]
         },
         {
@@ -2354,7 +2494,8 @@
           "tier": "t1",
           "aliases": [
             "Italy",
-            "République italienne"
+            "République italienne",
+            "Italia"
           ]
         },
         {
@@ -2369,7 +2510,8 @@
           "tier": "t1",
           "aliases": [
             "Belgium",
-            "Royaume de Belgique"
+            "Royaume de Belgique",
+            "Bélgica"
           ]
         },
         {
@@ -2380,7 +2522,8 @@
             "pays bas",
             "Netherlands",
             "Holland",
-            "Royaume des Pays-Bas"
+            "Royaume des Pays-Bas",
+            "Países Bajos"
           ]
         },
         {
@@ -2389,7 +2532,8 @@
           "aliases": [
             "Greece",
             "Hellas",
-            "République hellénique"
+            "République hellénique",
+            "Grecia"
           ]
         },
         {
@@ -2397,7 +2541,8 @@
           "tier": "t1",
           "aliases": [
             "Sweden",
-            "Royaume de Suède"
+            "Royaume de Suède",
+            "Suecia"
           ]
         },
         {
@@ -2405,7 +2550,8 @@
           "tier": "t1",
           "aliases": [
             "Poland",
-            "République de Pologne"
+            "République de Pologne",
+            "Polonia"
           ]
         },
         {
@@ -2421,7 +2567,8 @@
           "tier": "t3",
           "aliases": [
             "eire",
-            "Ireland"
+            "Ireland",
+            "Irlanda"
           ]
         },
         {
@@ -2429,7 +2576,8 @@
           "tier": "t3",
           "aliases": [
             "Denmark",
-            "Royaume de Danemark"
+            "Royaume de Danemark",
+            "Dinamarca"
           ]
         },
         {
@@ -2437,21 +2585,24 @@
           "tier": "t3",
           "aliases": [
             "Finland",
-            "République de Finlande"
+            "République de Finlande",
+            "Finlandia"
           ]
         },
         {
           "answer": "Roumanie",
           "tier": "t3",
           "aliases": [
-            "Romania"
+            "Romania",
+            "Rumanía"
           ]
         },
         {
           "answer": "Hongrie",
           "tier": "t3",
           "aliases": [
-            "Hungary"
+            "Hungary",
+            "Hungría"
           ]
         },
         {
@@ -2460,7 +2611,8 @@
           "aliases": [
             "république tchèque",
             "Czechia",
-            "Czech Republic"
+            "Czech Republic",
+            "Chequia"
           ]
         },
         {
@@ -2468,7 +2620,8 @@
           "tier": "t3",
           "aliases": [
             "Slovakia",
-            "République slovaque"
+            "République slovaque",
+            "Eslovaquia"
           ]
         },
         {
@@ -2484,7 +2637,8 @@
           "tier": "t6",
           "aliases": [
             "Croatia",
-            "République de Croatie"
+            "République de Croatie",
+            "Croacia"
           ],
           "quip": "Dernière arrivée : 2013. Depuis, plus personne — le Royaume-Uni est parti, lui."
         },
@@ -2493,7 +2647,8 @@
           "tier": "t3",
           "aliases": [
             "Luxemburg",
-            "Grand-Duché de Luxembourg"
+            "Grand-Duché de Luxembourg",
+            "Luxemburgo"
           ]
         },
         {
@@ -2501,7 +2656,8 @@
           "tier": "t4",
           "aliases": [
             "Slovenia",
-            "République de Slovénie"
+            "République de Slovénie",
+            "Eslovenia"
           ]
         },
         {
@@ -2517,7 +2673,8 @@
           "tier": "t4",
           "aliases": [
             "Latvia",
-            "République de Lettonie"
+            "République de Lettonie",
+            "Letonia"
           ]
         },
         {
@@ -2525,7 +2682,8 @@
           "tier": "t4",
           "aliases": [
             "Lithuania",
-            "République de Lituanie"
+            "République de Lituanie",
+            "Lituania"
           ]
         },
         {
@@ -2542,7 +2700,8 @@
           "tier": "t5",
           "aliases": [
             "Cyprus",
-            "République de Chypre"
+            "République de Chypre",
+            "Chipre"
           ]
         }
       ]
@@ -2555,35 +2714,46 @@
           "answer": "Brésil",
           "tier": "t1",
           "aliases": [
-            "bresil"
+            "bresil",
+            "Brazil",
+            "Brasil"
           ]
         },
         {
           "answer": "Argentine",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Argentina"
+          ]
         },
         {
           "answer": "Chili",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Chile"
+          ]
         },
         {
           "answer": "Pérou",
           "tier": "t1",
           "aliases": [
-            "perou"
+            "perou",
+            "Peru"
           ]
         },
         {
           "answer": "Colombie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Colombia"
+          ]
         },
         {
           "answer": "Bolivie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Bolivia"
+          ]
         },
         {
           "answer": "Venezuela",
@@ -2594,7 +2764,8 @@
           "answer": "Équateur",
           "tier": "t3",
           "aliases": [
-            "equateur"
+            "equateur",
+            "Ecuador"
           ]
         },
         {
@@ -2616,14 +2787,16 @@
         {
           "answer": "Suriname",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "Surinam"
+          ],
           "quip": "Néerlandophone, ex-Guyane hollandaise. La réponse des malins."
         }
       ]
     },
     "geo-capitale-europe": {
       "promptId": "geo-capitale-europe",
-      "contentVersion": 1,
+      "contentVersion": 2,
       "entries": [
         {
           "answer": "Paris",
@@ -2633,12 +2806,16 @@
         {
           "answer": "Londres",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "London"
+          ]
         },
         {
           "answer": "Rome",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Roma"
+          ]
         },
         {
           "answer": "Madrid",
@@ -2654,13 +2831,18 @@
           "answer": "Vienne",
           "tier": "t1",
           "aliases": [
-            "wien"
+            "wien",
+            "Vienna",
+            "Viena"
           ]
         },
         {
           "answer": "Bruxelles",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Brussels",
+            "Bruselas"
+          ]
         },
         {
           "answer": "Amsterdam",
@@ -2671,7 +2853,10 @@
         {
           "answer": "Lisbonne",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Lisbon",
+            "Lisboa"
+          ]
         },
         {
           "answer": "Dublin",
@@ -2688,7 +2873,9 @@
         {
           "answer": "Stockholm",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Estocolmo"
+          ]
         },
         {
           "answer": "Oslo",
@@ -2704,21 +2891,26 @@
           "answer": "Athènes",
           "tier": "t3",
           "aliases": [
-            "athenes"
+            "athenes",
+            "Athens",
+            "Atenas"
           ]
         },
         {
           "answer": "Varsovie",
           "tier": "t3",
           "aliases": [
-            "warszawa"
+            "warszawa",
+            "Warsaw",
+            "Varsovia"
           ]
         },
         {
           "answer": "Prague",
           "tier": "t3",
           "aliases": [
-            "praha"
+            "praha",
+            "Praga"
           ]
         },
         {
@@ -2742,7 +2934,9 @@
           "answer": "Moscou",
           "tier": "t3",
           "aliases": [
-            "moskva"
+            "moskva",
+            "Moscow",
+            "Moscú"
           ]
         },
         {
@@ -2761,7 +2955,8 @@
           "answer": "Belgrade",
           "tier": "t4",
           "aliases": [
-            "beograd"
+            "beograd",
+            "Belgrado"
           ]
         },
         {
@@ -2772,7 +2967,9 @@
         {
           "answer": "Ljubljana",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Liubliana"
+          ]
         },
         {
           "answer": "Sarajevo",
@@ -2787,7 +2984,9 @@
         {
           "answer": "Skopje",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Skopie"
+          ]
         },
         {
           "answer": "Tirana",
@@ -2811,7 +3010,8 @@
           "answer": "Tallinn",
           "tier": "t4",
           "aliases": [
-            "talinn"
+            "talinn",
+            "Tallin"
           ]
         },
         {
@@ -2822,13 +3022,16 @@
         {
           "answer": "Vilnius",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Vilna"
+          ]
         },
         {
           "answer": "Berne",
           "tier": "t3",
           "aliases": [
-            "bern"
+            "bern",
+            "Berna"
           ],
           "quip": "Capitale de fait de la Suisse. Zurich et Genève se consolent avec l'argent."
         },
@@ -2836,7 +3039,8 @@
           "answer": "Luxembourg",
           "tier": "t4",
           "aliases": [
-            "ville de luxembourg"
+            "ville de luxembourg",
+            "Luxemburgo"
           ]
         },
         {
@@ -2848,7 +3052,8 @@
           "answer": "Nicosie",
           "tier": "t4",
           "aliases": [
-            "lefkosia"
+            "lefkosia",
+            "Nicosia"
           ]
         },
         {
@@ -2856,14 +3061,16 @@
           "tier": "t4",
           "aliases": [
             "la valette",
-            "valletta"
+            "valletta",
+            "La Valeta"
           ]
         },
         {
           "answer": "Reykjavik",
           "tier": "t4",
           "aliases": [
-            "reykjavík"
+            "reykjavík",
+            "Reikiavik"
           ]
         },
         {
@@ -2876,7 +3083,8 @@
           "answer": "Tbilissi",
           "tier": "t4",
           "aliases": [
-            "tbilisi"
+            "tbilisi",
+            "Tiflis"
           ]
         },
         {
@@ -2917,7 +3125,9 @@
           "answer": "Vatican",
           "tier": "t5",
           "aliases": [
-            "cité du vatican"
+            "cité du vatican",
+            "Vatican City",
+            "Ciudad del Vaticano"
           ]
         },
         {
@@ -2925,7 +3135,9 @@
           "tier": "t6",
           "aliases": [
             "andorre la vieille",
-            "andorre"
+            "andorre",
+            "Andorra la Vella",
+            "Andorra la Vieja"
           ],
           "quip": "La capitale la plus haute d'Europe : 1 023 m."
         },
@@ -2933,7 +3145,8 @@
           "answer": "Saint-Marin",
           "tier": "t5",
           "aliases": [
-            "ville de saint-marin"
+            "ville de saint-marin",
+            "San Marino"
           ]
         }
       ]
@@ -5698,7 +5911,9 @@
           "tier": "t1",
           "aliases": [
             "vesuve",
-            "le vésuve"
+            "le vésuve",
+            "Vesuvius",
+            "Vesubio"
           ]
         },
         {
@@ -5746,7 +5961,9 @@
           "tier": "t3",
           "aliases": [
             "la montagne pelée",
-            "pelée"
+            "pelée",
+            "Mount Pelée",
+            "Montaña Pelée"
           ],
           "quip": "1902 : Saint-Pierre rayée de la carte en quelques minutes."
         },
@@ -5876,7 +6093,8 @@
             "saint helens",
             "sainte-hélène",
             "mont sainte-hélène",
-            "mount st helens"
+            "mount st helens",
+            "Monte Santa Elena"
           ],
           "quip": "1980 : le flanc nord est parti en glissement. 400 m de sommet en moins."
         },
@@ -6017,7 +6235,9 @@
           "tier": "t2",
           "aliases": [
             "désert antarctique",
-            "l'antarctique"
+            "l'antarctique",
+            "Antarctica",
+            "Antártida"
           ],
           "quip": "Le plus grand désert du monde est FROID. La réponse des malins."
         },
@@ -6041,7 +6261,8 @@
           "answer": "Chihuahua",
           "tier": "t4",
           "aliases": [
-            "désert de chihuahua"
+            "désert de chihuahua",
+            "Chihuahuan"
           ]
         },
         {
@@ -6049,7 +6270,8 @@
           "tier": "t4",
           "aliases": [
             "désert du grand bassin",
-            "great basin"
+            "great basin",
+            "Gran Cuenca"
           ]
         },
         {
@@ -6065,7 +6287,8 @@
           "tier": "t3",
           "aliases": [
             "rub al-khali",
-            "quart vide"
+            "quart vide",
+            "Rub al Jali"
           ],
           "quip": "Le « Quart Vide » : la plus grande mer de sable du monde."
         },
@@ -6074,14 +6297,18 @@
           "tier": "t3",
           "aliases": [
             "désert d'arabie",
-            "désert arabique"
+            "désert arabique",
+            "Arabian Desert",
+            "Desierto de Arabia"
           ]
         },
         {
           "answer": "Désert de Syrie",
           "tier": "t4",
           "aliases": [
-            "désert syrien"
+            "désert syrien",
+            "Syrian Desert",
+            "Desierto de Siria"
           ]
         },
         {
@@ -6122,7 +6349,8 @@
           "aliases": [
             "kizilkum",
             "kizil kum",
-            "désert du kyzylkoum"
+            "désert du kyzylkoum",
+            "Kyzylkum"
           ]
         },
         {
@@ -6165,7 +6393,9 @@
           "tier": "t4",
           "aliases": [
             "désert libyque",
-            "libyque"
+            "libyque",
+            "Libyan Desert",
+            "Desierto Libio"
           ]
         },
         {
@@ -6173,7 +6403,9 @@
           "tier": "t4",
           "aliases": [
             "désert nubien",
-            "nubien"
+            "nubien",
+            "Nubian Desert",
+            "Desierto de Nubia"
           ]
         },
         {
@@ -6196,14 +6428,18 @@
           "answer": "Simpson",
           "tier": "t5",
           "aliases": [
-            "désert de simpson"
+            "désert de simpson",
+            "Simpson Desert",
+            "Desierto de Simpson"
           ]
         },
         {
           "answer": "Gibson",
           "tier": "t5",
           "aliases": [
-            "désert de gibson"
+            "désert de gibson",
+            "Gibson Desert",
+            "Desierto de Gibson"
           ]
         },
         {
@@ -6211,7 +6447,8 @@
           "tier": "t4",
           "aliases": [
             "grande victoria",
-            "great victoria desert"
+            "great victoria desert",
+            "Gran Desierto de Victoria"
           ]
         },
         {
@@ -6219,7 +6456,8 @@
           "tier": "t4",
           "aliases": [
             "grand sable",
-            "great sandy desert"
+            "great sandy desert",
+            "Gran Desierto Arenoso"
           ]
         },
         {
@@ -6227,28 +6465,34 @@
           "tier": "t4",
           "aliases": [
             "désert de patagonie",
-            "patagonie"
+            "patagonie",
+            "Patagonia"
           ]
         },
         {
           "answer": "Sechura",
           "tier": "t5",
           "aliases": [
-            "désert de sechura"
+            "désert de sechura",
+            "Sechura Desert",
+            "Desierto de Sechura"
           ]
         },
         {
           "answer": "Monte",
           "tier": "t5",
           "aliases": [
-            "désert du monte"
+            "désert du monte",
+            "Monte Desert",
+            "Desierto del Monte"
           ]
         },
         {
           "answer": "Tabernas",
           "tier": "t5",
           "aliases": [
-            "désert de tabernas"
+            "désert de tabernas",
+            "Tabernas Desert"
           ],
           "quip": "Le seul désert d'Europe continentale. Les westerns de Sergio Leone y ont été tournés."
         }
@@ -6256,7 +6500,7 @@
     },
     "geo-lac": {
       "promptId": "geo-lac",
-      "contentVersion": 1,
+      "contentVersion": 2,
       "entries": [
         {
           "answer": "Léman",
@@ -6265,7 +6509,8 @@
             "lac léman",
             "lac de genève",
             "genève",
-            "lake geneva"
+            "lake geneva",
+            "Lago Lemán"
           ]
         },
         {
@@ -6273,7 +6518,8 @@
           "tier": "t2",
           "aliases": [
             "baikal",
-            "lac baïkal"
+            "lac baïkal",
+            "Lake Baikal"
           ],
           "quip": "Le plus profond du monde : 1 642 m. Un cinquième de l'eau douce liquide de la planète. La réponse des connaisseurs."
         },
@@ -6283,7 +6529,8 @@
           "aliases": [
             "lac superieur",
             "superieur",
-            "lake superior"
+            "lake superior",
+            "Lago Superior"
           ]
         },
         {
@@ -6291,7 +6538,9 @@
           "tier": "t1",
           "aliases": [
             "lac victoria",
-            "victoria"
+            "victoria",
+            "Lake Victoria",
+            "Lago Victoria"
           ]
         },
         {
@@ -6299,7 +6548,9 @@
           "tier": "t1",
           "aliases": [
             "mer caspienne",
-            "lac caspien"
+            "lac caspien",
+            "Caspian Sea",
+            "Mar Caspio"
           ],
           "quip": "Mer ou lac ? Fermée, donc lac — le plus grand du monde. On ne refait pas la géographie."
         },
@@ -6309,7 +6560,9 @@
           "aliases": [
             "lac tanganyika",
             "tanganyika",
-            "lac tanganika"
+            "lac tanganika",
+            "Lake Tanganyika",
+            "Tanganica"
           ]
         },
         {
@@ -6317,7 +6570,8 @@
           "tier": "t1",
           "aliases": [
             "lac titicaca",
-            "titicaca"
+            "titicaca",
+            "Lake Titicaca"
           ],
           "quip": "Le plus haut lac navigable du monde : 3 812 m. Les roseaux y font des îles."
         },
@@ -6326,7 +6580,9 @@
           "tier": "t1",
           "aliases": [
             "mer morte",
-            "lac de la mer morte"
+            "lac de la mer morte",
+            "Dead Sea",
+            "Mar Muerto"
           ],
           "quip": "Un lac, pas une mer — où l'on flotte sans bouée. -430 m : le point le plus bas des terres émergées."
         },
@@ -6336,7 +6592,9 @@
           "aliases": [
             "garde",
             "garda",
-            "lago di garda"
+            "lago di garda",
+            "Lake Garda",
+            "Lago de Garda"
           ]
         },
         {
@@ -6346,7 +6604,9 @@
             "come",
             "como",
             "lac de come",
-            "lago di como"
+            "lago di como",
+            "Lake Como",
+            "Lago de Como"
           ]
         },
         {
@@ -6355,7 +6615,9 @@
           "aliases": [
             "majeur",
             "lago maggiore",
-            "lac majeur"
+            "lac majeur",
+            "Lake Maggiore",
+            "Lago Mayor"
           ]
         },
         {
@@ -6364,7 +6626,9 @@
           "aliases": [
             "constance",
             "bodensee",
-            "lac de constance"
+            "lac de constance",
+            "Lake Constance",
+            "Lago de Constanza"
           ]
         },
         {
@@ -6372,7 +6636,9 @@
           "tier": "t3",
           "aliases": [
             "neuchatel",
-            "lac de neuchatel"
+            "lac de neuchatel",
+            "Lake Neuchâtel",
+            "Lago de Neuchâtel"
           ]
         },
         {
@@ -6380,7 +6646,9 @@
           "tier": "t3",
           "aliases": [
             "bourget",
-            "lac du bourget"
+            "lac du bourget",
+            "Lake Bourget",
+            "Lago del Bourget"
           ],
           "quip": "Le plus grand lac naturel entièrement français. « Ô lac ! » — Lamartine l'a chanté, enfin presque : c'était pour lui."
         },
@@ -6389,7 +6657,9 @@
           "tier": "t3",
           "aliases": [
             "annecy",
-            "lac d'annecy"
+            "lac d'annecy",
+            "Lake Annecy",
+            "Lago de Annecy"
           ],
           "quip": "Le plus propre d'Europe, dit-on. Les canards confirment."
         },
@@ -6398,7 +6668,8 @@
           "tier": "t3",
           "aliases": [
             "lac balaton",
-            "balaton"
+            "balaton",
+            "Lake Balaton"
           ],
           "quip": "La « mer hongroise ». Pas de littoral ? Pas grave."
         },
@@ -6407,7 +6678,9 @@
           "tier": "t3",
           "aliases": [
             "ladoga",
-            "lac ladoga"
+            "lac ladoga",
+            "Lake Ladoga",
+            "Lago Ládoga"
           ]
         },
         {
@@ -6416,7 +6689,9 @@
           "aliases": [
             "onega",
             "lac onega",
-            "onéga"
+            "onéga",
+            "Lake Onega",
+            "Lago Onega"
           ]
         },
         {
@@ -6425,7 +6700,9 @@
           "aliases": [
             "malawi",
             "nyasa",
-            "lac malawi"
+            "lac malawi",
+            "Lake Malawi",
+            "Lago Malaui"
           ]
         },
         {
@@ -6433,7 +6710,9 @@
           "tier": "t4",
           "aliases": [
             "turkana",
-            "lac turkana"
+            "lac turkana",
+            "Lake Turkana",
+            "Lago Turkana"
           ],
           "quip": "La « mer de Jade », plus grand lac désertique du monde."
         },
@@ -6442,7 +6721,9 @@
           "tier": "t4",
           "aliases": [
             "albert",
-            "lac albert"
+            "lac albert",
+            "Lake Albert",
+            "Lago Alberto"
           ]
         },
         {
@@ -6450,7 +6731,9 @@
           "tier": "t4",
           "aliases": [
             "edouard",
-            "lac edouard"
+            "lac edouard",
+            "Lake Edward",
+            "Lago Eduardo"
           ]
         },
         {
@@ -6458,7 +6741,9 @@
           "tier": "t4",
           "aliases": [
             "kivu",
-            "lac kivu"
+            "lac kivu",
+            "Lake Kivu",
+            "Lago Kivu"
           ],
           "quip": "Du méthane en profondeur : le lac qui pourrait « exploser »."
         },
@@ -6467,7 +6752,9 @@
           "tier": "t3",
           "aliases": [
             "tchad",
-            "lac tchad"
+            "lac tchad",
+            "Lake Chad",
+            "Lago Chad"
           ],
           "quip": "A perdu 90 % de sa surface depuis les années 1960. Les cartes vieillissent mal."
         },
@@ -6476,7 +6763,9 @@
           "tier": "t4",
           "aliases": [
             "volta",
-            "lac volta"
+            "lac volta",
+            "Lake Volta",
+            "Lago Volta"
           ],
           "quip": "Le plus grand lac artificiel du monde en surface."
         },
@@ -6485,7 +6774,9 @@
           "tier": "t5",
           "aliases": [
             "kariba",
-            "lac kariba"
+            "lac kariba",
+            "Lake Kariba",
+            "Lago Kariba"
           ]
         },
         {
@@ -6493,7 +6784,9 @@
           "tier": "t4",
           "aliases": [
             "nasser",
-            "lac nasser"
+            "lac nasser",
+            "Lake Nasser",
+            "Lago Nasser"
           ]
         },
         {
@@ -6501,7 +6794,9 @@
           "tier": "t4",
           "aliases": [
             "tana",
-            "lac tana"
+            "lac tana",
+            "Lake Tana",
+            "Lago Tana"
           ]
         },
         {
@@ -6509,7 +6804,9 @@
           "tier": "t5",
           "aliases": [
             "van",
-            "lac de van"
+            "lac de van",
+            "Lake Van",
+            "Lago Van"
           ]
         },
         {
@@ -6518,7 +6815,9 @@
           "aliases": [
             "urmia",
             "lac d'urmia",
-            "ourmia"
+            "ourmia",
+            "Lake Urmia",
+            "Lago Urmia"
           ]
         },
         {
@@ -6526,7 +6825,8 @@
           "tier": "t5",
           "aliases": [
             "issyk koul",
-            "yssyk koul"
+            "yssyk koul",
+            "Issyk-Kul"
           ],
           "quip": "Le « lac chaud » kirghize : il ne gèle jamais, malgré l'altitude."
         },
@@ -6535,7 +6835,9 @@
           "tier": "t5",
           "aliases": [
             "balkhash",
-            "lac balkhach"
+            "lac balkhach",
+            "Lake Balkhash",
+            "Lago Balkash"
           ],
           "quip": "Moitié douce, moitié salée. Deux lacs en un."
         },
@@ -6544,7 +6846,9 @@
           "tier": "t6",
           "aliases": [
             "aral",
-            "lac d'aral"
+            "lac d'aral",
+            "Aral Sea",
+            "Mar de Aral"
           ],
           "quip": "Quatrième lac du monde en 1960, presque disparu depuis : le coton a tout bu. Les bateaux rouillent dans le sable."
         },
@@ -6553,7 +6857,9 @@
           "tier": "t3",
           "aliases": [
             "michigan",
-            "lac michigan"
+            "lac michigan",
+            "Lake Michigan",
+            "Lago Míchigan"
           ]
         },
         {
@@ -6561,7 +6867,9 @@
           "tier": "t3",
           "aliases": [
             "huron",
-            "lac huron"
+            "lac huron",
+            "Lake Huron",
+            "Lago Hurón"
           ]
         },
         {
@@ -6570,7 +6878,9 @@
           "aliases": [
             "erie",
             "lac erie",
-            "lac érié"
+            "lac érié",
+            "Lake Erie",
+            "Lago Erie"
           ]
         },
         {
@@ -6578,7 +6888,9 @@
           "tier": "t3",
           "aliases": [
             "ontario",
-            "lac ontario"
+            "lac ontario",
+            "Lake Ontario",
+            "Lago Ontario"
           ]
         },
         {
@@ -6586,7 +6898,8 @@
           "tier": "t5",
           "aliases": [
             "great bear lake",
-            "grand lac de l'ours"
+            "grand lac de l'ours",
+            "Gran Lago del Oso"
           ]
         },
         {
@@ -6594,7 +6907,8 @@
           "tier": "t5",
           "aliases": [
             "great slave lake",
-            "grand lac des esclaves"
+            "grand lac des esclaves",
+            "Gran Lago del Esclavo"
           ]
         },
         {
@@ -6602,7 +6916,9 @@
           "tier": "t4",
           "aliases": [
             "winnipeg",
-            "lac winnipeg"
+            "lac winnipeg",
+            "Lake Winnipeg",
+            "Lago Winnipeg"
           ]
         },
         {
@@ -6610,7 +6926,9 @@
           "tier": "t5",
           "aliases": [
             "athabasca",
-            "lac athabasca"
+            "lac athabasca",
+            "Lake Athabasca",
+            "Lago Athabasca"
           ]
         },
         {
@@ -6618,7 +6936,9 @@
           "tier": "t4",
           "aliases": [
             "nicaragua",
-            "cocibolca"
+            "cocibolca",
+            "Lake Nicaragua",
+            "Lago Nicaragua"
           ],
           "quip": "Des requins bouledogues y vivent en eau douce. Baignade déconseillée."
         },
@@ -6627,7 +6947,9 @@
           "tier": "t4",
           "aliases": [
             "maracaibo",
-            "lac de maracaibo"
+            "lac de maracaibo",
+            "Lake Maracaibo",
+            "Lago de Maracaibo"
           ],
           "quip": "Une lagune, techniquement — et la foudre y frappe 300 nuits par an."
         },
@@ -6636,7 +6958,9 @@
           "tier": "t5",
           "aliases": [
             "eyre",
-            "lac eyre"
+            "lac eyre",
+            "Lake Eyre",
+            "Lago Eyre"
           ],
           "quip": "Passe son temps asséché ; quand il se remplit, l'Australie fête."
         },
@@ -6645,7 +6969,9 @@
           "tier": "t5",
           "aliases": [
             "torrens",
-            "lac torrens"
+            "lac torrens",
+            "Lake Torrens",
+            "Lago Torrens"
           ]
         },
         {
@@ -6653,7 +6979,9 @@
           "tier": "t5",
           "aliases": [
             "saimaa",
-            "lac saimaa"
+            "lac saimaa",
+            "Lake Saimaa",
+            "Lago Saimaa"
           ]
         },
         {
@@ -6661,7 +6989,8 @@
           "tier": "t4",
           "aliases": [
             "vanern",
-            "lac vanern"
+            "lac vanern",
+            "Lake Vänern"
           ]
         },
         {
@@ -6669,7 +6998,8 @@
           "tier": "t5",
           "aliases": [
             "vattern",
-            "lac vattern"
+            "lac vattern",
+            "Lake Vättern"
           ]
         },
         {
@@ -6678,7 +7008,8 @@
           "aliases": [
             "peipous",
             "lac peipus",
-            "peipus"
+            "peipus",
+            "Lake Peipus"
           ]
         },
         {
@@ -6695,7 +7026,9 @@
           "tier": "t5",
           "aliases": [
             "biwa",
-            "lac biwa"
+            "lac biwa",
+            "Lake Biwa",
+            "Lago Biwa"
           ]
         }
       ]
@@ -6717,7 +7050,8 @@
           "aliases": [
             "ventoux",
             "le mont ventoux",
-            "géant de provence"
+            "géant de provence",
+            "Monte Ventoux"
           ],
           "quip": "Le chauve du Tour de France. La réponse des malins."
         },
@@ -6742,7 +7076,9 @@
           "tier": "t3",
           "aliases": [
             "pelée",
-            "la montagne pelée"
+            "la montagne pelée",
+            "Mount Pelée",
+            "Montaña Pelée"
           ]
         },
         {
@@ -6757,7 +7093,8 @@
           "answer": "Pic du Midi",
           "tier": "t3",
           "aliases": [
-            "pic du midi de bigorre"
+            "pic du midi de bigorre",
+            "Pico del Midi"
           ],
           "quip": "L'observatoire au bout du téléphérique."
         },
@@ -6765,7 +7102,8 @@
           "answer": "Mont Aiguille",
           "tier": "t4",
           "aliases": [
-            "le mont aiguille"
+            "le mont aiguille",
+            "Monte Aiguille"
           ],
           "quip": "Le « berceau de l'alpinisme », gravi pour Charles VIII en 1492."
         },
@@ -6774,7 +7112,8 @@
           "tier": "t3",
           "aliases": [
             "sainte-victoire",
-            "la sainte-victoire"
+            "la sainte-victoire",
+            "Montaña Sainte-Victoire"
           ],
           "quip": "La montagne de Cézanne. Une soixantaine de toiles."
         },
@@ -6783,7 +7122,8 @@
           "tier": "t3",
           "aliases": [
             "le canigou",
-            "pic du canigou"
+            "pic du canigou",
+            "Canigó"
           ],
           "quip": "La montagne sacrée des Catalans."
         },
@@ -6792,7 +7132,8 @@
           "tier": "t6",
           "aliases": [
             "gerbier de jonc",
-            "le gerbier de jonc"
+            "le gerbier de jonc",
+            "Monte Gerbier de Jonc"
           ],
           "quip": "C'est à ses pieds que naît la Loire. Une montagne qui fait des fleuves."
         },
@@ -6850,7 +7191,8 @@
           "tier": "t4",
           "aliases": [
             "ossau",
-            "pic du midi d'ossau"
+            "pic du midi d'ossau",
+            "Pico del Midi d'Ossau"
           ],
           "quip": "La dent qui veille sur le Béarn."
         },
@@ -6874,7 +7216,8 @@
           "answer": "Mont Valier",
           "tier": "t5",
           "aliases": [
-            "le mont valier"
+            "le mont valier",
+            "Monte Valier"
           ]
         },
         {
@@ -6896,7 +7239,8 @@
           "answer": "Mont Granier",
           "tier": "t4",
           "aliases": [
-            "le mont granier"
+            "le mont granier",
+            "Monte Granier"
           ],
           "quip": "Son éboulement de 1248 reste l'un des plus grands glissements de terrain d'Europe."
         },
@@ -6912,7 +7256,8 @@
           "answer": "Aiguille Verte",
           "tier": "t5",
           "aliases": [
-            "l'aiguille verte"
+            "l'aiguille verte",
+            "Aguja Verte"
           ]
         },
         {
@@ -6946,7 +7291,8 @@
           "answer": "Dent du Chat",
           "tier": "t5",
           "aliases": [
-            "la dent du chat"
+            "la dent du chat",
+            "Diente del Gato"
           ],
           "quip": "Elle grince au-dessus du lac du Bourget."
         }
@@ -7191,21 +7537,27 @@
           "answer": "Sicile",
           "tier": "t1",
           "aliases": [
-            "la sicile"
+            "la sicile",
+            "Sicily",
+            "Sicilia"
           ]
         },
         {
           "answer": "Corse",
           "tier": "t1",
           "aliases": [
-            "la corse"
+            "la corse",
+            "Corsica",
+            "Córcega"
           ]
         },
         {
           "answer": "Sardaigne",
           "tier": "t1",
           "aliases": [
-            "la sardaigne"
+            "la sardaigne",
+            "Sardinia",
+            "Cerdeña"
           ]
         },
         {
@@ -7213,14 +7565,17 @@
           "tier": "t1",
           "aliases": [
             "crete",
-            "la crète"
+            "la crète",
+            "Creta"
           ]
         },
         {
           "answer": "Chypre",
           "tier": "t1",
           "aliases": [
-            "chypre"
+            "chypre",
+            "Cyprus",
+            "Chipre"
           ]
         },
         {
@@ -7228,14 +7583,16 @@
           "tier": "t1",
           "aliases": [
             "mallorca",
-            "majorque"
+            "majorque",
+            "Majorca"
           ]
         },
         {
           "answer": "Malte",
           "tier": "t2",
           "aliases": [
-            "malte"
+            "malte",
+            "Malta"
           ],
           "quip": "L'île-État que tout le monde cite pour faire malin."
         },
@@ -7251,7 +7608,8 @@
           "tier": "t3",
           "aliases": [
             "menorca",
-            "minorque"
+            "minorque",
+            "Minorca"
           ]
         },
         {
@@ -7264,7 +7622,8 @@
           "tier": "t3",
           "aliases": [
             "rhodes",
-            "rodos"
+            "rodos",
+            "Rodas"
           ]
         },
         {
@@ -7294,7 +7653,8 @@
           "answer": "Corfou",
           "tier": "t3",
           "aliases": [
-            "kerkyra"
+            "kerkyra",
+            "Corfu"
           ]
         },
         {
@@ -7302,7 +7662,9 @@
           "tier": "t4",
           "aliases": [
             "kefallinia",
-            "kefalonia"
+            "kefalonia",
+            "Cephalonia",
+            "Cefalonia"
           ]
         },
         {
@@ -7319,7 +7681,9 @@
           "aliases": [
             "eubee",
             "evvia",
-            "evia"
+            "evia",
+            "Euboea",
+            "Eubea"
           ]
         },
         {
@@ -7334,7 +7698,8 @@
           "answer": "Chios",
           "tier": "t5",
           "aliases": [
-            "khios"
+            "khios",
+            "Quíos"
           ]
         },
         {
@@ -7359,7 +7724,10 @@
         {
           "answer": "Thassos",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Thasos",
+            "Tasos"
+          ]
         },
         {
           "answer": "Lefkada",
@@ -7419,7 +7787,8 @@
           "tier": "t3",
           "aliases": [
             "île de djerba",
-            "ile de djerba"
+            "ile de djerba",
+            "Yerba"
           ],
           "quip": "L'île des Lotophages d'Ulysse. Le couscous en plus."
         },
@@ -7451,7 +7820,9 @@
           "aliases": [
             "la corse",
             "île de beauté",
-            "ile de beaute"
+            "ile de beaute",
+            "Corsica",
+            "Córcega"
           ]
         },
         {
@@ -7469,14 +7840,16 @@
           "tier": "t1",
           "aliases": [
             "la guadeloupe",
-            "gwada"
+            "gwada",
+            "Guadalupe"
           ]
         },
         {
           "answer": "Martinique",
           "tier": "t1",
           "aliases": [
-            "la martinique"
+            "la martinique",
+            "Martinica"
           ]
         },
         {
@@ -7496,7 +7869,9 @@
             "nouvelle caledonie",
             "calédonie",
             "caledonie",
-            "la caledonie"
+            "la caledonie",
+            "New Caledonia",
+            "Nueva Caledonia"
           ]
         },
         {
@@ -7516,7 +7891,8 @@
             "saint martin",
             "île saint-martin",
             "ile saint-martin",
-            "saint martin sint maarten"
+            "saint martin sint maarten",
+            "San Martín"
           ],
           "quip": "La plus petite île du monde partagée entre deux États : France au nord, Pays-Bas au sud."
         },
@@ -7527,7 +7903,8 @@
             "saint-barth",
             "saint-barthelemy",
             "st barth",
-            "st-barth"
+            "st-barth",
+            "San Bartolomé"
           ]
         },
         {
@@ -7536,7 +7913,9 @@
           "aliases": [
             "wallis",
             "futuna",
-            "wallis et futuna"
+            "wallis et futuna",
+            "Wallis and Futuna",
+            "Wallis y Futuna"
           ],
           "quip": "Trois royaumes coutumiers, une collectivité."
         },
@@ -7547,7 +7926,9 @@
             "saint pierre et miquelon",
             "saint-pierre",
             "miquelon",
-            "spm"
+            "spm",
+            "Saint Pierre and Miquelon",
+            "San Pedro y Miquelón"
           ],
           "quip": "Le dernier morceau français de l'Amérique du Nord. La Prohibition y a fait fortune."
         },
@@ -7556,7 +7937,9 @@
           "tier": "t4",
           "aliases": [
             "kerguelen",
-            "iles kerguelen"
+            "iles kerguelen",
+            "Kerguelen Islands",
+            "Islas Kerguelen"
           ],
           "quip": "Les « îles de la Désolation » : 3 300 km de la côte la plus proche."
         },
@@ -7565,7 +7948,9 @@
           "tier": "t5",
           "aliases": [
             "crozet",
-            "iles crozet"
+            "iles crozet",
+            "Crozet Islands",
+            "Islas Crozet"
           ]
         },
         {
@@ -7574,7 +7959,9 @@
           "aliases": [
             "amsterdam",
             "nouvelle-amsterdam",
-            "île amsterdam"
+            "île amsterdam",
+            "Amsterdam Island",
+            "Isla Amsterdam"
           ]
         },
         {
@@ -7584,7 +7971,8 @@
             "île clipperton",
             "ile clipperton",
             "île de la passion",
-            "ile de la passion"
+            "ile de la passion",
+            "Clipperton Island"
           ],
           "quip": "Un anneau de corail perdu au large du Mexique, sans habitant depuis 1917. La France l'a oublié, mais pas tout à fait."
         },
@@ -7595,7 +7983,8 @@
             "ré",
             "ile de re",
             "l'île de ré",
-            "l'ile de re"
+            "l'ile de re",
+            "Isla de Ré"
           ]
         },
         {
@@ -7606,7 +7995,9 @@
             "oleron",
             "ile d'oleron",
             "île d'oléron",
-            "l'île d'oléron"
+            "l'île d'oléron",
+            "Oléron Island",
+            "Isla de Oléron"
           ],
           "quip": "L'île aux huîtres. Deuxième île de métropole, après la Corse."
         },
@@ -7617,7 +8008,9 @@
             "yeu",
             "ile d'yeu",
             "l'île d'yeu",
-            "l'ile d'yeu"
+            "l'ile d'yeu",
+            "Yeu Island",
+            "Isla de Yeu"
           ]
         },
         {
@@ -7647,7 +8040,9 @@
           "aliases": [
             "bréhat",
             "brehat",
-            "ile de brehat"
+            "ile de brehat",
+            "Bréhat Island",
+            "Isla de Bréhat"
           ],
           "quip": "L'île aux fleurs, sans voitures."
         },
@@ -7656,7 +8051,9 @@
           "tier": "t4",
           "aliases": [
             "batz",
-            "ile de batz"
+            "ile de batz",
+            "Batz Island",
+            "Isla de Batz"
           ]
         },
         {
@@ -7664,7 +8061,9 @@
           "tier": "t4",
           "aliases": [
             "sein",
-            "ile de sein"
+            "ile de sein",
+            "Sein Island",
+            "Isla de Sein"
           ],
           "quip": "À marée haute, il reste quoi, 1,5 m de hauteur ?"
         },
@@ -7684,7 +8083,9 @@
           "aliases": [
             "molène",
             "molene",
-            "ile de molene"
+            "ile de molene",
+            "Molène Island",
+            "Isla de Molène"
           ]
         },
         {
@@ -7692,7 +8093,9 @@
           "tier": "t4",
           "aliases": [
             "groix",
-            "ile de groix"
+            "ile de groix",
+            "Groix Island",
+            "Isla de Groix"
           ]
         },
         {
@@ -7703,7 +8106,9 @@
             "lerins",
             "sainte-marguerite",
             "saint-honorat",
-            "iles de lerins"
+            "iles de lerins",
+            "Lérins Islands",
+            "Islas de Lérins"
           ],
           "quip": "L'homme au masque de fer y a été enfermé."
         },
@@ -7731,7 +8136,8 @@
           "tier": "t4",
           "aliases": [
             "levant",
-            "ile du levant"
+            "ile du levant",
+            "Isla del Levante"
           ],
           "quip": "Héliopolis, la cité naturiste pionnière. On n'y va pas que pour le soleil."
         },
@@ -7740,7 +8146,9 @@
           "tier": "t4",
           "aliases": [
             "chausey",
-            "iles chausey"
+            "iles chausey",
+            "Chausey Islands",
+            "Islas Chausey"
           ],
           "quip": "52 îles à marée basse, 365 à marée haute ? Non : l'inverse."
         },
@@ -7750,7 +8158,9 @@
           "aliases": [
             "glénan",
             "glenan",
-            "iles glenan"
+            "iles glenan",
+            "Glénan Islands",
+            "Islas Glénan"
           ],
           "quip": "L'eau y est si claire qu'on dirait la Bretagne des Caraïbes."
         },
@@ -7761,7 +8171,8 @@
             "aix",
             "ile d'aix",
             "l'île d'aix",
-            "l'ile d'aix"
+            "l'ile d'aix",
+            "Isla de Aix"
           ]
         },
         {
@@ -7778,7 +8189,8 @@
           "answer": "Île aux Moines",
           "tier": "t5",
           "aliases": [
-            "ile aux moines"
+            "ile aux moines",
+            "Isla aux Moines"
           ],
           "quip": "La plus grande du Golfe du Morbihan."
         },
@@ -8519,14 +8931,16 @@
     },
     "geo-ocean-ou-mer": {
       "promptId": "geo-ocean-ou-mer",
-      "contentVersion": 1,
+      "contentVersion": 2,
       "entries": [
         {
           "answer": "Atlantique",
           "tier": "t1",
           "aliases": [
             "océan atlantique",
-            "ocean atlantique"
+            "ocean atlantique",
+            "Atlantic",
+            "Atlántico"
           ]
         },
         {
@@ -8534,7 +8948,9 @@
           "tier": "t1",
           "aliases": [
             "océan pacifique",
-            "ocean pacifique"
+            "ocean pacifique",
+            "Pacific",
+            "Pacífico"
           ]
         },
         {
@@ -8542,7 +8958,9 @@
           "tier": "t1",
           "aliases": [
             "océan indien",
-            "ocean indien"
+            "ocean indien",
+            "Indian",
+            "Índico"
           ]
         },
         {
@@ -8551,14 +8969,18 @@
           "aliases": [
             "mediterranee",
             "mer méditerranée",
-            "mer mediterranee"
+            "mer mediterranee",
+            "Mediterranean",
+            "Mediterráneo"
           ]
         },
         {
           "answer": "Mer du Nord",
           "tier": "t1",
           "aliases": [
-            "mer du nord"
+            "mer du nord",
+            "North Sea",
+            "Mar del Norte"
           ]
         },
         {
@@ -8568,7 +8990,9 @@
             "océan arctique",
             "ocean arctique",
             "océan glacial arctique",
-            "ocean glacial arctique"
+            "ocean glacial arctique",
+            "Arctic",
+            "Ártico"
           ]
         },
         {
@@ -8577,7 +9001,8 @@
           "aliases": [
             "la manche",
             "la manche est",
-            "english channel"
+            "english channel",
+            "Canal de la Mancha"
           ],
           "quip": "La Manche, sauf côté anglais."
         },
@@ -8589,7 +9014,9 @@
             "ocean austral",
             "antarctique",
             "océan antarctique",
-            "ocean antarctique"
+            "ocean antarctique",
+            "Southern Ocean",
+            "Océano Austral"
           ],
           "quip": "Reconnu officiellement par National Geographic en 2021. Certains atlas boudent encore."
         },
@@ -8598,21 +9025,27 @@
           "tier": "t1",
           "aliases": [
             "baltique",
-            "mer baltique"
+            "mer baltique",
+            "Baltic Sea",
+            "Mar Báltico"
           ]
         },
         {
           "answer": "Mer Noire",
           "tier": "t1",
           "aliases": [
-            "mer noire"
+            "mer noire",
+            "Black Sea",
+            "Mar Negro"
           ]
         },
         {
           "answer": "Mer Rouge",
           "tier": "t1",
           "aliases": [
-            "mer rouge"
+            "mer rouge",
+            "Red Sea",
+            "Mar Rojo"
           ]
         },
         {
@@ -8620,7 +9053,9 @@
           "tier": "t3",
           "aliases": [
             "caspienne",
-            "mer caspienne"
+            "mer caspienne",
+            "Caspian Sea",
+            "Mar Caspio"
           ],
           "quip": "Un lac, en vérité — le plus grand du monde. On ne refait pas la géographie."
         },
@@ -8628,7 +9063,9 @@
           "answer": "Mer Morte",
           "tier": "t6",
           "aliases": [
-            "mer morte"
+            "mer morte",
+            "Dead Sea",
+            "Mar Muerto"
           ],
           "quip": "Ni mer ni vivante : un lac salé où l'on flotte sans effort. Le point le plus bas des terres émergées."
         },
@@ -8639,7 +9076,9 @@
             "caraïbes",
             "caraibes",
             "mer des caraïbes",
-            "mer des caraibes"
+            "mer des caraibes",
+            "Caribbean Sea",
+            "Mar Caribe"
           ]
         },
         {
@@ -8647,7 +9086,9 @@
           "tier": "t2",
           "aliases": [
             "sargasses",
-            "mer des sargasses"
+            "mer des sargasses",
+            "Sargasso Sea",
+            "Mar de los Sargazos"
           ],
           "quip": "La seule mer du monde sans côtes : elle est définie par ses courants. La réponse des malins."
         },
@@ -8657,7 +9098,9 @@
           "aliases": [
             "egee",
             "mer égée",
-            "mer egee"
+            "mer egee",
+            "Aegean Sea",
+            "Mar Egeo"
           ]
         },
         {
@@ -8665,7 +9108,9 @@
           "tier": "t3",
           "aliases": [
             "ionienne",
-            "mer ionienne"
+            "mer ionienne",
+            "Ionian Sea",
+            "Mar Jónico"
           ]
         },
         {
@@ -8675,7 +9120,9 @@
             "tyrrhénienne",
             "tyrrhenienne",
             "mer tyrrhénienne",
-            "mer tyrrhenienne"
+            "mer tyrrhenienne",
+            "Tyrrhenian Sea",
+            "Mar Tirreno"
           ]
         },
         {
@@ -8683,7 +9130,9 @@
           "tier": "t3",
           "aliases": [
             "adriatique",
-            "mer adriatique"
+            "mer adriatique",
+            "Adriatic Sea",
+            "Mar Adriático"
           ]
         },
         {
@@ -8691,7 +9140,9 @@
           "tier": "t4",
           "aliases": [
             "ligure",
-            "mer ligure"
+            "mer ligure",
+            "Ligurian Sea",
+            "Mar de Liguria"
           ]
         },
         {
@@ -8700,7 +9151,9 @@
           "aliases": [
             "alboran",
             "mer d'alboran",
-            "mer alboran"
+            "mer alboran",
+            "Alboran Sea",
+            "Mar de Alborán"
           ]
         },
         {
@@ -8709,7 +9162,9 @@
           "aliases": [
             "irlande",
             "mer d'irlande",
-            "mer d irlande"
+            "mer d irlande",
+            "Irish Sea",
+            "Mar de Irlanda"
           ]
         },
         {
@@ -8717,7 +9172,9 @@
           "tier": "t5",
           "aliases": [
             "celtique",
-            "mer celtique"
+            "mer celtique",
+            "Celtic Sea",
+            "Mar Céltico"
           ]
         },
         {
@@ -8727,7 +9184,9 @@
             "norvège",
             "norvege",
             "mer de norvège",
-            "mer de norvege"
+            "mer de norvege",
+            "Norwegian Sea",
+            "Mar de Noruega"
           ]
         },
         {
@@ -8735,7 +9194,9 @@
           "tier": "t5",
           "aliases": [
             "groenland",
-            "mer du groenland"
+            "mer du groenland",
+            "Greenland Sea",
+            "Mar de Groenlandia"
           ]
         },
         {
@@ -8743,7 +9204,9 @@
           "tier": "t5",
           "aliases": [
             "beaufort",
-            "mer de beaufort"
+            "mer de beaufort",
+            "Beaufort Sea",
+            "Mar de Beaufort"
           ]
         },
         {
@@ -8751,7 +9214,9 @@
           "tier": "t5",
           "aliases": [
             "barents",
-            "mer de barents"
+            "mer de barents",
+            "Barents Sea",
+            "Mar de Barents"
           ]
         },
         {
@@ -8759,7 +9224,9 @@
           "tier": "t5",
           "aliases": [
             "blanche",
-            "mer blanche"
+            "mer blanche",
+            "White Sea",
+            "Mar Blanco"
           ]
         },
         {
@@ -8767,7 +9234,9 @@
           "tier": "t5",
           "aliases": [
             "kara",
-            "mer de kara"
+            "mer de kara",
+            "Kara Sea",
+            "Mar de Kara"
           ]
         },
         {
@@ -8775,7 +9244,9 @@
           "tier": "t5",
           "aliases": [
             "laptev",
-            "mer des laptev"
+            "mer des laptev",
+            "Laptev Sea",
+            "Mar de Laptev"
           ]
         },
         {
@@ -8784,7 +9255,9 @@
           "aliases": [
             "bering",
             "mer de béring",
-            "mer de bering"
+            "mer de bering",
+            "Bering Sea",
+            "Mar de Bering"
           ]
         },
         {
@@ -8793,7 +9266,9 @@
           "aliases": [
             "okhotsk",
             "mer d'okhotsk",
-            "mer d okhotsk"
+            "mer d okhotsk",
+            "Sea of Okhotsk",
+            "Mar de Ojotsk"
           ]
         },
         {
@@ -8802,7 +9277,9 @@
           "aliases": [
             "japon",
             "mer du japon",
-            "mer de l'est"
+            "mer de l'est",
+            "Sea of Japan",
+            "Mar de Japón"
           ],
           "quip": "« Mer de l'Est » pour la Corée. Les atlas en débattent encore."
         },
@@ -8811,7 +9288,9 @@
           "tier": "t4",
           "aliases": [
             "jaune",
-            "mer jaune"
+            "mer jaune",
+            "Yellow Sea",
+            "Mar Amarillo"
           ]
         },
         {
@@ -8821,7 +9300,9 @@
             "chine",
             "mer de chine",
             "mer de chine méridionale",
-            "mer de chine meridionale"
+            "mer de chine meridionale",
+            "China Sea",
+            "Mar de China"
           ]
         },
         {
@@ -8829,7 +9310,9 @@
           "tier": "t4",
           "aliases": [
             "corail",
-            "mer de corail"
+            "mer de corail",
+            "Coral Sea",
+            "Mar del Coral"
           ]
         },
         {
@@ -8838,7 +9321,9 @@
           "aliases": [
             "tasmanie",
             "mer de tasmanie",
-            "mer de tasman"
+            "mer de tasman",
+            "Tasman Sea",
+            "Mar de Tasmania"
           ]
         },
         {
@@ -8846,7 +9331,9 @@
           "tier": "t4",
           "aliases": [
             "labrador",
-            "mer du labrador"
+            "mer du labrador",
+            "Labrador Sea",
+            "Mar de Labrador"
           ]
         },
         {
@@ -8854,7 +9341,9 @@
           "tier": "t4",
           "aliases": [
             "marmara",
-            "mer de marmara"
+            "mer de marmara",
+            "Sea of Marmara",
+            "Mar de Mármara"
           ]
         },
         {
@@ -8863,7 +9352,9 @@
           "aliases": [
             "arabie",
             "mer d'arabie",
-            "mer d arabie"
+            "mer d arabie",
+            "Arabian Sea",
+            "Mar Arábigo"
           ]
         },
         {
@@ -8871,7 +9362,9 @@
           "tier": "t5",
           "aliases": [
             "weddell",
-            "mer de weddell"
+            "mer de weddell",
+            "Weddell Sea",
+            "Mar de Weddell"
           ]
         },
         {
@@ -8879,7 +9372,9 @@
           "tier": "t5",
           "aliases": [
             "ross",
-            "mer de ross"
+            "mer de ross",
+            "Ross Sea",
+            "Mar de Ross"
           ]
         },
         {
@@ -8887,7 +9382,9 @@
           "tier": "t5",
           "aliases": [
             "scotia",
-            "mer de scotia"
+            "mer de scotia",
+            "Scotia Sea",
+            "Mar de Scotia"
           ]
         },
         {
@@ -8896,7 +9393,9 @@
           "aliases": [
             "andaman",
             "mer d'andaman",
-            "mer d andaman"
+            "mer d andaman",
+            "Andaman Sea",
+            "Mar de Andamán"
           ]
         },
         {
@@ -8904,7 +9403,9 @@
           "tier": "t4",
           "aliases": [
             "java",
-            "mer de java"
+            "mer de java",
+            "Java Sea",
+            "Mar de Java"
           ]
         },
         {
@@ -8912,7 +9413,9 @@
           "tier": "t5",
           "aliases": [
             "banda",
-            "mer de banda"
+            "mer de banda",
+            "Banda Sea",
+            "Mar de Banda"
           ]
         },
         {
@@ -8921,7 +9424,9 @@
           "aliases": [
             "celebes",
             "mer de célèbes",
-            "mer de celebes"
+            "mer de celebes",
+            "Celebes Sea",
+            "Mar de Célebes"
           ]
         },
         {
@@ -8929,7 +9434,9 @@
           "tier": "t5",
           "aliases": [
             "sulu",
-            "mer de sulu"
+            "mer de sulu",
+            "Sulu Sea",
+            "Mar de Sulu"
           ]
         },
         {
@@ -8937,7 +9444,9 @@
           "tier": "t5",
           "aliases": [
             "philippines",
-            "mer des philippines"
+            "mer des philippines",
+            "Philippine Sea",
+            "Mar de Filipinas"
           ]
         },
         {
@@ -8946,7 +9455,9 @@
           "aliases": [
             "arafura",
             "mer d'arafura",
-            "mer d arafura"
+            "mer d arafura",
+            "Arafura Sea",
+            "Mar de Arafura"
           ]
         },
         {
@@ -8954,7 +9465,9 @@
           "tier": "t5",
           "aliases": [
             "timor",
-            "mer de timor"
+            "mer de timor",
+            "Timor Sea",
+            "Mar de Timor"
           ]
         },
         {
@@ -8963,7 +9476,9 @@
           "aliases": [
             "amundsen",
             "mer d'amundsen",
-            "mer d amundsen"
+            "mer d amundsen",
+            "Amundsen Sea",
+            "Mar de Amundsen"
           ]
         },
         {
@@ -8971,7 +9486,9 @@
           "tier": "t5",
           "aliases": [
             "bellingshausen",
-            "mer de bellingshausen"
+            "mer de bellingshausen",
+            "Bellingshausen Sea",
+            "Mar de Bellingshausen"
           ]
         }
       ]
@@ -11914,7 +12431,9 @@
           "aliases": [
             "la tour eiffel",
             "eiffel",
-            "dame de fer"
+            "dame de fer",
+            "Eiffel Tower",
+            "Torre Eiffel"
           ]
         },
         {
@@ -11934,7 +12453,8 @@
           "aliases": [
             "arc de triomphe",
             "étoile",
-            "arc de triomphe de l'étoile"
+            "arc de triomphe de l'étoile",
+            "Arco del Triunfo"
           ]
         },
         {
@@ -11966,7 +12486,8 @@
             "musee d'orsay",
             "orsay",
             "gare d'orsay",
-            "gare d orsay"
+            "gare d orsay",
+            "Museo de Orsay"
           ],
           "quip": "Une gare devenue musée, pour l'horloge et les impressionnistes."
         },
@@ -11976,7 +12497,8 @@
           "aliases": [
             "beaubourg",
             "pompidou",
-            "centre georges pompidou"
+            "centre georges pompidou",
+            "Centro Pompidou"
           ],
           "quip": "L'usine à art avec ses tuyaux de couleur à l'extérieur."
         },
@@ -11986,7 +12508,8 @@
           "aliases": [
             "panthéon",
             "le panthéon",
-            "le pantheon"
+            "le pantheon",
+            "Panteón"
           ],
           "quip": "« Aux grands hommes, la patrie reconnaissante. »"
         },
@@ -11996,7 +12519,8 @@
           "aliases": [
             "hôtel des invalides",
             "hotel des invalides",
-            "les invalides"
+            "les invalides",
+            "Los Inválidos"
           ],
           "quip": "Le dôme doré de Napoléon. Sa tombe, et un cercueil russe-chinois."
         },
@@ -12022,7 +12546,8 @@
           "answer": "Conciergerie",
           "tier": "t4",
           "aliases": [
-            "la conciergerie"
+            "la conciergerie",
+            "Conserjería"
           ],
           "quip": "Marie-Antoinette y a passé ses derniers jours, cellule 11."
         },
@@ -12032,7 +12557,8 @@
           "aliases": [
             "place vendome",
             "colonne vendôme",
-            "colonne vendome"
+            "colonne vendome",
+            "Plaza Vendôme"
           ],
           "quip": "La colonne, faite avec le bronze des canons d'Austerlitz."
         },
@@ -12043,7 +12569,9 @@
             "obélisque",
             "obelisque",
             "place de la concorde",
-            "la concorde"
+            "la concorde",
+            "Obelisk of the Place de la Concorde",
+            "Obelisco de la Concordia"
           ],
           "quip": "3 300 ans, offert par l'Égypte, voyage compliqué."
         },
@@ -12051,7 +12579,8 @@
           "answer": "Grand Palais",
           "tier": "t3",
           "aliases": [
-            "grand palais"
+            "grand palais",
+            "Gran Palacio"
           ],
           "quip": "Sa verrière en a vu des expositions et des tempêtes."
         },
@@ -12059,7 +12588,8 @@
           "answer": "Petit Palais",
           "tier": "t4",
           "aliases": [
-            "petit palais"
+            "petit palais",
+            "Pequeño Palacio"
           ],
           "quip": "Gratuit pour ses collections permanentes. Le chic parisien."
         },
@@ -12069,7 +12599,8 @@
           "aliases": [
             "palais bourbon",
             "assemblée nationale",
-            "assemblee nationale"
+            "assemblee nationale",
+            "Palacio Borbón"
           ],
           "quip": "La Chambre basse, face à la Concorde."
         },
@@ -12080,7 +12611,9 @@
             "luxembourg",
             "palais du luxembourg",
             "sénat",
-            "senat"
+            "senat",
+            "Luxembourg Palace",
+            "Palacio de Luxemburgo"
           ],
           "quip": "Le Sénat, et les jardins les plus courus de Paris."
         },
@@ -12089,7 +12622,8 @@
           "tier": "t3",
           "aliases": [
             "hotel de ville",
-            "mairie de paris"
+            "mairie de paris",
+            "Ayuntamiento de París"
           ],
           "quip": "Incendié en 1871, reconstruit à l'identique."
         },
@@ -12098,7 +12632,8 @@
           "tier": "t3",
           "aliases": [
             "tour montparnasse",
-            "montparnasse"
+            "montparnasse",
+            "Torre Montparnasse"
           ],
           "quip": "Le plus beau point de vue de Paris : le seul d'où l'on ne la voit pas."
         },
@@ -12109,7 +12644,8 @@
             "arche de la défense",
             "arche de la defense",
             "la grande arche",
-            "grande arche de la défense"
+            "grande arche de la défense",
+            "Gran Arco"
           ],
           "quip": "Le choix « moderne » que tout le monde tente. Techniquement à Puteaux et Nanterre, mais bon."
         },
@@ -12118,7 +12654,8 @@
           "tier": "t4",
           "aliases": [
             "chaillot",
-            "palais de chaillot"
+            "palais de chaillot",
+            "Palacio de Chaillot"
           ],
           "quip": "La vue sur la tour Eiffel, depuis l'esplanade du Trocadéro."
         },
@@ -12138,7 +12675,8 @@
           "aliases": [
             "ecole militaire",
             "l'école militaire",
-            "l'ecole militaire"
+            "l'ecole militaire",
+            "Escuela Militar"
           ],
           "quip": "Napoléon y a fait ses classes. Elle ferme le Champ de Mars."
         },
@@ -12146,7 +12684,8 @@
           "answer": "Sorbonne",
           "tier": "t3",
           "aliases": [
-            "la sorbonne"
+            "la sorbonne",
+            "Sorbona"
           ],
           "quip": "Huit siècles d'université, en plein Quartier latin."
         },
@@ -12163,7 +12702,9 @@
           "tier": "t4",
           "aliases": [
             "catacombes",
-            "les catacombes"
+            "les catacombes",
+            "Catacombs",
+            "Catacumbas"
           ],
           "quip": "Six millions de Parisiens vous y attendent, en rangées serrées."
         },
@@ -12175,7 +12716,8 @@
             "le père-lachaise",
             "cimetière du père-lachaise",
             "cimetiere du pere-lachaise",
-            "le pere lachaise"
+            "le pere lachaise",
+            "Père Lachaise Cemetery"
           ],
           "quip": "Jim, Oscar, Édith et Frédéric. Les visites sont longues."
         },
@@ -12202,7 +12744,8 @@
           "aliases": [
             "pont alexandre iii",
             "alexandre iii",
-            "pont alexandre-iii"
+            "pont alexandre-iii",
+            "Puente Alejandro III"
           ],
           "quip": "Le pont le plus or de Paris, offert par le tsar."
         },
@@ -12213,7 +12756,9 @@
             "colonne de juillet",
             "bastille",
             "place de la bastille",
-            "colonne de la bastille"
+            "colonne de la bastille",
+            "July Column",
+            "Columna de Julio"
           ],
           "quip": "Le Génie de la Liberté veille sur la Bastille disparue."
         },
@@ -12222,7 +12767,9 @@
           "tier": "t5",
           "aliases": [
             "stravinsky",
-            "fontaine stravinsky"
+            "fontaine stravinsky",
+            "Stravinsky Fountain",
+            "Fuente Stravinski"
           ],
           "quip": "Les sculptures de Niki de Saint Phalle, en couleurs, à Beaubourg."
         },
@@ -12231,7 +12778,8 @@
           "tier": "t6",
           "aliases": [
             "tour saint-jacques",
-            "la tour saint-jacques"
+            "la tour saint-jacques",
+            "Torre Saint-Jacques"
           ],
           "quip": "Une tour sans église, point zéro des chemins de Compostelle. Blaise Pascal y pesait l'air."
         },
@@ -12241,7 +12789,8 @@
           "aliases": [
             "église de la madeleine",
             "la madeleine",
-            "eglise de la madeleine"
+            "eglise de la madeleine",
+            "La Magdalena"
           ],
           "quip": "Un temple grec dédié à sainte Marie-Madeleine, au milieu de Paris."
         },
@@ -12278,7 +12827,9 @@
             "les pyramides de gizeh",
             "grande pyramide",
             "khéops",
-            "kheops"
+            "kheops",
+            "Pyramids of Giza",
+            "Pirámides de Guiza"
           ],
           "quip": "La seule merveille antique encore debout. La doyenne a 4 500 ans."
         },
@@ -12288,7 +12839,9 @@
           "aliases": [
             "la grande muraille",
             "muraille de chine",
-            "grande muraille de chine"
+            "grande muraille de chine",
+            "Great Wall",
+            "Gran Muralla China"
           ]
         },
         {
@@ -12313,7 +12866,8 @@
             "christ rédempteur",
             "christ redempteur",
             "corcovado",
-            "cristo redentor"
+            "cristo redentor",
+            "Christ the Redeemer"
           ],
           "quip": "Les bras ouverts sur Rio depuis 1931, à 710 m d'altitude."
         },
@@ -12323,7 +12877,9 @@
           "aliases": [
             "colisée",
             "amphithéâtre flavien",
-            "amphitheatre flavien"
+            "amphitheatre flavien",
+            "Colosseum",
+            "Coliseo"
           ],
           "quip": "La réponse des malins : élu parmi les NOUVELLES merveilles, en 2007."
         },
@@ -12350,7 +12906,9 @@
           "aliases": [
             "jardins de babylone",
             "jardins suspendus",
-            "jardins de sémiramis"
+            "jardins de sémiramis",
+            "Hanging Gardens of Babylon",
+            "Jardines colgantes de Babilonia"
           ],
           "quip": "La seule merveille dont l'existence n'a jamais été prouvée. Peut-être étaient-ils à Ninive, peut-être nulle part."
         },
@@ -12360,7 +12918,9 @@
           "aliases": [
             "zeus olympien",
             "statue de zeus",
-            "zeus d'olympie"
+            "zeus d'olympie",
+            "Statue of Zeus at Olympia",
+            "Estatua de Zeus en Olimpia"
           ],
           "quip": "Douze mètres d'or et d'ivoire, signés Phidias. Perdue dans un incendie, à Constantinople."
         },
@@ -12371,7 +12931,9 @@
             "temple d'artémis",
             "artémision",
             "artemision",
-            "temple d'artemis"
+            "temple d'artemis",
+            "Temple of Artemis",
+            "Templo de Artemisa"
           ],
           "quip": "Incendié par Érostrate, qui voulait juste être célèbre. Ça a marché."
         },
@@ -12381,7 +12943,9 @@
           "aliases": [
             "mausolée",
             "mausolée d'halicarnasse",
-            "mausolee d'halicarnasse"
+            "mausolee d'halicarnasse",
+            "Mausoleum at Halicarnassus",
+            "Mausoleo de Halicarnaso"
           ],
           "quip": "Il a donné son nom à tous les mausolées. Rien que ça."
         },
@@ -12390,7 +12954,9 @@
           "tier": "t4",
           "aliases": [
             "colosse",
-            "colosse de rhodes"
+            "colosse de rhodes",
+            "Colossus of Rhodes",
+            "Coloso de Rodas"
           ],
           "quip": "Trente mètres de bronze, debout seulement 54 ans. Le tremblement de terre a eu raison de lui."
         },
@@ -12399,7 +12965,9 @@
           "tier": "t4",
           "aliases": [
             "phare d'alexandrie",
-            "pharos"
+            "pharos",
+            "Lighthouse of Alexandria",
+            "Faro de Alejandría"
           ],
           "quip": "Il a donné son nom à tous les phares. Écroulé par des séismes au XIVe siècle."
         }
@@ -12415,7 +12983,9 @@
           "aliases": [
             "versailles",
             "château de versailles",
-            "chateau de versailles"
+            "chateau de versailles",
+            "Palace of Versailles",
+            "Palacio de Versalles"
           ]
         },
         {
@@ -12424,7 +12994,8 @@
           "aliases": [
             "chambord",
             "château de chambord",
-            "chateau de chambord"
+            "chateau de chambord",
+            "Castillo de Chambord"
           ]
         },
         {
@@ -12443,7 +13014,8 @@
           "aliases": [
             "chenonceau",
             "château de chenonceau",
-            "chateau de chenonceau"
+            "chateau de chenonceau",
+            "Castillo de Chenonceau"
           ],
           "quip": "Le château des Dames, bâti sur un pont."
         },
@@ -12452,7 +13024,8 @@
           "tier": "t1",
           "aliases": [
             "carcassonne",
-            "la cité de carcassonne"
+            "la cité de carcassonne",
+            "Carcasona"
           ]
         },
         {
@@ -12461,7 +13034,8 @@
           "aliases": [
             "amboise",
             "château d'amboise",
-            "chateau d'amboise"
+            "chateau d'amboise",
+            "Castillo de Amboise"
           ],
           "quip": "Léonard de Vinci repose dans sa chapelle."
         },
@@ -12471,7 +13045,8 @@
           "aliases": [
             "blois",
             "château de blois",
-            "chateau de blois"
+            "chateau de blois",
+            "Castillo de Blois"
           ]
         },
         {
@@ -12480,7 +13055,8 @@
           "aliases": [
             "azay-le-rideau",
             "azay le rideau",
-            "château d'azay-le-rideau"
+            "château d'azay-le-rideau",
+            "Castillo de Azay-le-Rideau"
           ]
         },
         {
@@ -12488,7 +13064,8 @@
           "tier": "t3",
           "aliases": [
             "villandry",
-            "château de villandry"
+            "château de villandry",
+            "Castillo de Villandry"
           ],
           "quip": "Ses jardins à la française sont une œuvre en soi."
         },
@@ -12497,7 +13074,8 @@
           "tier": "t3",
           "aliases": [
             "cheverny",
-            "château de cheverny"
+            "château de cheverny",
+            "Castillo de Cheverny"
           ],
           "quip": "Le modèle de Moulinsart pour Tintin. Capitaine Haddock approuve."
         },
@@ -12508,7 +13086,8 @@
             "ussé",
             "usse",
             "château d'ussé",
-            "chateau d'usse"
+            "chateau d'usse",
+            "Castillo de Ussé"
           ],
           "quip": "Celui de la Belle au bois dormant, dit Perrault."
         },
@@ -12517,7 +13096,9 @@
           "tier": "t3",
           "aliases": [
             "fontainebleau",
-            "château de fontainebleau"
+            "château de fontainebleau",
+            "Palace of Fontainebleau",
+            "Palacio de Fontainebleau"
           ],
           "quip": "La « demeure des rois » pendant huit siècles."
         },
@@ -12527,7 +13108,8 @@
           "aliases": [
             "vaux-le-vicomte",
             "vaux le vicomte",
-            "vaux"
+            "vaux",
+            "Castillo de Vaux-le-Vicomte"
           ],
           "quip": "Trop beau pour un surintendant : Fouquet a fini en prison, Versailles a tout copié."
         },
@@ -12536,7 +13118,8 @@
           "tier": "t3",
           "aliases": [
             "chantilly",
-            "château de chantilly"
+            "château de chantilly",
+            "Castillo de Chantilly"
           ],
           "quip": "La crème, les chevaux, le musée Condé."
         },
@@ -12545,7 +13128,8 @@
           "tier": "t4",
           "aliases": [
             "pierrefonds",
-            "château de pierrefonds"
+            "château de pierrefonds",
+            "Castillo de Pierrefonds"
           ],
           "quip": "Restauré par Viollet-le-Duc dans un Moyen Âge de rêve."
         },
@@ -12555,7 +13139,9 @@
           "aliases": [
             "haut-koenigsbourg",
             "haut koenigsbourg",
-            "haut-kœnigsbourg"
+            "haut-kœnigsbourg",
+            "Haut-Koenigsbourg Castle",
+            "Castillo de Haut-Koenigsbourg"
           ],
           "quip": "L'aigle alsacien, reconstruit par Guillaume II."
         },
@@ -12565,7 +13151,9 @@
           "aliases": [
             "neuschwanstein",
             "château de neuschwanstein",
-            "chateau de neuschwanstein"
+            "chateau de neuschwanstein",
+            "Neuschwanstein Castle",
+            "Castillo de Neuschwanstein"
           ],
           "quip": "Le château « Disney » de Louis II de Bavière. Walt a copié, pas l'inverse. La réponse des malins."
         },
@@ -12574,7 +13162,9 @@
           "tier": "t3",
           "aliases": [
             "windsor",
-            "château de windsor"
+            "château de windsor",
+            "Windsor Castle",
+            "Castillo de Windsor"
           ],
           "quip": "Le plus grand château habité du monde."
         },
@@ -12584,7 +13174,8 @@
           "aliases": [
             "édimbourg",
             "edimbourg",
-            "edinburgh castle"
+            "edinburgh castle",
+            "Castillo de Edimburgo"
           ],
           "quip": "Perché sur son volcan éteint."
         },
@@ -12594,7 +13185,9 @@
           "aliases": [
             "prague",
             "hradtchin",
-            "hradčany"
+            "hradčany",
+            "Prague Castle",
+            "Castillo de Praga"
           ],
           "quip": "Le plus grand complexe castral ancien du monde, dit le Guinness."
         },
@@ -12614,7 +13207,9 @@
             "pena",
             "palais de pena",
             "palais national de pena",
-            "sintra"
+            "sintra",
+            "Pena Palace",
+            "Palacio de Pena"
           ],
           "quip": "Un arc-en-ciel romantique au sommet de Sintra."
         },
@@ -12624,7 +13219,9 @@
           "aliases": [
             "bran",
             "château de bran",
-            "château de dracula"
+            "château de dracula",
+            "Bran Castle",
+            "Castillo de Bran"
           ],
           "quip": "Le « château de Dracula »… où Vlad l'Empaleur n'a jamais vécu. Le folklore n'attend pas la vérité."
         },
@@ -12633,7 +13230,9 @@
           "tier": "t5",
           "aliases": [
             "predjama",
-            "château de predjama"
+            "château de predjama",
+            "Predjama Castle",
+            "Castillo de Predjama"
           ],
           "quip": "Encastré dans une falaise de 123 m, en Slovénie."
         },
@@ -12642,7 +13241,9 @@
           "tier": "t5",
           "aliases": [
             "trakai",
-            "château de trakai"
+            "château de trakai",
+            "Trakai Island Castle",
+            "Castillo de Trakai"
           ],
           "quip": "Une île, un lac, un château rouge en Lituanie."
         },
@@ -12651,7 +13252,9 @@
           "tier": "t5",
           "aliases": [
             "malbork",
-            "marienbourg"
+            "marienbourg",
+            "Malbork Castle",
+            "Castillo de Malbork"
           ],
           "quip": "La plus grande forteresse de briques du monde, des chevaliers Teutoniques."
         },
@@ -12660,7 +13263,9 @@
           "tier": "t4",
           "aliases": [
             "himeji",
-            "château de himeji"
+            "château de himeji",
+            "Himeji Castle",
+            "Castillo de Himeji"
           ],
           "quip": "Le « héron blanc » japonais, jamais attaqué, jamais brûlé."
         },
@@ -12670,7 +13275,9 @@
           "aliases": [
             "osaka",
             "château d'osaka",
-            "chateau d'osaka"
+            "chateau d'osaka",
+            "Osaka Castle",
+            "Castillo de Osaka"
           ]
         },
         {
@@ -12678,7 +13285,9 @@
           "tier": "t5",
           "aliases": [
             "matsumoto",
-            "château de matsumoto"
+            "château de matsumoto",
+            "Matsumoto Castle",
+            "Castillo de Matsumoto"
           ],
           "quip": "Le « château du corbeau », tout de noir laqué."
         },
@@ -12687,7 +13296,9 @@
           "tier": "t4",
           "aliases": [
             "chillon",
-            "château de chillon"
+            "château de chillon",
+            "Chillon Castle",
+            "Castillo de Chillon"
           ],
           "quip": "Sur son rocher du Léman. Byron y a laissé son nom, littéralement gravé."
         },
@@ -12697,7 +13308,9 @@
           "aliases": [
             "kronborg",
             "elseneur",
-            "elsinore"
+            "elsinore",
+            "Kronborg Castle",
+            "Castillo de Kronborg"
           ],
           "quip": "« Être ou ne pas être » : c'est ici, à Elseneur."
         },
@@ -12706,7 +13319,9 @@
           "tier": "t5",
           "aliases": [
             "egeskov",
-            "château d'egeskov"
+            "château d'egeskov",
+            "Egeskov Castle",
+            "Castillo de Egeskov"
           ],
           "quip": "Un château sur pilotis de chêne, au milieu de son lac danois."
         },
@@ -12726,7 +13341,9 @@
             "potala",
             "le potala",
             "lhassa",
-            "lhasa"
+            "lhasa",
+            "Potala Palace",
+            "Palacio de Potala"
           ],
           "quip": "Treize étages au-dessus de Lhassa, à 3 700 m. Le toit du toit du monde."
         },
@@ -12736,7 +13353,9 @@
           "aliases": [
             "schönbrunn",
             "schonbrunn",
-            "château de schönbrunn"
+            "château de schönbrunn",
+            "Schönbrunn Palace",
+            "Palacio de Schönbrunn"
           ],
           "quip": "Le Versailles viennois de Sissi. 1 441 pièces."
         },
@@ -12786,7 +13405,8 @@
           "aliases": [
             "pont alexandre iii",
             "alexandre iii",
-            "pont alexandre-iii"
+            "pont alexandre-iii",
+            "Puente Alejandro III"
           ]
         },
         {
@@ -12794,7 +13414,8 @@
           "tier": "t1",
           "aliases": [
             "pont de brooklyn",
-            "brooklyn"
+            "brooklyn",
+            "Puente de Brooklyn"
           ],
           "quip": "1883 : le premier pont en acier de l'histoire. Un exploit de Roebling père et fils."
         },
@@ -12805,7 +13426,8 @@
             "pont charles",
             "charles bridge",
             "karluv most",
-            "karlův most"
+            "karlův most",
+            "Puente de Carlos"
           ],
           "quip": "Prague, ses 30 statues, ses 516 m de bohemicité."
         },
@@ -12814,7 +13436,9 @@
           "tier": "t3",
           "aliases": [
             "pont du rialto",
-            "ponte di rialto"
+            "ponte di rialto",
+            "Rialto Bridge",
+            "Puente de Rialto"
           ],
           "quip": "Le plus ancien pont du Grand Canal, en marbre blanc."
         },
@@ -12831,7 +13455,9 @@
           "tier": "t1",
           "aliases": [
             "millau",
-            "viaduc de millau"
+            "viaduc de millau",
+            "Millau Viaduct",
+            "Viaducto de Millau"
           ],
           "quip": "343 m : plus haut que la tour Eiffel. La réponse des Français fiers."
         },
@@ -12840,7 +13466,9 @@
           "tier": "t3",
           "aliases": [
             "pont de normandie",
-            "normandie"
+            "normandie",
+            "Normandy Bridge",
+            "Puente de Normandía"
           ]
         },
         {
@@ -12848,7 +13476,9 @@
           "tier": "t4",
           "aliases": [
             "tancarville",
-            "pont de tancarville"
+            "pont de tancarville",
+            "Tancarville Bridge",
+            "Puente de Tancarville"
           ]
         },
         {
@@ -12856,7 +13486,9 @@
           "tier": "t4",
           "aliases": [
             "garabit",
-            "viaduc de garabit"
+            "viaduc de garabit",
+            "Garabit Viaduct",
+            "Viaducto de Garabit"
           ],
           "quip": "Gustave Eiffel avant la tour : l'arc ferroviaire au-dessus de la Truyère."
         },
@@ -12865,7 +13497,8 @@
           "tier": "t3",
           "aliases": [
             "pont du gard",
-            "le pont du gard"
+            "le pont du gard",
+            "Puente del Gard"
           ],
           "quip": "Un aqueduc romain, pas un pont. Mais quel aqueduc."
         },
@@ -12877,7 +13510,8 @@
             "pont d'avignon",
             "pont saint-bénézet",
             "pont saint-benezet",
-            "saint-bénézet"
+            "saint-bénézet",
+            "Puente de Aviñón"
           ],
           "quip": "On n'y danse plus depuis le XVIIe siècle — il s'arrête au milieu du Rhône. La chanson a survécu, pas les arches."
         },
@@ -12887,7 +13521,9 @@
           "aliases": [
             "langlois",
             "pont de langlois",
-            "pont van gogh"
+            "pont van gogh",
+            "Langlois Bridge",
+            "Puente de Langlois"
           ],
           "quip": "Van Gogh l'a peint neuf fois, à Arles."
         },
@@ -12898,7 +13534,9 @@
             "mostar",
             "stari most",
             "vieux pont de mostar",
-            "pont de mostar"
+            "pont de mostar",
+            "Mostar Bridge",
+            "Puente de Mostar"
           ],
           "quip": "Détruit en 1993, reconstruit à l'identique en 2004. Le saut de 24 m est une tradition."
         },
@@ -12910,7 +13548,9 @@
             "szechenyi",
             "pont des chaînes",
             "pont des chaines",
-            "chain bridge"
+            "chain bridge",
+            "Széchenyi Chain Bridge",
+            "Puente de Széchenyi"
           ],
           "quip": "Le premier pont permanent de Budapest, entre Buda et Pest."
         },
@@ -12921,7 +13561,9 @@
             "pont du bosphore",
             "bosphore",
             "pont du 15 juillet",
-            "pont des martyrs"
+            "pont des martyrs",
+            "Bosphorus Bridge",
+            "Puente del Bósforo"
           ],
           "quip": "Un pont entre deux continents : l'Europe à gauche, l'Asie à droite."
         },
@@ -12932,7 +13574,9 @@
             "akashi",
             "pont akashi",
             "akashi kaikyo",
-            "akashi kaikyō"
+            "akashi kaikyō",
+            "Akashi Kaikyō Bridge",
+            "Puente Akashi Kaikyō"
           ],
           "quip": "Le pont suspendu à la plus longue portée du monde : 1 991 m, entre Kobe et Awaji."
         },
@@ -12943,7 +13587,9 @@
             "oresund",
             "pont de l'øresund",
             "pont de l'oresund",
-            "pont-tunnel de l'øresund"
+            "pont-tunnel de l'øresund",
+            "Øresund Bridge",
+            "Puente de Øresund"
           ],
           "quip": "Pont, île artificielle, tunnel : 16 km entre Copenhague et Malmö."
         },
@@ -12953,7 +13599,9 @@
           "aliases": [
             "vasco da gama",
             "pont vasco da gama",
-            "vasco de gama"
+            "vasco de gama",
+            "Vasco da Gama Bridge",
+            "Puente Vasco da Gama"
           ],
           "quip": "Le plus long pont d'Europe : 17,2 km sur le Tage."
         },
@@ -12963,7 +13611,9 @@
           "aliases": [
             "pont du 25 avril",
             "25 de abril",
-            "ponte 25 de abril"
+            "ponte 25 de abril",
+            "25 April Bridge",
+            "Puente del 25 de Abril"
           ],
           "quip": "Le Golden Gate de Lisbonne, construit par la même entreprise. La ressemblance n'est pas un hasard."
         },
@@ -12973,7 +13623,8 @@
           "aliases": [
             "harbour bridge",
             "sydney harbour bridge",
-            "pont de sydney"
+            "pont de sydney",
+            "Puente de la Bahía de Sídney"
           ],
           "quip": "Le « cintre » de Sydney. On peut le grimper, avec harnais."
         },
@@ -12982,7 +13633,8 @@
           "tier": "t4",
           "aliases": [
             "forth bridge",
-            "pont du forth"
+            "pont du forth",
+            "Puente Forth"
           ],
           "quip": "Le pont ferroviaire rouge d'Écosse, classé UNESCO."
         },
@@ -12991,7 +13643,8 @@
           "tier": "t5",
           "aliases": [
             "humber",
-            "humber bridge"
+            "humber bridge",
+            "Puente Humber"
           ],
           "quip": "Record de portée britannique pendant 17 ans."
         },
@@ -13001,7 +13654,9 @@
           "aliases": [
             "khaju",
             "pont khaju",
-            "pol-e khaju"
+            "pol-e khaju",
+            "Khaju Bridge",
+            "Puente Khaju"
           ],
           "quip": "Un pont-barrage-palais à Ispahan, où l'on chante sous les arcades."
         },
@@ -13012,7 +13667,9 @@
             "rio-antirrio",
             "rion-antirion",
             "pont rio-antirrio",
-            "charilaos trikoupis"
+            "charilaos trikoupis",
+            "Rio-Antirrio Bridge",
+            "Puente Río-Antirrio"
           ],
           "quip": "Il relie le Péloponnèse au continent, sur une faille sismique. Ingenieurs en sueur."
         },
@@ -13038,7 +13695,9 @@
             "statue de la liberte",
             "liberty",
             "miss liberty",
-            "la liberté"
+            "la liberté",
+            "Statue of Liberty",
+            "Estatua de la Libertad"
           ],
           "quip": "Un cadeau de la France, signé Bartholdi et Eiffel."
         },
@@ -13049,7 +13708,8 @@
             "christ rédempteur",
             "christ redempteur",
             "corcovado",
-            "cristo redentor"
+            "cristo redentor",
+            "Christ the Redeemer"
           ],
           "quip": "38 mètres, bras ouverts sur Rio depuis 1931."
         },
@@ -13078,7 +13738,9 @@
           "aliases": [
             "le penseur",
             "penseur de rodin",
-            "rodin"
+            "rodin",
+            "The Thinker",
+            "El pensador"
           ],
           "quip": "Rodin l'a pensé pour La Porte de l'Enfer. Il est devenu le symbole."
         },
@@ -13097,7 +13759,9 @@
           "aliases": [
             "la petite sirène",
             "petite sirene",
-            "den lille havfrue"
+            "den lille havfrue",
+            "The Little Mermaid",
+            "La Sirenita"
           ],
           "quip": "1,25 m de mélancolie, au bord de l'eau de Copenhague."
         },
@@ -13118,7 +13782,9 @@
           "aliases": [
             "sphinx",
             "grand sphinx",
-            "sphinx de gizeh"
+            "sphinx de gizeh",
+            "Great Sphinx of Giza",
+            "Esfinge de Guiza"
           ],
           "quip": "Le lion à tête de pharaon, gardien des pyramides depuis 4 500 ans."
         },
@@ -13129,7 +13795,8 @@
             "mère patrie",
             "mere patrie",
             "la mère-patrie appelle",
-            "motherland calls"
+            "motherland calls",
+            "Estatua de la Madre Patria"
           ],
           "quip": "85 mètres d'épée levée à Volgograd. La plus grande statue d'Europe."
         },
@@ -13139,7 +13806,9 @@
           "aliases": [
             "buddha de leshan",
             "grand bouddha de leshan",
-            "bouddha géant de leshan"
+            "bouddha géant de leshan",
+            "Leshan Giant Buddha",
+            "Gran Buda de Leshan"
           ],
           "quip": "71 mètres de pierre taillée dans la falaise, en Chine."
         },
@@ -13149,7 +13818,9 @@
           "aliases": [
             "daibutsu",
             "buddha de kamakura",
-            "grand bouddha de kamakura"
+            "grand bouddha de kamakura",
+            "Great Buddha of Kamakura",
+            "Gran Buda de Kamakura"
           ],
           "quip": "Le Daibutsu de bronze, dehors depuis que son temple a été emporté par un tsunami."
         },
@@ -13169,7 +13840,8 @@
           "aliases": [
             "statue de l'unité",
             "statue of unity",
-            "unite"
+            "unite",
+            "Estatua de la Unidad"
           ],
           "quip": "240 mètres en Inde : deux fois la statue de la Liberté, socle compris. La plus haute statue du monde, depuis 2018."
         },
@@ -13182,7 +13854,9 @@
             "armee de terre cuite",
             "soldats de terre cuite",
             "armée de xian",
-            "armee de xian"
+            "armee de xian",
+            "Terracotta Army",
+            "Ejército de terracota"
           ],
           "quip": "8 000 soldats d'argile veillent sur le premier empereur de Chine."
         },
@@ -13192,7 +13866,8 @@
           "aliases": [
             "pietà",
             "la pieta",
-            "pietà de michel-ange"
+            "pietà de michel-ange",
+            "Piedad"
           ],
           "quip": "Michel-Ange l'a signée. Une fois. On ne l'y reprendra plus."
         },
@@ -13201,7 +13876,9 @@
           "tier": "t5",
           "aliases": [
             "le discobole",
-            "discobole de myron"
+            "discobole de myron",
+            "Discobolus",
+            "Discóbolo"
           ],
           "quip": "L'original grec est perdu ; les copies romaines font le travail."
         },
@@ -13211,7 +13888,9 @@
           "aliases": [
             "auguste",
             "auguste de prima porta",
-            "prima porta"
+            "prima porta",
+            "Augustus of Prima Porta",
+            "Augusto de Prima Porta"
           ],
           "quip": "L'empereur en pied, retrouvé dans la villa de sa femme Livie."
         },
@@ -13220,7 +13899,8 @@
           "tier": "t5",
           "aliases": [
             "balzac",
-            "balzac de rodin"
+            "balzac de rodin",
+            "Balzac by Rodin"
           ],
           "quip": "Un moine en robe de chambre. Les commanditaires ont refusé l'œuvre. On a changé d'avis."
         },
@@ -13230,7 +13910,8 @@
           "aliases": [
             "angel of the north",
             "ange du nord",
-            "ange du nord de l'angleterre"
+            "ange du nord de l'angleterre",
+            "El Ángel del Norte"
           ],
           "quip": "54 mètres d'envergure, à Gateshead. L'ange d'acier d'Antony Gormley."
         },
@@ -13241,7 +13922,9 @@
             "lincoln",
             "statue de lincoln",
             "abraham lincoln",
-            "lincoln memorial"
+            "lincoln memorial",
+            "Statue of Lincoln",
+            "Estatua de Lincoln"
           ],
           "quip": "L'Immortel assis, au fond de son temple à Washington."
         },
@@ -14048,35 +14731,45 @@
           "answer": "Espagne",
           "tier": "t1",
           "aliases": [
-            "l'espagne"
+            "l'espagne",
+            "Spain",
+            "España"
           ]
         },
         {
           "answer": "Italie",
           "tier": "t1",
           "aliases": [
-            "l'italie"
+            "l'italie",
+            "Italy",
+            "Italia"
           ]
         },
         {
           "answer": "Suisse",
           "tier": "t1",
           "aliases": [
-            "la suisse"
+            "la suisse",
+            "Switzerland",
+            "Suiza"
           ]
         },
         {
           "answer": "Allemagne",
           "tier": "t1",
           "aliases": [
-            "l'allemagne"
+            "l'allemagne",
+            "Germany",
+            "Alemania"
           ]
         },
         {
           "answer": "Belgique",
           "tier": "t1",
           "aliases": [
-            "la belgique"
+            "la belgique",
+            "Belgium",
+            "Bélgica"
           ]
         },
         {
@@ -14106,7 +14799,9 @@
           "tier": "t2",
           "aliases": [
             "hollande",
-            "les pays-bas"
+            "les pays-bas",
+            "Netherlands",
+            "Países Bajos"
           ],
           "quip": "Une frontière terrestre dans les Caraïbes : Saint-Martin la partage avec Sint Maarten. La réponse des malins."
         },
@@ -14114,7 +14809,8 @@
           "answer": "Suriname",
           "tier": "t4",
           "aliases": [
-            "le suriname"
+            "le suriname",
+            "Surinam"
           ],
           "quip": "La Guyane française a des voisins."
         },
@@ -14123,7 +14819,9 @@
           "tier": "t6",
           "aliases": [
             "le brésil",
-            "bresil"
+            "bresil",
+            "Brazil",
+            "Brasil"
           ],
           "quip": "La PLUS LONGUE frontière de France : 730 km avec le Brésil, grâce à la Guyane. Plus que l'Espagne, plus que la Belgique."
         }
@@ -24927,17 +25625,24 @@
         {
           "answer": "Japon",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Japan"
+          ]
         },
         {
           "answer": "Inde",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "India"
+          ]
         },
         {
           "answer": "Thaïlande",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Thailand",
+            "Tailandia"
+          ]
         },
         {
           "answer": "Vietnam",
@@ -24947,44 +25652,65 @@
         {
           "answer": "Corée du Sud",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "South Korea",
+            "Corea del Sur"
+          ]
         },
         {
           "answer": "Indonésie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Indonesia"
+          ]
         },
         {
           "answer": "Philippines",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Filipinas"
+          ]
         },
         {
           "answer": "Malaisie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Malaysia",
+            "Malasia"
+          ]
         },
         {
           "answer": "Singapour",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Singapore",
+            "Singapur"
+          ]
         },
         {
           "answer": "Chine",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "China"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "Bhoutan",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "Bhutan",
+            "Bután"
+          ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
           "answer": "Corée du Nord",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "North Korea",
+            "Corea del Norte"
+          ]
         },
         {
           "answer": "Pakistan",
@@ -24994,7 +25720,9 @@
         {
           "answer": "Bangladesh",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Bangladés"
+          ]
         },
         {
           "answer": "Sri Lanka",
@@ -25009,7 +25737,10 @@
         {
           "answer": "Cambodge",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Cambodia",
+            "Camboya"
+          ]
         },
         {
           "answer": "Laos",
@@ -25020,7 +25751,8 @@
           "answer": "Birmanie",
           "tier": "t3",
           "aliases": [
-            "Myanmar"
+            "Myanmar",
+            "Birmania"
           ]
         },
         {
@@ -25031,17 +25763,25 @@
         {
           "answer": "Irak",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Iraq"
+          ]
         },
         {
           "answer": "Syrie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Syria",
+            "Siria"
+          ]
         },
         {
           "answer": "Liban",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Lebanon",
+            "Líbano"
+          ]
         },
         {
           "answer": "Israël",
@@ -25051,39 +25791,56 @@
         {
           "answer": "Jordanie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Jordan",
+            "Jordania"
+          ]
         },
         {
           "answer": "Arabie saoudite",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Saudi Arabia",
+            "Arabia Saudí"
+          ]
         },
         {
           "answer": "Émirats arabes unis",
           "tier": "t3",
           "aliases": [
-            "EAU"
+            "EAU",
+            "United Arab Emirates",
+            "Emiratos Árabes Unidos"
           ]
         },
         {
           "answer": "Turquie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Turkey",
+            "Turquía"
+          ]
         },
         {
           "answer": "Afghanistan",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Afganistán"
+          ]
         },
         {
           "answer": "Kazakhstan",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Kazajistán"
+          ]
         },
         {
           "answer": "Mongolie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mongolia"
+          ]
         },
         {
           "answer": "Taïwan",
@@ -25093,12 +25850,16 @@
         {
           "answer": "Qatar",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Catar"
+          ]
         },
         {
           "answer": "Koweït",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Kuwait"
+          ]
         },
         {
           "answer": "Yémen",
@@ -25119,38 +25880,53 @@
           "answer": "Timor oriental",
           "tier": "t4",
           "aliases": [
-            "Timor-Leste"
+            "Timor-Leste",
+            "East Timor"
           ]
         },
         {
           "answer": "Maldives",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Maldivas"
+          ]
         },
         {
           "answer": "Bahreïn",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Bahrain",
+            "Baréin"
+          ]
         },
         {
           "answer": "Géorgie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Georgia"
+          ]
         },
         {
           "answer": "Arménie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Armenia"
+          ]
         },
         {
           "answer": "Azerbaïdjan",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Azerbaijan",
+            "Azerbaiyán"
+          ]
         },
         {
           "answer": "Ouzbékistan",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Uzbekistan"
+          ]
         },
         {
           "answer": "Turkménistan",
@@ -25160,22 +25936,33 @@
         {
           "answer": "Kirghizistan",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Kyrgyzstan",
+            "Kirguistán"
+          ]
         },
         {
           "answer": "Tadjikistan",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Tajikistan",
+            "Tayikistán"
+          ]
         },
         {
           "answer": "Chypre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Cyprus",
+            "Chipre"
+          ]
         },
         {
           "answer": "Palestine",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Palestina"
+          ]
         },
         {
           "answer": "Hong Kong",
@@ -25185,7 +25972,9 @@
         {
           "answer": "Macao",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Macau"
+          ]
         }
       ]
     },
@@ -27081,12 +27870,16 @@
         {
           "answer": "Tokyo",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Tokio"
+          ]
         },
         {
           "answer": "Séoul",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Seúl"
+          ]
         },
         {
           "answer": "Bangkok",
@@ -27097,7 +27890,8 @@
           "answer": "New Delhi",
           "tier": "t1",
           "aliases": [
-            "Delhi"
+            "Delhi",
+            "Nueva Delhi"
           ]
         },
         {
@@ -27108,27 +27902,38 @@
         {
           "answer": "Jakarta",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Yakarta"
+          ]
         },
         {
           "answer": "Manille",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Manila"
+          ]
         },
         {
           "answer": "Téhéran",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Tehran"
+          ]
         },
         {
           "answer": "Bagdad",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Baghdad"
+          ]
         },
         {
           "answer": "Damas",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Damascus",
+            "Damasco"
+          ]
         },
         {
           "answer": "Pékin",
@@ -27142,7 +27947,8 @@
           "answer": "Naypyidaw",
           "tier": "t6",
           "aliases": [
-            "Nay Pyi Taw"
+            "Nay Pyi Taw",
+            "Naipyidó"
           ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
@@ -27154,7 +27960,10 @@
         {
           "answer": "Singapour",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Singapore",
+            "Singapur"
+          ]
         },
         {
           "answer": "Islamabad",
@@ -27165,41 +27974,52 @@
           "answer": "Dacca",
           "tier": "t3",
           "aliases": [
-            "Dhaka"
+            "Dhaka",
+            "Daca"
           ]
         },
         {
           "answer": "Katmandou",
           "tier": "t3",
           "aliases": [
-            "Kathmandu"
+            "Kathmandu",
+            "Katmandú"
           ]
         },
         {
           "answer": "Kaboul",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Kabul"
+          ]
         },
         {
           "answer": "Beyrouth",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Beirut"
+          ]
         },
         {
           "answer": "Jérusalem",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Jerusalén"
+          ]
         },
         {
           "answer": "Amman",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Amán"
+          ]
         },
         {
           "answer": "Riyad",
           "tier": "t3",
           "aliases": [
-            "Riyadh"
+            "Riyadh",
+            "Riad"
           ]
         },
         {
@@ -27225,7 +28045,9 @@
         {
           "answer": "Vientiane",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Vientián"
+          ]
         },
         {
           "answer": "Doha",
@@ -27235,17 +28057,26 @@
         {
           "answer": "Abou Dhabi",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Abu Dhabi",
+            "Abu Dabi"
+          ]
         },
         {
           "answer": "Oulan-Bator",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ulaanbaatar",
+            "Ulán Bator"
+          ]
         },
         {
           "answer": "Tachkent",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Tashkent",
+            "Taskent"
+          ]
         },
         {
           "answer": "Bakou",
@@ -27257,7 +28088,10 @@
         {
           "answer": "Tbilissi",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Tbilisi",
+            "Tiflis"
+          ]
         },
         {
           "answer": "Erevan",
@@ -27275,7 +28109,8 @@
           "answer": "Thimphou",
           "tier": "t4",
           "aliases": [
-            "Thimphu"
+            "Thimphu",
+            "Timbu"
           ]
         },
         {
@@ -27286,7 +28121,9 @@
         {
           "answer": "Sanaa",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Saná"
+          ]
         },
         {
           "answer": "Mascate",
@@ -27299,7 +28136,9 @@
           "answer": "Koweït",
           "tier": "t4",
           "aliases": [
-            "Koweït City"
+            "Koweït City",
+            "Kuwait City",
+            "Ciudad de Kuwait"
           ]
         },
         {
@@ -27318,23 +28157,32 @@
           "answer": "Achgabat",
           "tier": "t4",
           "aliases": [
-            "Ashgabat"
+            "Ashgabat",
+            "Asjabad"
           ]
         },
         {
           "answer": "Bichkek",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Bishkek",
+            "Biskek"
+          ]
         },
         {
           "answer": "Douchanbé",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Dushanbe",
+            "Dusambé"
+          ]
         },
         {
           "answer": "Nicosie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Nicosia"
+          ]
         },
         {
           "answer": "Bandar Seri Begawan",

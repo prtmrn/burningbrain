@@ -6518,21 +6518,27 @@
           "tier": "t1",
           "aliases": [
             "Jeu d'échecs",
-            "Echecs"
+            "Echecs",
+            "Chess",
+            "Ajedrez"
           ]
         },
         {
           "answer": "Dames",
           "tier": "t1",
           "aliases": [
-            "Jeu de dames"
+            "Jeu de dames",
+            "Checkers",
+            "Damas"
           ]
         },
         {
           "answer": "Jeu de l'oie",
           "tier": "t1",
           "aliases": [
-            "Oie"
+            "Oie",
+            "Game of the Goose",
+            "Juego de la oca"
           ]
         },
         {
@@ -6544,13 +6550,17 @@
           "answer": "Petits chevaux",
           "tier": "t1",
           "aliases": [
-            "Les petits chevaux"
+            "Les petits chevaux",
+            "Parchís"
           ]
         },
         {
           "answer": "Bataille",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "War",
+            "Guerra"
+          ]
         },
         {
           "answer": "Awalé",
@@ -6567,7 +6577,8 @@
           "tier": "t6",
           "aliases": [
             "Royal Game of Ur",
-            "Jeu d'Ur"
+            "Jeu d'Ur",
+            "Juego real de Ur"
           ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
@@ -6588,14 +6599,17 @@
         {
           "answer": "Manille",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Manilla"
+          ]
         },
         {
           "answer": "Président",
           "tier": "t3",
           "aliases": [
             "Le Président",
-            "Trou du cul"
+            "Trou du cul",
+            "Presidente"
           ]
         },
         {
@@ -6622,7 +6636,8 @@
           "tier": "t3",
           "aliases": [
             "Patience",
-            "Réussite"
+            "Réussite",
+            "Solitario"
           ]
         },
         {
@@ -6644,7 +6659,8 @@
           "answer": "Bésigue",
           "tier": "t3",
           "aliases": [
-            "Besigue"
+            "Besigue",
+            "Bezique"
           ]
         },
         {
@@ -6667,13 +6683,16 @@
           "tier": "t3",
           "aliases": [
             "8 américain",
-            "Crazy Eights"
+            "Crazy Eights",
+            "Ocho americano"
           ]
         },
         {
           "answer": "Nain jaune",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Yellow dwarf"
+          ]
         },
         {
           "answer": "Skat",
@@ -6703,7 +6722,9 @@
         {
           "answer": "Pinochle",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pinocle"
+          ]
         },
         {
           "answer": "Euchre",
@@ -6754,7 +6775,8 @@
           "answer": "Cœurs",
           "tier": "t3",
           "aliases": [
-            "Hearts"
+            "Hearts",
+            "Corazones"
           ]
         },
         {
@@ -6767,12 +6789,17 @@
         {
           "answer": "Pharaon",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pharaoh",
+            "Faraón"
+          ]
         },
         {
           "answer": "Quadrille",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Cuadrille"
+          ]
         },
         {
           "answer": "Ombre",
@@ -6827,7 +6854,9 @@
             "Moulin",
             "Marelle",
             "Jeu de marelle",
-            "Morris"
+            "Morris",
+            "Nine men's morris",
+            "Juego del molino"
           ]
         },
         {
@@ -6854,14 +6883,16 @@
           "tier": "t3",
           "aliases": [
             "Renard et poules",
-            "Fox and geese"
+            "Fox and geese",
+            "El zorro y las gallinas"
           ]
         },
         {
           "answer": "Peg solitaire",
           "tier": "t3",
           "aliases": [
-            "Solitaire à billes"
+            "Solitaire à billes",
+            "Solitario de clavijas"
           ]
         },
         {
@@ -6882,14 +6913,18 @@
           "answer": "Sept et demi",
           "tier": "t4",
           "aliases": [
-            "7 et demi"
+            "7 et demi",
+            "Seven and a half",
+            "Siete y medio"
           ]
         },
         {
           "answer": "Trente et un",
           "tier": "t4",
           "aliases": [
-            "31"
+            "31",
+            "Thirty-one",
+            "Treinta y uno"
           ]
         },
         {
@@ -6913,7 +6948,10 @@
         {
           "answer": "Rouge et noir",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Red and black",
+            "Rojo y negro"
+          ]
         },
         {
           "answer": "Barbu",
@@ -7606,33 +7644,41 @@
         {
           "answer": "Ski",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Skiing",
+            "Esquí"
+          ]
         },
         {
           "answer": "Snowboard",
           "tier": "t1",
           "aliases": [
-            "surf des neiges"
+            "surf des neiges",
+            "Snowboarding"
           ]
         },
         {
           "answer": "Surf",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Surfing"
+          ]
         },
         {
           "answer": "Skateboard",
           "tier": "t1",
           "aliases": [
             "skate",
-            "planche à roulettes"
+            "planche à roulettes",
+            "Skateboarding"
           ]
         },
         {
           "answer": "Planche à voile",
           "tier": "t1",
           "aliases": [
-            "windsurf"
+            "windsurf",
+            "Windsurfing"
           ]
         },
         {
@@ -7640,7 +7686,8 @@
           "tier": "t1",
           "aliases": [
             "kite surf",
-            "kite-surf"
+            "kite-surf",
+            "Kitesurfing"
           ]
         },
         {
@@ -7649,13 +7696,18 @@
           "aliases": [
             "rollers",
             "roller en ligne",
-            "patins en ligne"
+            "patins en ligne",
+            "Roller skating",
+            "Patinaje"
           ]
         },
         {
           "answer": "Ski nautique",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Water skiing",
+            "Esquí acuático"
+          ]
         },
         {
           "answer": "Luge",
@@ -7665,7 +7717,9 @@
         {
           "answer": "Wakeboard",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Wakeboarding"
+          ]
         },
         {
           "answer": "Bobsleigh",
@@ -7684,33 +7738,50 @@
         {
           "answer": "Ski alpin",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Alpine skiing",
+            "Esquí alpino"
+          ]
         },
         {
           "answer": "Ski de fond",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Cross-country skiing",
+            "Esquí de fondo"
+          ]
         },
         {
           "answer": "Saut à ski",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ski jumping",
+            "Salto de esquí"
+          ]
         },
         {
           "answer": "Patinage artistique",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Figure skating",
+            "Patinaje artístico"
+          ]
         },
         {
           "answer": "Patinage de vitesse",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Speed skating",
+            "Patinaje de velocidad"
+          ]
         },
         {
           "answer": "Patinage sur glace",
           "tier": "t3",
           "aliases": [
-            "patin à glace"
+            "patin à glace",
+            "Ice skating",
+            "Patinaje sobre hielo"
           ]
         },
         {
@@ -7721,19 +7792,25 @@
         {
           "answer": "Bodyboard",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Bodyboarding"
+          ]
         },
         {
           "answer": "Longboard",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Longboarding"
+          ]
         },
         {
           "answer": "Stand up paddle",
           "tier": "t3",
           "aliases": [
             "paddle",
-            "SUP"
+            "SUP",
+            "Stand-up paddleboarding",
+            "Paddle surf"
           ]
         },
         {
@@ -7741,14 +7818,18 @@
           "tier": "t3",
           "aliases": [
             "ski alpinisme",
-            "skimo"
+            "skimo",
+            "Ski touring",
+            "Esquí de travesía"
           ]
         },
         {
           "answer": "Ski acrobatique",
           "tier": "t3",
           "aliases": [
-            "ski freestyle"
+            "ski freestyle",
+            "Freestyle skiing",
+            "Esquí acrobático"
           ]
         },
         {
@@ -7761,45 +7842,63 @@
         {
           "answer": "Ski cross",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Esquí cross"
+          ]
         },
         {
           "answer": "Short-track",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Short track speed skating",
+            "Patinaje de velocidad en pista corta"
+          ]
         },
         {
           "answer": "Danse sur glace",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ice dance",
+            "Danza sobre hielo"
+          ]
         },
         {
           "answer": "Télémark",
           "tier": "t3",
           "aliases": [
-            "telemark"
+            "telemark",
+            "Telemark skiing"
           ]
         },
         {
           "answer": "Snowkite",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Snowkiting"
+          ]
         },
         {
           "answer": "Ski de bosses",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Moguls skiing",
+            "Esquí de baches"
+          ]
         },
         {
           "answer": "Trottinette freestyle",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Freestyle scootering",
+            "Patinete freestyle"
+          ]
         },
         {
           "answer": "Wingfoil",
           "tier": "t4",
           "aliases": [
-            "wing foil"
+            "wing foil",
+            "Wingfoiling"
           ]
         },
         {
@@ -7807,62 +7906,83 @@
           "tier": "t4",
           "aliases": [
             "hydrofoil",
-            "foilboard"
+            "foilboard",
+            "Foiling"
           ]
         },
         {
           "answer": "Kneeboard",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Kneeboarding"
+          ]
         },
         {
           "answer": "Wakeskate",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Wakeskating"
+          ]
         },
         {
           "answer": "Monoski",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Monoskiing",
+            "Monoesquí"
+          ]
         },
         {
           "answer": "Skibob",
           "tier": "t4",
           "aliases": [
-            "ski-bob"
+            "ski-bob",
+            "Skibobbing"
           ]
         },
         {
           "answer": "Mountainboard",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Mountainboarding"
+          ]
         },
         {
           "answer": "Sandboard",
           "tier": "t4",
           "aliases": [
-            "sandsurf"
+            "sandsurf",
+            "Sandboarding"
           ]
         },
         {
           "answer": "Skimboard",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Skimboarding"
+          ]
         },
         {
           "answer": "Bodysurf",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Bodysurfing"
+          ]
         },
         {
           "answer": "Wakesurf",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Wakesurfing"
+          ]
         },
         {
           "answer": "Patinage synchronisé",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Synchronized skating",
+            "Patinaje sincronizado"
+          ]
         },
         {
           "answer": "Street luge",
@@ -7874,7 +7994,10 @@
         {
           "answer": "Ski de vitesse",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Speed skiing",
+            "Esquí de velocidad"
+          ]
         },
         {
           "answer": "Speed riding",
@@ -7899,7 +8022,9 @@
         {
           "answer": "Kitefoil",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Kitefoiling"
+          ]
         },
         {
           "answer": "Ski-joëring",
@@ -7920,7 +8045,9 @@
           "aliases": [
             "JO",
             "Jeux Olympiques",
-            "olympiades"
+            "olympiades",
+            "Olympic Games",
+            "Juegos Olímpicos"
           ]
         },
         {
@@ -7929,7 +8056,9 @@
           "aliases": [
             "Coupe du monde",
             "Mondial de football",
-            "Mondial"
+            "Mondial",
+            "FIFA World Cup",
+            "Copa Mundial de Fútbol"
           ]
         },
         {
@@ -7937,7 +8066,9 @@
           "tier": "t1",
           "aliases": [
             "Euro",
-            "Euro de football"
+            "Euro de football",
+            "UEFA European Championship",
+            "Eurocopa"
           ]
         },
         {
@@ -7945,18 +8076,25 @@
           "tier": "t1",
           "aliases": [
             "Ligue des champions de l'UEFA",
-            "Champions League"
+            "Champions League",
+            "Liga de Campeones"
           ]
         },
         {
           "answer": "Coupe du monde de rugby",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Rugby World Cup",
+            "Copa Mundial de Rugby"
+          ]
         },
         {
           "answer": "Coupe Davis",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Davis Cup",
+            "Copa Davis"
+          ]
         },
         {
           "answer": "Ryder Cup",
@@ -7966,13 +8104,18 @@
         {
           "answer": "Jeux paralympiques",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Paralympic Games",
+            "Juegos Paralímpicos"
+          ]
         },
         {
           "answer": "Coupe d'Afrique des nations",
           "tier": "t2",
           "aliases": [
-            "CAN"
+            "CAN",
+            "Africa Cup of Nations",
+            "Copa Africana de Naciones"
           ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
@@ -7986,7 +8129,9 @@
           "answer": "Jeux olympiques d'hiver",
           "tier": "t3",
           "aliases": [
-            "JO d'hiver"
+            "JO d'hiver",
+            "Winter Olympic Games",
+            "Juegos Olímpicos de Invierno"
           ]
         },
         {
@@ -8000,63 +8145,86 @@
           "answer": "Ligue Europa",
           "tier": "t3",
           "aliases": [
-            "Europa League"
+            "Europa League",
+            "Liga Europa"
           ]
         },
         {
           "answer": "Tournoi des Six Nations",
           "tier": "t3",
           "aliases": [
-            "Six Nations"
+            "Six Nations",
+            "Six Nations Championship",
+            "Torneo de las Seis Naciones"
           ]
         },
         {
           "answer": "Coupe du monde féminine de football",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "FIFA Women's World Cup",
+            "Copa Mundial Femenina de Fútbol"
+          ]
         },
         {
           "answer": "Championnat du monde de Formule 1",
           "tier": "t3",
           "aliases": [
             "Formule 1",
-            "F1"
+            "F1",
+            "Formula One World Championship",
+            "Campeonato Mundial de Fórmula 1"
           ]
         },
         {
           "answer": "Coupe du monde de handball",
           "tier": "t3",
           "aliases": [
-            "Mondial de handball"
+            "Mondial de handball",
+            "Handball World Cup",
+            "Mundial de balonmano"
           ]
         },
         {
           "answer": "Coupe du monde de basket-ball",
           "tier": "t3",
           "aliases": [
-            "Mondial de basket"
+            "Mondial de basket",
+            "Basketball World Cup",
+            "Mundial de baloncesto"
           ]
         },
         {
           "answer": "Championnats du monde d'athlétisme",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "World Athletics Championships",
+            "Campeonatos Mundiales de Atletismo"
+          ]
         },
         {
           "answer": "Jeux du Commonwealth",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Commonwealth Games",
+            "Juegos de la Mancomunidad"
+          ]
         },
         {
           "answer": "Coupe des confédérations",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "FIFA Confederations Cup",
+            "Copa Confederaciones"
+          ]
         },
         {
           "answer": "Ligue des nations",
           "tier": "t3",
           "aliases": [
-            "Ligue des nations de l'UEFA"
+            "Ligue des nations de l'UEFA",
+            "Nations League",
+            "Liga de Naciones"
           ]
         },
         {
@@ -8069,7 +8237,10 @@
         {
           "answer": "Coupe du monde de cricket",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Cricket World Cup",
+            "Copa Mundial de Cricket"
+          ]
         },
         {
           "answer": "Championnat d'Europe de basket-ball",
@@ -8082,7 +8253,10 @@
         {
           "answer": "Coupe d'Asie des nations",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "AFC Asian Cup",
+            "Copa Asiática"
+          ]
         },
         {
           "answer": "Copa Libertadores",
@@ -8094,50 +8268,75 @@
         {
           "answer": "Championnats du monde de natation",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "World Aquatics Championships",
+            "Campeonatos Mundiales de Natación"
+          ]
         },
         {
           "answer": "Championnats du monde de cyclisme sur route",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "UCI Road World Championships",
+            "Campeonatos Mundiales de Ciclismo en Ruta"
+          ]
         },
         {
           "answer": "Billie Jean King Cup",
           "tier": "t3",
           "aliases": [
             "Fed Cup",
-            "Coupe de la Fédération"
+            "Coupe de la Fédération",
+            "Copa Billie Jean King"
           ]
         },
         {
           "answer": "Coupe du monde de ski alpin",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Alpine Skiing World Cup",
+            "Copa del Mundo de esquí alpino"
+          ]
         },
         {
           "answer": "Jeux asiatiques",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Asian Games",
+            "Juegos Asiáticos"
+          ]
         },
         {
           "answer": "Jeux panaméricains",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Pan American Games",
+            "Juegos Panamericanos"
+          ]
         },
         {
           "answer": "Jeux méditerranéens",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Mediterranean Games",
+            "Juegos Mediterráneos"
+          ]
         },
         {
           "answer": "Jeux de la Francophonie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Francophone Games",
+            "Juegos de la Francofonía"
+          ]
         },
         {
           "answer": "Jeux olympiques de la jeunesse",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Youth Olympic Games",
+            "Juegos Olímpicos de la Juventud"
+          ]
         },
         {
           "answer": "Solheim Cup",
@@ -8152,7 +8351,10 @@
         {
           "answer": "Coupe du monde des clubs",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "FIFA Club World Cup",
+            "Mundial de Clubes"
+          ]
         },
         {
           "answer": "Rugby Championship",
@@ -8165,129 +8367,182 @@
           "answer": "Champions Cup",
           "tier": "t4",
           "aliases": [
-            "Coupe d'Europe de rugby"
+            "Coupe d'Europe de rugby",
+            "European Rugby Champions Cup"
           ]
         },
         {
           "answer": "Gold Cup",
           "tier": "t4",
           "aliases": [
-            "Coupe d'or de la CONCACAF"
+            "Coupe d'or de la CONCACAF",
+            "Copa de Oro"
           ]
         },
         {
           "answer": "Championnat du monde de MotoGP",
           "tier": "t4",
           "aliases": [
-            "MotoGP"
+            "MotoGP",
+            "MotoGP World Championship",
+            "Campeonato Mundial de MotoGP"
           ]
         },
         {
           "answer": "Championnats du monde de gymnastique",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "World Gymnastics Championships",
+            "Campeonatos Mundiales de Gimnasia"
+          ]
         },
         {
           "answer": "Mondial de volley-ball",
           "tier": "t4",
           "aliases": [
-            "Championnat du monde de volley-ball"
+            "Championnat du monde de volley-ball",
+            "Volleyball World Championship",
+            "Mundial de voleibol"
           ]
         },
         {
           "answer": "Championnat d'Europe d'athlétisme",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "European Athletics Championships",
+            "Campeonatos de Europa de Atletismo"
+          ]
         },
         {
           "answer": "Supercoupe de l'UEFA",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "UEFA Super Cup",
+            "Supercopa de la UEFA"
+          ]
         },
         {
           "answer": "Coupe intercontinentale",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Intercontinental Cup",
+            "Copa Intercontinental"
+          ]
         },
         {
           "answer": "Ligue des champions de la CAF",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "CAF Champions League",
+            "Liga de Campeones de la CAF"
+          ]
         },
         {
           "answer": "Coupe du monde de futsal",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "FIFA Futsal World Cup",
+            "Mundial de Futsal"
+          ]
         },
         {
           "answer": "Coupe du monde de beach soccer",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Beach Soccer World Cup",
+            "Mundial de fútbol playa"
+          ]
         },
         {
           "answer": "Coupe du monde de hockey sur glace",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "IIHF World Championship",
+            "Mundial de hockey sobre hielo"
+          ]
         },
         {
           "answer": "Championnats du monde d'escrime",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "World Fencing Championships",
+            "Campeonatos Mundiales de Esgrima"
+          ]
         },
         {
           "answer": "Universiade",
           "tier": "t5",
           "aliases": [
-            "Jeux universitaires mondiaux"
+            "Jeux universitaires mondiaux",
+            "Universiada"
           ]
         },
         {
           "answer": "Jeux africains",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "African Games",
+            "Juegos Africanos"
+          ]
         },
         {
           "answer": "Jeux d'Asie du Sud-Est",
           "tier": "t5",
           "aliases": [
-            "SEA Games"
+            "SEA Games",
+            "Southeast Asian Games",
+            "Juegos del Sudeste Asiático"
           ]
         },
         {
           "answer": "Jeux olympiques spéciaux",
           "tier": "t5",
           "aliases": [
-            "Special Olympics"
+            "Special Olympics",
+            "Special Olympics World Games",
+            "Juegos Olímpicos Especiales"
           ]
         },
         {
           "answer": "Jeux mondiaux militaires",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "World Military Games",
+            "Juegos Mundiales Militares"
+          ]
         },
         {
           "answer": "Coupe Laver",
           "tier": "t5",
           "aliases": [
-            "Laver Cup"
+            "Laver Cup",
+            "Copa Laver"
           ]
         },
         {
           "answer": "24 Heures du Mans",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "24 Hours of Le Mans",
+            "24 Horas de Le Mans"
+          ]
         },
         {
           "answer": "Rallye Dakar",
           "tier": "t5",
           "aliases": [
-            "Dakar"
+            "Dakar",
+            "Dakar Rally",
+            "Rally Dakar"
           ]
         },
         {
           "answer": "Championnat d'Europe de handball",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "EHF European Handball Championship",
+            "Campeonato de Europa de balonmano"
+          ]
         }
       ]
     },
@@ -33401,32 +33656,42 @@
         {
           "answer": "Natation",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Swimming",
+            "Natación"
+          ]
         },
         {
           "answer": "Gymnastique",
           "tier": "t1",
           "aliases": [
-            "gymnastique artistique"
+            "gymnastique artistique",
+            "Gymnastics",
+            "Gimnasia"
           ]
         },
         {
           "answer": "Football",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Fútbol"
+          ]
         },
         {
           "answer": "Basket-ball",
           "tier": "t1",
           "aliases": [
             "basketball",
-            "basket"
+            "basket",
+            "Baloncesto"
           ]
         },
         {
           "answer": "Tennis",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Tenis"
+          ]
         },
         {
           "answer": "Judo",
@@ -33436,47 +33701,68 @@
         {
           "answer": "Cyclisme",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Cycling",
+            "Ciclismo"
+          ]
         },
         {
           "answer": "Boxe",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Boxing",
+            "Boxeo"
+          ]
         },
         {
           "answer": "Escrime",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Fencing",
+            "Esgrima"
+          ]
         },
         {
           "answer": "Athlétisme",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "Athletics",
+            "Atletismo"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "Tir à la corde",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "Tug of war",
+            "Tira de la cuerda"
+          ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
           "answer": "Aviron",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Rowing",
+            "Remo"
+          ]
         },
         {
           "answer": "Équitation",
           "tier": "t3",
           "aliases": [
-            "sports équestres"
+            "sports équestres",
+            "Equestrian",
+            "Hípica"
           ]
         },
         {
           "answer": "Handball",
           "tier": "t3",
           "aliases": [
-            "hand"
+            "hand",
+            "Balonmano"
           ]
         },
         {
@@ -33484,7 +33770,8 @@
           "tier": "t3",
           "aliases": [
             "volleyball",
-            "volley"
+            "volley",
+            "Voleibol"
           ]
         },
         {
@@ -33492,29 +33779,42 @@
           "tier": "t3",
           "aliases": [
             "rugby à 7",
-            "rugby à VII"
+            "rugby à VII",
+            "Rugby sevens",
+            "Rugby a siete"
           ]
         },
         {
           "answer": "Tir à l'arc",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Archery",
+            "Tiro con arco"
+          ]
         },
         {
           "answer": "Haltérophilie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Weightlifting",
+            "Halterofilia"
+          ]
         },
         {
           "answer": "Lutte",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Wrestling",
+            "Lucha"
+          ]
         },
         {
           "answer": "Tennis de table",
           "tier": "t3",
           "aliases": [
-            "ping-pong"
+            "ping-pong",
+            "Table tennis",
+            "Tenis de mesa"
           ]
         },
         {
@@ -33531,7 +33831,9 @@
           "answer": "Hockey sur gazon",
           "tier": "t3",
           "aliases": [
-            "hockey"
+            "hockey",
+            "Field hockey",
+            "Hockey sobre hierba"
           ]
         },
         {
@@ -33544,30 +33846,43 @@
         {
           "answer": "Plongeon",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Diving",
+            "Saltos"
+          ]
         },
         {
           "answer": "Voile",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sailing",
+            "Vela"
+          ]
         },
         {
           "answer": "Canoë-kayak",
           "tier": "t3",
           "aliases": [
             "canoë",
-            "kayak"
+            "kayak",
+            "Canoeing",
+            "Piragüismo"
           ]
         },
         {
           "answer": "Triathlon",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Triatlón"
+          ]
         },
         {
           "answer": "Pentathlon moderne",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Modern pentathlon",
+            "Pentatlón moderno"
+          ]
         },
         {
           "answer": "Taekwondo",
@@ -33578,37 +33893,50 @@
           "answer": "Tir",
           "tier": "t3",
           "aliases": [
-            "tir sportif"
+            "tir sportif",
+            "Shooting",
+            "Tiro"
           ]
         },
         {
           "answer": "Gymnastique rythmique",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Rhythmic gymnastics",
+            "Gimnasia rítmica"
+          ]
         },
         {
           "answer": "Natation artistique",
           "tier": "t3",
           "aliases": [
             "natation synchronisée",
-            "nage synchronisée"
+            "nage synchronisée",
+            "Artistic swimming",
+            "Natación artística"
           ]
         },
         {
           "answer": "Skateboard",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Skateboarding"
+          ]
         },
         {
           "answer": "Surf",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Surfing"
+          ]
         },
         {
           "answer": "Escalade",
           "tier": "t3",
           "aliases": [
-            "escalade sportive"
+            "escalade sportive",
+            "Sport climbing",
+            "Escalada"
           ]
         },
         {
@@ -33636,44 +33964,58 @@
           "tier": "t3",
           "aliases": [
             "cyclisme VTT",
-            "mountain bike"
+            "mountain bike",
+            "Mountain biking",
+            "Ciclismo de montaña"
           ]
         },
         {
           "answer": "Baseball",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Béisbol"
+          ]
         },
         {
           "answer": "Softball",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Sóftbol"
+          ]
         },
         {
           "answer": "Beach-volley",
           "tier": "t3",
           "aliases": [
-            "volley de plage"
+            "volley de plage",
+            "Beach volleyball",
+            "Voleibol de playa"
           ]
         },
         {
           "answer": "Basket 3x3",
           "tier": "t3",
           "aliases": [
-            "3x3"
+            "3x3",
+            "3x3 basketball",
+            "Baloncesto 3x3"
           ]
         },
         {
           "answer": "Dressage",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Doma clásica"
+          ]
         },
         {
           "answer": "Saut d'obstacles",
           "tier": "t4",
           "aliases": [
             "CSO",
-            "jumping"
+            "jumping",
+            "Show jumping",
+            "Saltos ecuestres"
           ]
         },
         {
@@ -33681,21 +34023,27 @@
           "tier": "t4",
           "aliases": [
             "complet",
-            "CCE"
+            "CCE",
+            "Eventing",
+            "Concurso completo"
           ]
         },
         {
           "answer": "Cyclisme sur piste",
           "tier": "t4",
           "aliases": [
-            "piste"
+            "piste",
+            "Track cycling",
+            "Ciclismo en pista"
           ]
         },
         {
           "answer": "Cyclisme sur route",
           "tier": "t4",
           "aliases": [
-            "route"
+            "route",
+            "Road cycling",
+            "Ciclismo en ruta"
           ]
         },
         {
@@ -33707,49 +34055,67 @@
           "answer": "Slalom en canoë",
           "tier": "t4",
           "aliases": [
-            "canoë slalom"
+            "canoë slalom",
+            "Eslalon en canoa"
           ]
         },
         {
           "answer": "Canoë sprint",
           "tier": "t4",
           "aliases": [
-            "course en ligne"
+            "course en ligne",
+            "Piragüismo de velocidad"
           ]
         },
         {
           "answer": "Lutte gréco-romaine",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Greco-Roman wrestling",
+            "Lucha grecorromana"
+          ]
         },
         {
           "answer": "Lutte libre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Freestyle wrestling",
+            "Lucha libre"
+          ]
         },
         {
           "answer": "Nage en eau libre",
           "tier": "t4",
           "aliases": [
-            "marathon de natation"
+            "marathon de natation",
+            "Open water swimming",
+            "Natación en aguas abiertas"
           ]
         },
         {
           "answer": "Tir à la carabine",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Rifle shooting",
+            "Tiro con carabina"
+          ]
         },
         {
           "answer": "Tir au pistolet",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Pistol shooting",
+            "Tiro con pistola"
+          ]
         },
         {
           "answer": "Ball-trap",
           "tier": "t4",
           "aliases": [
             "fosse olympique",
-            "skeet"
+            "skeet",
+            "Trap shooting",
+            "Tiro al plato"
           ]
         },
         {
@@ -33770,12 +34136,17 @@
         {
           "answer": "Jeu de paume",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Real tennis"
+          ]
         },
         {
           "answer": "Pelote basque",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Jai alai",
+            "Pelota vasca"
+          ]
         },
         {
           "answer": "Roque",
@@ -33791,13 +34162,17 @@
           "answer": "Rugby à XV",
           "tier": "t4",
           "aliases": [
-            "rugby à quinze"
+            "rugby à quinze",
+            "Rugby union"
           ]
         },
         {
           "answer": "Motonautisme",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Motorboating",
+            "Motonáutica"
+          ]
         },
         {
           "answer": "Racquets",
@@ -33809,12 +34184,18 @@
         {
           "answer": "Plongeon de haut vol",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "High diving",
+            "Saltos de gran altura"
+          ]
         },
         {
           "answer": "Tir sur cible mobile",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Running target shooting",
+            "Tiro a blanco móvil"
+          ]
         }
       ]
     },
@@ -33825,24 +34206,34 @@
         {
           "answer": "Patinage artistique",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Figure skating",
+            "Patinaje artístico"
+          ]
         },
         {
           "answer": "Hockey sur glace",
           "tier": "t1",
           "aliases": [
-            "hockey"
+            "hockey",
+            "Ice hockey",
+            "Hockey sobre hielo"
           ]
         },
         {
           "answer": "Biathlon",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Biatlón"
+          ]
         },
         {
           "answer": "Ski de fond",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Cross-country skiing",
+            "Esquí de fondo"
+          ]
         },
         {
           "answer": "Bobsleigh",
@@ -33854,26 +34245,35 @@
         {
           "answer": "Snowboard",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Snowboarding"
+          ]
         },
         {
           "answer": "Saut à ski",
           "tier": "t1",
           "aliases": [
-            "saut à skis"
+            "saut à skis",
+            "Ski jumping",
+            "Salto de esquí"
           ]
         },
         {
           "answer": "Ski alpin",
           "tier": "t2",
-          "aliases": [],
+          "aliases": [
+            "Alpine skiing",
+            "Esquí alpino"
+          ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "Patrouille militaire",
           "tier": "t6",
           "aliases": [
-            "patrouille de ski"
+            "patrouille de ski",
+            "Military patrol",
+            "Patrulla militar"
           ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
@@ -33895,38 +34295,53 @@
         {
           "answer": "Patinage de vitesse",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Speed skating",
+            "Patinaje de velocidad"
+          ]
         },
         {
           "answer": "Short-track",
           "tier": "t3",
           "aliases": [
             "short track",
-            "patinage de vitesse sur piste courte"
+            "patinage de vitesse sur piste courte",
+            "Short track speed skating",
+            "Patinaje en pista corta"
           ]
         },
         {
           "answer": "Combiné nordique",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Nordic combined",
+            "Combinada nórdica"
+          ]
         },
         {
           "answer": "Ski acrobatique",
           "tier": "t3",
           "aliases": [
             "freestyle",
-            "ski freestyle"
+            "ski freestyle",
+            "Freestyle skiing",
+            "Esquí acrobático"
           ]
         },
         {
           "answer": "Slalom",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Eslalon"
+          ]
         },
         {
           "answer": "Slalom géant",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Giant slalom",
+            "Eslalon gigante"
+          ]
         },
         {
           "answer": "Super-G",
@@ -33938,20 +34353,26 @@
         {
           "answer": "Descente",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Downhill",
+            "Descenso"
+          ]
         },
         {
           "answer": "Combiné alpin",
           "tier": "t3",
           "aliases": [
-            "combiné"
+            "combiné",
+            "Alpine combined",
+            "Combinada alpina"
           ]
         },
         {
           "answer": "Half-pipe",
           "tier": "t3",
           "aliases": [
-            "halfpipe"
+            "halfpipe",
+            "Medio tubo"
           ]
         },
         {
@@ -33975,96 +34396,139 @@
           "answer": "Ski cross",
           "tier": "t3",
           "aliases": [
-            "skicross"
+            "skicross",
+            "Esquí cross"
           ]
         },
         {
           "answer": "Ski de bosses",
           "tier": "t3",
           "aliases": [
-            "bosses"
+            "bosses",
+            "Moguls",
+            "Esquí de baches"
           ]
         },
         {
           "answer": "Sauts acrobatiques",
           "tier": "t3",
           "aliases": [
-            "saut acrobatique"
+            "saut acrobatique",
+            "Aerials",
+            "Saltos acrobáticos"
           ]
         },
         {
           "answer": "Danse sur glace",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Ice dance",
+            "Danza sobre hielo"
+          ]
         },
         {
           "answer": "Patinage en couple",
           "tier": "t3",
           "aliases": [
-            "couple"
+            "couple",
+            "Pairs skating",
+            "Patinaje en parejas"
           ]
         },
         {
           "answer": "Skiathlon",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Skiatlón"
+          ]
         },
         {
           "answer": "Poursuite",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pursuit",
+            "Persecución"
+          ]
         },
         {
           "answer": "Slalom parallèle",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Parallel slalom",
+            "Eslalon paralelo"
+          ]
         },
         {
           "answer": "Double mixte",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mixed doubles",
+            "Dobles mixtos"
+          ]
         },
         {
           "answer": "Mass start",
           "tier": "t4",
           "aliases": [
-            "départ en ligne"
+            "départ en ligne",
+            "Salida en masa"
           ]
         },
         {
           "answer": "Relais",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Relay",
+            "Relevos"
+          ]
         },
         {
           "answer": "Sprint par équipes",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Team sprint",
+            "Sprint por equipos"
+          ]
         },
         {
           "answer": "Grand tremplin",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Large hill",
+            "Trampolín grande"
+          ]
         },
         {
           "answer": "Tremplin normal",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Normal hill",
+            "Trampolín normal"
+          ]
         },
         {
           "answer": "Slalom géant parallèle",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Parallel giant slalom",
+            "Eslalon gigante paralelo"
+          ]
         },
         {
           "answer": "Bob à quatre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Four-man bobsleigh",
+            "Bob a cuatro"
+          ]
         },
         {
           "answer": "Bob à deux",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Two-man bobsleigh",
+            "Bob a dos"
+          ]
         },
         {
           "answer": "Monobob",
@@ -34074,44 +34538,66 @@
         {
           "answer": "Poursuite par équipes",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Team pursuit",
+            "Persecución por equipos"
+          ]
         },
         {
           "answer": "Style libre",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Estilo libre"
+          ]
         },
         {
           "answer": "Style classique",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Classic style",
+            "Estilo clásico"
+          ]
         },
         {
           "answer": "Relais mixte",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Mixed relay",
+            "Relevo mixto"
+          ]
         },
         {
           "answer": "Luge double",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Doubles luge",
+            "Luge doble"
+          ]
         },
         {
           "answer": "Épreuve par équipes",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Team event",
+            "Prueba por equipos"
+          ]
         },
         {
           "answer": "Ski alpinisme",
           "tier": "t5",
           "aliases": [
-            "ski-alpinisme"
+            "ski-alpinisme",
+            "Ski mountaineering",
+            "Esquí de montaña"
           ]
         },
         {
           "answer": "Bosses en parallèle",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Parallel moguls",
+            "Baches en paralelo"
+          ]
         }
       ]
     },
@@ -35113,7 +35599,10 @@
         {
           "answer": "Bataille",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "War",
+            "Guerra"
+          ]
         },
         {
           "answer": "Uno",
@@ -35123,7 +35612,9 @@
         {
           "answer": "Rami",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Rummy"
+          ]
         },
         {
           "answer": "Bridge",
@@ -35135,7 +35626,8 @@
           "tier": "t1",
           "aliases": [
             "patience",
-            "réussite"
+            "réussite",
+            "Solitario"
           ]
         },
         {
@@ -35156,7 +35648,9 @@
           "answer": "Huit américain",
           "tier": "t3",
           "aliases": [
-            "8 américain"
+            "8 américain",
+            "Crazy Eights",
+            "Ocho locos"
           ]
         },
         {
@@ -35164,7 +35658,9 @@
           "tier": "t3",
           "aliases": [
             "7 familles",
-            "jeu des 7 familles"
+            "jeu des 7 familles",
+            "Happy Families",
+            "Siete familias"
           ]
         },
         {
@@ -35182,12 +35678,16 @@
         {
           "answer": "Président",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Presidente"
+          ]
         },
         {
           "answer": "Manille",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Manilla"
+          ]
         },
         {
           "answer": "Blackjack",
@@ -35298,7 +35798,8 @@
           "tier": "t3",
           "aliases": [
             "jeu des coeurs",
-            "Hearts"
+            "Hearts",
+            "Corazones"
           ]
         },
         {
@@ -35336,7 +35837,9 @@
         {
           "answer": "Tressette",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Tresillo"
+          ]
         },
         {
           "answer": "Truco",
@@ -35356,7 +35859,10 @@
         {
           "answer": "Pharaon",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Pharaoh",
+            "Faraón"
+          ]
         },
         {
           "answer": "Chemin de fer",
@@ -35384,7 +35890,9 @@
         {
           "answer": "Pinochle",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Pinocle"
+          ]
         },
         {
           "answer": "Pique",
@@ -35406,7 +35914,9 @@
         {
           "answer": "Trente et quarante",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Treinta y cuarenta"
+          ]
         },
         {
           "answer": "Macao",
@@ -35422,7 +35932,9 @@
           "answer": "Sept et demi",
           "tier": "t4",
           "aliases": [
-            "7 et demi"
+            "7 et demi",
+            "Seven and a half",
+            "Siete y medio"
           ]
         },
         {
@@ -35469,23 +35981,34 @@
         {
           "answer": "Puissance 4",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Connect Four",
+            "Conecta 4"
+          ]
         },
         {
           "answer": "Jeu de l'oie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "The Game of the Goose",
+            "Juego de la oca"
+          ]
         },
         {
           "answer": "Échecs",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Chess",
+            "Ajedrez"
+          ]
         },
         {
           "answer": "Dames",
           "tier": "t1",
           "aliases": [
-            "jeu de dames"
+            "jeu de dames",
+            "Checkers",
+            "Damas"
           ]
         },
         {
@@ -35497,7 +36020,9 @@
           "answer": "Petits chevaux",
           "tier": "t1",
           "aliases": [
-            "jeu des petits chevaux"
+            "jeu des petits chevaux",
+            "Little Horses",
+            "Caballitos"
           ]
         },
         {
@@ -35518,7 +36043,9 @@
           "answer": "Les Colons de Catane",
           "tier": "t3",
           "aliases": [
-            "Catan"
+            "Catan",
+            "The Settlers of Catan",
+            "Los Colonos de Catán"
           ]
         },
         {
@@ -35539,7 +36066,10 @@
         {
           "answer": "Bataille navale",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Battleship",
+            "Hundir la flota"
+          ]
         },
         {
           "answer": "Pictionary",
@@ -35549,7 +36079,9 @@
         {
           "answer": "Taboo",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Tabú"
+          ]
         },
         {
           "answer": "Time's Up",
@@ -35569,13 +36101,16 @@
         {
           "answer": "Mikado",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pick-up sticks"
+          ]
         },
         {
           "answer": "Dominos",
           "tier": "t3",
           "aliases": [
-            "domino"
+            "domino",
+            "Dominoes"
           ]
         },
         {
@@ -35601,7 +36136,8 @@
           "answer": "Othello",
           "tier": "t3",
           "aliases": [
-            "Reversi"
+            "Reversi",
+            "Otelo"
           ]
         },
         {
@@ -35630,7 +36166,8 @@
           "answer": "Les Aventuriers du rail",
           "tier": "t3",
           "aliases": [
-            "Ticket to Ride"
+            "Ticket to Ride",
+            "Aventureros al tren"
           ]
         },
         {
@@ -35682,7 +36219,9 @@
           "answer": "Jeu de la vie",
           "tier": "t3",
           "aliases": [
-            "Destins"
+            "Destins",
+            "Game of Life",
+            "Juego de la vida"
           ]
         },
         {
@@ -35690,7 +36229,9 @@
           "tier": "t3",
           "aliases": [
             "Loup-garou",
-            "Loups-garous"
+            "Loups-garous",
+            "Werewolves of Miller's Hollow",
+            "Hombres lobo de Castronegro"
           ]
         },
         {
@@ -35711,7 +36252,10 @@
         {
           "answer": "Le Labyrinthe",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "The Labyrinth",
+            "El laberinto"
+          ]
         },
         {
           "answer": "Bonne Paye",
@@ -35721,7 +36265,10 @@
         {
           "answer": "Serpents et échelles",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Snakes and Ladders",
+            "Serpientes y escaleras"
+          ]
         },
         {
           "answer": "Memory",
@@ -35798,7 +36345,10 @@
         {
           "answer": "Dames chinoises",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Chinese checkers",
+            "Damas chinas"
+          ]
         },
         {
           "answer": "Blokus",

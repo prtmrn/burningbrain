@@ -20,7 +20,10 @@ const LEADING_ARTICLES: ReadonlySet<string> = new Set([
 export function normalize(input: string): string {
   // 1. trim + lowercase + NFC
   let s = input.trim().toLowerCase().normalize('NFC');
-  // 2. pliage diacritiques : NFD puis suppression des marques combinantes
+  // 2. lettres sans décomposition Unicode (islandais, scandinave, polonais…) puis
+  //    pliage diacritiques : NFD puis suppression des marques combinantes
+  s = s.replace(/ð/g, 'd').replace(/þ/g, 'th').replace(/ø/g, 'o').replace(/ł/g, 'l')
+    .replace(/đ/g, 'd').replace(/æ/g, 'ae').replace(/œ/g, 'oe').replace(/ß/g, 'ss');
   s = s.normalize('NFD').replace(/\p{M}/gu, '');
   // 3. tirets / apostrophes → espaces (variantes typographiques incluses)
   s = s.replace(/[\-‐‑‒–—―'’`´ʼ]/g, ' ');

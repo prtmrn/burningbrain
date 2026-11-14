@@ -26,6 +26,7 @@ TIER_NEW = "t3"
 
 
 def norm(s: str) -> str:
+    s = s.lower().replace("ð", "d").replace("þ", "th").replace("ø", "o").replace("ł", "l").replace("đ", "d").replace("æ", "ae").replace("œ", "oe").replace("ß", "ss")
     s = unicodedata.normalize("NFKD", s)
     s = "".join(c for c in s if not unicodedata.combining(c))
     s = s.lower().replace("’", "'")

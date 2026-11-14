@@ -3163,7 +3163,9 @@
             "Grande Guerre",
             "WWI",
             "Guerre de 14-18",
-            "1ère Guerre mondiale"
+            "1ère Guerre mondiale",
+            "World War I",
+            "Primera Guerra Mundial"
           ]
         },
         {
@@ -3173,46 +3175,67 @@
             "Deuxième Guerre mondiale",
             "WWII",
             "Guerre de 39-45",
-            "2nde Guerre mondiale"
+            "2nde Guerre mondiale",
+            "World War II",
+            "Segunda Guerra Mundial"
           ]
         },
         {
           "answer": "Guerre du Vietnam",
           "tier": "t1",
           "aliases": [
-            "Guerre du Viêt Nam"
+            "Guerre du Viêt Nam",
+            "Vietnam War",
+            "Guerra de Vietnam"
           ]
         },
         {
           "answer": "Guerre de Corée",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Korean War",
+            "Guerra de Corea"
+          ]
         },
         {
           "answer": "Guerre d'Algérie",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Algerian War",
+            "Guerra de Argelia"
+          ]
         },
         {
           "answer": "Guerre froide",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Cold War",
+            "Guerra Fría"
+          ]
         },
         {
           "answer": "Guerre d'Indochine",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "First Indochina War",
+            "Primera Guerra de Indochina"
+          ]
         },
         {
           "answer": "Guerre du Golfe",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Gulf War",
+            "Guerra del Golfo"
+          ]
         },
         {
           "answer": "Guerre civile espagnole",
           "tier": "t1",
           "aliases": [
-            "Guerre d'Espagne"
+            "Guerre d'Espagne",
+            "Spanish Civil War",
+            "Guerra Civil Española"
           ]
         },
         {
@@ -3220,7 +3243,9 @@
           "tier": "t2",
           "aliases": [
             "Guerre de 1967",
-            "Guerre israélo-arabe de 1967"
+            "Guerre israélo-arabe de 1967",
+            "Six-Day War",
+            "Guerra de los Seis Días"
           ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
@@ -3228,7 +3253,9 @@
           "answer": "Guerre du football",
           "tier": "t6",
           "aliases": [
-            "Guerre des Cent Heures"
+            "Guerre des Cent Heures",
+            "Football War",
+            "Guerra del Fútbol"
           ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
@@ -3237,303 +3264,460 @@
           "tier": "t3",
           "aliases": [
             "Guerre du Yom Kippour",
-            "Guerre israélo-arabe de 1973"
+            "Guerre israélo-arabe de 1973",
+            "Yom Kippur War",
+            "Guerra del Yom Kipur"
           ]
         },
         {
           "answer": "Guerre Iran-Irak",
           "tier": "t3",
           "aliases": [
-            "Guerre irano-irakienne"
+            "Guerre irano-irakienne",
+            "Iran–Iraq War",
+            "Guerra Irán-Irak"
           ]
         },
         {
           "answer": "Guerre des Malouines",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Falklands War",
+            "Guerra de las Malvinas"
+          ]
         },
         {
           "answer": "Guerre du Kosovo",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Kosovo War",
+            "Guerra de Kosovo"
+          ]
         },
         {
           "answer": "Guerre de Bosnie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Bosnian War",
+            "Guerra de Bosnia"
+          ]
         },
         {
           "answer": "Guerre civile russe",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Russian Civil War",
+            "Guerra Civil Rusa"
+          ]
         },
         {
           "answer": "Guerre russo-japonaise",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Russo-Japanese War",
+            "Guerra ruso-japonesa"
+          ]
         },
         {
           "answer": "Guerres balkaniques",
           "tier": "t3",
           "aliases": [
-            "Guerre des Balkans"
+            "Guerre des Balkans",
+            "Balkan Wars",
+            "Guerras de los Balcanes"
           ]
         },
         {
           "answer": "Guerre d'Hiver",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Winter War",
+            "Guerra de Invierno"
+          ]
         },
         {
           "answer": "Guerre soviéto-afghane",
           "tier": "t3",
           "aliases": [
-            "Guerre d'Afghanistan"
+            "Guerre d'Afghanistan",
+            "Soviet–Afghan War",
+            "Guerra soviético-afgana"
           ]
         },
         {
           "answer": "Guerre civile chinoise",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Chinese Civil War",
+            "Guerra Civil China"
+          ]
         },
         {
           "answer": "Guerre du Liban",
           "tier": "t3",
           "aliases": [
-            "Guerre civile libanaise"
+            "Guerre civile libanaise",
+            "Lebanese Civil War",
+            "Guerra Civil del Líbano"
           ]
         },
         {
           "answer": "Crise de Suez",
           "tier": "t3",
           "aliases": [
-            "Guerre de Suez"
+            "Guerre de Suez",
+            "Suez Crisis",
+            "Crisis de Suez"
           ]
         },
         {
           "answer": "Guerre d'indépendance d'Israël",
           "tier": "t3",
           "aliases": [
-            "Guerre israélo-arabe de 1948"
+            "Guerre israélo-arabe de 1948",
+            "Israeli War of Independence",
+            "Guerra de Independencia de Israel"
           ]
         },
         {
           "answer": "Guerres de Yougoslavie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Yugoslav Wars",
+            "Guerras de Yugoslavia"
+          ]
         },
         {
           "answer": "Guerre du Chaco",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Chaco War",
+            "Guerra del Chaco"
+          ]
         },
         {
           "answer": "Guerre polono-soviétique",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Polish–Soviet War",
+            "Guerra polaco-soviética"
+          ]
         },
         {
           "answer": "Guerre du Rif",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Rif War",
+            "Guerra del Rif"
+          ]
         },
         {
           "answer": "Guerre civile grecque",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Greek Civil War",
+            "Guerra Civil Griega"
+          ]
         },
         {
           "answer": "Guerre civile finlandaise",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Finnish Civil War",
+            "Guerra Civil Finlandesa"
+          ]
         },
         {
           "answer": "Guerre de Continuation",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Continuation War",
+            "Guerra de Continuación"
+          ]
         },
         {
           "answer": "Guerre gréco-turque",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Greco-Turkish War",
+            "Guerra greco-turca"
+          ]
         },
         {
           "answer": "Guerre d'indépendance turque",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Turkish War of Independence",
+            "Guerra de Independencia turca"
+          ]
         },
         {
           "answer": "Guerre italo-turque",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Italo-Turkish War",
+            "Guerra ítalo-turca"
+          ]
         },
         {
           "answer": "Guerre du Biafra",
           "tier": "t4",
           "aliases": [
-            "Guerre civile nigériane"
+            "Guerre civile nigériane",
+            "Biafra War",
+            "Guerra de Biafra"
           ]
         },
         {
           "answer": "Guerre indo-pakistanaise de 1971",
           "tier": "t4",
           "aliases": [
-            "Guerre de libération du Bangladesh"
+            "Guerre de libération du Bangladesh",
+            "Indo-Pakistani War of 1971",
+            "Guerra indo-pakistaní de 1971"
           ]
         },
         {
           "answer": "Guerre civile angolaise",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Angolan Civil War",
+            "Guerra Civil de Angola"
+          ]
         },
         {
           "answer": "Guerre de Croatie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Croatian War of Independence",
+            "Guerra de Independencia de Croacia"
+          ]
         },
         {
           "answer": "Première guerre de Tchétchénie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "First Chechen War",
+            "Primera guerra de Chechenia"
+          ]
         },
         {
           "answer": "Guerre sino-vietnamienne",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Sino-Vietnamese War",
+            "Guerra chino-vietnamita"
+          ]
         },
         {
           "answer": "Seconde guerre sino-japonaise",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Second Sino-Japanese War",
+            "Segunda guerra sino-japonesa"
+          ]
         },
         {
           "answer": "Seconde guerre italo-éthiopienne",
           "tier": "t4",
           "aliases": [
-            "Guerre d'Éthiopie"
+            "Guerre d'Éthiopie",
+            "Second Italo-Ethiopian War",
+            "Segunda guerra ítalo-etíope"
           ]
         },
         {
           "answer": "Seconde guerre des Boers",
           "tier": "t4",
           "aliases": [
-            "Guerre des Boers"
+            "Guerre des Boers",
+            "Second Boer War",
+            "Segunda guerra de los bóeres"
           ]
         },
         {
           "answer": "Guerre d'indépendance irlandaise",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Irish War of Independence",
+            "Guerra de Independencia de Irlanda"
+          ]
         },
         {
           "answer": "Guerre civile rwandaise",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Rwandan Civil War",
+            "Guerra Civil de Ruanda"
+          ]
         },
         {
           "answer": "Guerre indo-pakistanaise de 1965",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Indo-Pakistani War of 1965",
+            "Guerra indo-pakistaní de 1965"
+          ]
         },
         {
           "answer": "Guerre des Cristeros",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Cristero War",
+            "Guerra Cristera"
+          ]
         },
         {
           "answer": "Guerre de l'Ogaden",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Ogaden War",
+            "Guerra de Ogaden"
+          ]
         },
         {
           "answer": "Guerre des Sables",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Sand War",
+            "Guerra de la Arena"
+          ]
         },
         {
           "answer": "Guerre de l'Ifni",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Ifni War",
+            "Guerra de Ifni"
+          ]
         },
         {
           "answer": "Guerre du Cenepa",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Cenepa War",
+            "Guerra del Cenepa"
+          ]
         },
         {
           "answer": "Guerre de Kargil",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Kargil War",
+            "Guerra de Kargil"
+          ]
         },
         {
           "answer": "Guerre des Dix Jours",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Ten-Day War",
+            "Guerra de los Diez Días"
+          ]
         },
         {
           "answer": "Guerre du Haut-Karabagh",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Nagorno-Karabakh War",
+            "Guerra de Nagorno Karabaj"
+          ]
         },
         {
           "answer": "Guerre d'Abkhazie",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Abkhaz War",
+            "Guerra de Abjasia"
+          ]
         },
         {
           "answer": "Guerre de Transnistrie",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Transnistria War",
+            "Guerra de Transnistria"
+          ]
         },
         {
           "answer": "Guerre d'usure",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "War of Attrition",
+            "Guerra de desgaste"
+          ]
         },
         {
           "answer": "Guerre des Bananes",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Banana War",
+            "Guerra del Banano"
+          ]
         },
         {
           "answer": "Guerre civile guatémaltèque",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Guatemalan Civil War",
+            "Guerra Civil de Guatemala"
+          ]
         },
         {
           "answer": "Guerre du Sahara occidental",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Western Sahara War",
+            "Guerra del Sáhara Occidental"
+          ]
         },
         {
           "answer": "Guerre d'indépendance estonienne",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Estonian War of Independence",
+            "Guerra de Independencia de Estonia"
+          ]
         },
         {
           "answer": "Guerre civile du Salvador",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Salvadoran Civil War",
+            "Guerra Civil de El Salvador"
+          ]
         },
         {
           "answer": "Première guerre du Congo",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "First Congo War",
+            "Primera guerra del Congo"
+          ]
         },
         {
           "answer": "Guerre civile du Mozambique",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Mozambican Civil War",
+            "Guerra Civil de Mozambique"
+          ]
         },
         {
           "answer": "Guerre du Dhofar",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Dhofar War",
+            "Guerra de Dhofar"
+          ]
         },
         {
           "answer": "Guerre de la bande d'Aozou",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Aouzou Strip War",
+            "Guerra de la Franja de Aouzou"
+          ]
         }
       ]
     },
@@ -4631,7 +4815,9 @@
           "aliases": [
             "Staline",
             "Stalin",
-            "Iossif Staline"
+            "Iossif Staline",
+            "Joseph Stalin",
+            "José Stalin"
           ]
         },
         {
@@ -4690,7 +4876,8 @@
             "Khadafi",
             "Gaddafi",
             "Muammar Gaddafi",
-            "Mouammar Khadafi"
+            "Mouammar Khadafi",
+            "Muamar el Gadafi"
           ]
         },
         {
@@ -4808,7 +4995,8 @@
           "tier": "t3",
           "aliases": [
             "Hafez al-Assad",
-            "Assad père"
+            "Assad père",
+            "Hafez al-Asad"
           ]
         },
         {
@@ -4979,7 +5167,8 @@
           "tier": "t4",
           "aliases": [
             "Omar al-Bachir",
-            "El-Béchir"
+            "El-Béchir",
+            "Omar al-Bashir"
           ]
         },
         {
@@ -6084,7 +6273,9 @@
           "aliases": [
             "Révolution de 1789",
             "Révolution",
-            "1789"
+            "1789",
+            "French Revolution",
+            "Revolución francesa"
           ]
         },
         {
@@ -6093,7 +6284,9 @@
           "aliases": [
             "Révolution de 1917",
             "Révolution d'Octobre",
-            "Révolution bolchévique"
+            "Révolution bolchévique",
+            "Russian Revolution",
+            "Revolución rusa"
           ]
         },
         {
@@ -6101,7 +6294,9 @@
           "tier": "t1",
           "aliases": [
             "Guerre d'indépendance américaine",
-            "Révolution des États-Unis"
+            "Révolution des États-Unis",
+            "American Revolution",
+            "Revolución americana"
           ]
         },
         {
@@ -6109,28 +6304,36 @@
           "tier": "t1",
           "aliases": [
             "Mai 1968",
-            "Événements de mai 68"
+            "Événements de mai 68",
+            "May 1968",
+            "Mayo del 68"
           ]
         },
         {
           "answer": "Révolution cubaine",
           "tier": "t1",
           "aliases": [
-            "Révolution de Cuba"
+            "Révolution de Cuba",
+            "Cuban Revolution",
+            "Revolución cubana"
           ]
         },
         {
           "answer": "Printemps arabe",
           "tier": "t1",
           "aliases": [
-            "Printemps arabes"
+            "Printemps arabes",
+            "Arab Spring",
+            "Primavera árabe"
           ]
         },
         {
           "answer": "Révolution de 1848",
           "tier": "t1",
           "aliases": [
-            "Printemps des peuples"
+            "Printemps des peuples",
+            "Revolution of 1848",
+            "Revolución de 1848"
           ]
         },
         {
@@ -6138,7 +6341,9 @@
           "tier": "t1",
           "aliases": [
             "Révolution islamique",
-            "Révolution d'Iran"
+            "Révolution d'Iran",
+            "Iranian Revolution",
+            "Revolución iraní"
           ]
         },
         {
@@ -6147,7 +6352,9 @@
           "aliases": [
             "Révolution de 1830",
             "Révolution de Juillet",
-            "Glorieuses"
+            "Glorieuses",
+            "Three Glorious Days",
+            "Las Tres Gloriosas"
           ]
         },
         {
@@ -6155,14 +6362,19 @@
           "tier": "t2",
           "aliases": [
             "Commune",
-            "La Commune"
+            "La Commune",
+            "Paris Commune",
+            "Comuna de París"
           ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "Révolution chantante",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "Singing Revolution",
+            "Revolución cantada"
+          ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
@@ -6170,26 +6382,35 @@
           "tier": "t3",
           "aliases": [
             "Révolution de Saint-Domingue",
-            "Révolution d'Haïti"
+            "Révolution d'Haïti",
+            "Haitian Revolution",
+            "Revolución haitiana"
           ]
         },
         {
           "answer": "Révolution mexicaine",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Mexican Revolution",
+            "Revolución mexicana"
+          ]
         },
         {
           "answer": "Révolution chinoise",
           "tier": "t3",
           "aliases": [
-            "Révolution communiste chinoise"
+            "Révolution communiste chinoise",
+            "Chinese Revolution",
+            "Revolución china"
           ]
         },
         {
           "answer": "Révolution culturelle",
           "tier": "t3",
           "aliases": [
-            "Révolution culturelle chinoise"
+            "Révolution culturelle chinoise",
+            "Cultural Revolution",
+            "Revolución cultural"
           ]
         },
         {
@@ -6197,21 +6418,27 @@
           "tier": "t3",
           "aliases": [
             "Révolution des oeillets",
-            "Révolution portugaise"
+            "Révolution portugaise",
+            "Carnation Revolution",
+            "Revolución de los Claveles"
           ]
         },
         {
           "answer": "Révolution de velours",
           "tier": "t3",
           "aliases": [
-            "Révolution de Velours"
+            "Révolution de Velours",
+            "Velvet Revolution",
+            "Revolución de terciopelo"
           ]
         },
         {
           "answer": "Révolution orange",
           "tier": "t3",
           "aliases": [
-            "Révolution orange ukrainienne"
+            "Révolution orange ukrainienne",
+            "Orange Revolution",
+            "Revolución naranja"
           ]
         },
         {
@@ -6219,7 +6446,9 @@
           "tier": "t3",
           "aliases": [
             "Révolution de Février 1917",
-            "Révolution de février"
+            "Révolution de février",
+            "February Revolution of 1917",
+            "Revolución de febrero de 1917"
           ]
         },
         {
@@ -6227,7 +6456,9 @@
           "tier": "t3",
           "aliases": [
             "Révolution anglaise",
-            "Révolution de 1688"
+            "Révolution de 1688",
+            "Glorious Revolution",
+            "Revolución Gloriosa"
           ]
         },
         {
@@ -6235,7 +6466,9 @@
           "tier": "t3",
           "aliases": [
             "Guerre des Boxers",
-            "Boxers"
+            "Boxers",
+            "Boxer Rebellion",
+            "Rebelión de los bóxers"
           ]
         },
         {
@@ -6244,7 +6477,9 @@
           "aliases": [
             "Révolte des Cipayes",
             "Mutinerie des Cipayes",
-            "Rébellion indienne de 1857"
+            "Rébellion indienne de 1857",
+            "Sepoy Mutiny",
+            "Rebelión de los cipayos"
           ]
         },
         {
@@ -6252,7 +6487,9 @@
           "tier": "t3",
           "aliases": [
             "Rébellion des Taiping",
-            "Taiping"
+            "Taiping",
+            "Taiping Rebellion",
+            "Rebelión de Taiping"
           ]
         },
         {
@@ -6260,18 +6497,24 @@
           "tier": "t3",
           "aliases": [
             "Spartacus",
-            "Troisième guerre servile"
+            "Troisième guerre servile",
+            "Spartacus revolt",
+            "Revuelta de Espartaco"
           ]
         },
         {
           "answer": "Jacquerie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Jacquería"
+          ]
         },
         {
           "answer": "Fronde",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "La Fronda"
+          ]
         },
         {
           "answer": "Insurrection de Pâques",
@@ -6279,33 +6522,43 @@
           "aliases": [
             "Easter Rising",
             "Soulèvement de Pâques",
-            "Insurrection de Pâques 1916"
+            "Insurrection de Pâques 1916",
+            "Levantamiento de Pascua"
           ]
         },
         {
           "answer": "Révolution de février 1848",
           "tier": "t3",
           "aliases": [
-            "Révolution de Février 1848"
+            "Révolution de Février 1848",
+            "February Revolution of 1848",
+            "Revolución de febrero de 1848"
           ]
         },
         {
           "answer": "Printemps de Prague",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Prague Spring",
+            "Primavera de Praga"
+          ]
         },
         {
           "answer": "Révolution du jasmin",
           "tier": "t3",
           "aliases": [
-            "Révolution tunisienne"
+            "Révolution tunisienne",
+            "Jasmine Revolution",
+            "Revolución del jazmín"
           ]
         },
         {
           "answer": "Révolution des roses",
           "tier": "t3",
           "aliases": [
-            "Révolution rose"
+            "Révolution rose",
+            "Rose Revolution",
+            "Revolución de las rosas"
           ]
         },
         {
@@ -6322,7 +6575,9 @@
           "tier": "t3",
           "aliases": [
             "Révolution hongroise de 1956",
-            "Insurrection hongroise de 1956"
+            "Insurrection hongroise de 1956",
+            "Budapest Uprising",
+            "Insurrección de Budapest"
           ]
         },
         {
@@ -6330,14 +6585,17 @@
           "tier": "t3",
           "aliases": [
             "Insurrection vendéenne",
-            "Vendée"
+            "Vendée",
+            "War in the Vendée",
+            "Guerra de la Vendée"
           ]
         },
         {
           "answer": "Chouannerie",
           "tier": "t3",
           "aliases": [
-            "Chouans"
+            "Chouans",
+            "Chuanería"
           ]
         },
         {
@@ -6347,14 +6605,17 @@
             "Révolte des travailleurs",
             "Peasants' Revolt",
             "Révolte de Wat Tyler",
-            "Révolte de 1381"
+            "Révolte de 1381",
+            "Revuelta campesina"
           ]
         },
         {
           "answer": "Révolution de 1905",
           "tier": "t4",
           "aliases": [
-            "Révolution russe de 1905"
+            "Révolution russe de 1905",
+            "Russian Revolution of 1905",
+            "Revolución de 1905"
           ]
         },
         {
@@ -6363,21 +6624,27 @@
           "aliases": [
             "Révolution de 1911",
             "Révolution chinoise de 1911",
-            "Révolution Xinhai"
+            "Révolution Xinhai",
+            "Xinhai Revolution",
+            "Revolución de Xinhai"
           ]
         },
         {
           "answer": "Insurrection de Varsovie",
           "tier": "t4",
           "aliases": [
-            "Soulèvement de Varsovie"
+            "Soulèvement de Varsovie",
+            "Warsaw Uprising",
+            "Insurrección de Varsovia"
           ]
         },
         {
           "answer": "Soulèvement du ghetto de Varsovie",
           "tier": "t4",
           "aliases": [
-            "Insurrection du ghetto de Varsovie"
+            "Insurrection du ghetto de Varsovie",
+            "Warsaw Ghetto Uprising",
+            "Levantamiento del gueto de Varsovia"
           ]
         },
         {
@@ -6385,7 +6652,9 @@
           "tier": "t4",
           "aliases": [
             "Canuts",
-            "Révolte des canuts"
+            "Révolte des canuts",
+            "Canuts revolt",
+            "Revuelta de los canuts"
           ]
         },
         {
@@ -6393,7 +6662,9 @@
           "tier": "t4",
           "aliases": [
             "Décembristes",
-            "Révolte décembriste"
+            "Révolte décembriste",
+            "Decembrist revolt",
+            "Revuelta decembrista"
           ]
         },
         {
@@ -6401,28 +6672,36 @@
           "tier": "t4",
           "aliases": [
             "Pougatchev",
-            "Révolte de Pugachev"
+            "Révolte de Pugachev",
+            "Pugachev's Rebellion",
+            "Revuelta de Pugachov"
           ]
         },
         {
           "answer": "Révolte des Camisards",
           "tier": "t4",
           "aliases": [
-            "Camisards"
+            "Camisards",
+            "Camisard revolt",
+            "Revuelta de los camisardos"
           ]
         },
         {
           "answer": "Révolte des Bonnets rouges",
           "tier": "t4",
           "aliases": [
-            "Bonnets rouges"
+            "Bonnets rouges",
+            "Bonnets Rouges revolt",
+            "Revuelta de los Bonnets Rouges"
           ]
         },
         {
           "answer": "Révolte des Gueux",
           "tier": "t4",
           "aliases": [
-            "Gueux"
+            "Gueux",
+            "Revolt of the Beggars",
+            "Revuelta de los Gueux"
           ]
         },
         {
@@ -6430,35 +6709,45 @@
           "tier": "t4",
           "aliases": [
             "Hussites",
-            "Guerres hussites"
+            "Guerres hussites",
+            "Hussite revolt",
+            "Revuelta husita"
           ]
         },
         {
           "answer": "Révolte des Maccabées",
           "tier": "t4",
           "aliases": [
-            "Maccabées"
+            "Maccabées",
+            "Maccabean Revolt",
+            "Revuelta de los macabeos"
           ]
         },
         {
           "answer": "Révolte de Nika",
           "tier": "t4",
           "aliases": [
-            "Nika"
+            "Nika",
+            "Nika riots",
+            "Disturbios de Nika"
           ]
         },
         {
           "answer": "Révolution sandiniste",
           "tier": "t4",
           "aliases": [
-            "Révolution du Nicaragua"
+            "Révolution du Nicaragua",
+            "Sandinista Revolution",
+            "Revolución sandinista"
           ]
         },
         {
           "answer": "Révolution des cèdres",
           "tier": "t4",
           "aliases": [
-            "Révolution du Cèdre"
+            "Révolution du Cèdre",
+            "Cedar Revolution",
+            "Revolución de los Cedros"
           ]
         },
         {
@@ -6466,28 +6755,36 @@
           "tier": "t4",
           "aliases": [
             "Révolution allemande",
-            "Révolution de novembre"
+            "Révolution de novembre",
+            "German Revolution of 1918",
+            "Revolución alemana de 1918"
           ]
         },
         {
           "answer": "Révolution belge",
           "tier": "t4",
           "aliases": [
-            "Révolution belge de 1830"
+            "Révolution belge de 1830",
+            "Belgian Revolution",
+            "Revolución belga"
           ]
         },
         {
           "answer": "Insurrection de Kronstadt",
           "tier": "t4",
           "aliases": [
-            "Révolte de Kronstadt"
+            "Révolte de Kronstadt",
+            "Kronstadt rebellion",
+            "Insurrección de Kronstadt"
           ]
         },
         {
           "answer": "Révolte des Hereros",
           "tier": "t4",
           "aliases": [
-            "Révolte des Héréros"
+            "Révolte des Héréros",
+            "Herero revolt",
+            "Revuelta herero"
           ]
         },
         {
@@ -6495,14 +6792,18 @@
           "tier": "t4",
           "aliases": [
             "Révolte des Patriotes",
-            "Rébellion de 1837"
+            "Rébellion de 1837",
+            "Patriote Rebellion",
+            "Rebelión de los Patriotas"
           ]
         },
         {
           "answer": "Guerre des paysans",
           "tier": "t4",
           "aliases": [
-            "Guerre des paysans allemande"
+            "Guerre des paysans allemande",
+            "Peasants' War",
+            "Guerra de los campesinos"
           ]
         },
         {
@@ -6510,14 +6811,18 @@
           "tier": "t4",
           "aliases": [
             "Mau-Mau",
-            "Révolte Mau Mau"
+            "Révolte Mau Mau",
+            "Mau Mau Uprising",
+            "Revuelta Mau Mau"
           ]
         },
         {
           "answer": "Soulèvement de Soweto",
           "tier": "t4",
           "aliases": [
-            "Émeutes de Soweto"
+            "Émeutes de Soweto",
+            "Soweto Uprising",
+            "Levantamiento de Soweto"
           ]
         },
         {
@@ -6525,44 +6830,61 @@
           "tier": "t4",
           "aliases": [
             "Révolution du 25 janvier",
-            "Révolution égyptienne de 2011"
+            "Révolution égyptienne de 2011",
+            "Egyptian Revolution",
+            "Revolución egipcia"
           ]
         },
         {
           "answer": "Révolution des tulipes",
           "tier": "t4",
           "aliases": [
-            "Révolution kirghize"
+            "Révolution kirghize",
+            "Tulip Revolution",
+            "Revolución de los tulipanes"
           ]
         },
         {
           "answer": "Révolution du Lotus",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Lotus Revolution",
+            "Revolución del loto"
+          ]
         },
         {
           "answer": "Révolution des Jeunes-Turcs",
           "tier": "t5",
           "aliases": [
             "Jeunes-Turcs",
-            "Révolution de 1908"
+            "Révolution de 1908",
+            "Young Turk Revolution",
+            "Revolución de los Jóvenes Turcos"
           ]
         },
         {
           "answer": "Révolution constitutionnelle persane",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Persian Constitutional Revolution",
+            "Revolución constitucional persa"
+          ]
         },
         {
           "answer": "Révolution tranquille",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Quiet Revolution",
+            "Revolución tranquila"
+          ]
         },
         {
           "answer": "Rébellion de Shays",
           "tier": "t5",
           "aliases": [
-            "Révolte de Shays"
+            "Révolte de Shays",
+            "Shays' Rebellion",
+            "Rebelión de Shays"
           ]
         },
         {
@@ -6570,65 +6892,87 @@
           "tier": "t5",
           "aliases": [
             "Tupac Amaru",
-            "Túpac Amaru II"
+            "Túpac Amaru II",
+            "Túpac Amaru rebellion",
+            "Rebelión de Túpac Amaru"
           ]
         },
         {
           "answer": "Révolution safran",
           "tier": "t5",
           "aliases": [
-            "Révolution de Safran"
+            "Révolution de Safran",
+            "Saffron Revolution",
+            "Revolución del azafrán"
           ]
         },
         {
           "answer": "Révolution des parapluies",
           "tier": "t5",
           "aliases": [
-            "Mouvement des parapluies"
+            "Mouvement des parapluies",
+            "Umbrella Revolution",
+            "Revolución de los paraguas"
           ]
         },
         {
           "answer": "Insurrection de Lyon",
           "tier": "t5",
           "aliases": [
-            "Révolte de Lyon"
+            "Révolte de Lyon",
+            "Lyon uprising",
+            "Insurrección de Lyon"
           ]
         },
         {
           "answer": "Rébellion du Whisky",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Whiskey Rebellion",
+            "Rebelión del whisky"
+          ]
         },
         {
           "answer": "Révolte de Nat Turner",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Nat Turner's Rebellion",
+            "Rebelión de Nat Turner"
+          ]
         },
         {
           "answer": "Révolution libyenne",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Libyan Revolution",
+            "Revolución libia"
+          ]
         },
         {
           "answer": "People Power",
           "tier": "t5",
           "aliases": [
             "Révolution EDSA",
-            "Pouvoir du peuple"
+            "Pouvoir du peuple",
+            "Poder popular"
           ]
         },
         {
           "answer": "Restauration de Meiji",
           "tier": "t5",
           "aliases": [
-            "Révolution Meiji"
+            "Révolution Meiji",
+            "Meiji Restoration",
+            "Restauración Meiji"
           ]
         },
         {
           "answer": "Révolution du 25 avril",
           "tier": "t5",
           "aliases": [
-            "Révolution du 25 Avril"
+            "Révolution du 25 Avril",
+            "Revolution of 25 April",
+            "Revolución del 25 de abril"
           ]
         }
       ]

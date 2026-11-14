@@ -27,7 +27,8 @@ ARTICLES = {"the", "le", "la", "les", "un", "une"}
 
 
 def norm(s: str) -> str:
-    s = unicodedata.normalize("NFKD", s.lower())
+    s = s.lower().replace("ð", "d").replace("þ", "th").replace("ø", "o").replace("ł", "l").replace("đ", "d").replace("æ", "ae").replace("œ", "oe").replace("ß", "ss")
+    s = unicodedata.normalize("NFKD", s)
     s = "".join(c for c in s if not unicodedata.combining(c))
     s = re.sub(r"[-'’`´ʼ]", " ", s)
     s = re.sub(r"[^\w\s]", "", s)
