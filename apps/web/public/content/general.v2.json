@@ -636,7 +636,7 @@
       "id": "art-mouvement",
       "theme": "general",
       "text": "Nomme un mouvement artistique",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-dramaturge",
@@ -648,13 +648,13 @@
       "id": "art-livre-enfants",
       "theme": "general",
       "text": "Nomme un livre ou une série de livres pour enfants",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-prix-litteraire",
       "theme": "general",
       "text": "Nomme un prix littéraire",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-poete-anglophone",
@@ -666,7 +666,7 @@
       "id": "art-musee",
       "theme": "general",
       "text": "Nomme un musée célèbre dans le monde",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-peintre-flamand",
@@ -768,13 +768,13 @@
       "id": "art-classique-01",
       "theme": "general",
       "text": "Nomme un compositeur classique allemand ou autrichien",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-02",
       "theme": "general",
       "text": "Nomme un compositeur classique italien",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-03",
@@ -834,7 +834,7 @@
       "id": "art-classique-12",
       "theme": "general",
       "text": "Nomme un film d'Alfred Hitchcock",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-13",
@@ -858,7 +858,7 @@
       "id": "art-littetr-01",
       "theme": "general",
       "text": "Nomme un écrivain ou un poète russe",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-02",
@@ -954,7 +954,7 @@
       "id": "art-littfr-02",
       "theme": "general",
       "text": "Nomme une pièce de théâtre de Molière, de Racine ou de Pierre Corneille",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-03",
@@ -984,13 +984,13 @@
       "id": "art-littfr-07",
       "theme": "general",
       "text": "Nomme un personnage d'un roman de Victor Hugo",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-08",
       "theme": "general",
       "text": "Nomme un personnage d'un roman d'Alexandre Dumas père",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-09",
@@ -1008,19 +1008,19 @@
       "id": "art-littfr-11",
       "theme": "general",
       "text": "Nomme un écrivain québécois de langue française",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-12",
       "theme": "general",
       "text": "Nomme un écrivain francophone originaire d'Afrique subsaharienne ou de Madagascar",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-13",
       "theme": "general",
       "text": "Nomme un écrivain de langue française né en Algérie, au Maroc ou en Tunisie",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-14",
@@ -1032,13 +1032,13 @@
       "id": "art-littfr-15",
       "theme": "general",
       "text": "Nomme un écrivain de langue française né aux Antilles, en Guyane ou en Haïti",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-01",
       "theme": "general",
       "text": "Nomme une figure de style (rhétorique)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-02",
@@ -1050,13 +1050,13 @@
       "id": "art-mythes-03",
       "theme": "general",
       "text": "Nomme un personnage de la légende du roi Arthur et de la Table ronde",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-04",
       "theme": "general",
       "text": "Nomme une créature fantastique du folklore ou de la fantasy (hors mythologie grecque)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-05",
@@ -1116,7 +1116,7 @@
       "id": "art-mythes-14",
       "theme": "general",
       "text": "Nomme un héros de légende ou de folklore (hors mythologie grecque et légende arthurienne)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-15",
@@ -1182,7 +1182,7 @@
       "id": "art-peinture-10",
       "theme": "general",
       "text": "Nomme un peintre français actif au XVIIe ou au XVIIIe siècle",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-11",
@@ -1194,7 +1194,7 @@
       "id": "art-peinture-12",
       "theme": "general",
       "text": "Nomme un tableau de Vincent van Gogh",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-13",
@@ -1230,13 +1230,13 @@
       "id": "ent-film-horreur",
       "theme": "general",
       "text": "Nomme un film d'horreur",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-comedie-fr",
       "theme": "general",
       "text": "Nomme une comédie française",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-pop-uk",
@@ -1260,19 +1260,19 @@
       "id": "ent-humoriste-fr",
       "theme": "general",
       "text": "Nomme un humoriste français",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-serie-fr",
       "theme": "general",
       "text": "Nomme une série télévisée française",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anime-film",
       "theme": "general",
       "text": "Nomme un film d'animation japonais",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-jeu-role",
@@ -1344,13 +1344,13 @@
       "id": "ent-anim-08",
       "theme": "general",
       "text": "Nomme une série télévisée pour adolescents (toutes nationalités)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-09",
       "theme": "general",
       "text": "Nomme un film familial ou pour enfants en prises de vues réelles",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-10",
@@ -1362,7 +1362,7 @@
       "id": "ent-anim-11",
       "theme": "general",
       "text": "Nomme un personnage du manga et anime L'Attaque des Titans",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-12",
@@ -1374,7 +1374,7 @@
       "id": "ent-anim-13",
       "theme": "general",
       "text": "Nomme un personnage de Sailor Moon (manga et anime)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-14",
@@ -1422,13 +1422,13 @@
       "id": "ent-celebs-06",
       "theme": "general",
       "text": "Nomme une émission de divertissement ou un jeu télévisé français",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-celebs-07",
       "theme": "general",
       "text": "Nomme une émission française d'information, un magazine ou un talk-show",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-celebs-08",
@@ -1506,7 +1506,7 @@
       "id": "ent-cinema-05",
       "theme": "general",
       "text": "Nomme un film dans lequel joue Gérard Depardieu",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-06",
@@ -1518,7 +1518,7 @@
       "id": "ent-cinema-07",
       "theme": "general",
       "text": "Nomme un long-métrage d'animation produit par DreamWorks Animation ou Illumination",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-08",
@@ -1530,7 +1530,7 @@
       "id": "ent-cinema-09",
       "theme": "general",
       "text": "Nomme un film ou téléfilm adapté d'une œuvre de Stephen King",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-10",
@@ -1542,19 +1542,19 @@
       "id": "ent-cinema-11",
       "theme": "general",
       "text": "Nomme un long-métrage réalisé par Steven Spielberg ou par Ridley Scott",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-12",
       "theme": "general",
       "text": "Nomme un film réalisé par Clint Eastwood ou dans lequel il joue",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-13",
       "theme": "general",
       "text": "Nomme une actrice française née après 1960",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-14",
@@ -1584,7 +1584,7 @@
       "id": "ent-jeux-03",
       "theme": "general",
       "text": "Nomme une console de jeux vidéo (de salon ou portable) commercialisée",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-jeux-04",
@@ -1626,7 +1626,7 @@
       "id": "ent-jeux-10",
       "theme": "general",
       "text": "Nomme un personnage des albums de Tintin (Hergé)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-jeux-11",
@@ -1686,7 +1686,7 @@
       "id": "ent-musique-05",
       "theme": "general",
       "text": "Nomme une chanson ayant remporté le Concours Eurovision de la chanson",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-musique-06",
@@ -1704,7 +1704,7 @@
       "id": "ent-musique-08",
       "theme": "general",
       "text": "Nomme un groupe de rock français",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-musique-09",
@@ -1722,13 +1722,13 @@
       "id": "ent-musique-11",
       "theme": "general",
       "text": "Nomme un chanteur, une chanteuse ou un groupe québécois",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-musique-12",
       "theme": "general",
       "text": "Nomme un chanteur, une chanteuse, un musicien ou un groupe belge",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-musique-13",
@@ -1758,7 +1758,7 @@
       "id": "ent-series-02",
       "theme": "general",
       "text": "Nomme un personnage de la série Les Simpson",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-series-03",
@@ -1800,13 +1800,13 @@
       "id": "ent-series-09",
       "theme": "general",
       "text": "Nomme une série télévisée américaine diffusée dans les années 1980",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-series-10",
       "theme": "general",
       "text": "Nomme une série télévisée adaptée d'un comics américain",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-series-11",

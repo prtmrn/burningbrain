@@ -54,7 +54,7 @@
       "id": "art-mouvement",
       "theme": "arts-literature",
       "text": "Nomme un mouvement artistique",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-dramaturge",
@@ -66,13 +66,13 @@
       "id": "art-livre-enfants",
       "theme": "arts-literature",
       "text": "Nomme un livre ou une série de livres pour enfants",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-prix-litteraire",
       "theme": "arts-literature",
       "text": "Nomme un prix littéraire",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-poete-anglophone",
@@ -84,7 +84,7 @@
       "id": "art-musee",
       "theme": "arts-literature",
       "text": "Nomme un musée célèbre dans le monde",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-peintre-flamand",
@@ -186,13 +186,13 @@
       "id": "art-classique-01",
       "theme": "arts-literature",
       "text": "Nomme un compositeur classique allemand ou autrichien",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-02",
       "theme": "arts-literature",
       "text": "Nomme un compositeur classique italien",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-03",
@@ -252,7 +252,7 @@
       "id": "art-classique-12",
       "theme": "arts-literature",
       "text": "Nomme un film d'Alfred Hitchcock",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-13",
@@ -276,7 +276,7 @@
       "id": "art-littetr-01",
       "theme": "arts-literature",
       "text": "Nomme un écrivain ou un poète russe",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-02",
@@ -372,7 +372,7 @@
       "id": "art-littfr-02",
       "theme": "arts-literature",
       "text": "Nomme une pièce de théâtre de Molière, de Racine ou de Pierre Corneille",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-03",
@@ -402,13 +402,13 @@
       "id": "art-littfr-07",
       "theme": "arts-literature",
       "text": "Nomme un personnage d'un roman de Victor Hugo",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-08",
       "theme": "arts-literature",
       "text": "Nomme un personnage d'un roman d'Alexandre Dumas père",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-09",
@@ -426,19 +426,19 @@
       "id": "art-littfr-11",
       "theme": "arts-literature",
       "text": "Nomme un écrivain québécois de langue française",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-12",
       "theme": "arts-literature",
       "text": "Nomme un écrivain francophone originaire d'Afrique subsaharienne ou de Madagascar",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-13",
       "theme": "arts-literature",
       "text": "Nomme un écrivain de langue française né en Algérie, au Maroc ou en Tunisie",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-14",
@@ -450,13 +450,13 @@
       "id": "art-littfr-15",
       "theme": "arts-literature",
       "text": "Nomme un écrivain de langue française né aux Antilles, en Guyane ou en Haïti",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-01",
       "theme": "arts-literature",
       "text": "Nomme une figure de style (rhétorique)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-02",
@@ -468,13 +468,13 @@
       "id": "art-mythes-03",
       "theme": "arts-literature",
       "text": "Nomme un personnage de la légende du roi Arthur et de la Table ronde",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-04",
       "theme": "arts-literature",
       "text": "Nomme une créature fantastique du folklore ou de la fantasy (hors mythologie grecque)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-05",
@@ -534,7 +534,7 @@
       "id": "art-mythes-14",
       "theme": "arts-literature",
       "text": "Nomme un héros de légende ou de folklore (hors mythologie grecque et légende arthurienne)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-15",
@@ -600,7 +600,7 @@
       "id": "art-peinture-10",
       "theme": "arts-literature",
       "text": "Nomme un peintre français actif au XVIIe ou au XVIIIe siècle",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-11",
@@ -612,7 +612,7 @@
       "id": "art-peinture-12",
       "theme": "arts-literature",
       "text": "Nomme un tableau de Vincent van Gogh",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-13",

@@ -769,6 +769,10 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
 .field input, .field select { font: inherit; font-size: 1.1rem; padding: 0.6rem 0.8rem; border-radius: var(--radius); border: 2px solid var(--bg-raised); background: #0e1530; color: var(--text); width: 100%; }
 /* la case à cocher ne doit pas hériter de la largeur pleine des champs texte */
 .field input[type="checkbox"] { flex: none; width: 1.4rem; height: 1.4rem; margin: 0; padding: 0; }
+/* formulaire multijoueur : titres de groupe, aide sous le mode, case centrée */
+.multi-sub { font-family: var(--font-pixel); font-size: 1rem; color: var(--text-dim); text-align: center; margin: 1rem 0 0.4rem; }
+.multi-hint { color: var(--text-dim); font-size: 0.95rem; text-align: center; margin: 0.4rem auto 0.6rem; max-width: 34rem; }
+.field.multi-check { flex-direction: row; align-items: center; justify-content: center; gap: 0.5rem; margin: 0.8rem 0; }
 .ranking { width: 100%; border-collapse: collapse; margin: 1rem 0; font-family: var(--font-pixel); font-size: 1.15rem; }
 .ranking td { padding: 0.45rem 0.5rem; border-bottom: 1px solid #2a1d3f; }
 .ranking tr.me td { color: #ffe08a; font-weight: 700; }

@@ -1,6 +1,6 @@
 // GET /api/multi/rooms/[code]?player=ID — état du salon (phase, classement).
 import { getKv } from '../../../../../server/multi/kv';
-import { getAnswers, getMeta, getPlayers, rankingOf, resolveFlags } from '../../../../../server/multi/room';
+import { getAnswers, getMeta, getPlayers, passStatus, rankingOf, resolveFlags } from '../../../../../server/multi/room';
 import { loadBank } from '../../../../../server/multi/bank';
 import { phaseAt } from '../../../../../server/multi/phase';
 
@@ -38,6 +38,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ code: st
   if (phase.kind === 'preview' || phase.kind === 'answering') {
     current = { round: phase.round, text: promptOf(phase.round) };
   }
+  const pass = phase.kind === 'answering' ? await passStatus(kv, code, phase.round, playerId) : null;
 
   let reveal: { round: number; text: string; entries: { answer: string; tier: string }[] }[] | null = null;
   if (phase.kind === 'done') {
@@ -79,6 +80,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ code: st
         ? rankingOf(players, finalAnswers).filter((r) => r.playerId === playerId)
         : rankingOf(players, finalAnswers),
     current,
+    pass,
     mine,
     reveal,
   });

@@ -90,13 +90,13 @@
       "id": "art-classique-01",
       "theme": "general-en",
       "text": "Name a German or Austrian classical composer",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-02",
       "theme": "general-en",
       "text": "Name a classical Italian composer",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-03",
@@ -150,7 +150,7 @@
       "id": "art-classique-12",
       "theme": "general-en",
       "text": "Name an Alfred Hitchcock film",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-13",
@@ -192,7 +192,7 @@
       "id": "art-littetr-01",
       "theme": "general-en",
       "text": "Name a Russian writer or poet",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-02",
@@ -306,55 +306,55 @@
       "id": "art-littfr-07",
       "theme": "general-en",
       "text": "Name a character from a Victor Hugo novel",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-08",
       "theme": "general-en",
       "text": "Name a character from an Alexandre Dumas père novel",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-12",
       "theme": "general-en",
       "text": "Name a French-language writer from sub-Saharan Africa or Madagascar",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-livre-enfants",
       "theme": "general-en",
       "text": "Name a children's book or book series",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mouvement",
       "theme": "general-en",
       "text": "Name an art movement",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-musee",
       "theme": "general-en",
       "text": "Name a famous museum in the world",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-01",
       "theme": "general-en",
       "text": "Name a figure of speech (rhetoric)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-03",
       "theme": "general-en",
       "text": "Name a character from the legend of King Arthur and the Round Table",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-04",
       "theme": "general-en",
       "text": "Name a fantasy creature from folklore or fantasy (excluding Greek mythology)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-10",
@@ -378,7 +378,7 @@
       "id": "art-mythes-14",
       "theme": "general-en",
       "text": "Name a legendary or folkloric hero (excluding Greek mythology and Arthurian legend)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-15",
@@ -456,7 +456,7 @@
       "id": "art-peinture-12",
       "theme": "general-en",
       "text": "Name a Van Gogh painting",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-13",
@@ -498,7 +498,7 @@
       "id": "art-prix-litteraire",
       "theme": "general-en",
       "text": "Name a literary prize",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-renaissance-peintre",
@@ -564,13 +564,13 @@
       "id": "ent-anim-08",
       "theme": "general-en",
       "text": "Name a TV series for teenagers (any nationality)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-09",
       "theme": "general-en",
       "text": "Name a live-action family or children's film",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-10",
@@ -582,7 +582,7 @@
       "id": "ent-anim-11",
       "theme": "general-en",
       "text": "Name a character from the manga and anime Attack on Titan",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-12",
@@ -594,7 +594,7 @@
       "id": "ent-anim-13",
       "theme": "general-en",
       "text": "Name a character from Sailor Moon (manga and anime)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-14",

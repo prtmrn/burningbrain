@@ -90,7 +90,7 @@ export function GameSetupScreen({
                 onClick={() => setSetup({ ...setup, roundSec: t })}
                 data-testid={`setup-time-${t}`}
               >
-                {tr('setup.seconds', { s: t })}
+                {t === 0 ? tr('setup.unlimited') : tr('setup.seconds', { s: t })}
               </button>
             ))}
           </div>

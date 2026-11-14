@@ -18,13 +18,13 @@
       "id": "ent-film-horreur",
       "theme": "entertainment",
       "text": "Nomme un film d'horreur",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-comedie-fr",
       "theme": "entertainment",
       "text": "Nomme une comédie française",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-pop-uk",
@@ -48,19 +48,19 @@
       "id": "ent-humoriste-fr",
       "theme": "entertainment",
       "text": "Nomme un humoriste français",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-serie-fr",
       "theme": "entertainment",
       "text": "Nomme une série télévisée française",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anime-film",
       "theme": "entertainment",
       "text": "Nomme un film d'animation japonais",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-jeu-role",
@@ -132,13 +132,13 @@
       "id": "ent-anim-08",
       "theme": "entertainment",
       "text": "Nomme une série télévisée pour adolescents (toutes nationalités)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-09",
       "theme": "entertainment",
       "text": "Nomme un film familial ou pour enfants en prises de vues réelles",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-10",
@@ -150,7 +150,7 @@
       "id": "ent-anim-11",
       "theme": "entertainment",
       "text": "Nomme un personnage du manga et anime L'Attaque des Titans",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-12",
@@ -162,7 +162,7 @@
       "id": "ent-anim-13",
       "theme": "entertainment",
       "text": "Nomme un personnage de Sailor Moon (manga et anime)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-14",
@@ -210,13 +210,13 @@
       "id": "ent-celebs-06",
       "theme": "entertainment",
       "text": "Nomme une émission de divertissement ou un jeu télévisé français",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-celebs-07",
       "theme": "entertainment",
       "text": "Nomme une émission française d'information, un magazine ou un talk-show",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-celebs-08",
@@ -294,7 +294,7 @@
       "id": "ent-cinema-05",
       "theme": "entertainment",
       "text": "Nomme un film dans lequel joue Gérard Depardieu",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-06",
@@ -306,7 +306,7 @@
       "id": "ent-cinema-07",
       "theme": "entertainment",
       "text": "Nomme un long-métrage d'animation produit par DreamWorks Animation ou Illumination",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-08",
@@ -318,7 +318,7 @@
       "id": "ent-cinema-09",
       "theme": "entertainment",
       "text": "Nomme un film ou téléfilm adapté d'une œuvre de Stephen King",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-10",
@@ -330,19 +330,19 @@
       "id": "ent-cinema-11",
       "theme": "entertainment",
       "text": "Nomme un long-métrage réalisé par Steven Spielberg ou par Ridley Scott",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-12",
       "theme": "entertainment",
       "text": "Nomme un film réalisé par Clint Eastwood ou dans lequel il joue",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-13",
       "theme": "entertainment",
       "text": "Nomme une actrice française née après 1960",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-cinema-14",
@@ -372,7 +372,7 @@
       "id": "ent-jeux-03",
       "theme": "entertainment",
       "text": "Nomme une console de jeux vidéo (de salon ou portable) commercialisée",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-jeux-04",
@@ -414,7 +414,7 @@
       "id": "ent-jeux-10",
       "theme": "entertainment",
       "text": "Nomme un personnage des albums de Tintin (Hergé)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-jeux-11",
@@ -474,7 +474,7 @@
       "id": "ent-musique-05",
       "theme": "entertainment",
       "text": "Nomme une chanson ayant remporté le Concours Eurovision de la chanson",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-musique-06",
@@ -492,7 +492,7 @@
       "id": "ent-musique-08",
       "theme": "entertainment",
       "text": "Nomme un groupe de rock français",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-musique-09",
@@ -510,13 +510,13 @@
       "id": "ent-musique-11",
       "theme": "entertainment",
       "text": "Nomme un chanteur, une chanteuse ou un groupe québécois",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-musique-12",
       "theme": "entertainment",
       "text": "Nomme un chanteur, une chanteuse, un musicien ou un groupe belge",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-musique-13",
@@ -546,7 +546,7 @@
       "id": "ent-series-02",
       "theme": "entertainment",
       "text": "Nomme un personnage de la série Les Simpson",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-series-03",
@@ -588,13 +588,13 @@
       "id": "ent-series-09",
       "theme": "entertainment",
       "text": "Nomme une série télévisée américaine diffusée dans les années 1980",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-series-10",
       "theme": "entertainment",
       "text": "Nomme une série télévisée adaptée d'un comics américain",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-series-11",

@@ -440,3 +440,75 @@ export async function resolveFlags(
   }
   return out.sort((a, b) => b.at - a.at);
 }
+
+// ── Passer une question ──
+const passesKey = (code: string, round: number): string => `mp:room:${code}:passes:${round}`;
+
+/** Nombre de joueurs ayant passé la manche et le statut du joueur demandé. */
+export async function passStatus(
+  kv: Kv,
+  code: string,
+  round: number,
+  playerId: string,
+): Promise<{ count: number; mine: boolean }> {
+  const c = code.toUpperCase();
+  const count = Number(await kv.cmd(['HLEN', passesKey(c, round)]));
+  const mine = (await kv.cmd(['HGET', passesKey(c, round), playerId])) === '1';
+  return { count, mine };
+}
+
+/**
+ * Passe la question en cours. Quand tous les joueurs ont passé, la manche se
+ * termine tout de suite : on décale le calendrier pour que la manche suivante
+ * commence maintenant (startAt = maintenant − (manche + 1) × durée d'une manche).
+ */
+export async function passRound(
+  code: string,
+  playerId: string,
+): Promise<{ ok: true; passed: number; total: number } | { error: string }> {
+  const kv = getKv();
+  const c = code.toUpperCase();
+  const meta = await getMeta(kv, c);
+  if (!meta) return { error: 'Salon introuvable' };
+  const players = await getPlayers(kv, c);
+  if (!players.some((p) => p.id === playerId)) return { error: 'Joueur inconnu' };
+  const now = Date.now();
+  const phase = phaseAt(meta, now);
+  if (phase.kind !== 'answering' || now > phase.endsAt) return { error: 'Pas de question à passer' };
+  await kv.cmd(['HSET', passesKey(c, phase.round), playerId, '1']);
+  await kv.cmd(['EXPIRE', passesKey(c, phase.round), ROOM_TTL_S]);
+  const { count } = await passStatus(kv, c, phase.round, playerId);
+  if (count >= players.length) {
+    const len = meta.previewMs + meta.roundMs;
+    await setJson(kv, metaKey(c), { ...meta, startAt: now - (phase.round + 1) * len });
+  }
+  return { ok: true, passed: count, total: players.length };
+}
+
+// ── Rejouer dans le même salon ──
+/**
+ * Remet le salon en salle d'attente après une partie terminée : mêmes joueurs,
+ * même code, nouvelles questions au prochain lancement. Réservé à l'hôte.
+ */
+export async function replayRoom(code: string, playerId: string): Promise<{ ok: true } | { error: string }> {
+  const kv = getKv();
+  const c = code.toUpperCase();
+  const meta = await getMeta(kv, c);
+  if (!meta) return { error: 'Salon introuvable' };
+  if (meta.hostId !== playerId) return { error: 'Seul l\'hôte peut relancer la partie' };
+  if (phaseAt(meta, Date.now()).kind !== 'done') return { error: 'La partie est encore en cours' };
+  await kv.cmd(['DEL', answersKey(c)]);
+  await kv.cmd(['DEL', flagsKey(c)]);
+  for (let r = 0; r < meta.rounds; r++) await kv.cmd(['DEL', passesKey(c, r)]);
+  await setJson(kv, metaKey(c), {
+    ...meta,
+    promptIds: [],
+    startAt: null,
+    endedAt: null,
+    winnerId: null,
+    goalFirstId: null,
+    bonusUsedBy: null,
+    bonusUntil: null,
+  });
+  return { ok: true };
+}

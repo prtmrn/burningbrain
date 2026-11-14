@@ -8,6 +8,11 @@ Seuils : tertiles des parts observées sur les questions françaises (content/ba
 bornes incluses : part ≤ Q1 → hard ; part ≥ Q2 → easy ; sinon medium.
 Les ex æquo restent dans le même niveau.
 
+Plancher : les questions des thèmes culturels (arts-literature, entertainment)
+ne descendent jamais sous « moyen », même si la part de réponses connues est forte.
+Le thème retenu est celui de la banque spécifique de la question (la banque
+« general » ne fait que recopier les questions des autres thèmes).
+
 Le niveau est lu sur la feuille française (même promptId) et recopié sur chaque
 prompt de chaque banque, y compris les banques EN/ES (content/i18n/banks).
 
@@ -24,6 +29,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[2]
 FR_DIR = ROOT / "content" / "banks"
 I18N_DIR = ROOT / "content" / "i18n" / "banks"
 KNOWN_TIERS = ("t1", "t2")
+CULTURE_THEMES = ("arts-literature", "entertainment")  # plancher : jamais « facile »
 
 
 def known_share(sheet: dict) -> float:
@@ -56,7 +62,19 @@ def main() -> None:
             return "easy"
         return "medium"
 
+    home_theme: dict[str, str] = {}
+    for path in sorted(FR_DIR.glob("*.json")):
+        if path.name == "general.json":
+            continue
+        bank = json.loads(path.read_text(encoding="utf-8"))
+        for p in bank["prompts"]:
+            home_theme[p["id"]] = bank["theme"]
+
     levels = {pid: level(s) for pid, s in shares.items()}
+    raised = [pid for pid, lv in levels.items() if lv == "easy" and home_theme.get(pid) in CULTURE_THEMES]
+    for pid in raised:
+        levels[pid] = "medium"
+    print(f"plancher culture : {len(raised)} question(s) passées de facile à moyen")
     print(f"questions : {n} · seuils : hard ≤ {q1:.4f} < medium < {q2:.4f} ≤ easy")
     print("répartition :", dict(Counter(levels.values())))
 

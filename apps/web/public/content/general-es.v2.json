@@ -90,13 +90,13 @@
       "id": "art-classique-01",
       "theme": "general-es",
       "text": "Nombra a un compositor clásico alemán o austriaco",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-02",
       "theme": "general-es",
       "text": "Nombra un compositor clásico italiano",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-03",
@@ -150,7 +150,7 @@
       "id": "art-classique-12",
       "theme": "general-es",
       "text": "Nombra una película de Alfred Hitchcock",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-classique-13",
@@ -192,7 +192,7 @@
       "id": "art-littetr-01",
       "theme": "general-es",
       "text": "Nombra un escritor o poeta ruso",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littetr-02",
@@ -306,55 +306,55 @@
       "id": "art-littfr-07",
       "theme": "general-es",
       "text": "Nombra un personaje de una novela de Victor Hugo",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-08",
       "theme": "general-es",
       "text": "Nombra un personaje de una novela de Alexandre Dumas padre",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-littfr-12",
       "theme": "general-es",
       "text": "Nombra un escritor en lengua francesa originario de África subsahariana o de Madagascar",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-livre-enfants",
       "theme": "general-es",
       "text": "Nombra un libro o una serie de libros infantiles",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mouvement",
       "theme": "general-es",
       "text": "Nombra un movimiento artístico",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-musee",
       "theme": "general-es",
       "text": "Nombra un museo famoso del mundo",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-01",
       "theme": "general-es",
       "text": "Nombra una figura retórica",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-03",
       "theme": "general-es",
       "text": "Nombra un personaje de la leyenda del rey Arturo y la Mesa Redonda",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-04",
       "theme": "general-es",
       "text": "Nombra una criatura fantástica del folclore o de la fantasía (excluida la mitología griega)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-10",
@@ -378,7 +378,7 @@
       "id": "art-mythes-14",
       "theme": "general-es",
       "text": "Nombra un héroe de leyenda o folclore (excepto mitología griega y leyenda artúrica)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-mythes-15",
@@ -456,7 +456,7 @@
       "id": "art-peinture-12",
       "theme": "general-es",
       "text": "Nombra un cuadro de Vincent van Gogh",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-peinture-13",
@@ -498,7 +498,7 @@
       "id": "art-prix-litteraire",
       "theme": "general-es",
       "text": "Nombra un premio literario",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "art-renaissance-peintre",
@@ -564,13 +564,13 @@
       "id": "ent-anim-08",
       "theme": "general-es",
       "text": "Nombra una serie de televisión para adolescentes (de cualquier nacionalidad)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-09",
       "theme": "general-es",
       "text": "Nombra una película familiar o infantil de imagen real",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-10",
@@ -582,7 +582,7 @@
       "id": "ent-anim-11",
       "theme": "general-es",
       "text": "Nombra un personaje del manga y anime Ataque a los Titanes",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-12",
@@ -594,7 +594,7 @@
       "id": "ent-anim-13",
       "theme": "general-es",
       "text": "Nombra un personaje de Sailor Moon (manga y anime)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "ent-anim-14",

@@ -26,9 +26,16 @@ export interface GameSetup {
   difficulty?: DifficultyChoice;
 }
 export const DIFFICULTY_OPTIONS: readonly DifficultyChoice[] = ['auto', 'easy', 'medium', 'hard'];
+/** Durée « illimitée » (Brain seulement) : 24 h, jamais atteinte en pratique ;
+ *  la manche se termine à l'épuisement de la feuille ou quand le joueur passe. */
+export const UNLIMITED_ROUND_MS = 24 * 60 * 60 * 1000;
+export function isUnlimitedRound(roundMs: number): boolean {
+  return roundMs >= UNLIMITED_ROUND_MS;
+}
+/** 0 secondes = illimité (Brain). */
 export const SETUP_OPTIONS: Record<'hot' | 'brain', { rounds: number[]; roundSec: number[] }> = {
   hot: { rounds: [3, 5, 7, 10], roundSec: [15, 30, 45, 60] },
-  brain: { rounds: [3, 5, 7], roundSec: [30, 60, 90, 120] },
+  brain: { rounds: [3, 5, 7], roundSec: [0, 30, 60, 90, 120] },
 };
 export function defaultSetup(mode: 'hot' | 'brain'): GameSetup {
   const m = hotbrainConfig.modes[mode];
@@ -40,7 +47,11 @@ export function configFor(mode: 'hot' | 'brain', setup?: GameSetup): GameConfig 
     ...hotbrainConfig,
     modes: {
       ...hotbrainConfig.modes,
-      [mode]: { ...hotbrainConfig.modes[mode], rounds: setup.rounds, roundMs: setup.roundSec * 1000 },
+      [mode]: {
+        ...hotbrainConfig.modes[mode],
+        rounds: setup.rounds,
+        roundMs: setup.roundSec === 0 ? UNLIMITED_ROUND_MS : setup.roundSec * 1000,
+      },
     },
   };
 }

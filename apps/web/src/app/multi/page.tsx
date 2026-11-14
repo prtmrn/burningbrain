@@ -90,6 +90,7 @@ export default function MultiHome() {
               ))}
             </select>
           </label>
+          <h3 className="multi-sub">{t('multi.mode.label')}</h3>
           <div className="choice-row" role="radiogroup" aria-label={t('multi.mode.label')}>
             {(['hot', 'brain'] as const).map((m) => (
               <button key={m} type="button" role="radio" aria-checked={mode === m} className={`choice${mode === m ? ' on' : ''}`} onClick={() => setMode(m)}>
@@ -97,8 +98,10 @@ export default function MultiHome() {
               </button>
             ))}
           </div>
+          <p className="multi-hint">{mode === 'hot' ? t('multi.mode.boiling.desc') : t('multi.mode.brain.desc')}</p>
           {mode === 'brain' && (
             <>
+              <h3 className="multi-sub">{t('multi.goal.label')}</h3>
               <div className="choice-row" role="radiogroup" aria-label={t('multi.goal.label')}>
                 {[100, 200, 300, 500, 750, 1000].map((g) => (
                   <button key={g} type="button" role="radio" aria-checked={brainGoal === g} className={`choice${brainGoal === g ? ' on' : ''}`} onClick={() => setBrainGoal(g)} data-testid={`goal-${g}`}>
@@ -106,12 +109,13 @@ export default function MultiHome() {
                   </button>
                 ))}
               </div>
-              <label className="field" style={{ flexDirection: 'row', alignItems: 'center', gap: '0.5rem' }}>
+              <label className="field multi-check">
                 <input type="checkbox" checked={showScores} onChange={(e) => setShowScores(e.target.checked)} data-testid="show-scores" />
                 <span>{t('multi.showscores')}</span>
               </label>
             </>
           )}
+          <h3 className="multi-sub">{t('multi.rounds.label')}</h3>
           <div className="choice-row" role="radiogroup" aria-label={t('multi.rounds.label')}>
             {[3, 5, 7, 10].map((n) => (
               <button key={n} type="button" role="radio" aria-checked={rounds === n} className={`choice${rounds === n ? ' on' : ''}`} onClick={() => setRounds(n)}>
@@ -119,6 +123,7 @@ export default function MultiHome() {
               </button>
             ))}
           </div>
+          <h3 className="multi-sub">{t('multi.time.label')}</h3>
           <div className="choice-row" role="radiogroup" aria-label={t('multi.time.label')}>
             {[15, 30, 45, 60].map((sec) => (
               <button key={sec} type="button" role="radio" aria-checked={roundSec === sec} className={`choice${roundSec === sec ? ' on' : ''}`} onClick={() => setRoundSec(sec)}>
@@ -126,6 +131,7 @@ export default function MultiHome() {
               </button>
             ))}
           </div>
+          <h3 className="multi-sub">{t('difficulty.label')}</h3>
           <div className="choice-row" role="radiogroup" aria-label={t('difficulty.label')}>
             {DIFFICULTY_OPTIONS.map((d) => (
               <button

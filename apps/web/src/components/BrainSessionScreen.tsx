@@ -10,7 +10,7 @@ import { sheetCeiling, type BrainDiveState, type GameConfig, type LoadedBank, ty
 import type { DiveSession } from '../hooks/useDiveSession';
 import { useSoundPref } from '../hooks/useSoundPref';
 import { TIER_ICONS, TIER_LABELS } from '../content';
-import { BRAIN_GOAL, hotbrainConfig } from '../config';
+import { BRAIN_GOAL, hotbrainConfig, isUnlimitedRound } from '../config';
 import { playMiss, playTier } from '../sound';
 import { PromptCard } from './PromptCard';
 import { AnswerInput } from './AnswerInput';
@@ -115,7 +115,9 @@ export function BrainSessionScreen({
         <main className="summary panel-screen" data-testid="intro">
           <h1>{t('intro.brain.title')}</h1>
           <p className="lead">
-            {t('intro.brain.lead', { n: cfg.rounds, s: cfg.roundMs / 1000 })}
+            {isUnlimitedRound(cfg.roundMs)
+              ? t('intro.brain.lead.unlimited', { n: cfg.rounds })
+              : t('intro.brain.lead', { n: cfg.rounds, s: cfg.roundMs / 1000 })}
           </p>
           <p>
             {t('intro.brain.body', { goal })}
@@ -233,7 +235,11 @@ export function BrainSessionScreen({
 
           {phase === 'listing' && (
             <div data-testid="listing">
-              <CountdownBar remainingMs={(s.answerEndsAt ?? 0) - session.now} totalMs={cfg.roundMs} urgentBelowMs={10_000} />
+              {isUnlimitedRound(cfg.roundMs) ? (
+                <p className="muted" data-testid="brain-unlimited">{t('brain.unlimited')}</p>
+              ) : (
+                <CountdownBar remainingMs={(s.answerEndsAt ?? 0) - session.now} totalMs={cfg.roundMs} urgentBelowMs={10_000} />
+              )}
               <div style={{ marginTop: '1rem' }}>
                 <AnswerInput
                   value={s.draft ?? ''}
@@ -268,7 +274,7 @@ export function BrainSessionScreen({
               </div>
               <p>
                 <button type="button" className="secondary" onClick={session.abandonRound} data-testid="next-question">
-                  {t('brain.next')}
+                  {isUnlimitedRound(cfg.roundMs) ? t('brain.skip') : t('brain.next')}
                 </button>
               </p>
             </div>

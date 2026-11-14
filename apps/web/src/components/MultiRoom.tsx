@@ -42,6 +42,7 @@ interface RoomState {
   goalFirstId?: string | null;
   bonusUsedBy?: string | null;
   bonusUntil?: number | null;
+  pass?: { count: number; mine: boolean } | null;
   flags?: { id: string; round: number; playerId: string; name: string; input: string; status: 'open' | 'accepted' | 'refused'; yes: number; no: number; myVote: boolean | null; mine: boolean }[];
 }
 
@@ -197,6 +198,16 @@ export function MultiRoom({ code }: { code: string }) {
     await postJson(`/api/multi/rooms/${C}/flags/${encodeURIComponent(id)}/vote`, { playerId: me.playerId, accept });
   }
 
+  async function passQuestion(): Promise<void> {
+    if (!me) return;
+    await postJson(`/api/multi/rooms/${C}/pass`, { playerId: me.playerId });
+  }
+
+  async function replay(): Promise<void> {
+    if (!me) return;
+    await postJson(`/api/multi/rooms/${C}/replay`, { playerId: me.playerId });
+  }
+
   async function activateBonus(): Promise<void> {
     if (!me) return;
     await postJson(`/api/multi/rooms/${C}/bonus`, { playerId: me.playerId });
@@ -307,6 +318,11 @@ export function MultiRoom({ code }: { code: string }) {
                 {t('multi.submit')}
               </button>
             </form>
+            {state.pass?.mine ? (
+              <p className="feedback" data-testid="multi-passed">{t('multi.pass.waiting', { n: state.pass.count, total: state.players.length })}</p>
+            ) : (
+              <button type="button" className="secondary" onClick={passQuestion} data-testid="multi-pass">{t('multi.pass')}</button>
+            )}
             {verdict && verdict.round === state.current.round && VERDICT_KEY[verdict.kind] && (
               <p className="feedback rejected" role="status">{t(VERDICT_KEY[verdict.kind]!)}</p>
             )}
@@ -359,6 +375,13 @@ export function MultiRoom({ code }: { code: string }) {
                   {t('multi.submit')}
                 </button>
               </form>
+            )}
+            {!mineFound && (
+              state.pass?.mine ? (
+                <p className="feedback" data-testid="multi-passed">{t('multi.pass.waiting', { n: state.pass.count, total: state.players.length })}</p>
+              ) : (
+                <button type="button" className="secondary" onClick={passQuestion} data-testid="multi-pass">{t('multi.pass')}</button>
+              )
             )}
             {verdict && verdict.round === state.current.round && VERDICT_KEY[verdict.kind] && (
               <p className="feedback rejected" role="status">{t(VERDICT_KEY[verdict.kind]!)}</p>
@@ -438,6 +461,9 @@ export function MultiRoom({ code }: { code: string }) {
                 </details>
               </article>
             ))}
+            {state.isHost && (
+              <button type="button" className="big" onClick={replay} data-testid="multi-replay">{t('multi.replay')}</button>
+            )}
             <a href="/multi"><button type="button" className="big secondary">{t('multi.back')}</button></a>
           </section>
         )}
