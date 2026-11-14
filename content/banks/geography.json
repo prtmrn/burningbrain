@@ -30,19 +30,19 @@
       "id": "geo-pays-equateur",
       "theme": "geography",
       "text": "Nomme un pays traversé par l'équateur",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-pays-insulaire",
       "theme": "geography",
       "text": "Nomme un pays insulaire",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-pays-transcontinental",
       "theme": "geography",
       "text": "Nomme un pays situé sur deux continents",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-pays-ue",
@@ -72,55 +72,55 @@
       "id": "geo-capitale-amerique",
       "theme": "geography",
       "text": "Nomme une capitale du continent américain",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-capitale-pas-plus-grande",
       "theme": "geography",
       "text": "Nomme une capitale qui n'est pas la plus grande ville de son pays",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-capitale-oceanie",
       "theme": "geography",
       "text": "Nomme une capitale d'Océanie",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-fleuve-afrique",
       "theme": "geography",
       "text": "Nomme un fleuve d'Afrique",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-fleuve-europe",
       "theme": "geography",
       "text": "Nomme un fleuve d'Europe",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-fleuve-france",
       "theme": "geography",
       "text": "Nomme un fleuve ou une rivière de France",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-fleuve-asie",
       "theme": "geography",
       "text": "Nomme un fleuve d'Asie",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-fleuve-amerique",
       "theme": "geography",
       "text": "Nomme un fleuve des Amériques",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-sommet-8000",
       "theme": "geography",
       "text": "Nomme un sommet de plus de 8 000 mètres",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-sommet-4000",
@@ -132,7 +132,7 @@
       "id": "geo-chaine",
       "theme": "geography",
       "text": "Nomme une chaîne de montagnes",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-volcan",
@@ -180,13 +180,13 @@
       "id": "geo-archipel",
       "theme": "geography",
       "text": "Nomme un archipel",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-ile-atlantique",
       "theme": "geography",
       "text": "Nomme une île de l'Atlantique",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-ocean-ou-mer",
@@ -198,13 +198,13 @@
       "id": "geo-detroit",
       "theme": "geography",
       "text": "Nomme un détroit",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-golfe",
       "theme": "geography",
       "text": "Nomme un golfe",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-cap",
@@ -216,37 +216,37 @@
       "id": "geo-peninsule",
       "theme": "geography",
       "text": "Nomme une péninsule",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-megapole",
       "theme": "geography",
       "text": "Nomme une ville de plus de 10 millions d'habitants",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-prefecture-region",
       "theme": "geography",
       "text": "Nomme une préfecture de région française",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-ville-olympique",
       "theme": "geography",
       "text": "Nomme une ville ayant accueilli les Jeux olympiques",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-port",
       "theme": "geography",
       "text": "Nomme un grand port maritime",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-monument-unesco",
       "theme": "geography",
       "text": "Nomme un site classé au patrimoine mondial de l'UNESCO",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-monument-paris",
@@ -282,19 +282,19 @@
       "id": "geo-site-antique",
       "theme": "geography",
       "text": "Nomme un site archéologique célèbre",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-region-francaise",
       "theme": "geography",
       "text": "Nomme une région française",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-fuseau",
       "theme": "geography",
       "text": "Nomme un pays qui s'étend sur plusieurs fuseaux horaires",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-frontiere-france",
@@ -312,7 +312,7 @@
       "id": "geo-france-02",
       "theme": "geography",
       "text": "Nomme une préfecture de département français qui n'est pas chef-lieu de région",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-03",
@@ -324,7 +324,7 @@
       "id": "geo-france-04",
       "theme": "geography",
       "text": "Nomme une commune de la région Normandie",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-05",
@@ -372,19 +372,19 @@
       "id": "geo-france-12",
       "theme": "geography",
       "text": "Nomme une spécialité culinaire française dont le nom fait référence à un lieu (hors vins et fromages)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-13",
       "theme": "geography",
       "text": "Nomme un col routier de montagne situé en France",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-14",
       "theme": "geography",
       "text": "Nomme une commune de Corse",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-france-15",
@@ -408,7 +408,7 @@
       "id": "geo-monde-03",
       "theme": "geography",
       "text": "Nomme un État ou un territoire des États-Unis",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-monde-04",
@@ -492,7 +492,7 @@
       "id": "geo-reliefs-02",
       "theme": "geography",
       "text": "Nomme un parc national des États-Unis",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-reliefs-03",
@@ -540,7 +540,7 @@
       "id": "geo-reliefs-10",
       "theme": "geography",
       "text": "Nomme un monument, un temple ou un site célèbre d'Égypte",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "geo-reliefs-11",

@@ -8978,14 +8978,16 @@
           "answer": "Titi",
           "tier": "t1",
           "aliases": [
-            "Tweety"
+            "Tweety",
+            "Piolín"
           ]
         },
         {
           "answer": "Grosminet",
           "tier": "t1",
           "aliases": [
-            "Sylvester"
+            "Sylvester",
+            "Silvestre"
           ]
         },
         {
@@ -9007,7 +9009,8 @@
           "answer": "Bip Bip",
           "tier": "t1",
           "aliases": [
-            "Road Runner"
+            "Road Runner",
+            "Correcaminos"
           ]
         },
         {
@@ -9050,21 +9053,24 @@
           "tier": "t3",
           "aliases": [
             "Elmer",
-            "Fudd"
+            "Fudd",
+            "Elmer Gruñón"
           ]
         },
         {
           "answer": "Yosemite Sam",
           "tier": "t3",
           "aliases": [
-            "Sam le pirate"
+            "Sam le pirate",
+            "Sam Bigotes"
           ]
         },
         {
           "answer": "Marvin le Martien",
           "tier": "t3",
           "aliases": [
-            "Marvin the Martian"
+            "Marvin the Martian",
+            "Marvin el Marciano"
           ]
         },
         {
@@ -9094,14 +9100,16 @@
           "tier": "t3",
           "aliases": [
             "Fred Flintstone",
-            "Fred Caillou"
+            "Fred Caillou",
+            "Pedro Picapiedra"
           ]
         },
         {
           "answer": "Barney Laroche",
           "tier": "t3",
           "aliases": [
-            "Barney Rubble"
+            "Barney Rubble",
+            "Pablo Mármol"
           ]
         },
         {
@@ -9114,7 +9122,8 @@
           "tier": "t3",
           "aliases": [
             "Woody Le Pic",
-            "Woody"
+            "Woody",
+            "Pájaro Loco"
           ]
         },
         {
@@ -9131,14 +9140,16 @@
           "answer": "Felix le Chat",
           "tier": "t3",
           "aliases": [
-            "Felix the Cat"
+            "Felix the Cat",
+            "El gato Félix"
           ]
         },
         {
           "answer": "Panthère rose",
           "tier": "t3",
           "aliases": [
-            "Pink Panther"
+            "Pink Panther",
+            "La Pantera Rosa"
           ]
         },
         {
@@ -9153,7 +9164,8 @@
           "tier": "t3",
           "aliases": [
             "Yogi Bear",
-            "Yogi"
+            "Yogi",
+            "Oso Yogui"
           ]
         },
         {
@@ -9174,7 +9186,8 @@
           "answer": "Véra",
           "tier": "t3",
           "aliases": [
-            "Velma"
+            "Velma",
+            "Vilma"
           ]
         },
         {
@@ -9191,14 +9204,17 @@
             "Dick Dastardly",
             "Satanas",
             "Diabolo",
-            "Muttley"
+            "Muttley",
+            "Dick Dastardly and Muttley",
+            "Pierre Nodoyuna y Patán"
           ]
         },
         {
           "answer": "Wilma Pierrafeu",
           "tier": "t3",
           "aliases": [
-            "Wilma Flintstone"
+            "Wilma Flintstone",
+            "Vilma Picapiedra"
           ]
         },
         {
@@ -9209,7 +9225,9 @@
         {
           "answer": "Foghorn Leghorn",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Gallo Claudio"
+          ]
         },
         {
           "answer": "Michigan J. Frog",
@@ -9225,14 +9243,16 @@
           "answer": "Granny",
           "tier": "t4",
           "aliases": [
-            "Grand-mère de Titi"
+            "Grand-mère de Titi",
+            "Abuelita"
           ]
         },
         {
           "answer": "Hector le bouledogue",
           "tier": "t4",
           "aliases": [
-            "Hector the Bulldog"
+            "Hector the Bulldog",
+            "Héctor el bulldog"
           ]
         },
         {
@@ -9253,7 +9273,10 @@
         {
           "answer": "Hubie et Bertie",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Hubie and Bertie",
+            "Hubie y Bertie"
+          ]
         },
         {
           "answer": "Hippety Hopper",
@@ -9264,13 +9287,16 @@
           "answer": "Witch Hazel",
           "tier": "t4",
           "aliases": [
-            "Sorcière Hazel"
+            "Sorcière Hazel",
+            "Bruja Hazel"
           ]
         },
         {
           "answer": "Sylvester Junior",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Silvestre Júnior"
+          ]
         },
         {
           "answer": "Cecil Turtle",
@@ -9295,14 +9321,16 @@
           "answer": "Mighty Mouse",
           "tier": "t4",
           "aliases": [
-            "Super Souris"
+            "Super Souris",
+            "Súper Ratón"
           ]
         },
         {
           "answer": "Heckle et Jeckle",
           "tier": "t4",
           "aliases": [
-            "Heckle and Jeckle"
+            "Heckle and Jeckle",
+            "Heckle y Jeckle"
           ]
         },
         {
@@ -9316,7 +9344,9 @@
           "answer": "Spike le bouledogue",
           "tier": "t4",
           "aliases": [
-            "Spike"
+            "Spike",
+            "Spike the Bulldog",
+            "Spike el bulldog"
           ]
         },
         {
@@ -9334,7 +9364,9 @@
         {
           "answer": "Top Cat",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Don Gato"
+          ]
         },
         {
           "answer": "Magilla Gorilla",
@@ -9360,7 +9392,9 @@
           "answer": "Boubou",
           "tier": "t4",
           "aliases": [
-            "Boo Boo"
+            "Boo Boo",
+            "Boo-Boo Bear",
+            "Bubu"
           ]
         },
         {
@@ -9372,13 +9406,16 @@
           "answer": "Atom Ant",
           "tier": "t4",
           "aliases": [
-            "Atom la fourmi"
+            "Atom la fourmi",
+            "Hormiga Atómica"
           ]
         },
         {
           "answer": "Secret Squirrel",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Ardilla Secreta"
+          ]
         },
         {
           "answer": "George Jetson",
@@ -9405,7 +9442,9 @@
           "tier": "t4",
           "aliases": [
             "Rosie la robot",
-            "Rosey"
+            "Rosey",
+            "Rosie the Robot",
+            "Robotina"
           ]
         },
         {
@@ -9433,14 +9472,16 @@
           "answer": "Betty Laroche",
           "tier": "t4",
           "aliases": [
-            "Betty Rubble"
+            "Betty Rubble",
+            "Betty Mármol"
           ]
         },
         {
           "answer": "Pénélope Pitstop",
           "tier": "t4",
           "aliases": [
-            "Penelope Pitstop"
+            "Penelope Pitstop",
+            "Penélope Glamour"
           ]
         },
         {
@@ -9460,7 +9501,8 @@
           "tier": "t4",
           "aliases": [
             "Rocky",
-            "Rocky the Flying Squirrel"
+            "Rocky the Flying Squirrel",
+            "Rocky la ardilla voladora"
           ]
         },
         {
@@ -9551,7 +9593,8 @@
           "answer": "Officier Dibble",
           "tier": "t4",
           "aliases": [
-            "Officer Dibble"
+            "Officer Dibble",
+            "Oficial Dibble"
           ]
         },
         {
@@ -9563,7 +9606,8 @@
           "answer": "Josie et les Pussycats",
           "tier": "t5",
           "aliases": [
-            "Josie and the Pussycats"
+            "Josie and the Pussycats",
+            "Josie y las Pussycats"
           ]
         },
         {
@@ -9590,7 +9634,8 @@
           "answer": "Pixie et Dixie",
           "tier": "t5",
           "aliases": [
-            "Pixie and Dixie"
+            "Pixie and Dixie",
+            "Pixie y Dixie"
           ]
         },
         {
@@ -9629,7 +9674,9 @@
           "answer": "Wendy la bonne petite sorcière",
           "tier": "t5",
           "aliases": [
-            "Wendy"
+            "Wendy",
+            "Wendy the Good Little Witch",
+            "Wendy la brujita buena"
           ]
         },
         {
@@ -9737,41 +9784,57 @@
           "tier": "t1",
           "aliases": [
             "Nounours",
-            "Doudou"
+            "Doudou",
+            "Plush toy"
           ]
         },
         {
           "answer": "Poupée",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Doll",
+            "Muñeca"
+          ]
         },
         {
           "answer": "Petites voitures",
           "tier": "t1",
           "aliases": [
-            "Voiture miniature"
+            "Voiture miniature",
+            "Toy cars",
+            "Coches de juguete"
           ]
         },
         {
           "answer": "Puzzle",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Jigsaw puzzle",
+            "Puzle"
+          ]
         },
         {
           "answer": "Cerf-volant",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Kite",
+            "Cometa"
+          ]
         },
         {
           "answer": "Ballon",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Ball",
+            "Balón"
+          ]
         },
         {
           "answer": "Ours en peluche",
           "tier": "t2",
           "aliases": [
-            "Teddy bear"
+            "Teddy bear",
+            "Osito de peluche"
           ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
@@ -9827,7 +9890,8 @@
           "answer": "Rubik's Cube",
           "tier": "t3",
           "aliases": [
-            "Rubik's cube"
+            "Rubik's cube",
+            "Cubo de Rubik"
           ]
         },
         {
@@ -9856,7 +9920,8 @@
           "answer": "My Little Pony",
           "tier": "t3",
           "aliases": [
-            "Petit Poney"
+            "Petit Poney",
+            "Mi pequeño pony"
           ]
         },
         {
@@ -9868,56 +9933,82 @@
           "answer": "Pâte à modeler",
           "tier": "t3",
           "aliases": [
-            "Play-Doh"
+            "Play-Doh",
+            "Modeling clay",
+            "Plastilina"
           ]
         },
         {
           "answer": "Ardoise magique",
           "tier": "t3",
           "aliases": [
-            "Etch A Sketch"
+            "Etch A Sketch",
+            "Magic slate",
+            "Pizarra mágica"
           ]
         },
         {
           "answer": "Toupie",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Spinning top",
+            "Peonza"
+          ]
         },
         {
           "answer": "Bilboquet",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Cup-and-ball",
+            "Balero"
+          ]
         },
         {
           "answer": "Mikado",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pick-up sticks"
+          ]
         },
         {
           "answer": "Dînette",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Toy tea set",
+            "Juego de cocinita"
+          ]
         },
         {
           "answer": "Train électrique",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Electric train set",
+            "Tren eléctrico"
+          ]
         },
         {
           "answer": "Cheval à bascule",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Rocking horse",
+            "Caballito balancín"
+          ]
         },
         {
           "answer": "Marionnette",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Puppet",
+            "Marioneta"
+          ]
         },
         {
           "answer": "Poupée russe",
           "tier": "t3",
           "aliases": [
-            "Matriochka"
+            "Matriochka",
+            "Matryoshka doll",
+            "Matrioska"
           ]
         },
         {
@@ -9935,12 +10026,18 @@
         {
           "answer": "Trottinette",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Scooter",
+            "Patinete"
+          ]
         },
         {
           "answer": "Corde à sauter",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Jump rope",
+            "Comba"
+          ]
         },
         {
           "answer": "Duplo",
@@ -10003,7 +10100,8 @@
           "answer": "Maîtres de l'univers",
           "tier": "t4",
           "aliases": [
-            "Masters of the Universe"
+            "Masters of the Universe",
+            "Masters del Universo"
           ]
         },
         {
@@ -10015,7 +10113,8 @@
           "answer": "Monsieur Patate",
           "tier": "t4",
           "aliases": [
-            "Mr Potato Head"
+            "Mr Potato Head",
+            "Señor Cara de Papa"
           ]
         },
         {
@@ -10086,35 +10185,50 @@
           "answer": "Balle rebondissante",
           "tier": "t4",
           "aliases": [
-            "Bouncy ball"
+            "Bouncy ball",
+            "Pelota saltarina"
           ]
         },
         {
           "answer": "Jeu de construction",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Building set",
+            "Juego de construcción"
+          ]
         },
         {
           "answer": "Épée en plastique",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Plastic sword",
+            "Espada de plástico"
+          ]
         },
         {
           "answer": "Soldats de plomb",
           "tier": "t4",
           "aliases": [
-            "Petits soldats"
+            "Petits soldats",
+            "Tin soldiers",
+            "Soldaditos de plomo"
           ]
         },
         {
           "answer": "Petit train en bois",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Wooden toy train",
+            "Trenecito de madera"
+          ]
         },
         {
           "answer": "Cubes en bois",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Wooden blocks",
+            "Cubos de madera"
+          ]
         },
         {
           "answer": "Lite-Brite",
@@ -14318,7 +14432,8 @@
           "answer": "Dawson",
           "tier": "t1",
           "aliases": [
-            "Dawson's Creek"
+            "Dawson's Creek",
+            "Dawson crece"
           ]
         },
         {
@@ -14352,7 +14467,8 @@
           "answer": "Beverly Hills 90210",
           "tier": "t2",
           "aliases": [
-            "Beverly Hills"
+            "Beverly Hills",
+            "Sensación de vivir"
           ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
@@ -14366,7 +14482,9 @@
           "answer": "Buffy contre les vampires",
           "tier": "t3",
           "aliases": [
-            "Buffy"
+            "Buffy",
+            "Buffy the Vampire Slayer",
+            "Buffy, cazavampiros"
           ]
         },
         {
@@ -14378,13 +14496,17 @@
           "answer": "Sabrina l'apprentie sorcière",
           "tier": "t3",
           "aliases": [
-            "Sabrina"
+            "Sabrina",
+            "Sabrina the Teenage Witch",
+            "Sabrina, cosas de brujas"
           ]
         },
         {
           "answer": "Charmed",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Embrujadas"
+          ]
         },
         {
           "answer": "Premiers Baisers",
@@ -14405,14 +14527,17 @@
           "answer": "Sauvés par le gong",
           "tier": "t3",
           "aliases": [
-            "Saved by the Bell"
+            "Saved by the Bell",
+            "Salvados por la campana"
           ]
         },
         {
           "answer": "Parker Lewis ne perd jamais",
           "tier": "t3",
           "aliases": [
-            "Parker Lewis"
+            "Parker Lewis",
+            "Parker Lewis Can't Lose",
+            "Parker Lewis nunca pierde"
           ]
         },
         {
@@ -14424,13 +14549,18 @@
           "answer": "La Vie de palace de Zack et Cody",
           "tier": "t3",
           "aliases": [
-            "Zack et Cody"
+            "Zack et Cody",
+            "The Suite Life of Zack & Cody",
+            "Hotel Dulce Hotel: Las aventuras de Zack y Cody"
           ]
         },
         {
           "answer": "Raven",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "That's So Raven",
+            "Es tan Raven"
+          ]
         },
         {
           "answer": "iCarly",
@@ -14445,12 +14575,18 @@
         {
           "answer": "Drake et Josh",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Drake & Josh",
+            "Drake y Josh"
+          ]
         },
         {
           "answer": "Les Sorciers de Waverly Place",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Wizards of Waverly Place",
+            "Los magos de Waverly Place"
+          ]
         },
         {
           "answer": "Teen Wolf",
@@ -14461,7 +14597,8 @@
           "answer": "Vampire Diaries",
           "tier": "t3",
           "aliases": [
-            "The Vampire Diaries"
+            "The Vampire Diaries",
+            "Crónicas vampíricas"
           ]
         },
         {
@@ -14483,7 +14620,8 @@
           "answer": "Les 13 raisons",
           "tier": "t3",
           "aliases": [
-            "13 Reasons Why"
+            "13 Reasons Why",
+            "Por trece razones"
           ]
         },
         {
@@ -14495,7 +14633,8 @@
           "answer": "Mercredi",
           "tier": "t3",
           "aliases": [
-            "Wednesday"
+            "Wednesday",
+            "Miércoles"
           ]
         },
         {
@@ -14516,7 +14655,9 @@
         {
           "answer": "Gilmore Girls",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Las chicas Gilmore"
+          ]
         },
         {
           "answer": "Veronica Mars",
@@ -14531,13 +14672,17 @@
         {
           "answer": "Malcolm",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Malcolm in the Middle"
+          ]
         },
         {
           "answer": "Incorrigible Cory",
           "tier": "t3",
           "aliases": [
-            "Boy Meets World"
+            "Boy Meets World",
+            "Cory in the House",
+            "Cory en la Casa Blanca"
           ]
         },
         {
@@ -14568,7 +14713,9 @@
         {
           "answer": "Never Have I Ever",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Yo nunca"
+          ]
         },
         {
           "answer": "Seconde B",
@@ -14621,7 +14768,8 @@
           "answer": "Phil du futur",
           "tier": "t4",
           "aliases": [
-            "Phil of the Future"
+            "Phil of the Future",
+            "Phil del futuro"
           ]
         },
         {
@@ -14642,12 +14790,16 @@
         {
           "answer": "Shake It Up",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "A todo ritmo"
+          ]
         },
         {
           "answer": "H2O",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "H2O: Just Add Water"
+          ]
         },
         {
           "answer": "Switched at Birth",
@@ -14734,7 +14886,10 @@
         {
           "answer": "Clarissa",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Clarissa Explains It All",
+            "Clarissa lo explica todo"
+          ]
         },
         {
           "answer": "Moesha",
@@ -14751,7 +14906,8 @@
           "answer": "Maman, j'ai raté l'avion",
           "tier": "t1",
           "aliases": [
-            "Home Alone"
+            "Home Alone",
+            "Solo en casa"
           ]
         },
         {
@@ -14773,7 +14929,8 @@
           "answer": "Charlie et la Chocolaterie",
           "tier": "t1",
           "aliases": [
-            "Charlie and the Chocolate Factory"
+            "Charlie and the Chocolate Factory",
+            "Charlie y la fábrica de chocolate"
           ]
         },
         {
@@ -14785,7 +14942,9 @@
           "answer": "E.T. l'extra-terrestre",
           "tier": "t1",
           "aliases": [
-            "E.T."
+            "E.T.",
+            "E.T. the Extra-Terrestrial",
+            "E.T., el extraterrestre"
           ]
         },
         {
@@ -14803,44 +14962,59 @@
         {
           "answer": "Le Petit Nicolas",
           "tier": "t1",
-          "aliases": []
+          "aliases": [
+            "Little Nicholas",
+            "El pequeño Nicolás"
+          ]
         },
         {
           "answer": "Harry Potter à l'école des sorciers",
           "tier": "t2",
           "aliases": [
-            "Harry Potter"
+            "Harry Potter",
+            "Harry Potter and the Sorcerer's Stone",
+            "Harry Potter y la piedra filosofal"
           ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
         {
           "answer": "Bébé part en vadrouille",
           "tier": "t6",
-          "aliases": [],
+          "aliases": [
+            "Baby's Day Out"
+          ],
           "quip": "Celle-là, on ne l'attendait pas."
         },
         {
           "answer": "Les Goonies",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Los Goonies"
+          ]
         },
         {
           "answer": "Le Monde de Narnia",
           "tier": "t3",
           "aliases": [
-            "Narnia"
+            "Narnia",
+            "The Chronicles of Narnia",
+            "Las crónicas de Narnia"
           ]
         },
         {
           "answer": "La Guerre des boutons",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "War of the Buttons",
+            "La guerra de los botones"
+          ]
         },
         {
           "answer": "Babe, le cochon devenu berger",
           "tier": "t3",
           "aliases": [
-            "Babe"
+            "Babe",
+            "Babe, el cerdito valiente"
           ]
         },
         {
@@ -14852,7 +15026,8 @@
           "answer": "Sauvez Willy",
           "tier": "t3",
           "aliases": [
-            "Free Willy"
+            "Free Willy",
+            "Liberad a Willy"
           ]
         },
         {
@@ -14873,7 +15048,10 @@
         {
           "answer": "Alvin et les Chipmunks",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Alvin and the Chipmunks",
+            "Alvin y las ardillas"
+          ]
         },
         {
           "answer": "Spy Kids",
@@ -14883,7 +15061,10 @@
         {
           "answer": "La Famille Addams",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "The Addams Family",
+            "La familia Addams"
+          ]
         },
         {
           "answer": "Casper",
@@ -14893,12 +15074,18 @@
         {
           "answer": "Le Livre de la jungle",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "The Jungle Book",
+            "El libro de la selva"
+          ]
         },
         {
           "answer": "Le Magicien d'Oz",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "The Wizard of Oz",
+            "El mago de Oz"
+          ]
         },
         {
           "answer": "Peter Pan",
@@ -14908,18 +15095,25 @@
         {
           "answer": "Alice au pays des merveilles",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Alice in Wonderland",
+            "Alicia en el país de las maravillas"
+          ]
         },
         {
           "answer": "Chérie, j'ai rétréci les gosses",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Honey, I Shrunk the Kids",
+            "Cariño, he encogido a los niños"
+          ]
         },
         {
           "answer": "Retour vers le futur",
           "tier": "t3",
           "aliases": [
-            "Back to the Future"
+            "Back to the Future",
+            "Regreso al futuro"
           ]
         },
         {
@@ -14932,28 +15126,40 @@
         {
           "answer": "L'Histoire sans fin",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "The NeverEnding Story",
+            "La historia interminable"
+          ]
         },
         {
           "answer": "Princess Bride",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "La princesa prometida"
+          ]
         },
         {
           "answer": "Dennis la malice",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Dennis the Menace",
+            "Daniel el travieso"
+          ]
         },
         {
           "answer": "Belle et Sébastien",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Belle and Sebastian",
+            "Belle y Sebastián"
+          ]
         },
         {
           "answer": "Rasta Rockett",
           "tier": "t3",
           "aliases": [
-            "Cool Runnings"
+            "Cool Runnings",
+            "Elegidos para la gloria"
           ]
         },
         {
@@ -14966,12 +15172,18 @@
         {
           "answer": "Le Grinch",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "How the Grinch Stole Christmas",
+            "El Grinch"
+          ]
         },
         {
           "answer": "Les Vacances du Petit Nicolas",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Nicholas on Holiday",
+            "Las vacaciones del pequeño Nicolás"
+          ]
         },
         {
           "answer": "Zathura",
@@ -14987,7 +15199,9 @@
           "answer": "Willy Wonka et la Fabrique de chocolat",
           "tier": "t3",
           "aliases": [
-            "Willy Wonka"
+            "Willy Wonka",
+            "Willy Wonka & the Chocolate Factory",
+            "Willy Wonka y la fábrica de chocolate"
           ]
         },
         {
@@ -15003,54 +15217,72 @@
         {
           "answer": "Le Chihuahua de Beverly Hills",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Beverly Hills Chihuahua"
+          ]
         },
         {
           "answer": "Pinocchio",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pinocho"
+          ]
         },
         {
           "answer": "Labyrinthe",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Labyrinth",
+            "Dentro del laberinto"
+          ]
         },
         {
           "answer": "Dark Crystal",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Cristal oscuro"
+          ]
         },
         {
           "answer": "Jumanji : Bienvenue dans la jungle",
           "tier": "t4",
           "aliases": [
-            "Bienvenue dans la jungle"
+            "Bienvenue dans la jungle",
+            "Jumanji: Welcome to the Jungle",
+            "Jumanji: Bienvenidos a la jungla"
           ]
         },
         {
           "answer": "Un Noël de folie",
           "tier": "t4",
           "aliases": [
-            "Jingle All the Way"
+            "Jingle All the Way",
+            "Un padre en apuros"
           ]
         },
         {
           "answer": "Le Retour de Mary Poppins",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Mary Poppins Returns",
+            "El regreso de Mary Poppins"
+          ]
         },
         {
           "answer": "Les Sorcières",
           "tier": "t4",
           "aliases": [
-            "The Witches"
+            "The Witches",
+            "Las brujas"
           ]
         },
         {
           "answer": "Le Bon Gros Géant",
           "tier": "t4",
           "aliases": [
-            "BGG"
+            "BGG",
+            "The BFG",
+            "Mi amigo el gigante"
           ]
         },
         {
@@ -15066,32 +15298,48 @@
         {
           "answer": "Les Chroniques de Spiderwick",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "The Spiderwick Chronicles",
+            "Las crónicas de Spiderwick"
+          ]
         },
         {
           "answer": "Le Hobbit",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "El hobbit"
+          ]
         },
         {
           "answer": "La Petite Princesse",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "A Little Princess",
+            "La princesita"
+          ]
         },
         {
           "answer": "Le Jardin secret",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "The Secret Garden",
+            "El jardín secreto"
+          ]
         },
         {
           "answer": "Les Aventures de Tom Sawyer",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "The Adventures of Tom Sawyer",
+            "Las aventuras de Tom Sawyer"
+          ]
         },
         {
           "answer": "Rémi sans famille",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Sin familia"
+          ]
         },
         {
           "answer": "Tarzan",
@@ -15102,13 +15350,17 @@
           "answer": "L'Île de Nim",
           "tier": "t4",
           "aliases": [
-            "Nim's Island"
+            "Nim's Island",
+            "La isla de Nim"
           ]
         },
         {
           "answer": "L'Île au trésor",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Treasure Island",
+            "La isla del tesoro"
+          ]
         },
         {
           "answer": "Stuart Little 2",
@@ -15124,23 +15376,33 @@
           "answer": "Treize à la douzaine",
           "tier": "t4",
           "aliases": [
-            "Cheaper by the Dozen"
+            "Cheaper by the Dozen",
+            "Doce en casa"
           ]
         },
         {
           "answer": "Maman, j'ai encore raté l'avion",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Home Alone 2: Lost in New York",
+            "Solo en casa 2"
+          ]
         },
         {
           "answer": "Le Géant de fer",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "The Iron Giant",
+            "El gigante de hierro"
+          ]
         },
         {
           "answer": "Le Petit Vampire",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "The Little Vampire",
+            "El pequeño vampiro"
+          ]
         },
         {
           "answer": "Les Enfants de Timpelbach",
@@ -15155,7 +15417,10 @@
         {
           "answer": "Les Cent un Dalmatiens",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "101 Dalmatians",
+            "101 dálmatas"
+          ]
         },
         {
           "answer": "Chitty Chitty Bang Bang",
@@ -15165,7 +15430,9 @@
         {
           "answer": "Le Kid",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "El chico"
+          ]
         },
         {
           "answer": "Pollyanna",
@@ -15175,17 +15442,25 @@
         {
           "answer": "Pee-wee Big Adventure",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Pee-wee's Big Adventure",
+            "La gran aventura de Pee-wee"
+          ]
         },
         {
           "answer": "Les Aventures de Rocketeer",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "The Rocketeer"
+          ]
         },
         {
           "answer": "Le Voyage de Fanny",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Fanny's Journey",
+            "El viaje de Fanny"
+          ]
         }
       ]
     },
@@ -15812,7 +16087,8 @@
           "tier": "t1",
           "aliases": [
             "Eren",
-            "Eren Yeager"
+            "Eren Yeager",
+            "Eren Jaeger"
           ]
         },
         {
@@ -15841,7 +16117,8 @@
           "tier": "t1",
           "aliases": [
             "Hanji",
-            "Hange"
+            "Hange",
+            "Hange Zoë"
           ]
         },
         {
@@ -15862,7 +16139,8 @@
           "answer": "Sasha Braus",
           "tier": "t1",
           "aliases": [
-            "Sasha"
+            "Sasha",
+            "Sasha Blouse"
           ]
         },
         {
@@ -15886,7 +16164,8 @@
           "aliases": [
             "Levi",
             "Livaï",
-            "Rivaille"
+            "Rivaille",
+            "Levi Ackerman"
           ],
           "quip": "Un piège connu : beaucoup y pensent en premier."
         },
@@ -15924,21 +16203,26 @@
           "tier": "t3",
           "aliases": [
             "Zeke",
-            "Zeke Yeager"
+            "Zeke Yeager",
+            "Zeke Jaeger"
           ]
         },
         {
           "answer": "Grisha Jäger",
           "tier": "t3",
           "aliases": [
-            "Grisha"
+            "Grisha",
+            "Grisha Yeager",
+            "Grisha Jaeger"
           ]
         },
         {
           "answer": "Carla Jäger",
           "tier": "t3",
           "aliases": [
-            "Carla"
+            "Carla",
+            "Carla Yeager",
+            "Carla Jaeger"
           ]
         },
         {
@@ -16006,7 +16290,8 @@
           "answer": "Nile Dok",
           "tier": "t3",
           "aliases": [
-            "Nile"
+            "Nile",
+            "Nile Dawk"
           ]
         },
         {
@@ -16027,70 +16312,89 @@
           "answer": "Mike Zakarius",
           "tier": "t3",
           "aliases": [
-            "Mike"
+            "Mike",
+            "Mike Zacharias"
           ]
         },
         {
           "answer": "Titan Colossal",
           "tier": "t3",
           "aliases": [
-            "Colossal"
+            "Colossal",
+            "Colossal Titan",
+            "Titán Colosal"
           ]
         },
         {
           "answer": "Titan Cuirassé",
           "tier": "t3",
           "aliases": [
-            "Cuirassé"
+            "Cuirassé",
+            "Armored Titan",
+            "Titán Acorazado"
           ]
         },
         {
           "answer": "Titan Bestial",
           "tier": "t3",
           "aliases": [
-            "Bestial"
+            "Bestial",
+            "Beast Titan",
+            "Titán Bestia"
           ]
         },
         {
           "answer": "Titan Assaillant",
           "tier": "t3",
           "aliases": [
-            "Assaillant"
+            "Assaillant",
+            "Attack Titan",
+            "Titán de Ataque"
           ]
         },
         {
           "answer": "Titan Féminin",
           "tier": "t3",
           "aliases": [
-            "Féminin"
+            "Féminin",
+            "Female Titan",
+            "Titán Hembra"
           ]
         },
         {
           "answer": "Titan Fondateur",
           "tier": "t3",
           "aliases": [
-            "Fondateur"
+            "Fondateur",
+            "Founding Titan",
+            "Titán Fundacional"
           ]
         },
         {
           "answer": "Titan Marteau",
           "tier": "t3",
           "aliases": [
-            "Marteau"
+            "Marteau",
+            "War Hammer Titan",
+            "Titán Martillo de Guerra"
           ]
         },
         {
           "answer": "Titan Mâchoire",
           "tier": "t3",
           "aliases": [
-            "Mâchoire"
+            "Mâchoire",
+            "Jaw Titan",
+            "Titán Mandíbula"
           ]
         },
         {
           "answer": "Titan Charrette",
           "tier": "t3",
           "aliases": [
-            "Charrette"
+            "Charrette",
+            "Cart Titan",
+            "Titán Carguero"
           ]
         },
         {
@@ -16925,7 +17229,8 @@
           "answer": "Queen Beryl",
           "tier": "t3",
           "aliases": [
-            "Beryl"
+            "Beryl",
+            "Reina Beryl"
           ]
         },
         {
@@ -16984,13 +17289,16 @@
         {
           "answer": "Queen Serenity",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Reina Serenity"
+          ]
         },
         {
           "answer": "Prince Endymion",
           "tier": "t3",
           "aliases": [
-            "Endymion"
+            "Endymion",
+            "Príncipe Endimión"
           ]
         },
         {
@@ -17012,7 +17320,8 @@
           "answer": "Prince Diamond",
           "tier": "t3",
           "aliases": [
-            "Diamond"
+            "Diamond",
+            "Príncipe Diamante"
           ]
         },
         {
@@ -17047,7 +17356,10 @@
         {
           "answer": "Pharaon 90",
           "tier": "t3",
-          "aliases": []
+          "aliases": [
+            "Pharaoh 90",
+            "Faraón 90"
+          ]
         },
         {
           "answer": "Mistress 9",
@@ -17058,7 +17370,9 @@
           "answer": "Professeur Tomoe",
           "tier": "t3",
           "aliases": [
-            "Souichi Tomoe"
+            "Souichi Tomoe",
+            "Professor Tomoe",
+            "Profesor Tomoe"
           ]
         },
         {
@@ -17085,7 +17399,9 @@
           "answer": "Princesse Kakyuu",
           "tier": "t4",
           "aliases": [
-            "Kakyuu"
+            "Kakyuu",
+            "Princess Kakyuu",
+            "Princesa Kakyuu"
           ]
         },
         {
@@ -17209,13 +17525,16 @@
         {
           "answer": "King Endymion",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Rey Endimión"
+          ]
         },
         {
           "answer": "Neo-Queen Serenity",
           "tier": "t4",
           "aliases": [
-            "Neo Queen Serenity"
+            "Neo Queen Serenity",
+            "Neo-Reina Serenity"
           ]
         },
         {
@@ -17783,12 +18102,16 @@
         {
           "answer": "Mr Banner",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Sr. Banner"
+          ]
         },
         {
           "answer": "Mr Varner",
           "tier": "t4",
-          "aliases": []
+          "aliases": [
+            "Sr. Varner"
+          ]
         },
         {
           "answer": "Rachel Black",
@@ -17833,7 +18156,9 @@
         {
           "answer": "Mrs Cope",
           "tier": "t5",
-          "aliases": []
+          "aliases": [
+            "Sra. Cope"
+          ]
         }
       ]
     },

@@ -90,7 +90,7 @@
       "id": "spo-collectifs-02",
       "theme": "sports-leisure",
       "text": "Nomme un équipement, un accessoire ou un élément de terrain utilisé dans un sport collectif (rugby, basket, handball, volley, hockey, baseball, football américain)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-collectifs-03",
@@ -102,31 +102,31 @@
       "id": "spo-collectifs-04",
       "theme": "sports-leisure",
       "text": "Nomme un terme du vocabulaire du rugby (action, règle, geste technique ou tradition, hors noms de postes)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-collectifs-05",
       "theme": "sports-leisure",
       "text": "Nomme un terme du vocabulaire du basket-ball (geste, règle, faute ou expression, hors noms de postes)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-collectifs-06",
       "theme": "sports-leisure",
       "text": "Nomme une équipe de hockey sur glace de la LNH (NHL) ou de l'ancienne AMH (WHA), actuelle ou disparue",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-collectifs-07",
       "theme": "sports-leisure",
       "text": "Nomme une équipe de NFL, actuelle ou disparue",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-collectifs-08",
       "theme": "sports-leisure",
       "text": "Nomme un terme du vocabulaire du baseball (hors noms de postes)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-collectifs-09",
@@ -162,25 +162,25 @@
       "id": "spo-collectifs-14",
       "theme": "sports-leisure",
       "text": "Nomme un sport collectif (hors football), y compris les variantes et les sports peu connus",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-collectifs-15",
       "theme": "sports-leisure",
       "text": "Nomme un poste ou un rôle dans une équipe de sport collectif hors football (rugby, basket, handball, volley, hockey, baseball, football américain)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-football-01",
       "theme": "sports-leisure",
       "text": "Nomme un club ayant évolué en première division française (Division 1 ou Ligue 1)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-football-02",
       "theme": "sports-leisure",
       "text": "Nomme un club ayant joué en Premier League anglaise (depuis sa création en 1992)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-football-03",
@@ -204,7 +204,7 @@
       "id": "spo-football-06",
       "theme": "sports-leisure",
       "text": "Nomme un joueur ayant marqué au moins un but avec l'équipe de France A masculine",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-football-07",
@@ -246,19 +246,19 @@
       "id": "spo-football-13",
       "theme": "sports-leisure",
       "text": "Nomme une sélection nationale membre de l'UEFA",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-football-14",
       "theme": "sports-leisure",
       "text": "Nomme une sélection nationale membre de la CAF (Confédération africaine de football)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-football-15",
       "theme": "sports-leisure",
       "text": "Nomme un club de football brésilien",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-individuels-01",
@@ -270,13 +270,13 @@
       "id": "spo-individuels-02",
       "theme": "sports-leisure",
       "text": "Nomme un terme du vocabulaire du tennis (coup, règle, score, rôle sur le court…)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-individuels-03",
       "theme": "sports-leisure",
       "text": "Nomme un terme du vocabulaire du golf (score, coup, terrain, matériel…)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-individuels-04",
@@ -300,7 +300,7 @@
       "id": "spo-individuels-07",
       "theme": "sports-leisure",
       "text": "Nomme un circuit ayant accueilli un Grand Prix du championnat du monde de Formule 1",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-individuels-08",
@@ -330,13 +330,13 @@
       "id": "spo-individuels-12",
       "theme": "sports-leisure",
       "text": "Nomme une station ou un site ayant accueilli une épreuve de Coupe du monde de ski alpin",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-individuels-13",
       "theme": "sports-leisure",
       "text": "Nomme une épreuve d'athlétisme (piste, sauts, lancers, épreuves combinées, route ou marche), actuelle ou disparue",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-individuels-14",
@@ -372,7 +372,7 @@
       "id": "spo-jo-04",
       "theme": "sports-leisure",
       "text": "Nomme un athlète français ayant remporté au moins une médaille d'or olympique",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-jo-05",
@@ -576,7 +576,7 @@
       "id": "spo-meca-08",
       "theme": "sports-leisure",
       "text": "Nomme une course ou une compétition de voile",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "spo-meca-09",

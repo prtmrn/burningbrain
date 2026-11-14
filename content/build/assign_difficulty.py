@@ -75,6 +75,25 @@ def main() -> None:
     for pid in raised:
         levels[pid] = "medium"
     print(f"plancher culture : {len(raised)} question(s) passées de facile à moyen")
+
+    # « facile » = liste relue à la main (content/build/easy_ids.txt) : tout le reste
+    # qui sortait facile par le critère statistique passe en moyen ; les ids listés
+    # sont facile même si le critère les classait autrement.
+    confirmed = {
+        line.strip()
+        for line in (ROOT / "content" / "build" / "easy_ids.txt").read_text(encoding="utf-8").splitlines()
+        if line.strip() and not line.startswith("#")
+    }
+    unknown = sorted(confirmed - set(levels))
+    if unknown:
+        raise SystemExit(f"easy_ids.txt : ids inconnus {unknown[:5]}")
+    demoted = [pid for pid, lv in levels.items() if lv == "easy" and pid not in confirmed]
+    promoted = [pid for pid in confirmed if levels[pid] != "easy"]
+    for pid in demoted:
+        levels[pid] = "medium"
+    for pid in promoted:
+        levels[pid] = "easy"
+    print(f"facile relu : {len(confirmed)} confirmées · {len(demoted)} repassées en moyen · {len(promoted)} promues")
     print(f"questions : {n} · seuils : hard ≤ {q1:.4f} < medium < {q2:.4f} ≤ easy")
     print("répartition :", dict(Counter(levels.values())))
 

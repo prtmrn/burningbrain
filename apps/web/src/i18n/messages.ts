@@ -223,7 +223,7 @@ export const MESSAGES: Record<string, Entry> = {
   'multi.flag.review': { fr: '« {input} » signalée par {name}', en: '“{input}” reported by {name}', es: '«{input}» señalada por {name}' },
   'multi.flag.accept': { fr: 'Accepter', en: 'Accept', es: 'Aceptar' },
   'multi.flag.refuse': { fr: 'Refuser', en: 'Refuse', es: 'Rechazar' },
-  'multi.flag.accepted': { fr: '✔ Acceptée : +50', en: '✔ Accepted: +50', es: '✔ Aceptada: +50' },
+  'multi.flag.accepted': { fr: '✔ Acceptée : +25', en: '✔ Accepted: +25', es: '✔ Aceptada: +25' },
   'multi.flag.refused': { fr: 'Refusée', en: 'Refused', es: 'Rechazada' },
   'multi.flag.open': { fr: 'Vote en cours', en: 'Vote in progress', es: 'Votación en curso' },
   'multi.first': { fr: '🏁 {name} a atteint l’objectif en premier', en: '🏁 {name} reached the goal first', es: '🏁 {name} alcanzó el objetivo primero' },

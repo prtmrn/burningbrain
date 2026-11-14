@@ -24,7 +24,7 @@
       "id": "his-napoleon-general",
       "theme": "history",
       "text": "Nomme un général ou un maréchal de Napoléon Ier",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-guerre-xxe",
@@ -36,7 +36,7 @@
       "id": "his-traite",
       "theme": "history",
       "text": "Nomme un traité célèbre de l'histoire",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-explorateur-xviii-xix",
@@ -54,13 +54,13 @@
       "id": "his-pm-britannique",
       "theme": "history",
       "text": "Nomme un Premier ministre britannique",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-dynastie",
       "theme": "history",
       "text": "Nomme une dynastie royale ou impériale européenne",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-revolution",
@@ -72,7 +72,7 @@
       "id": "his-revolution-industrielle",
       "theme": "history",
       "text": "Nomme une invention ou une découverte de la révolution industrielle",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-general-ww1",
@@ -84,7 +84,7 @@
       "id": "his-aviateur",
       "theme": "history",
       "text": "Nomme un aviateur ou un pionnier de l'aviation",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-01",
@@ -102,13 +102,13 @@
       "id": "his-antiquite-03",
       "theme": "history",
       "text": "Nomme un homme d'État, stratège, roi ou tyran de la Grèce antique (hors philosophes)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-04",
       "theme": "history",
       "text": "Nomme un homme politique ou un général de la République romaine (509-27 av. J.-C.)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-05",
@@ -120,19 +120,19 @@
       "id": "his-antiquite-06",
       "theme": "history",
       "text": "Nomme un écrivain de langue latine de l'Antiquité",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-07",
       "theme": "history",
       "text": "Nomme une pièce de théâtre antique, grecque ou latine, parvenue jusqu'à nous",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-08",
       "theme": "history",
       "text": "Nomme une bataille de l'Antiquité (avant 476 apr. J.-C.)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-09",
@@ -144,13 +144,13 @@
       "id": "his-antiquite-10",
       "theme": "history",
       "text": "Nomme une femme réelle (non mythologique) ayant marqué l'Antiquité",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-11",
       "theme": "history",
       "text": "Nomme un savant de l'Antiquité (mathématicien, astronome, médecin, ingénieur ou géographe)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-12",
@@ -162,7 +162,7 @@
       "id": "his-antiquite-13",
       "theme": "history",
       "text": "Nomme une province de l'Empire romain (de 27 av. J.-C. à 284 apr. J.-C.)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-antiquite-14",
@@ -174,13 +174,13 @@
       "id": "his-antiquite-15",
       "theme": "history",
       "text": "Nomme une langue de l'Antiquité aujourd'hui éteinte",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-france-01",
       "theme": "history",
       "text": "Nomme un président de la République française ou un chef du gouvernement (président du Conseil, Premier ministre) depuis 1946",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-france-02",
@@ -192,7 +192,7 @@
       "id": "his-france-03",
       "theme": "history",
       "text": "Nomme un résistant ou une figure de la France libre pendant la Seconde Guerre mondiale",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-france-04",
@@ -240,7 +240,7 @@
       "id": "his-france-11",
       "theme": "history",
       "text": "Nomme une reine, une régente ou une favorite royale de l'histoire de France",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-france-12",
@@ -252,19 +252,19 @@
       "id": "his-france-13",
       "theme": "history",
       "text": "Nomme un général, un maréchal ou un amiral français d'avant 1789",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-france-14",
       "theme": "history",
       "text": "Nomme un écrivain ou un penseur français du XVIIIe siècle",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-france-15",
       "theme": "history",
       "text": "Nomme un parti ou un mouvement politique français du XXe ou du XXIe siècle",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-01",
@@ -288,7 +288,7 @@
       "id": "his-modernes-04",
       "theme": "history",
       "text": "Nomme un ministre, un conseiller ou un favori (ou une favorite) des rois de France entre 1515 et 1789",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-05",
@@ -324,7 +324,7 @@
       "id": "his-modernes-10",
       "theme": "history",
       "text": "Nomme un philosophe ou un penseur des Lumières (XVIIIe siècle)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-11",
@@ -342,7 +342,7 @@
       "id": "his-modernes-13",
       "theme": "history",
       "text": "Nomme une plante ou un animal dont la diffusion entre l'Ancien et le Nouveau Monde date des grandes découvertes (échange colombien)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-modernes-14",
@@ -354,7 +354,7 @@
       "id": "his-modernes-15",
       "theme": "history",
       "text": "Nomme une guerre, une révolte ou une rébellion survenue entre 1492 et 1789",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-01",
@@ -372,7 +372,7 @@
       "id": "his-moyenage-03",
       "theme": "history",
       "text": "Nomme un empereur ou une impératrice byzantin ayant régné après l'an 600",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-04",
@@ -396,7 +396,7 @@
       "id": "his-moyenage-07",
       "theme": "history",
       "text": "Nomme un ordre religieux, militaire ou de chevalerie fondé avant 1500",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-08",
@@ -408,13 +408,13 @@
       "id": "his-moyenage-09",
       "theme": "history",
       "text": "Nomme une œuvre littéraire écrite en Europe au Moyen Âge (avant 1500)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-10",
       "theme": "history",
       "text": "Nomme un personnage ayant joué un rôle dans la guerre de Cent Ans",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-11",
@@ -426,7 +426,7 @@
       "id": "his-moyenage-12",
       "theme": "history",
       "text": "Nomme une université fondée en Europe avant 1500",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-moyenage-13",
@@ -474,7 +474,7 @@
       "id": "his-xixe-05",
       "theme": "history",
       "text": "Nomme un monument, un édifice ou un ouvrage d'art construit au XIXe siècle",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-xixe-06",
@@ -492,7 +492,7 @@
       "id": "his-xixe-08",
       "theme": "history",
       "text": "Nomme un pays actuel d'Afrique ayant été colonisé par une puissance européenne",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-xixe-09",
@@ -546,7 +546,7 @@
       "id": "his-xxe-02",
       "theme": "history",
       "text": "Nomme un dirigeant politique de l'URSS ou d'un pays du bloc de l'Est",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-xxe-03",
@@ -600,7 +600,7 @@
       "id": "his-xxe-11",
       "theme": "history",
       "text": "Nomme un camp d'internement, de concentration ou d'extermination en Europe pendant la Seconde Guerre mondiale",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-xxe-12",
@@ -612,7 +612,7 @@
       "id": "his-xxe-13",
       "theme": "history",
       "text": "Nomme un pays belligérant de la Seconde Guerre mondiale",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "his-xxe-14",

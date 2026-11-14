@@ -30,13 +30,13 @@
       "id": "sci-animal-asie",
       "theme": "science-nature",
       "text": "Nomme un animal d'Asie",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animal-oceanie",
       "theme": "science-nature",
       "text": "Nomme un animal d'Australie ou d'Océanie",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-arbre-fruitier",
@@ -84,13 +84,13 @@
       "id": "sci-animaux-01",
       "theme": "science-nature",
       "text": "Nomme une race bovine (race de vache)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-02",
       "theme": "science-nature",
       "text": "Nomme une race de cheval, de poney ou d'âne",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-03",
@@ -102,7 +102,7 @@
       "id": "sci-animaux-04",
       "theme": "science-nature",
       "text": "Nomme une race de mouton ou de chèvre",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-05",
@@ -114,43 +114,43 @@
       "id": "sci-animaux-06",
       "theme": "science-nature",
       "text": "Nomme un primate",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-07",
       "theme": "science-nature",
       "text": "Nomme un mammifère de l'ordre des carnivores (Carnivora)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-08",
       "theme": "science-nature",
       "text": "Nomme un rapace (oiseau de proie diurne ou nocturne)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-09",
       "theme": "science-nature",
       "text": "Nomme un mollusque",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-10",
       "theme": "science-nature",
       "text": "Nomme un crustacé",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-11",
       "theme": "science-nature",
       "text": "Nomme un animal venimeux",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-12",
       "theme": "science-nature",
       "text": "Nomme un animal migrateur",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-13",
@@ -162,19 +162,19 @@
       "id": "sci-animaux-14",
       "theme": "science-nature",
       "text": "Nomme un verbe désignant le cri d'un animal",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-animaux-15",
       "theme": "science-nature",
       "text": "Nomme un animal vivant dans les régions polaires (Arctique ou Antarctique)",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-01",
       "theme": "science-nature",
       "text": "Nomme une spécialité médicale ou chirurgicale exercée par un médecin",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-02",
@@ -186,7 +186,7 @@
       "id": "sci-corps-03",
       "theme": "science-nature",
       "text": "Nomme une maladie infectieuse humaine due à une bactérie",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-04",
@@ -198,7 +198,7 @@
       "id": "sci-corps-05",
       "theme": "science-nature",
       "text": "Nomme une hormone produite par le corps humain",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-06",
@@ -222,7 +222,7 @@
       "id": "sci-corps-09",
       "theme": "science-nature",
       "text": "Nomme une maladie ou une affection de la peau",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-10",
@@ -240,7 +240,7 @@
       "id": "sci-corps-12",
       "theme": "science-nature",
       "text": "Nomme un parasite de l'être humain ou une maladie parasitaire humaine",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-corps-13",
@@ -294,7 +294,7 @@
       "id": "sci-physchim-06",
       "theme": "science-nature",
       "text": "Nomme un gaz",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-physchim-07",
@@ -390,7 +390,7 @@
       "id": "sci-plantes-07",
       "theme": "science-nature",
       "text": "Nomme une céréale ou une légumineuse",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-plantes-08",
@@ -522,7 +522,7 @@
       "id": "sci-techno-14",
       "theme": "science-nature",
       "text": "Nomme un engin de chantier, de travaux publics ou une machine agricole",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-techno-15",
@@ -570,7 +570,7 @@
       "id": "sci-terre-07",
       "theme": "science-nature",
       "text": "Nomme un combustible ou un carburant",
-      "difficulty": "easy"
+      "difficulty": "medium"
     },
     {
       "id": "sci-terre-08",

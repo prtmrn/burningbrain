@@ -348,7 +348,7 @@ export async function activateBonus(code: string, playerId: string): Promise<{ o
 // ── Signalement d'une réponse refusée à tort ──
 
 export const FLAG_REVIEW_MS = 20_000;
-export const FLAG_CREDIT = 50;
+export const FLAG_CREDIT = 25;
 const flagsKey = (code: string): string => `mp:room:${code}:flags`;
 
 export interface FlagRec {
