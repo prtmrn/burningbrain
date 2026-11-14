@@ -6,3 +6,9 @@ build/
 *.node
 .env*.local
 !content/build/
+
+# Artefacts locaux
+.DS_Store
+**/.DS_Store
+*.tsbuildinfo
+**/node_modules/.vite/
