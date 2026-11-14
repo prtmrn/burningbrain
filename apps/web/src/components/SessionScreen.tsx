@@ -10,7 +10,7 @@ import type { GameConfig, HotCompletion, HotDiveState, LoadedBank } from '@hotbr
 import type { DiveSession } from '../hooks/useDiveSession';
 import { MILESTONES } from '../content';
 import { riseDurationMs, T_FEEDBACK } from '../motion';
-import { hotbrainConfig } from '../config';
+import { hotbrainConfig, isUnlimitedRound } from '../config';
 import { playFusion, playMiss, playTier } from '../sound';
 import { useSoundPref } from '../hooks/useSoundPref';
 import { GameBar } from './GameBar';
@@ -136,7 +136,11 @@ export function SessionScreen({
         <Embers heat={0.15} />
         <main className="summary panel-screen" data-testid="intro">
           <h1>{t('intro.boiling.title')}</h1>
-          <p className="lead">{t('intro.boiling.lead', { n: cfg.rounds, s: cfg.roundMs / 1000 })}</p>
+          <p className="lead">
+            {isUnlimitedRound(cfg.roundMs)
+              ? t('intro.boiling.lead.unlimited', { n: cfg.rounds })
+              : t('intro.boiling.lead', { n: cfg.rounds, s: cfg.roundMs / 1000 })}
+          </p>
           <p>
             {t('intro.boiling.body')}
           </p>
@@ -220,10 +224,14 @@ export function SessionScreen({
 
           {phase === 'answering' && (
             <div data-testid="answering">
-              <CountdownBar
-                remainingMs={(s.answerEndsAt ?? 0) - session.now}
-                totalMs={cfg.roundMs}
-              />
+              {isUnlimitedRound(cfg.roundMs) ? (
+                <p className="muted" data-testid="boiling-unlimited">{t('boiling.unlimited')}</p>
+              ) : (
+                <CountdownBar
+                  remainingMs={(s.answerEndsAt ?? 0) - session.now}
+                  totalMs={cfg.roundMs}
+                />
+              )}
               <div style={{ marginTop: '1rem' }}>
                 <AnswerInput
                   value={s.draft ?? ''}
@@ -233,11 +241,11 @@ export function SessionScreen({
                   onSubmit={session.submit}
                 />
               </div>
-              <p>
+              <div className="skip-row">
                 <button type="button" className="secondary" onClick={session.skipRound} data-testid="skip-question">
                   {t('question.skip')}
                 </button>
-              </p>
+              </div>
               <FeedbackBanner
                 rejected={s.rejected}
                 correction={s.correction}

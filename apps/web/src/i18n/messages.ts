@@ -243,6 +243,8 @@ export const MESSAGES: Record<string, Entry> = {
   'setup.time': { fr: 'Temps par question', en: 'Time per question', es: 'Tiempo por pregunta' },
   'setup.start': { fr: "▶ C'est parti", en: "▶ Let's go", es: '▶ ¡Vamos!' },
   'setup.seconds': { fr: '{s} s', en: '{s} s', es: '{s} s' },
+  'intro.boiling.lead.unlimited': { fr: '{n} questions · temps illimité · une seule réponse.', en: '{n} questions · no time limit · one answer only.', es: '{n} preguntas · sin límite de tiempo · una sola respuesta.' },
+  'boiling.unlimited': { fr: 'Temps illimité : réfléchis autant que tu veux, ou passe la question.', en: 'No time limit: think as long as you like, or skip the question.', es: 'Sin límite de tiempo: piensa todo lo que quieras, o pasa la pregunta.' },
   'setup.unlimited': { fr: 'Illimité', en: 'Unlimited', es: 'Ilimitado' },
   'intro.brain.lead.unlimited': { fr: '{n} questions · temps illimité · trouve toutes les réponses.', en: '{n} questions · no time limit · find every answer.', es: '{n} preguntas · sin límite de tiempo · encuentra todas las respuestas.' },
   'brain.unlimited': { fr: 'Temps illimité : trouve toutes les réponses, ou passe quand tu veux.', en: 'No time limit: find every answer, or skip whenever you like.', es: 'Sin límite de tiempo: encuentra todas las respuestas o pasa cuando quieras.' },

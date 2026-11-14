@@ -908,3 +908,5 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
 .theme-actions a { flex: 1; display: flex; text-decoration: none; }
 .theme-actions button { width: 100%; }
 
+/* Bouton « Passer la question » : centré sous la saisie, sur tous les modes */
+.skip-row { display: flex; justify-content: center; margin-top: 0.6rem; }

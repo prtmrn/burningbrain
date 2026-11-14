@@ -34,7 +34,7 @@ export function isUnlimitedRound(roundMs: number): boolean {
 }
 /** 0 secondes = illimité (Brain). */
 export const SETUP_OPTIONS: Record<'hot' | 'brain', { rounds: number[]; roundSec: number[] }> = {
-  hot: { rounds: [3, 5, 7, 10], roundSec: [15, 30, 45, 60] },
+  hot: { rounds: [3, 5, 7, 10], roundSec: [0, 15, 30, 45, 60] },
   brain: { rounds: [3, 5, 7], roundSec: [0, 30, 60, 90, 120] },
 };
 export function defaultSetup(mode: 'hot' | 'brain'): GameSetup {

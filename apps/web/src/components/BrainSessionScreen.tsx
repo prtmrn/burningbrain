@@ -272,11 +272,11 @@ export function BrainSessionScreen({
                   </span>
                 ))}
               </div>
-              <p>
+              <div className="skip-row">
                 <button type="button" className="secondary" onClick={session.abandonRound} data-testid="next-question">
-                  {isUnlimitedRound(cfg.roundMs) ? t('brain.skip') : t('brain.next')}
+                  {t('question.skip')}
                 </button>
-              </p>
+              </div>
             </div>
           )}
         </div>

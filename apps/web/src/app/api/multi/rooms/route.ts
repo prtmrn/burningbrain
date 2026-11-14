@@ -23,7 +23,7 @@ export async function POST(req: Request): Promise<Response> {
     return Response.json({ error: 'Objectif invalide' }, { status: 400 });
   }
   if (!THEMES.includes(theme)) return Response.json({ error: 'Thème inconnu' }, { status: 400 });
-  if (![3, 5, 7, 10].includes(rounds) || ![15, 30, 45, 60].includes(roundSec)) {
+  if (![3, 5, 7, 10].includes(rounds) || ![0, 15, 30, 45, 60].includes(roundSec)) {
     return Response.json({ error: 'Réglages invalides' }, { status: 400 });
   }
   try {

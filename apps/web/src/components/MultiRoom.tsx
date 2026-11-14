@@ -263,7 +263,7 @@ export function MultiRoom({ code }: { code: string }) {
           <section data-testid="multi-lobby">
             <h1>{t('multi.room', { code: C })}</h1>
             <p className="lead">
-              {themeName(state.theme)} · {state.rounds} · {t('setup.seconds', { s: state.roundSec })}
+              {themeName(state.theme)} · {state.rounds} · {state.roundSec === 0 ? t('setup.unlimited') : t('setup.seconds', { s: state.roundSec })}
             </p>
             <p className="muted">{t('multi.share.code')} <strong>{C}</strong></p>
             <h2>{t('multi.players', { n: state.players.length })}</h2>
@@ -296,7 +296,7 @@ export function MultiRoom({ code }: { code: string }) {
 
         {phase.kind === 'answering' && state.current && state.mode === 'brain' && (
           <section data-testid="multi-answering">
-            <p className="prompt-label">{t('multi.question', { n: state.current.round + 1, total: state.rounds })} · {secs(phase.endsAt - serverNow)} s</p>
+            <p className="prompt-label">{t('multi.question', { n: state.current.round + 1, total: state.rounds })} · {state.roundSec === 0 ? t('setup.unlimited') : `${secs(phase.endsAt - serverNow)} s`}</p>
             <h2 className="prompt-text">{state.current.text}</h2>
             <p className="lead" data-testid="multi-brain-total">
               {t('multi.brain.total', { total: myTotal, goal: state.brainGoal ?? 500 })}
@@ -321,7 +321,7 @@ export function MultiRoom({ code }: { code: string }) {
             {state.pass?.mine ? (
               <p className="feedback" data-testid="multi-passed">{t('multi.pass.waiting', { n: state.pass.count, total: state.players.length })}</p>
             ) : (
-              <button type="button" className="secondary" onClick={passQuestion} data-testid="multi-pass">{t('multi.pass')}</button>
+              <div className="skip-row"><button type="button" className="secondary" onClick={passQuestion} data-testid="multi-pass">{t('multi.pass')}</button></div>
             )}
             {verdict && verdict.round === state.current.round && VERDICT_KEY[verdict.kind] && (
               <p className="feedback rejected" role="status">{t(VERDICT_KEY[verdict.kind]!)}</p>
@@ -351,7 +351,7 @@ export function MultiRoom({ code }: { code: string }) {
 
         {phase.kind === 'answering' && state.current && state.mode !== 'brain' && (
           <section data-testid="multi-answering">
-            <p className="prompt-label">{t('multi.question', { n: state.current.round + 1, total: state.rounds })} · {secs(phase.endsAt - serverNow)} s</p>
+            <p className="prompt-label">{t('multi.question', { n: state.current.round + 1, total: state.rounds })} · {state.roundSec === 0 ? t('setup.unlimited') : `${secs(phase.endsAt - serverNow)} s`}</p>
             <h2 className="prompt-text">{state.current.text}</h2>
             {mineFound ? (
               <p className="feedback accepted" data-testid="multi-found">
@@ -380,7 +380,7 @@ export function MultiRoom({ code }: { code: string }) {
               state.pass?.mine ? (
                 <p className="feedback" data-testid="multi-passed">{t('multi.pass.waiting', { n: state.pass.count, total: state.players.length })}</p>
               ) : (
-                <button type="button" className="secondary" onClick={passQuestion} data-testid="multi-pass">{t('multi.pass')}</button>
+                <div className="skip-row"><button type="button" className="secondary" onClick={passQuestion} data-testid="multi-pass">{t('multi.pass')}</button></div>
               )
             )}
             {verdict && verdict.round === state.current.round && VERDICT_KEY[verdict.kind] && (

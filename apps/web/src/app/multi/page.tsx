@@ -125,9 +125,9 @@ export default function MultiHome() {
           </div>
           <h3 className="multi-sub">{t('multi.time.label')}</h3>
           <div className="choice-row" role="radiogroup" aria-label={t('multi.time.label')}>
-            {[15, 30, 45, 60].map((sec) => (
+            {[0, 15, 30, 45, 60].map((sec) => (
               <button key={sec} type="button" role="radio" aria-checked={roundSec === sec} className={`choice${roundSec === sec ? ' on' : ''}`} onClick={() => setRoundSec(sec)}>
-                {t('setup.seconds', { s: sec })}
+                {sec === 0 ? t('setup.unlimited') : t('setup.seconds', { s: sec })}
               </button>
             ))}
           </div>
