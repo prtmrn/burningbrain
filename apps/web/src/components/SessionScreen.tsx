@@ -233,6 +233,11 @@ export function SessionScreen({
                   onSubmit={session.submit}
                 />
               </div>
+              <p>
+                <button type="button" className="secondary" onClick={session.skipRound} data-testid="skip-question">
+                  {t('question.skip')}
+                </button>
+              </p>
               <FeedbackBanner
                 rejected={s.rejected}
                 correction={s.correction}

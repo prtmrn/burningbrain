@@ -247,6 +247,7 @@ export const MESSAGES: Record<string, Entry> = {
   'intro.brain.lead.unlimited': { fr: '{n} questions · temps illimité · trouve toutes les réponses.', en: '{n} questions · no time limit · find every answer.', es: '{n} preguntas · sin límite de tiempo · encuentra todas las respuestas.' },
   'brain.unlimited': { fr: 'Temps illimité : trouve toutes les réponses, ou passe quand tu veux.', en: 'No time limit: find every answer, or skip whenever you like.', es: 'Sin límite de tiempo: encuentra todas las respuestas o pasa cuando quieras.' },
   'brain.skip': { fr: 'Passer ▸', en: 'Skip ▸', es: 'Pasar ▸' },
+  'question.skip': { fr: 'Passer la question', en: 'Skip question', es: 'Pasar pregunta' },
   'difficulty.label': { fr: 'Difficulté', en: 'Difficulty', es: 'Dificultad' },
   'difficulty.auto': { fr: 'Auto', en: 'Auto', es: 'Auto' },
   'difficulty.easy': { fr: 'Facile', en: 'Easy', es: 'Fácil' },

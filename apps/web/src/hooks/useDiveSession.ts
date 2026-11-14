@@ -48,6 +48,8 @@ export interface DiveSession {
   resumePlay(): void;
   /** Brain : passer à la question suivante en gardant la récolte. */
   abandonRound(): void;
+  /** Boiling : passer la question en cours (0 point). */
+  skipRound(): void;
   /** Backlog M2 tranché : efface le dive 'done' après synthèse vue. */
   clearAndExit(): void;
 }
@@ -152,6 +154,10 @@ export function useDiveSession(deps: DiveSessionDeps): DiveSession {
     controller.dispatch({ type: 'ABANDON_ROUND', now: clocks.nowMono() });
   }, [controller, clocks]);
 
+  const skipRound = useCallback(() => {
+    controller.dispatch({ type: 'SKIP_ROUND', now: clocks.nowMono() });
+  }, [controller, clocks]);
+
   const clearAndExit = useCallback(() => {
     controller.clear();
   }, [controller]);
@@ -167,6 +173,7 @@ export function useDiveSession(deps: DiveSessionDeps): DiveSession {
     pause,
     resumePlay,
     abandonRound,
+    skipRound,
     clearAndExit,
   };
 }

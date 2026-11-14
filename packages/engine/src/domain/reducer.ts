@@ -50,6 +50,7 @@ export type GameEvent =
   | { type: 'RESUME'; now: number }
   | { type: 'FEEDBACK_ACK'; now: number }            // hot uniquement
   | { type: 'ABANDON_ROUND'; now: number }           // brain uniquement
+  | { type: 'SKIP_ROUND'; now: number }              // hot : passe la question (0 pt), comme un délai
   | { type: 'ABANDON_SESSION'; now: number };
 
 // ── Contexte injecté (seule porte vers l'extérieur) ──
@@ -193,6 +194,7 @@ function hotReducer(s: HotDiveState, ev: GameEvent, ctx: ReducerContext): HotDiv
         }
         return s; // soumission tardive : conservée en draft, le timeout tranche
       }
+      if (ev.type === 'SKIP_ROUND') return revealHotMiss(s, ctx);
       if (ev.type === 'TICK' && ev.now >= (s.answerEndsAt as number)) {
         return revealHotMiss(s, ctx);
       }
