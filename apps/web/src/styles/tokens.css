@@ -118,7 +118,6 @@ input[type='text']:disabled { opacity: 0.5; }
   max-width: 880px;
   margin: 0 auto;
   padding: 1rem;
-  min-height: 100vh;
   align-content: start;
 }
 .session-main { min-width: 0; }
@@ -895,3 +894,17 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
   .home-actions { gap: 0.9rem; }
   .home-actions .big { min-height: 3.1rem; font-size: 1.05rem; }
 }
+
+/* Ordinateur de hauteur modeste : scène compacte pour tenir sans défilement */
+@media (min-width: 721px) and (max-height: 860px) {
+  .session { padding: 0.6rem 1rem; gap: 1rem; }
+  .brain-stage { height: 200px; margin: 0.2rem auto 0.4rem; }
+  .brain-svg { height: 150px; }
+}
+
+/* Cartes de thème : même hauteur, boutons Boiling / Brain alignés en bas */
+.theme-card { display: flex; flex-direction: column; gap: 0.35rem; }
+.theme-actions { margin-top: auto; display: flex; gap: 0.5rem; }
+.theme-actions a { flex: 1; display: flex; text-decoration: none; }
+.theme-actions button { width: 100%; }
+

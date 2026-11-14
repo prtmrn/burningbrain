@@ -195,9 +195,8 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
 function SessionGate(props: { kv: EnumerableKV; bank: LoadedBank; theme: ThemeInfo; mode: GameMode; kind: PlayKindUI }) {
   const [, gateLang] = useT();
   const { kv, theme, mode, kind } = props;
-  const [setup, setSetup] = useState<GameSetup | null>(() =>
-    kind === 'unlimited' ? (readPlaySeed(kv, mode, theme.id).setup ?? null) : null,
-  );
+  // Réglages demandés à chaque entrée en partie classique (préremplis avec les derniers choix).
+  const [setup, setSetup] = useState<GameSetup | null>(null);
   if (kind === 'daily') return <Session {...props} config={hotbrainConfig} />;
   if (!setup) {
     return (
