@@ -13,6 +13,8 @@ export const MESSAGES: Record<string, Entry> = {
   'home.brain.desc': { fr: "Donne un maximum de réponses et remplis ton cerveau : 500 neurones, c'est gagné.", en: 'Give as many answers as you can and fill your brain: 500 neurons wins.', es: '¡Da el máximo de respuestas y llena tu cerebro: 500 neuronas y ganas!' },
   'home.daily': { fr: '▶ Partie du jour · Jour {day}', en: '▶ Daily game · Day {day}', es: '▶ Partida del día · Día {day}' },
   'home.daily.played': { fr: 'Partie du jour jouée', en: 'Daily game played', es: 'Partida del día jugada' },
+  'home.daily.mode': { fr: '▶ Jour {day} · {mode}', en: '▶ Day {day} · {mode}', es: '▶ Día {day} · {mode}' },
+  'home.classic.mode': { fr: 'Partie classique · {mode}', en: 'Classic game · {mode}', es: 'Partida clásica · {mode}' },
   'home.classic': { fr: 'Partie Classique', en: 'Classic game', es: 'Partida clásica' },
   'home.themes': { fr: '🎭 Choisir un thème', en: '🎭 Choose a theme', es: '🎭 Elegir un tema' },
   'home.multi': { fr: '👥 Multijoueur en ligne', en: '👥 Online multiplayer', es: '👥 Multijugador en línea' },

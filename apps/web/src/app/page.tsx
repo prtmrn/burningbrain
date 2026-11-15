@@ -75,11 +75,11 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
               </button>
             ) : (
               <Link href="/boiling/daily" data-testid="play-hot">
-                <button type="button" className="big">{t('home.daily', { day })}</button>
+                <button type="button" className="big">{t('home.daily.mode', { day, mode: 'Boiling' })}</button>
               </Link>
             )}
             <Link href="/boiling/play" data-testid="play-hot-unlimited">
-              <button type="button" className="big secondary">{t('home.classic')}</button>
+              <button type="button" className="big secondary">{t('home.classic.mode', { mode: 'Boiling' })}</button>
             </Link>
           </article>
           <article className="mode-card brain">
@@ -91,11 +91,11 @@ function Home({ kv }: { kv: ReturnType<typeof createLocalStorageKV> }) {
               </button>
             ) : (
               <Link href="/brain/daily" data-testid="play-brain">
-                <button type="button" className="big">{t('home.daily', { day })}</button>
+                <button type="button" className="big">{t('home.daily.mode', { day, mode: 'Brain' })}</button>
               </Link>
             )}
             <Link href="/brain/play" data-testid="play-brain-unlimited">
-              <button type="button" className="big secondary">{t('home.classic')}</button>
+              <button type="button" className="big secondary">{t('home.classic.mode', { mode: 'Brain' })}</button>
             </Link>
           </article>
         </section>

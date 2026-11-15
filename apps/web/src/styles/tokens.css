@@ -910,3 +910,37 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
 
 /* Bouton « Passer la question » : centré sous la saisie, sur tous les modes */
 .skip-row { display: flex; justify-content: center; margin-top: 0.6rem; }
+
+/* ── Retouches : téléphone ── */
+@media (max-width: 720px) {
+  .hud { display: none; } /* doublon : la barre de chaleur affiche déjà la valeur */
+  .session-main .brain-stage { height: auto; width: 190px; }
+  .brain-label { position: static; display: block; margin-top: 0.2rem; text-align: center; }
+  .game-bar-title { flex: 1 1 0; min-width: 0; }
+  .game-bar-title strong { min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+  .game-bar-right { flex-shrink: 0; }
+  .round-pill { white-space: nowrap; }
+  .choice-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5rem; max-width: 340px; margin: 0 auto; }
+  .home-actions { display: grid; grid-template-columns: 1fr; gap: 0.6rem; }
+  .home-actions a { display: block; }
+  .home-actions button { width: 100%; }
+}
+
+/* ── Retouches : ordinateur ── */
+@media (min-width: 721px) {
+  .multi-sub, .setup-group h2 { font-size: 1.25rem; }
+  .multi-wide { max-width: 980px; }
+  .multi-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: start; }
+}
+
+/* Classement en direct pendant une question multijoueur */
+.mp-ranking { list-style: none; display: flex; flex-wrap: wrap; gap: 0.4rem; justify-content: center; padding: 0; margin: 0.6rem 0; }
+.mp-ranking li { background: var(--bg-raised); border-radius: 6px; padding: 0.2rem 0.6rem; font-family: var(--font-pixel); }
+
+/* En-tête de jeu sur téléphone : plus de place pour le titre */
+@media (max-width: 720px) {
+  .game-bar { gap: 0.3rem; }
+  .game-bar-left, .game-bar-right { gap: 0.3rem; }
+  .game-bar .pixel-btn { width: 32px; height: 32px; }
+}
+

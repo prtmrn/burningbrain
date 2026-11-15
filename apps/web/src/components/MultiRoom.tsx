@@ -9,6 +9,7 @@
 import { useEffect, useState, type FormEvent } from 'react';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
+import { CountdownBar } from './CountdownBar';
 import { loadMulti, saveMulti, type MultiMe } from '../state/multi-store';
 import { TIER_ICONS } from '../content';
 import { useT, useLang, type Lang } from '../i18n';
@@ -27,6 +28,7 @@ interface RoomState {
   theme: string;
   rounds: number;
   roundSec: number;
+  roundMs?: number;
   isHost: boolean;
   phase: Phase;
   players: { id: string; name: string }[];
@@ -297,6 +299,16 @@ export function MultiRoom({ code }: { code: string }) {
         {phase.kind === 'answering' && state.current && state.mode === 'brain' && (
           <section data-testid="multi-answering">
             <p className="prompt-label">{t('multi.question', { n: state.current.round + 1, total: state.rounds })} · {state.roundSec === 0 ? t('setup.unlimited') : `${secs(phase.endsAt - serverNow)} s`}</p>
+            {state.roundSec !== 0 && (
+              <CountdownBar remainingMs={phase.endsAt - serverNow} totalMs={state.roundMs ?? state.roundSec * 1000} />
+            )}
+            {state.ranking.length > 0 && (
+              <ol className="mp-ranking" data-testid="multi-ranking">
+                {state.ranking.map((r) => (
+                  <li key={r.playerId}><span>{r.name}</span> <strong>{r.score}</strong></li>
+                ))}
+              </ol>
+            )}
             <h2 className="prompt-text">{state.current.text}</h2>
             <p className="lead" data-testid="multi-brain-total">
               {t('multi.brain.total', { total: myTotal, goal: state.brainGoal ?? 500 })}
@@ -352,6 +364,16 @@ export function MultiRoom({ code }: { code: string }) {
         {phase.kind === 'answering' && state.current && state.mode !== 'brain' && (
           <section data-testid="multi-answering">
             <p className="prompt-label">{t('multi.question', { n: state.current.round + 1, total: state.rounds })} · {state.roundSec === 0 ? t('setup.unlimited') : `${secs(phase.endsAt - serverNow)} s`}</p>
+            {state.roundSec !== 0 && (
+              <CountdownBar remainingMs={phase.endsAt - serverNow} totalMs={state.roundMs ?? state.roundSec * 1000} />
+            )}
+            {state.ranking.length > 0 && (
+              <ol className="mp-ranking" data-testid="multi-ranking">
+                {state.ranking.map((r) => (
+                  <li key={r.playerId}><span>{r.name}</span> <strong>{r.score}</strong></li>
+                ))}
+              </ol>
+            )}
             <h2 className="prompt-text">{state.current.text}</h2>
             {mineFound ? (
               <p className="feedback accepted" data-testid="multi-found">

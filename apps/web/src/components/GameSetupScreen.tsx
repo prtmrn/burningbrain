@@ -97,7 +97,7 @@ export function GameSetupScreen({
         </section>
         <section className="setup-group">
           <h2>{tr('difficulty.label')}</h2>
-          <div className="choice-row" role="radiogroup" aria-label={tr('difficulty.label')}>
+          <div className="choice-row choice-grid" role="radiogroup" aria-label={tr('difficulty.label')}>
             {DIFFICULTY_OPTIONS.map((d) => (
               <button
                 key={d}

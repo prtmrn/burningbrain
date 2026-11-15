@@ -71,7 +71,7 @@ export default function MultiHome() {
     <>
       <GameBar icon="👥" title={t('multi.title')} subtitle={t('multi.subtitle')} />
       <Embers heat={0.3} />
-      <main className="summary" data-testid="multi-home">
+      <main className="summary multi-wide" data-testid="multi-home">
         <h1>{t('multi.title')}</h1>
         <p className="lead">{t('multi.lead')}</p>
 
@@ -80,7 +80,8 @@ export default function MultiHome() {
           <input type="text" value={name} maxLength={20} onChange={(e) => setName(e.target.value)} data-testid="multi-name" />
         </label>
 
-        <section className="mode-card brain" style={{ marginTop: '1rem' }}>
+        <div className="multi-layout">
+        <section className="mode-card brain">
           <h2>{t('multi.create.title')}</h2>
           <label className="field">
             <span>{t('multi.theme')}</span>
@@ -152,7 +153,7 @@ export default function MultiHome() {
           </button>
         </section>
 
-        <section className="mode-card hot" style={{ marginTop: '1rem' }}>
+        <section className="mode-card hot">
           <h2>{t('multi.join.title')}</h2>
           <label className="field">
             <span>{t('multi.code')}</span>
@@ -162,6 +163,7 @@ export default function MultiHome() {
             {t('multi.join')}
           </button>
         </section>
+        </div>
 
         {error && <p className="feedback rejected" role="alert">{error}</p>}
       </main>
