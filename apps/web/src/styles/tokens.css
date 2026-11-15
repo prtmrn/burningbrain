@@ -944,3 +944,11 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
   .game-bar .pixel-btn { width: 32px; height: 32px; }
 }
 
+/* Ordinateur : écran de jeu centré verticalement sous la barre, tube adapté à la hauteur */
+@media (min-width: 721px) {
+  .session { min-height: calc(100vh - 62px); align-content: center; }
+  .thermo-tube { height: clamp(300px, calc(100vh - 300px), 620px); }
+}
+/* Boiling : le total est déjà affiché par le thermomètre (pas de doublon) ; le HUD reste pour les tests et Brain */
+.session:not(.brain-session) .hud { display: none; }
+
