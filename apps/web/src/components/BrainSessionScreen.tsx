@@ -7,6 +7,7 @@
 // ─────────────────────────────────────────────────────────────
 import { useEffect } from 'react';
 import { sheetCeiling, type BrainDiveState, type GameConfig, type LoadedBank, type TierId } from '@hotbrain/engine';
+import { formatPercent, percentOf } from '../percent';
 import type { DiveSession } from '../hooks/useDiveSession';
 import { useSoundPref } from '../hooks/useSoundPref';
 import { TIER_ICONS, TIER_LABELS } from '../content';
@@ -45,7 +46,7 @@ export function BrainSessionScreen({
   config = hotbrainConfig,
   onExit,
 }: BrainSessionScreenProps) {
-  const [t] = useT();
+  const [t, lang] = useT();
   const s = session.state as BrainDiveState | null;
   const [soundOff, toggleSound] = useSoundPref(muted);
   const phase = s?.phase;
@@ -55,6 +56,12 @@ export function BrainSessionScreen({
   const total = banked + live;
   const lastAccepted = s?.currentAnswers[s.currentAnswers.length - 1];
   const goal = config.modes.brain.winScore ?? BRAIN_GOAL;
+  const unlimited = isUnlimitedRound(config.modes.brain.roundMs);
+  const ceilingNow = promptIds.reduce((a, id) => {
+    const sh = bank.sheets.get(id);
+    return a + (sh ? sheetCeiling(sh) : 0);
+  }, 0);
+  const pct = (pts: number): number => percentOf(pts, ceilingNow);
 
   useEffect(() => {
     const root = document.documentElement;
@@ -145,9 +152,9 @@ export function BrainSessionScreen({
           <h1 className={`brain-verdict${won ? ' won' : ''}`} data-testid="brain-verdict">
             {won ? t('brain.won') : t('brain.notyet')}
           </h1>
-          <BrainMeter value={banked} goal={goal} />
+          <BrainMeter value={unlimited ? pct(banked) : banked} goal={unlimited ? 100 : goal} percent={unlimited} />
           <p className="lead">
-            {t('brain.summary.stats', { found, pct: ceiling > 0 ? Math.round((100 * banked) / ceiling) : 0 })}
+            {t('brain.summary.stats', { found, pct: unlimited ? formatPercent(pct(banked), lang) : ceiling > 0 ? Math.round((100 * banked) / ceiling) : 0 })}
           </p>
           {s.results.map((r) => {
             const sheet = bank.sheets.get(r.promptId);
@@ -214,12 +221,13 @@ export function BrainSessionScreen({
       <div className="session brain-session" data-testid="session-root">
         <div className="session-main">
           <div className="hud">
-            <span className="score" data-testid="hud-score">{t('brain.hud', { total, goal })}</span>
+            <span className="score" data-testid="hud-score">{unlimited ? `${formatPercent(pct(total), lang)} %` : t('brain.hud', { total, goal })}</span>
             <span className="muted">{t('multi.found.count', { n: s.currentAnswers.length, s: s.currentAnswers.length > 1 ? 's' : '' })}</span>
           </div>
           <BrainMeter
-            value={total}
-            goal={goal}
+            value={unlimited ? pct(total) : total}
+            goal={unlimited ? 100 : goal}
+            percent={unlimited}
             gain={fb && fb.kind === 'accepted' && fb.score ? { points: fb.score, key: fb.at } : undefined}
           />
           {prompt && (

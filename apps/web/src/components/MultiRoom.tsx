@@ -10,6 +10,8 @@ import { useEffect, useState, type FormEvent } from 'react';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
 import { CountdownBar } from './CountdownBar';
+import { BrainMeter } from './BrainMeter';
+import { formatPercent, percentOf } from '../percent';
 import { loadMulti, saveMulti, type MultiMe } from '../state/multi-store';
 import { TIER_ICONS } from '../content';
 import { useT, useLang, type Lang } from '../i18n';
@@ -29,6 +31,7 @@ interface RoomState {
   rounds: number;
   roundSec: number;
   roundMs?: number;
+  ceiling?: number | null;
   isHost: boolean;
   phase: Phase;
   players: { id: string; name: string }[];
@@ -253,6 +256,9 @@ export function MultiRoom({ code }: { code: string }) {
   const phase = state.phase;
   const mineFound = state.current ? state.mine[state.current.round] : undefined;
   const myTotal = (state.myAnswers ?? []).reduce((acc, a) => acc + a.score, 0);
+  const brainUnlimited = state.mode === 'brain' && state.roundSec === 0;
+  const ceilingTotal = state.ceiling ?? 0;
+  const pctOfTotal = (pts: number): number => percentOf(pts, ceilingTotal);
 
   return (
     <>
@@ -310,8 +316,11 @@ export function MultiRoom({ code }: { code: string }) {
               </ol>
             )}
             <h2 className="prompt-text">{state.current.text}</h2>
+            {brainUnlimited && <BrainMeter value={pctOfTotal(myTotal)} goal={100} percent />}
             <p className="lead" data-testid="multi-brain-total">
-              {t('multi.brain.total', { total: myTotal, goal: state.brainGoal ?? 500 })}
+              {brainUnlimited
+                ? `${formatPercent(pctOfTotal(myTotal), lang)} %`
+                : t('multi.brain.total', { total: myTotal, goal: state.brainGoal ?? 500 })}
             </p>
             <form onSubmit={submit} className="answer-row">
               <input
@@ -352,7 +361,7 @@ export function MultiRoom({ code }: { code: string }) {
                     <tr key={row.playerId} className={row.playerId === me.playerId ? 'me' : undefined}>
                       <td>{i + 1}</td>
                       <td>{row.name}</td>
-                      <td>{row.score} {t('brain.summary.stats.unit')}</td>
+                      <td>{brainUnlimited ? `${formatPercent(pctOfTotal(row.score), lang)} %` : `${row.score} ${t('brain.summary.stats.unit')}`}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -461,7 +470,7 @@ export function MultiRoom({ code }: { code: string }) {
                   <tr key={row.playerId} className={row.playerId === me.playerId ? 'me' : undefined}>
                     <td>{i + 1}</td>
                     <td>{row.name}</td>
-                    <td>{row.score} °C</td>
+                    <td>{brainUnlimited ? `${formatPercent(pctOfTotal(row.score), lang)} %` : `${row.score} °C`}</td>
                     <td>{t('multi.found.count', { n: row.answers, s: row.answers > 1 ? 's' : '' })}</td>
                   </tr>
                 ))}

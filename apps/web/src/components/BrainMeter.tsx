@@ -6,6 +6,7 @@
 // ─────────────────────────────────────────────────────────────
 import { BRAIN_CELLS, BRAIN_H, BRAIN_W } from '../brain-sprite';
 import { useT } from '../i18n';
+import { formatPercent } from '../percent';
 
 /** Ordre de remplissage : du bas vers le haut, à surface égale par neurone. */
 const FILL_ORDER: string[] = BRAIN_CELLS.filter((c) => c.kind !== 'edge')
@@ -18,12 +19,15 @@ export function BrainMeter({
   value,
   goal,
   gain,
+  percent = false,
 }: {
   value: number;
   goal: number;
   gain?: { points: number; key: number } | undefined;
+  /** Durée illimitée : la valeur est un pourcentage affiché au dixième. */
+  percent?: boolean;
 }) {
-  const [t] = useT();
+  const [t, lang] = useT();
   const ratio = Math.max(0, Math.min(1, value / goal));
   const litCount = Math.round(ratio * FILL_ORDER.length);
   const full = ratio >= 1;
@@ -54,7 +58,15 @@ export function BrainMeter({
         </span>
       )}
       <p className="brain-meter-label" data-testid="neurones">
-        <strong>{value}</strong> / {goal} neurones
+        {percent ? (
+          <>
+            <strong>{formatPercent(value, lang)}</strong> %
+          </>
+        ) : (
+          <>
+            <strong>{value}</strong> / {goal} neurones
+          </>
+        )}
       </p>
     </div>
   );

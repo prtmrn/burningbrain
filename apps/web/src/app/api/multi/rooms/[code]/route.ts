@@ -3,6 +3,7 @@ import { getKv } from '../../../../../server/multi/kv';
 import { getAnswers, getMeta, getPlayers, passStatus, rankingOf, resolveFlags } from '../../../../../server/multi/room';
 import { loadBank } from '../../../../../server/multi/bank';
 import { phaseAt } from '../../../../../server/multi/phase';
+import { sheetCeiling } from '@hotbrain/engine';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -69,6 +70,12 @@ export async function GET(req: Request, { params }: { params: Promise<{ code: st
     goalFirstId: meta.goalFirstId ?? null,
     bonusUsedBy: meta.bonusUsedBy ?? null,
     bonusUntil: meta.bonusUntil ?? null,
+    ceiling: meta.mode === 'brain'
+      ? meta.promptIds.reduce((a, id) => {
+          const sh = bank.sheets.get(id);
+          return a + (sh ? sheetCeiling(sh) : 0);
+        }, 0)
+      : null,
     winnerId: phase.kind === 'done' ? rankingOf(players, finalAnswers)[0]?.playerId ?? null : null,
     flags: flags.map((f) => ({ id: f.id, round: f.round, playerId: f.playerId, name: f.name, input: f.input, status: f.status, yes: Object.values(f.votes).filter(Boolean).length, no: Object.values(f.votes).filter((v) => !v).length, myVote: f.votes[playerId] ?? null, mine: f.playerId === playerId })),
     myAnswers: finalAnswers
