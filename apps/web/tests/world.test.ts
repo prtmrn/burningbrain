@@ -5,7 +5,7 @@ import { worldFor } from '../src/components/WorldBackdrop';
 describe('worldFor', () => {
   it('suit les univers du plus froid au plus chaud', () => {
     expect(worldFor(0)).toBe('frost');
-    expect(worldFor(0.1)).toBe('water');
+    expect(worldFor(0.2)).toBe('water');
     expect(worldFor(0.4)).toBe('fry');
     expect(worldFor(0.7)).toBe('oven');
     expect(worldFor(1)).toBe('lava');

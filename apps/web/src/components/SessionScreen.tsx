@@ -15,7 +15,7 @@ import { playFusion, playMiss, playTier } from '../sound';
 import { useSoundPref } from '../hooks/useSoundPref';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
-import { WorldBackdrop } from './WorldBackdrop';
+import { WorldBackdrop, WORLD_SCALE } from './WorldBackdrop';
 import { useT } from '../i18n';
 import { HeatBar } from './HeatBar';
 import { Thermometer } from './Thermometer';
@@ -188,7 +188,7 @@ export function SessionScreen({
         soundOff={soundOff}
         onToggleSound={toggleSound}
       />
-      <WorldBackdrop heat={score / 700} />
+      <WorldBackdrop heat={score / WORLD_SCALE} />
       <Embers heat={score / 700} />
       <div
         className={`session${phase === 'feedback' && lastResult?.tier === 't6' ? ' fusion-flash' : ''}`}

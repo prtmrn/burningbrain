@@ -954,27 +954,60 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
 
 
 /* ── Monde qui change avec la chaleur (fond plein écran) ── */
+/* Chaque motif de particules se répète tous les --tile px : l'animation le décale
+   d'exactement une tuile, donc la boucle est continue (pas de saut). */
 .world-backdrop { position: fixed; inset: 0; z-index: 0; pointer-events: none; overflow: hidden; }
 .world-layer { position: absolute; inset: 0; opacity: 0; transition: opacity 1.6s ease; }
 .world-layer.on { opacity: 1; }
-/* banquise */
+.world-layer::after { content: ''; position: absolute; inset: -140px; opacity: 0.3; }
+/* banquise : neige qui tombe */
 .world-frost { background: radial-gradient(ellipse at 50% -10%, #3f7ea3 0%, #1f4d69 45%, #08192a 100%); }
 .world-frost::after {
-  content: ''; position: absolute; inset: 0; opacity: 0.18;
-  background-image: radial-gradient(circle, #ffffff 1.2px, transparent 1.6px);
-  background-size: 46px 46px;
+  --tile: 46px;
+  background-image: radial-gradient(circle, #ffffff 1.8px, transparent 2.4px);
+  background-size: var(--tile) var(--tile);
+  animation: world-fall 4s linear infinite;
 }
-/* eau qui bout */
+/* eau qui bout : bulles qui montent */
 .world-water { background: linear-gradient(180deg, #0f5566 0%, #0a2f3c 60%, #051b25 100%); }
 .world-water::after {
-  content: ''; position: absolute; inset: 0; opacity: 0.3;
-  background-image: radial-gradient(circle, #d9fbff 2px, transparent 3px);
-  background-size: 70px 90px;
+  --tile: 90px;
+  background-image: radial-gradient(circle, #d9fbff 2.4px, transparent 3.4px);
+  background-size: 70px var(--tile);
+  animation: world-rise 5s linear infinite;
 }
-/* friture */
+/* friture : bulles d'huile */
 .world-fry { background: linear-gradient(180deg, #8a4a12 0%, #4a2208 70%, #1d0d04 100%); }
-/* four */
+.world-fry::after {
+  --tile: 120px;
+  background-image: radial-gradient(circle, #ffd27a 2.4px, transparent 3.4px);
+  background-size: 110px var(--tile);
+  animation: world-rise 6s linear infinite;
+}
+/* four : chaleur qui monte */
 .world-oven { background: linear-gradient(180deg, #8c2412 0%, #3e0f09 70%, #1a0604 100%); }
-/* lave */
-.world-lava { background: radial-gradient(ellipse at 50% 110%, #ffc247 0%, #ff4a12 28%, #5a0e06 62%, #1a0303 100%); }
-html.low-power .world-layer { transition: none; }
+.world-oven::after {
+  --tile: 100px;
+  background-image: radial-gradient(circle, #ffb37a 2.4px, transparent 3.4px);
+  background-size: 90px var(--tile);
+  animation: world-rise 4s linear infinite;
+}
+/* lave : cœur qui pulse + braises qui montent */
+.world-lava { background: radial-gradient(ellipse at 50% 110%, #ffc247 0%, #ff4a12 28%, #5a0e06 62%, #1a0303 100%); animation: world-glow 3s ease-in-out infinite; }
+.world-lava::after {
+  --tile: 140px;
+  background-image: radial-gradient(circle, #fff2b0 2.8px, transparent 3.8px);
+  background-size: 130px var(--tile);
+  animation: world-rise 3.5s linear infinite;
+}
+/* flash plein écran à chaque changement d'univers */
+.world-flash {
+  position: fixed; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(ellipse at 50% 50%, rgba(255, 240, 200, 0.5), transparent 70%);
+  animation: world-flash 1.4s ease-out forwards;
+}
+@keyframes world-rise { from { background-position: 0 0; } to { background-position: 0 calc(var(--tile) * -1); } }
+@keyframes world-fall { from { background-position: 0 0; } to { background-position: 0 var(--tile); } }
+@keyframes world-glow { 0%, 100% { filter: brightness(1); } 50% { filter: brightness(1.2); } }
+@keyframes world-flash { from { opacity: 1; } to { opacity: 0; } }
+html.low-power .world-layer, html.low-power .world-layer::after, html.low-power .world-flash { animation: none !important; transition: none; }
