@@ -19,6 +19,7 @@ import { CountdownBar } from './CountdownBar';
 import { BrainMeter } from './BrainMeter';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
+import { WorldBackdrop } from './WorldBackdrop';
 import { useT } from '../i18n';
 
 export interface BrainSessionScreenProps {
@@ -147,6 +148,7 @@ export function BrainSessionScreen({
     return (
       <>
         {bar}
+        <WorldBackdrop heat={unlimited ? pct(banked) / 100 : Math.min(1, banked / goal)} />
         <Embers heat={Math.min(1, banked / goal)} />
         <main className="summary" data-testid="brain-summary">
           <h1 className={`brain-verdict${won ? ' won' : ''}`} data-testid="brain-verdict">
@@ -217,6 +219,7 @@ export function BrainSessionScreen({
   return (
     <>
       {bar}
+      <WorldBackdrop heat={unlimited ? pct(total) / 100 : Math.min(1, total / goal)} />
       <Embers heat={Math.min(1, total / goal)} />
       <div className="session brain-session" data-testid="session-root">
         <div className="session-main">

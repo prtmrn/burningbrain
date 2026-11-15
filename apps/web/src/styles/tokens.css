@@ -952,3 +952,29 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
 /* Boiling : le total est déjà affiché par le thermomètre (pas de doublon) ; le HUD reste pour les tests et Brain */
 .session:not(.brain-session) .hud { display: none; }
 
+
+/* ── Monde qui change avec la chaleur (fond plein écran) ── */
+.world-backdrop { position: fixed; inset: 0; z-index: 0; pointer-events: none; overflow: hidden; }
+.world-layer { position: absolute; inset: 0; opacity: 0; transition: opacity 1.6s ease; }
+.world-layer.on { opacity: 1; }
+/* banquise */
+.world-frost { background: radial-gradient(ellipse at 50% -10%, #3f7ea3 0%, #1f4d69 45%, #08192a 100%); }
+.world-frost::after {
+  content: ''; position: absolute; inset: 0; opacity: 0.18;
+  background-image: radial-gradient(circle, #ffffff 1.2px, transparent 1.6px);
+  background-size: 46px 46px;
+}
+/* eau qui bout */
+.world-water { background: linear-gradient(180deg, #0f5566 0%, #0a2f3c 60%, #051b25 100%); }
+.world-water::after {
+  content: ''; position: absolute; inset: 0; opacity: 0.3;
+  background-image: radial-gradient(circle, #d9fbff 2px, transparent 3px);
+  background-size: 70px 90px;
+}
+/* friture */
+.world-fry { background: linear-gradient(180deg, #8a4a12 0%, #4a2208 70%, #1d0d04 100%); }
+/* four */
+.world-oven { background: linear-gradient(180deg, #8c2412 0%, #3e0f09 70%, #1a0604 100%); }
+/* lave */
+.world-lava { background: radial-gradient(ellipse at 50% 110%, #ffc247 0%, #ff4a12 28%, #5a0e06 62%, #1a0303 100%); }
+html.low-power .world-layer { transition: none; }
