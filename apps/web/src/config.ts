@@ -47,11 +47,15 @@ export function configFor(mode: 'hot' | 'brain', setup?: GameSetup): GameConfig 
     ...hotbrainConfig,
     modes: {
       ...hotbrainConfig.modes,
-      [mode]: {
-        ...hotbrainConfig.modes[mode],
-        rounds: setup.rounds,
-        roundMs: setup.roundSec === 0 ? UNLIMITED_ROUND_MS : setup.roundSec * 1000,
-      },
+      // Brain illimité : pas de seuil de 500 neurones ; la victoire est 100 % des points possibles.
+      [mode]:
+        setup.roundSec === 0 && mode === 'brain'
+          ? { rounds: setup.rounds, previewMs: hotbrainConfig.modes.brain.previewMs, roundMs: UNLIMITED_ROUND_MS }
+          : {
+              ...hotbrainConfig.modes[mode],
+              rounds: setup.rounds,
+              roundMs: setup.roundSec === 0 ? UNLIMITED_ROUND_MS : setup.roundSec * 1000,
+            },
     },
   };
 }

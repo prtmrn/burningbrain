@@ -143,7 +143,7 @@ export function BrainSessionScreen({
       return a + (sh ? sheetCeiling(sh) : 0);
     }, 0);
     const found = s.results.reduce((a, r) => a + r.answersGiven.length, 0);
-    const won = banked >= goal;
+    const won = unlimited ? pct(banked) >= 100 : banked >= goal;
     return (
       <>
         {bar}

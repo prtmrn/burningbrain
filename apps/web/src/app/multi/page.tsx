@@ -102,6 +102,8 @@ export default function MultiHome() {
           <p className="multi-hint">{mode === 'hot' ? t('multi.mode.boiling.desc') : t('multi.mode.brain.desc')}</p>
           {mode === 'brain' && (
             <>
+              {roundSec !== 0 && (
+              <>
               <h3 className="multi-sub">{t('multi.goal.label')}</h3>
               <div className="choice-row" role="radiogroup" aria-label={t('multi.goal.label')}>
                 {[100, 200, 300, 500, 750, 1000].map((g) => (
@@ -110,6 +112,8 @@ export default function MultiHome() {
                   </button>
                 ))}
               </div>
+              </>
+              )}
               <label className="field multi-check">
                 <input type="checkbox" checked={showScores} onChange={(e) => setShowScores(e.target.checked)} data-testid="show-scores" />
                 <span>{t('multi.showscores')}</span>

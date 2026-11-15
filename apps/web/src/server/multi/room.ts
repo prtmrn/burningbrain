@@ -10,6 +10,7 @@ import {
   TIER_POINTS,
   drawThemed,
   filterByDifficulty,
+  sheetCeiling,
   validateAnswer,
   validateListing,
   type DifficultyChoice,
@@ -301,7 +302,12 @@ async function submitBrain(
   const stored = await kv.cmd(['HSETNX', answersKey(c), field, JSON.stringify(rec)]);
   if (stored !== 1) return { kind: 'duplicate' };
   const total = all.filter((a) => a.playerId === playerId).reduce((acc, a) => acc + a.score, 0) + rec.score;
-  const goal = meta.brainGoal ?? 500;
+  // Durée illimitée : l'objectif est 100 % des points possibles du salon.
+  const roomCeiling = meta.promptIds.reduce((a, id) => {
+    const sh = bank.sheets.get(id);
+    return a + (sh ? sheetCeiling(sh) : 0);
+  }, 0);
+  const goal = meta.roundSec === 0 ? roomCeiling : (meta.brainGoal ?? 500);
   if (total >= goal && !meta.goalFirstId) {
     // Le premier à l'objectif gagne le bonus x2 ; la partie continue jusqu'à la fin du temps.
     await setJson(kv, metaKey(c), { ...meta, goalFirstId: playerId });
