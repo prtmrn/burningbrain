@@ -24,7 +24,6 @@ import { CountdownBar } from './CountdownBar';
 import { FeedbackBanner } from './FeedbackBanner';
 import { TierBadge } from './TierBadge';
 import { SummaryScreen } from './SummaryScreen';
-import { BrainStage } from './BrainStage';
 
 export interface SessionScreenProps {
   session: DiveSession;
@@ -200,14 +199,6 @@ export function SessionScreen({
           <div className="hud">
             <span className="score" data-testid="hud-score">{score} °C</span>
           </div>
-          <BrainStage
-            heat={score / 700}
-            gain={
-              phase === 'feedback' && lastResult && lastResult.score > 0
-                ? { points: lastResult.score, key: s.results.length }
-                : undefined
-            }
-          />
           {prompt && (
             <PromptCard
               label={t('multi.question', { n: Math.min(s.roundIndex + 1, roundTotal), total: roundTotal })}

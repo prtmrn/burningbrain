@@ -7,7 +7,6 @@
 // streak. Percentile : placeholder M3 (refdist livrée au volet contenu).
 // ─────────────────────────────────────────────────────────────
 import type { AnswerSheet, HotCompletion, TierId } from '@hotbrain/engine';
-import { BrainStage } from './BrainStage';
 import { TIER_ICONS, buildShareText, verdictFor } from '../content';
 import { useT, useLang } from '../i18n';
 import { TierBadge } from './TierBadge';
@@ -49,8 +48,7 @@ export function SummaryScreen({
   return (
     <main className="summary" data-testid="summary">
       <header>
-        <BrainStage heat={Math.min(1, completion.score / 700)} />
-        <p className="muted" style={{ marginTop: '2.2rem' }}>{t('summary.reached')}</p>
+        <p className="muted">{t('summary.reached')}</p>
         <p className="total" data-testid="summary-score">
           {completion.score} °C
         </p>

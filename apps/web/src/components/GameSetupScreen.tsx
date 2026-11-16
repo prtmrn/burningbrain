@@ -10,6 +10,7 @@ import { SETUP_OPTIONS, DIFFICULTY_OPTIONS, defaultSetup, type GameSetup } from 
 import { isDifficultyChoice } from '@hotbrain/engine';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
+import { PixelWorld } from './PixelWorld';
 
 const KEY = (mode: string): string => `boilingbrain:setup:v1:${mode}`;
 
@@ -55,7 +56,7 @@ export function GameSetupScreen({
   return (
     <>
       <GameBar icon={themeIcon} title={`${modeLabel} · ${themeLabel}`} subtitle={tr('setup.title')} />
-      <Embers heat={0.2} />
+      {mode === 'hot' ? <PixelWorld temp={0} ambient={false} /> : <Embers heat={0.2} />}
       <main className="summary panel-screen" data-testid="game-setup">
         <h1>{mode === 'hot' ? '🔥' : '🧠'} {tr('setup.title')}</h1>
         <p className="lead">{tr('setup.lead')}</p>

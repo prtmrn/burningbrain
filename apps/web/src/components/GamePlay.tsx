@@ -39,6 +39,7 @@ import { SessionScreen } from './SessionScreen';
 import { BrainSessionScreen } from './BrainSessionScreen';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
+import { PixelWorld } from './PixelWorld';
 import type { ThemeInfo } from '../themes';
 
 export type PlayKindUI = 'daily' | 'unlimited';
@@ -172,7 +173,7 @@ function GamePlayClient({ theme, mode, kind }: { theme: ThemeInfo; mode: GameMod
       return (
         <>
           <GameBar icon={theme.icon} title={`${modeLabel} · ${themeName(theme.id, lang)}`} subtitle={t('session.daily')} />
-          <Embers heat={0.2} />
+          {mode === 'hot' ? <PixelWorld temp={0} ambient={false} /> : <Embers heat={0.2} />}
           <main className="summary panel-screen" data-testid="daily-played">
             <h1>{t('daily.played.title.short')}</h1>
             <p>{t('daily.played.body', { mode: modeLabel })}</p>
