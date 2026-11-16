@@ -9,6 +9,10 @@
 import { useEffect, useState, type FormEvent } from 'react';
 import { GameBar } from './GameBar';
 import { Embers } from './Embers';
+import { PixelWorld } from './PixelWorld';
+import { useSoundPref } from '../hooks/useSoundPref';
+import { createLocalStorageKV } from '../state/local-storage-kv';
+import { loadPrefs } from '../state/prefs-store';
 import { CountdownBar } from './CountdownBar';
 import { BrainMeter } from './BrainMeter';
 import { formatPercent, percentOf } from '../percent';
@@ -77,6 +81,15 @@ const THEME_NAMES: Record<string, Record<Lang, string>> = {
   'science-nature': { fr: 'Sciences & Nature', en: 'Science & Nature', es: 'Ciencia y Naturaleza' },
   'sports-leisure': { fr: 'Sports & Loisirs', en: 'Sports & Leisure', es: 'Deportes y Ocio' },
 };
+
+/** Préférence « son coupé » enregistrée (faux si le stockage est indisponible). */
+function storedMuted(): boolean {
+  try {
+    return loadPrefs(createLocalStorageKV(window.localStorage)).muted;
+  } catch {
+    return false;
+  }
+}
 
 export function MultiRoom({ code }: { code: string }) {
   const C = code.toUpperCase();
@@ -219,7 +232,16 @@ export function MultiRoom({ code }: { code: string }) {
   }
 
   const themeName = (id: string): string => THEME_NAMES[id]?.[lang] ?? id;
-  const bar = <GameBar icon="👥" title={t('multi.room', { code: C })} subtitle={state ? themeName(state.theme) : t('multi.online')} />;
+  const [soundOff, toggleSound] = useSoundPref(storedMuted());
+  const bar = (
+    <GameBar
+      icon="👥"
+      title={t('multi.room', { code: C })}
+      subtitle={state ? themeName(state.theme) : t('multi.online')}
+      soundOff={soundOff}
+      onToggleSound={toggleSound}
+    />
+  );
 
   if (!me) {
     return (
@@ -263,7 +285,11 @@ export function MultiRoom({ code }: { code: string }) {
   return (
     <>
       {bar}
-      <Embers heat={phase.kind === 'answering' ? 0.6 : 0.25} />
+      {state.mode === 'brain' ? (
+        <Embers heat={phase.kind === 'answering' ? 0.6 : 0.25} />
+      ) : (
+        <PixelWorld temp={state.ranking.find((r) => r.playerId === me.playerId)?.score ?? 0} muted={soundOff} />
+      )}
       <main className="summary" data-testid="multi-room">
         {error && <p className="feedback rejected" role="alert">{error}</p>}
 

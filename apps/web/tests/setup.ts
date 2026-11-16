@@ -7,3 +7,8 @@ vi.mock('next/navigation', () => ({
   usePathname: () => '/',
   useSearchParams: () => new URLSearchParams(),
 }));
+
+// jsdom n'implémente pas le canvas : le décor pixel art (PixelWorld) ne dessine simplement rien sous test.
+if (typeof HTMLCanvasElement !== 'undefined') {
+  HTMLCanvasElement.prototype.getContext = (() => null) as unknown as HTMLCanvasElement['getContext'];
+}

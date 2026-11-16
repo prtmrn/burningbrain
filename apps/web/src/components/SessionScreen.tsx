@@ -14,8 +14,7 @@ import { hotbrainConfig, isUnlimitedRound } from '../config';
 import { playFusion, playMiss, playTier } from '../sound';
 import { useSoundPref } from '../hooks/useSoundPref';
 import { GameBar } from './GameBar';
-import { Embers } from './Embers';
-import { WorldBackdrop, WORLD_SCALE } from './WorldBackdrop';
+import { PixelWorld } from './PixelWorld';
 import { useT } from '../i18n';
 import { HeatBar } from './HeatBar';
 import { Thermometer } from './Thermometer';
@@ -134,7 +133,7 @@ export function SessionScreen({
     return (
       <>
         <GameBar icon={themeIcon} title={`${t('mode.boiling')} · ${themeLabel}`} subtitle={dayLabel} />
-        <Embers heat={0.15} />
+        <PixelWorld temp={0} ambient={false} />
         <main className="summary panel-screen" data-testid="intro">
           <h1>{t('intro.boiling.title')}</h1>
           <p className="lead">
@@ -156,17 +155,20 @@ export function SessionScreen({
   // ── Synthèse ──
   if (phase === 'done') {
     return (
-      <SummaryScreen
-        completion={completionFromState(s)}
-        sheets={bank.sheets}
-        streak={streak}
-        dayLabel={dayLabel}
-        themeLabel={themeLabel}
-        onExit={() => {
-          session.clearAndExit(); // backlog M2 tranché : clear après synthèse vue
-          onExit();
-        }}
-      />
+      <>
+        <PixelWorld temp={score} ambient={false} />
+        <SummaryScreen
+          completion={completionFromState(s)}
+          sheets={bank.sheets}
+          streak={streak}
+          dayLabel={dayLabel}
+          themeLabel={themeLabel}
+          onExit={() => {
+            session.clearAndExit(); // backlog M2 tranché : clear après synthèse vue
+            onExit();
+          }}
+        />
+      </>
     );
   }
 
@@ -188,8 +190,7 @@ export function SessionScreen({
         soundOff={soundOff}
         onToggleSound={toggleSound}
       />
-      <WorldBackdrop heat={score / WORLD_SCALE} />
-      <Embers heat={score / 700} />
+      <PixelWorld temp={score} muted={soundOff} />
       <div
         className={`session${phase === 'feedback' && lastResult?.tier === 't6' ? ' fusion-flash' : ''}`}
         data-testid="session-root"

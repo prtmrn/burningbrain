@@ -1011,3 +1011,35 @@ body::after { background: repeating-linear-gradient(to bottom, transparent 0 3px
 @keyframes world-glow { 0%, 100% { filter: brightness(1); } 50% { filter: brightness(1.2); } }
 @keyframes world-flash { from { opacity: 1; } to { opacity: 0; } }
 html.low-power .world-layer, html.low-power .world-layer::after, html.low-power .world-flash { animation: none !important; transition: none; }
+
+/* ── Décor pixel art de Boiling (PixelWorld) ── */
+.pixel-world {
+  position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0;
+  pointer-events: none; image-rendering: pixelated; object-fit: cover; background: #0b1020;
+}
+.world-flash-screen {
+  position: fixed; inset: 0; z-index: 3; pointer-events: none;
+  animation: world-flash-screen 0.9s ease-out forwards;
+}
+@keyframes world-flash-screen { from { opacity: 1; } to { opacity: 0; } }
+@keyframes world-shake {
+  0%, 100% { transform: translate(0, 0); }
+  15% { transform: translate(-7px, 4px); }
+  30% { transform: translate(6px, -5px); }
+  45% { transform: translate(-5px, -3px); }
+  60% { transform: translate(5px, 4px); }
+  75% { transform: translate(-3px, 2px); }
+}
+html.world-shaking .pixel-world,
+html.world-shaking .session,
+html.world-shaking main.summary { animation: world-shake 0.7s linear; }
+/* les cartes de jeu restent lisibles devant un décor chargé */
+html.pixel-world-on .session-main,
+html.pixel-world-on main.summary {
+  background: rgba(8, 12, 26, 0.78);
+  border: 2px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  padding: 0.8rem 1rem;
+}
+html.pixel-world-on main.summary { margin-top: 1rem; margin-bottom: 1rem; }
+html.pixel-world-on .thermometer { background: rgba(8, 12, 26, 0.6); border-radius: 6px; padding: 0.4rem; }

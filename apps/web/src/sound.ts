@@ -23,6 +23,11 @@ function audio(): AudioContext | null {
   }
 }
 
+/** Contexte audio partagé (créé au premier appel, repris après un geste). */
+export function getAudioContext(): AudioContext | null {
+  return audio();
+}
+
 function blip(freq: number, durS: number, wave: OscillatorType, vol: number, delayS = 0): void {
   const c = audio();
   if (!c) return;
