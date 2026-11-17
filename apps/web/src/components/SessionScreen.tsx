@@ -5,7 +5,7 @@
 // intro → preview (3 s) → answering (30 s, retry libre) → feedback
 // (T_FEEDBACK auto-avance) → round suivant → synthèse.
 // ─────────────────────────────────────────────────────────────
-import { useEffect, type CSSProperties } from 'react';
+import { useEffect, useRef, useState, type CSSProperties } from 'react';
 import type { GameConfig, HotCompletion, HotDiveState, LoadedBank } from '@hotbrain/engine';
 import type { DiveSession } from '../hooks/useDiveSession';
 import { MILESTONES } from '../content';
@@ -24,6 +24,7 @@ import { CountdownBar } from './CountdownBar';
 import { FeedbackBanner } from './FeedbackBanner';
 import { TierBadge } from './TierBadge';
 import { SummaryScreen } from './SummaryScreen';
+import { acceptIntoSheet, logVar, requestVar } from '../var/client';
 
 export interface SessionScreenProps {
   session: DiveSession;
@@ -74,6 +75,17 @@ export function SessionScreen({
   const lastTier = s?.results[resultCount - 1]?.tier ?? null;
   const heatScore = (s?.results ?? []).reduce((acc, r) => acc + r.score, 0);
   const [soundOff, toggleSound] = useSoundPref(muted);
+  // VAR : une contestation par partie
+  const [varUsed, setVarUsed] = useState(false);
+  const [varBusy, setVarBusy] = useState(false);
+  const [varMsg, setVarMsg] = useState<string | null>(null);
+  const varRound = useRef(-1);
+  useEffect(() => {
+    if (varRound.current !== resultCount) {
+      varRound.current = resultCount;
+      setVarMsg(null);
+    }
+  }, [resultCount]);
 
 
   // Fond qui se réchauffe avec le score (variable CSS sur la racine)
@@ -173,6 +185,28 @@ export function SessionScreen({
 
   const lastResult = s.results[s.results.length - 1];
 
+  const contest = async (): Promise<void> => {
+    const input = s.rejected;
+    if (!input || !prompt || varBusy || varUsed) return;
+    setVarBusy(true);
+    const out = await requestVar(prompt.text, input);
+    setVarBusy(false);
+    if (out.kind === 'error') {
+      setVarMsg(t('var.error')); // pas de jeton consommé si le VAR est indisponible
+      return;
+    }
+    setVarUsed(true);
+    const v = out.verdict;
+    logVar(window.localStorage, { promptId: prompt.id, question: prompt.text, input, valid: v.valid, tier: v.tier, answer: v.answer });
+    if (v.valid) {
+      acceptIntoSheet(bank, prompt.id, v, input);
+      setVarMsg(t('var.accepted', { answer: v.answer, reason: v.reason }));
+      session.submit(input);
+    } else {
+      setVarMsg(t('var.denied', { reason: v.reason }));
+    }
+  };
+
   // Révélation après chaque round : la réponse la plus rare (si on a fait moins
   // bien), ou un exemple facile après un temps écoulé — le « ah, j'aurais dû ! ».
   const tierNum = (x: string): number => Number(x.slice(1));
@@ -264,6 +298,12 @@ export function SessionScreen({
                 correction={s.correction}
                 onApplyCorrection={session.applyCorrection}
               />
+              {s.rejected && !s.correction && !varUsed && (
+                <button type="button" className="secondary" disabled={varBusy} onClick={() => void contest()} data-testid="var-button">
+                  {varBusy ? t('var.checking') : t('var.button')}
+                </button>
+              )}
+              {varMsg && <p className="muted" role="status" data-testid="var-message">{varMsg}</p>}
             </div>
           )}
 
@@ -292,6 +332,7 @@ export function SessionScreen({
                   {t('feedback.miss')}
                 </p>
               )}
+              {varMsg && <p className="muted" role="status">{varMsg}</p>}
               {reveal && (
                 <p className="muted" data-testid="feedback-reveal">
                   {t(reveal.key, { answer: reveal.answer })}
