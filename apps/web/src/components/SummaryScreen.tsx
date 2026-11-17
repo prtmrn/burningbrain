@@ -87,7 +87,7 @@ export function SummaryScreen({
               </div>
               {sheet && (
                 <details className="reveal-toggle" data-testid={`reveal-${i}`}>
-                  <summary>Voir les {sheet.entries.length} réponses possibles</summary>
+                  <summary>{t('summary.reveal', { n: sheet.entries.length })}</summary>
                 <div className="sheet-reveal" aria-label={t('summary.accepted.aria')}>
                   {TIER_ORDER.map((tier) =>
                     sheet.entries

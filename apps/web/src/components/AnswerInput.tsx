@@ -14,6 +14,9 @@ export interface AnswerInputProps {
   onChange(input: string): void;
   onSubmit(input: string): void;
   placeholder?: string;
+  /** Quand cette valeur change (réponse refusée), le texte est resélectionné
+   *  pour pouvoir retaper directement sans effacer à la main. */
+  selectSignal?: string | null;
 }
 
 export function AnswerInput({
@@ -23,6 +26,7 @@ export function AnswerInput({
   onChange,
   onSubmit,
   placeholder,
+  selectSignal = null,
 }: AnswerInputProps) {
   const [t] = useT();
   const ref = useRef<HTMLInputElement>(null);
@@ -31,6 +35,14 @@ export function AnswerInput({
   useEffect(() => {
     if (!disabled) ref.current?.focus();
   }, [disabled]);
+
+  // Réponse refusée : on resélectionne le texte pour retaper d'un trait
+  useEffect(() => {
+    if (selectSignal) {
+      ref.current?.focus();
+      ref.current?.select();
+    }
+  }, [selectSignal]);
 
   return (
     <form

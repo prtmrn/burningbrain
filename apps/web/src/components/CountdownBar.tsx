@@ -23,7 +23,7 @@ export function CountdownBar({ remainingMs, totalMs, urgentBelowMs = 5_000 }: Co
       aria-valuemin={0}
       aria-valuemax={Math.round(totalMs / 1_000)}
       aria-valuenow={Math.ceil(clamped / 1_000)}
-      aria-valuetext={`${Math.ceil(clamped / 1_000)} secondes restantes`}
+      aria-valuetext={t('countdown.left', { n: Math.ceil(clamped / 1_000) })}
       data-testid="countdown"
     >
       <div className="countdown-fill" data-testid="countdown-fill" style={{ width: `${pct}%` }} />

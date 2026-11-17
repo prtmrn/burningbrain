@@ -103,9 +103,15 @@ export function GamePlay(props: { theme: ThemeInfo; mode: GameMode; kind: PlayKi
   useEffect(() => setMounted(true), []);
   if (!mounted)
     return (
-      <main className="summary">
-        <p className="muted">{t('loading')}</p>
-      </main>
+      <>
+        <GameBar
+          icon={props.theme.icon}
+          title={`${props.mode === 'hot' ? t('mode.boiling') : t('mode.brain')} · ${themeName(props.theme.id, lang)}`}
+        />
+        <main className="summary panel-screen">
+          <p className="muted">{t('loading')}</p>
+        </main>
+      </>
     );
   return <GamePlayClient {...props} />;
 }

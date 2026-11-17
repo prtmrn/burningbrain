@@ -172,6 +172,24 @@ export function SessionScreen({
   }
 
   const lastResult = s.results[s.results.length - 1];
+
+  // Révélation après chaque round : la réponse la plus rare (si on a fait moins
+  // bien), ou un exemple facile après un temps écoulé — le « ah, j'aurais dû ! ».
+  const tierNum = (x: string): number => Number(x.slice(1));
+  let reveal: { key: 'feedback.rarest' | 'feedback.example'; answer: string } | null = null;
+  if (phase === 'feedback' && lastResult) {
+    const sheet = bank.sheets.get(lastResult.promptId);
+    if (sheet) {
+      if (lastResult.tier === null) {
+        const easy = sheet.entries.find((e) => e.tier === 't1') ?? sheet.entries[0];
+        if (easy) reveal = { key: 'feedback.example', answer: easy.answer };
+      } else {
+        const best = sheet.entries.reduce((a, b) => (tierNum(b.tier) > tierNum(a.tier) ? b : a));
+        if (tierNum(best.tier) > tierNum(lastResult.tier)) reveal = { key: 'feedback.rarest', answer: best.answer };
+      }
+    }
+  }
+
   const riseMs =
     phase === 'feedback' && lastResult ? riseDurationMs(lastResult.score) : 600;
 
@@ -233,6 +251,7 @@ export function SessionScreen({
                   maxLength={hotbrainConfig.maxAnswerLength}
                   onChange={session.editDraft}
                   onSubmit={session.submit}
+                  selectSignal={s.rejected ?? null}
                 />
               </div>
               <div className="skip-row">
@@ -271,6 +290,11 @@ export function SessionScreen({
               ) : (
                 <p data-testid="miss-note">
                   {t('feedback.miss')}
+                </p>
+              )}
+              {reveal && (
+                <p className="muted" data-testid="feedback-reveal">
+                  {t(reveal.key, { answer: reveal.answer })}
                 </p>
               )}
               <button

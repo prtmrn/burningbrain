@@ -130,6 +130,21 @@ describe('session hot daily (M3 — jouable)', () => {
     expect(screen.getByTestId('preview')).toBeInTheDocument(); // round 2
   });
 
+  it('révélation : la réponse la plus rare est montrée après un palier inférieur', () => {
+    render(<TestApp kv={kv} clock={clock} />);
+    fireEvent.click(screen.getByTestId('start-button'));
+    toAnswering(clock);
+
+    const sheet = firstSheet();
+    const tierNum = (x: string): number => Number(x.slice(1));
+    const best = sheet.entries.reduce((a, b) => (tierNum(b.tier) > tierNum(a.tier) ? b : a));
+    const low = sheet.entries.find((e) => tierNum(e.tier) < tierNum(best.tier));
+    if (!low) return; // feuille plate : rien à révéler
+    act(() => submitCurrent(low.answer));
+
+    expect(screen.getByTestId('feedback-reveal')).toHaveTextContent(best.answer);
+  });
+
   it('retry libre : refus bref non bloquant, deadline inchangée, acceptation ensuite', () => {
     render(<TestApp kv={kv} clock={clock} />);
     fireEvent.click(screen.getByTestId('start-button'));
